@@ -1,0 +1,33 @@
+Coding system	Code	Code name	Concept	Concept name	Tags	Origin
+ICD10	-		C5192628	History of acute febrile mucocutaneous lymph node syndrome	Possible	
+ICD10	-		C4706729	Aneurysm of coronary artery due to and following acute febrile mucocutaneous lymph node syndrome	Narrow	
+ICD10	-		C5437446	Myocarditis due to Kawasaki disease	Narrow	
+ICD10	M30.3	Mucocutaneous lymph node syndrome [Kawasaki]	C0026691	Mucocutaneous Lymph Node Syndrome	Narrow	CASEDEF
+ICD10CM	-		C5192628	History of acute febrile mucocutaneous lymph node syndrome	Possible	
+ICD10CM	-		C4706729	Aneurysm of coronary artery due to and following acute febrile mucocutaneous lymph node syndrome	Narrow	
+ICD10CM	-		C5437446	Myocarditis due to Kawasaki disease	Narrow	
+ICD10CM	M30.3	Mucocutaneous lymph node syndrome [Kawasaki]	C0026691	Mucocutaneous Lymph Node Syndrome	Narrow	CASEDEF
+ICD9CM	-		C5192628	History of acute febrile mucocutaneous lymph node syndrome	Possible	
+ICD9CM	-		C4706729	Aneurysm of coronary artery due to and following acute febrile mucocutaneous lymph node syndrome	Narrow	
+ICD9CM	-		C5437446	Myocarditis due to Kawasaki disease	Narrow	
+ICD9CM	446.1	Acute febrile mucocutaneous lymph node syndrome [MCLS]	C0026691	Mucocutaneous Lymph Node Syndrome	Narrow	CASEDEF
+ICPC	-		C5192628	History of acute febrile mucocutaneous lymph node syndrome	Possible	
+ICPC	-		C4706729	Aneurysm of coronary artery due to and following acute febrile mucocutaneous lymph node syndrome	Narrow	
+ICPC	-		C5437446	Myocarditis due to Kawasaki disease	Narrow	
+ICPC	-		C0026691	Mucocutaneous Lymph Node Syndrome	Narrow	
+ICPC2P	-		C5192628	History of acute febrile mucocutaneous lymph node syndrome	Possible	
+ICPC2P	-		C4706729	Aneurysm of coronary artery due to and following acute febrile mucocutaneous lymph node syndrome	Narrow	
+ICPC2P	-		C5437446	Myocarditis due to Kawasaki disease	Narrow	
+ICPC2P	B99022	Disease;Kawasaki	C0026691	Mucocutaneous Lymph Node Syndrome	Narrow	CASEDEF
+SCTSPA	16360861000119103	antecedente de síndrome ganglionar mucocutáneo febril agudo	C5192628	History of acute febrile mucocutaneous lymph node syndrome	Possible	SEARCH (Acute febrile mucocutaneous lymph node syndrome)
+SCTSPA	16025471000119107	aneurisma de arteria coronaria debido a síndrome ganglionar mucocutáneo febril agudo y posterior a él	C4706729	Aneurysm of coronary artery due to and following acute febrile mucocutaneous lymph node syndrome	Narrow	SEARCH (kawasaki)
+SCTSPA	880012008	miocarditis debida a enfermedad de Kawasaki	C5437446	Myocarditis due to Kawasaki disease	Narrow	SEARCH (kawasaki)
+SCTSPA	195349001	síndrome ganglionar mucocutáneo febril agudo, SAI	C0026691	Mucocutaneous Lymph Node Syndrome	Narrow	CASEDEF
+SCTSPA	75053002	enfermedad de Kawasaki	C0026691	Mucocutaneous Lymph Node Syndrome	Narrow	CASEDEF
+SNOMEDCT_US	16360861000119103	History of acute febrile mucocutaneous lymph node syndrome	C5192628	History of acute febrile mucocutaneous lymph node syndrome	Possible	SEARCH (Acute febrile mucocutaneous lymph node syndrome)
+SNOMEDCT_US	16025471000119107	Aneurysm of coronary artery due to and following acute febrile mucocutaneous lymph node syndrome	C4706729	Aneurysm of coronary artery due to and following acute febrile mucocutaneous lymph node syndrome	Narrow	SEARCH (kawasaki)
+SNOMEDCT_US	880012008	Myocarditis due to Kawasaki disease	C5437446	Myocarditis due to Kawasaki disease	Narrow	SEARCH (kawasaki)
+SNOMEDCT_US	155444003	Kawasaki's disease	C0026691	Mucocutaneous Lymph Node Syndrome	Narrow	CASEDEF
+SNOMEDCT_US	195348009	Kawasaki's disease	C0026691	Mucocutaneous Lymph Node Syndrome	Narrow	CASEDEF
+SNOMEDCT_US	195349001	Acute febrile mucocutaneous lymph node syndrome NOS	C0026691	Mucocutaneous Lymph Node Syndrome	Narrow	CASEDEF
+SNOMEDCT_US	75053002	Acute febrile mucocutaneous lymph node syndrome	C0026691	Mucocutaneous Lymph Node Syndrome	Narrow	CASEDEF

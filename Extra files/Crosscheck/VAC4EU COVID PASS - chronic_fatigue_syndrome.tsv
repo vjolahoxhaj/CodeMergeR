@@ -1,0 +1,43 @@
+Coding system	Code	Code name	Concept	Concept name	Tags	Origin
+ICD10	G93.3	Postviral fatigue syndrome	C0015674	Chronic Fatigue Syndrome	narrow	CASEDEF
+ICD10	-		C0301616	Overexertion	possible	
+ICD10	-		C1535893	Orthostatic intolerance	possible	
+ICD10CM	G93.3	Postviral fatigue syndrome	C0015674	Chronic Fatigue Syndrome	narrow	CASEDEF
+ICD10CM	R53.82	Chronic fatigue, unspecified	C0015674	Chronic Fatigue Syndrome	narrow	CASEDEF
+ICD10CM	-		C0301616	Overexertion	possible	
+ICD10CM	-		C1535893	Orthostatic intolerance	possible	
+ICD9CM	780.71	Chronic fatigue syndrome	C0015674	Chronic Fatigue Syndrome	narrow	CASEDEF
+ICD9CM	-		C0301616	Overexertion	possible	
+ICD9CM	-		C1535893	Orthostatic intolerance	possible	
+ICPC2EENG	-		C0015674	Chronic Fatigue Syndrome	narrow	
+ICPC2EENG	-		C0301616	Overexertion	possible	
+ICPC2EENG	-		C1535893	Orthostatic intolerance	possible	
+MTHICD9	-		C0015674	Chronic Fatigue Syndrome	narrow	
+MTHICD9	-		C0301616	Overexertion	possible	
+MTHICD9	-		C1535893	Orthostatic intolerance	possible	
+RCD2	-		C0015674	Chronic Fatigue Syndrome	narrow	
+RCD2	SN45.	Excessive exertion exhaustion	C0301616	Overexertion	possible	CASEDEF
+RCD2	TGBz.	Overexertion NOS	C0301616	Overexertion	possible	CASEDEF
+RCD2	-		C1535893	Orthostatic intolerance	possible	
+SCTSPA	51771007	síndrome de fatiga postviral	C0015674	Chronic Fatigue Syndrome	narrow	CASEDEF
+SCTSPA	52702003	síndrome de fatiga crónica	C0015674	Chronic Fatigue Syndrome	narrow	CASEDEF
+SCTSPA	218223000	esfuerzo excesivo, SAI	C0301616	Overexertion	possible	CASEDEF
+SCTSPA	419912001	esfuerzo excesivo	C0301616	Overexertion	possible	CASEDEF
+SCTSPA	-		C1535893	Orthostatic intolerance	possible	
+ICPC	-		C0015674	Chronic Fatigue Syndrome	narrow	
+ICPC	-		C0301616	Overexertion	possible	
+ICPC	-		C1535893	Orthostatic intolerance	possible	
+SNOMEDCT_US	154989001	Myalgic encephalitis	C0015674	Chronic Fatigue Syndrome	narrow	CASEDEF
+SNOMEDCT_US	154991009	Myalgic encephalomyelitis	C0015674	Chronic Fatigue Syndrome	narrow	CASEDEF
+SNOMEDCT_US	155062000	Chronic fatigue syndrome	C0015674	Chronic Fatigue Syndrome	narrow	CASEDEF
+SNOMEDCT_US	192735003	Myalgic encephalomyelitis	C0015674	Chronic Fatigue Syndrome	narrow	CASEDEF
+SNOMEDCT_US	193054000	Chronic fatigue syndrome	C0015674	Chronic Fatigue Syndrome	narrow	CASEDEF
+SNOMEDCT_US	247372003	Chronic fatigue syndrome	C0015674	Chronic Fatigue Syndrome	narrow	CASEDEF
+SNOMEDCT_US	267683005	Myalgic encephalitis	C0015674	Chronic Fatigue Syndrome	narrow	CASEDEF
+SNOMEDCT_US	267684004	Myalgic encephalomyelitis	C0015674	Chronic Fatigue Syndrome	narrow	CASEDEF
+SNOMEDCT_US	271798008	Chronic fatigue syndrome	C0015674	Chronic Fatigue Syndrome	narrow	CASEDEF
+SNOMEDCT_US	51771007	Postviral fatigue syndrome	C0015674	Chronic Fatigue Syndrome	narrow	CASEDEF
+SNOMEDCT_US	52702003	Chronic fatigue syndrome	C0015674	Chronic Fatigue Syndrome	narrow	CASEDEF
+SNOMEDCT_US	218223000	Overexertion NOS	C0301616	Overexertion	possible	CASEDEF
+SNOMEDCT_US	419912001	Overexertion	C0301616	Overexertion	possible	CASEDEF
+SNOMEDCT_US	870368003	Orthostatic intolerance	C1535893	Orthostatic intolerance	possible	CASEDEF

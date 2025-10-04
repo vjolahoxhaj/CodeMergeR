@@ -1,0 +1,499 @@
+Coding system	Code	Code name	Concept	Concept name	Tags	Origin
+ICD10	J45	Asthma	C0004096	Asthma		CASEDEF
+ICD10	J45.0	Predominantly allergic asthma				DESC (J45)
+ICD10	J45.1	Nonallergic asthma				DESC (J45)
+ICD10	J45.8	Mixed asthma				DESC (J45)
+ICD10	J45.9	Asthma, unspecified				DESC (J45)
+ICD10	-		C0155883	Chronic obstructive asthma (with obstructive pulmonary disease)		
+ICD10	-		C0810292	Other and unspecified asthma		
+ICD10	-		C2887463	Unspecified asthma with (acute) exacerbation		
+ICD10	-		C0004099	Asthma, Exercise-Induced		
+ICD10	J46	Status asthmaticus	C0038218	Status Asthmaticus		NARROWER (C0004096)
+ICD10	-		C0038218	Status Asthmaticus		
+ICD10	-		C0155883	Chronic obstructive asthma (with obstructive pulmonary disease)		
+ICD10	-		C0004099	Asthma, Exercise-Induced		
+ICD10	-		C0810292	Other and unspecified asthma		
+ICD10	-		C2887463	Unspecified asthma with (acute) exacerbation		
+ICD10	-		C0038218	Status Asthmaticus		
+ICD10	-		C0155877	Allergic asthma		
+ICD10	-		C0155883	Chronic obstructive asthma (with obstructive pulmonary disease)		
+ICD10	-		C0264413	Late onset asthma		
+ICD10	-		C0340076	Asthmatic pulmonary eosinophilia		
+ICD10	J60-J70.9	Lung diseases due to external agents	C0340139	Lung disease due to external agents		CASEDEF
+ICD10	J60	Coalworker's pneumoconiosis				DESC (J60-J70.9)
+ICD10	J61	Pneumoconiosis due to asbestos and other mineral fibres				DESC (J60-J70.9)
+ICD10	J62	Pneumoconiosis due to dust containing silica				DESC (J60-J70.9)
+ICD10	J62.0	Pneumoconiosis due to talc dust				DESC (J60-J70.9)
+ICD10	J62.8	Pneumoconiosis due to other dust containing silica				DESC (J60-J70.9)
+ICD10	J63	Pneumoconiosis due to other inorganic dusts				DESC (J60-J70.9)
+ICD10	J63.0	Aluminosis (of lung)				DESC (J60-J70.9)
+ICD10	J63.1	Bauxite fibrosis (of lung)				DESC (J60-J70.9)
+ICD10	J63.2	Berylliosis				DESC (J60-J70.9)
+ICD10	J63.3	Graphite fibrosis (of lung)				DESC (J60-J70.9)
+ICD10	J63.4	Siderosis				DESC (J60-J70.9)
+ICD10	J63.5	Stannosis				DESC (J60-J70.9)
+ICD10	J63.8	Pneumoconiosis due to other specified inorganic dusts				DESC (J60-J70.9)
+ICD10	J64	Unspecified pneumoconiosis				DESC (J60-J70.9)
+ICD10	J65	Pneumoconiosis associated with tuberculosis				DESC (J60-J70.9)
+ICD10	J66	Airway disease due to specific organic dust				DESC (J60-J70.9)
+ICD10	J66.0	Byssinosis				DESC (J60-J70.9)
+ICD10	J66.1	Flax-dresser's disease				DESC (J60-J70.9)
+ICD10	J66.2	Cannabinosis				DESC (J60-J70.9)
+ICD10	J66.8	Airway disease due to other specific organic dusts				DESC (J60-J70.9)
+ICD10	J67	Hypersensitivity pneumonitis due to organic dust				DESC (J60-J70.9)
+ICD10	J67.0	Farmer's lung				DESC (J60-J70.9)
+ICD10	J67.1	Bagassosis				DESC (J60-J70.9)
+ICD10	J67.2	Bird fancier's lung				DESC (J60-J70.9)
+ICD10	J67.3	Suberosis				DESC (J60-J70.9)
+ICD10	J67.4	Maltworker's lung				DESC (J60-J70.9)
+ICD10	J67.5	Mushroom-worker's lung				DESC (J60-J70.9)
+ICD10	J67.6	Maple-bark-stripper's lung				DESC (J60-J70.9)
+ICD10	J67.7	Air-conditioner and humidifier lung				DESC (J60-J70.9)
+ICD10	J67.8	Hypersensitivity pneumonitis due to other organic dusts				DESC (J60-J70.9)
+ICD10	J67.9	Hypersensitivity pneumonitis due to unspecified organic dust				DESC (J60-J70.9)
+ICD10	J68	Respiratory conditions due to inhalation of chemicals, gases, fumes and vapours				DESC (J60-J70.9)
+ICD10	J68.0	Bronchitis and pneumonitis due to chemicals, gases, fumes and vapours				DESC (J60-J70.9)
+ICD10	J68.1	Acute pulmonary oedema due to chemicals, gases, fumes and vapours				DESC (J60-J70.9)
+ICD10	J68.2	Upper respiratory inflammation due to chemicals, gases, fumes and vapours, not elsewhere classified				DESC (J60-J70.9)
+ICD10	J68.3	Other acute and subacute respiratory conditions due to chemicals, gases, fumes and vapours				DESC (J60-J70.9)
+ICD10	J68.4	Chronic respiratory conditions due to chemicals, gases, fumes and vapours				DESC (J60-J70.9)
+ICD10	J68.8	Other respiratory conditions due to chemicals, gases, fumes and vapours				DESC (J60-J70.9)
+ICD10	J68.9	Unspecified respiratory condition due to chemicals, gases, fumes and vapours				DESC (J60-J70.9)
+ICD10	J69	Pneumonitis due to solids and liquids				DESC (J60-J70.9)
+ICD10	J69.0	Pneumonitis due to food and vomit				DESC (J60-J70.9)
+ICD10	J69.1	Pneumonitis due to oils and essences				DESC (J60-J70.9)
+ICD10	J69.8	Pneumonitis due to other solids and liquids				DESC (J60-J70.9)
+ICD10	J70	Respiratory conditions due to other external agents				DESC (J60-J70.9)
+ICD10	J70.0	Acute pulmonary manifestations due to radiation				DESC (J60-J70.9)
+ICD10	J70.1	Chronic and other pulmonary manifestations due to radiation				DESC (J60-J70.9)
+ICD10	J70.2	Acute drug-induced interstitial lung disorders				DESC (J60-J70.9)
+ICD10	J70.3	Chronic drug-induced interstitial lung disorders				DESC (J60-J70.9)
+ICD10	J70.4	Drug-induced interstitial lung disorders, unspecified				DESC (J60-J70.9)
+ICD10	J70.8	Respiratory conditions due to other specified external agents				DESC (J60-J70.9)
+ICD10	J70.9	Respiratory conditions due to unspecified external agent				DESC (J60-J70.9)
+ICD10	-		C0348819	Mixed asthma		
+ICD10	-		C0349790	Exacerbation of asthma		
+ICD10	-		C0347950	Asthma attack		
+ICD10	-		C1260881	Allergic bronchitis		
+ICD10	-		C1319018	Asthmatic bronchitis		
+ICD10	-		C1388869	idiosyncratic; asthma		
+ICD10	-		C1390714	chronic; bronchitis, asthmatic (obstructive)		
+ICD10	-		C3811910	combination - answer to question		
+ICD10CM	J45	Asthma	C0004096	Asthma		CASEDEF
+ICD10CM	J45.2	Mild intermittent asthma				DESC (J45)
+ICD10CM	J45.20	Mild intermittent asthma, uncomplicated				DESC (J45)
+ICD10CM	J45.21	Mild intermittent asthma with (acute) exacerbation				DESC (J45)
+ICD10CM	J45.22	Mild intermittent asthma with status asthmaticus				DESC (J45)
+ICD10CM	J45.3	Mild persistent asthma				DESC (J45)
+ICD10CM	J45.30	Mild persistent asthma, uncomplicated				DESC (J45)
+ICD10CM	J45.31	Mild persistent asthma with (acute) exacerbation				DESC (J45)
+ICD10CM	J45.32	Mild persistent asthma with status asthmaticus				DESC (J45)
+ICD10CM	J45.4	Moderate persistent asthma				DESC (J45)
+ICD10CM	J45.40	Moderate persistent asthma, uncomplicated				DESC (J45)
+ICD10CM	J45.41	Moderate persistent asthma with (acute) exacerbation				DESC (J45)
+ICD10CM	J45.42	Moderate persistent asthma with status asthmaticus				DESC (J45)
+ICD10CM	J45.5	Severe persistent asthma				DESC (J45)
+ICD10CM	J45.50	Severe persistent asthma, uncomplicated				DESC (J45)
+ICD10CM	J45.51	Severe persistent asthma with (acute) exacerbation				DESC (J45)
+ICD10CM	J45.52	Severe persistent asthma with status asthmaticus				DESC (J45)
+ICD10CM	J45.9	Other and unspecified asthma				DESC (J45)
+ICD10CM	J45.90	Unspecified asthma				DESC (J45)
+ICD10CM	J45.901	Unspecified asthma with (acute) exacerbation				DESC (J45)
+ICD10CM	J45.902	Unspecified asthma with status asthmaticus				DESC (J45)
+ICD10CM	J45.909	Unspecified asthma, uncomplicated				DESC (J45)
+ICD10CM	J45.99	Other asthma				DESC (J45)
+ICD10CM	J45.990	Exercise induced bronchospasm				DESC (J45)
+ICD10CM	J45.991	Cough variant asthma				DESC (J45)
+ICD10CM	J45.998	Other asthma				DESC (J45)
+ICD10CM	J44	chronic obstructive asthma	C0155883	Chronic obstructive asthma (with obstructive pulmonary disease)		NARROWER (C0004096)
+ICD10CM	J44.0	Chronic obstructive pulmonary disease with (acute) lower respiratory infection				DESC (J44)
+ICD10CM	J44.1	Chronic obstructive pulmonary disease with (acute) exacerbation				DESC (J44)
+ICD10CM	J44.9	Chronic obstructive pulmonary disease, unspecified				DESC (J44)
+ICD10CM	-		C0810292	Other and unspecified asthma		
+ICD10CM	-		C2887463	Unspecified asthma with (acute) exacerbation		
+ICD10CM	-		C0004099	Asthma, Exercise-Induced		
+ICD10CM	-		C0038218	Status Asthmaticus		
+ICD10CM	-		C0038218	Status Asthmaticus		
+ICD10CM	-		C0155883	Chronic obstructive asthma (with obstructive pulmonary disease)		
+ICD10CM	-		C0004099	Asthma, Exercise-Induced		
+ICD10CM	-		C0810292	Other and unspecified asthma		
+ICD10CM	-		C2887463	Unspecified asthma with (acute) exacerbation		
+ICD10CM	-		C0038218	Status Asthmaticus		
+ICD10CM	-		C0155877	Allergic asthma		
+ICD10CM	-		C0155883	Chronic obstructive asthma (with obstructive pulmonary disease)		
+ICD10CM	-		C0264413	Late onset asthma		
+ICD10CM	J82.83	Eosinophilic asthma	C0340076	Asthmatic pulmonary eosinophilia		CASEDEF
+ICD10CM	J60-J70	Lung diseases due to external agents (J60-J70)	C0340139	Lung disease due to external agents		CASEDEF
+ICD10CM	J60	Coalworker's pneumoconiosis				DESC (J60-J70)
+ICD10CM	J61	Pneumoconiosis due to asbestos and other mineral fibers				DESC (J60-J70)
+ICD10CM	J62	Pneumoconiosis due to dust containing silica				DESC (J60-J70)
+ICD10CM	J62.0	Pneumoconiosis due to talc dust				DESC (J60-J70)
+ICD10CM	J62.8	Pneumoconiosis due to other dust containing silica				DESC (J60-J70)
+ICD10CM	J63	Pneumoconiosis due to other inorganic dusts				DESC (J60-J70)
+ICD10CM	J63.0	Aluminosis (of lung)				DESC (J60-J70)
+ICD10CM	J63.1	Bauxite fibrosis (of lung)				DESC (J60-J70)
+ICD10CM	J63.2	Berylliosis				DESC (J60-J70)
+ICD10CM	J63.3	Graphite fibrosis (of lung)				DESC (J60-J70)
+ICD10CM	J63.4	Siderosis				DESC (J60-J70)
+ICD10CM	J63.5	Stannosis				DESC (J60-J70)
+ICD10CM	J63.6	Pneumoconiosis due to other specified inorganic dusts				DESC (J60-J70)
+ICD10CM	J64	Unspecified pneumoconiosis				DESC (J60-J70)
+ICD10CM	J65	Pneumoconiosis associated with tuberculosis				DESC (J60-J70)
+ICD10CM	J66	Airway disease due to specific organic dust				DESC (J60-J70)
+ICD10CM	J66.0	Byssinosis				DESC (J60-J70)
+ICD10CM	J66.1	Flax-dressers' disease				DESC (J60-J70)
+ICD10CM	J66.2	Cannabinosis				DESC (J60-J70)
+ICD10CM	J66.8	Airway disease due to other specific organic dusts				DESC (J60-J70)
+ICD10CM	J67	Hypersensitivity pneumonitis due to organic dust				DESC (J60-J70)
+ICD10CM	J67.0	Farmer's lung				DESC (J60-J70)
+ICD10CM	J67.1	Bagassosis				DESC (J60-J70)
+ICD10CM	J67.2	Bird fancier's lung				DESC (J60-J70)
+ICD10CM	J67.3	Suberosis				DESC (J60-J70)
+ICD10CM	J67.4	Maltworker's lung				DESC (J60-J70)
+ICD10CM	J67.5	Mushroom-worker's lung				DESC (J60-J70)
+ICD10CM	J67.6	Maple-bark-stripper's lung				DESC (J60-J70)
+ICD10CM	J67.7	Air conditioner and humidifier lung				DESC (J60-J70)
+ICD10CM	J67.8	Hypersensitivity pneumonitis due to other organic dusts				DESC (J60-J70)
+ICD10CM	J67.9	Hypersensitivity pneumonitis due to unspecified organic dust				DESC (J60-J70)
+ICD10CM	J68	Respiratory conditions due to inhalation of chemicals, gases, fumes and vapors				DESC (J60-J70)
+ICD10CM	J68.0	Bronchitis and pneumonitis due to chemicals, gases, fumes and vapors				DESC (J60-J70)
+ICD10CM	J68.1	Pulmonary edema due to chemicals, gases, fumes and vapors				DESC (J60-J70)
+ICD10CM	J68.2	Upper respiratory inflammation due to chemicals, gases, fumes and vapors, not elsewhere classified				DESC (J60-J70)
+ICD10CM	J68.3	Other acute and subacute respiratory conditions due to chemicals, gases, fumes and vapors				DESC (J60-J70)
+ICD10CM	J68.4	Chronic respiratory conditions due to chemicals, gases, fumes and vapors				DESC (J60-J70)
+ICD10CM	J68.8	Other respiratory conditions due to chemicals, gases, fumes and vapors				DESC (J60-J70)
+ICD10CM	J68.9	Unspecified respiratory condition due to chemicals, gases, fumes and vapors				DESC (J60-J70)
+ICD10CM	J69	Pneumonitis due to solids and liquids				DESC (J60-J70)
+ICD10CM	J69.0	Pneumonitis due to inhalation of food and vomit				DESC (J60-J70)
+ICD10CM	J69.1	Pneumonitis due to inhalation of oils and essences				DESC (J60-J70)
+ICD10CM	J69.8	Pneumonitis due to inhalation of other solids and liquids				DESC (J60-J70)
+ICD10CM	J70	Respiratory conditions due to other external agents				DESC (J60-J70)
+ICD10CM	J70.0	Acute pulmonary manifestations due to radiation				DESC (J60-J70)
+ICD10CM	J70.1	Chronic and other pulmonary manifestations due to radiation				DESC (J60-J70)
+ICD10CM	J70.2	Acute drug-induced interstitial lung disorders				DESC (J60-J70)
+ICD10CM	J70.3	Chronic drug-induced interstitial lung disorders				DESC (J60-J70)
+ICD10CM	J70.4	Drug-induced interstitial lung disorders, unspecified				DESC (J60-J70)
+ICD10CM	J70.5	Respiratory conditions due to smoke inhalation				DESC (J60-J70)
+ICD10CM	J70.8	Respiratory conditions due to other specified external agents				DESC (J60-J70)
+ICD10CM	J70.9	Respiratory conditions due to unspecified external agent				DESC (J60-J70)
+ICD10CM	-		C0348819	Mixed asthma		
+ICD10CM	-		C0349790	Exacerbation of asthma		
+ICD10CM	-		C0347950	Asthma attack		
+ICD10CM	-		C1260881	Allergic bronchitis		
+ICD10CM	-		C1319018	Asthmatic bronchitis		
+ICD10CM	-		C1388869	idiosyncratic; asthma		
+ICD10CM	-		C1390714	chronic; bronchitis, asthmatic (obstructive)		
+ICD10CM	-		C3811910	combination - answer to question		
+ICD9CM	493	Asthma	C0004096	Asthma		CASEDEF
+ICD9CM	493.0	Extrinsic asthma				DESC (493)
+ICD9CM	493.00	Extrinsic asthma, unspecified				DESC (493)
+ICD9CM	493.01	Extrinsic asthma with status asthmaticus				DESC (493)
+ICD9CM	493.02	Extrinsic asthma with (acute) exacerbation				DESC (493)
+ICD9CM	493.1	Intrinsic asthma				DESC (493)
+ICD9CM	493.10	Intrinsic asthma, unspecified				DESC (493)
+ICD9CM	493.11	Intrinsic asthma with status asthmaticus				DESC (493)
+ICD9CM	493.12	Intrinsic asthma with (acute) exacerbation				DESC (493)
+ICD9CM	493.2	Chronic obstructive asthma				DESC (493)
+ICD9CM	493.20	Chronic obstructive asthma, unspecified				DESC (493)
+ICD9CM	493.21	Chronic obstructive asthma with status asthmaticus				DESC (493)
+ICD9CM	493.22	Chronic obstructive asthma with (acute) exacerbation				DESC (493)
+ICD9CM	493.8	Other forms of asthma				DESC (493)
+ICD9CM	493.81	Exercise induced bronchospasm				DESC (493)
+ICD9CM	493.82	Cough variant asthma				DESC (493)
+ICD9CM	493.9	Asthma, unspecified				DESC (493)
+ICD9CM	493.90	Asthma, unspecified type, unspecified				DESC (493)
+ICD9CM	493.91	Asthma, unspecified type, with status asthmaticus				DESC (493)
+ICD9CM	493.92	Asthma, unspecified type, with (acute) exacerbation				DESC (493)
+ICD9CM	-		C0155883	Chronic obstructive asthma (with obstructive pulmonary disease)		
+ICD9CM	-		C0810292	Other and unspecified asthma		
+ICD9CM	-		C2887463	Unspecified asthma with (acute) exacerbation		
+ICD9CM	-		C0004099	Asthma, Exercise-Induced		
+ICD9CM	-		C0038218	Status Asthmaticus		
+ICD9CM	-		C0038218	Status Asthmaticus		
+ICD9CM	-		C0155883	Chronic obstructive asthma (with obstructive pulmonary disease)		
+ICD9CM	-		C0004099	Asthma, Exercise-Induced		
+ICD9CM	-		C0810292	Other and unspecified asthma		
+ICD9CM	-		C2887463	Unspecified asthma with (acute) exacerbation		
+ICD9CM	-		C0038218	Status Asthmaticus		
+ICD9CM	-		C0155877	Allergic asthma		
+ICD9CM	-		C0155883	Chronic obstructive asthma (with obstructive pulmonary disease)		
+ICD9CM	-		C0264413	Late onset asthma		
+ICD9CM	-		C0340076	Asthmatic pulmonary eosinophilia		
+ICD9CM	-		C0340139	Lung disease due to external agents		
+ICD9CM	-		C0348819	Mixed asthma		
+ICD9CM	-		C0349790	Exacerbation of asthma		
+ICD9CM	-		C0347950	Asthma attack		
+ICD9CM	-		C1260881	Allergic bronchitis		
+ICD9CM	-		C1319018	Asthmatic bronchitis		
+ICD9CM	-		C1388869	idiosyncratic; asthma		
+ICD9CM	-		C1390714	chronic; bronchitis, asthmatic (obstructive)		
+ICD9CM	-		C3811910	combination - answer to question		
+ICPC2EENG	R96	Asthma	C0004096	Asthma		CASEDEF
+ICPC2EENG	-		C0155883	Chronic obstructive asthma (with obstructive pulmonary disease)		
+ICPC2EENG	-		C0810292	Other and unspecified asthma		
+ICPC2EENG	-		C2887463	Unspecified asthma with (acute) exacerbation		
+ICPC2EENG	-		C0004099	Asthma, Exercise-Induced		
+ICPC2EENG	-		C0038218	Status Asthmaticus		
+ICPC2EENG	-		C0038218	Status Asthmaticus		
+ICPC2EENG	-		C0155883	Chronic obstructive asthma (with obstructive pulmonary disease)		
+ICPC2EENG	-		C0004099	Asthma, Exercise-Induced		
+ICPC2EENG	-		C0810292	Other and unspecified asthma		
+ICPC2EENG	-		C2887463	Unspecified asthma with (acute) exacerbation		
+ICPC2EENG	-		C0038218	Status Asthmaticus		
+ICPC2EENG	-		C0155877	Allergic asthma		
+ICPC2EENG	-		C0155883	Chronic obstructive asthma (with obstructive pulmonary disease)		
+ICPC2EENG	-		C0264413	Late onset asthma		
+ICPC2EENG	-		C0340076	Asthmatic pulmonary eosinophilia		
+ICPC2EENG	-		C0340139	Lung disease due to external agents		
+ICPC2EENG	-		C0348819	Mixed asthma		
+ICPC2EENG	-		C0349790	Exacerbation of asthma		
+ICPC2EENG	-		C0347950	Asthma attack		
+ICPC2EENG	-		C1260881	Allergic bronchitis		
+ICPC2EENG	-		C1319018	Asthmatic bronchitis		
+ICPC2EENG	-		C1388869	idiosyncratic; asthma		
+ICPC2EENG	-		C1390714	chronic; bronchitis, asthmatic (obstructive)		
+ICPC2EENG	-		C3811910	combination - answer to question		
+ICPC2P	R96001	Asthma	C0004096	Asthma		CASEDEF
+ICPC2P	-		C0155883	Chronic obstructive asthma (with obstructive pulmonary disease)		
+ICPC2P	-		C0810292	Other and unspecified asthma		
+ICPC2P	-		C2887463	Unspecified asthma with (acute) exacerbation		
+ICPC2P	-		C0004099	Asthma, Exercise-Induced		
+ICPC2P	R96005	Status asthmaticus	C0038218	Status Asthmaticus		NARROWER (C0004096)
+ICPC2P	-		C0038218	Status Asthmaticus		
+ICPC2P	-		C0155883	Chronic obstructive asthma (with obstructive pulmonary disease)		
+ICPC2P	-		C0004099	Asthma, Exercise-Induced		
+ICPC2P	-		C0810292	Other and unspecified asthma		
+ICPC2P	-		C2887463	Unspecified asthma with (acute) exacerbation		
+ICPC2P	-		C0038218	Status Asthmaticus		
+ICPC2P	-		C0155877	Allergic asthma		
+ICPC2P	-		C0155883	Chronic obstructive asthma (with obstructive pulmonary disease)		
+ICPC2P	-		C0264413	Late onset asthma		
+ICPC2P	-		C0340076	Asthmatic pulmonary eosinophilia		
+ICPC2P	-		C0340139	Lung disease due to external agents		
+ICPC2P	-		C0348819	Mixed asthma		
+ICPC2P	-		C0349790	Exacerbation of asthma		
+ICPC2P	-		C0347950	Asthma attack		
+ICPC2P	R96003	Bronchitis;allergic	C1260881	Allergic bronchitis		CASEDEF
+ICPC2P	R96002	Bronchitis;asthmatic	C1319018	Asthmatic bronchitis		CASEDEF
+ICPC2P	R96007	Bronchitis;wheezy	C1319018	Asthmatic bronchitis		CASEDEF
+ICPC2P	-		C1388869	idiosyncratic; asthma		
+ICPC2P	-		C1390714	chronic; bronchitis, asthmatic (obstructive)		
+ICPC2P	-		C3811910	combination - answer to question		
+MTHICD9	493.9	Bronchial asthma	C0004096	Asthma		CASEDEF
+MTHICD9	-		C0155883	Chronic obstructive asthma (with obstructive pulmonary disease)		
+MTHICD9	-		C0810292	Other and unspecified asthma		
+MTHICD9	-		C2887463	Unspecified asthma with (acute) exacerbation		
+MTHICD9	-		C0004099	Asthma, Exercise-Induced		
+MTHICD9	-		C0038218	Status Asthmaticus		
+MTHICD9	-		C0038218	Status Asthmaticus		
+MTHICD9	-		C0155883	Chronic obstructive asthma (with obstructive pulmonary disease)		
+MTHICD9	-		C0004099	Asthma, Exercise-Induced		
+MTHICD9	-		C0810292	Other and unspecified asthma		
+MTHICD9	-		C2887463	Unspecified asthma with (acute) exacerbation		
+MTHICD9	-		C0038218	Status Asthmaticus		
+MTHICD9	493.0	Asthma, atopic	C0155877	Allergic asthma		CASEDEF
+MTHICD9	-		C0155883	Chronic obstructive asthma (with obstructive pulmonary disease)		
+MTHICD9	493.1	Late-onset asthma	C0264413	Late onset asthma		CASEDEF
+MTHICD9	518.3	Eosinophilic asthma	C0340076	Asthmatic pulmonary eosinophilia		CASEDEF
+MTHICD9	-		C0340139	Lung disease due to external agents		
+MTHICD9	-		C0348819	Mixed asthma		
+MTHICD9	-		C0349790	Exacerbation of asthma		
+MTHICD9	-		C0347950	Asthma attack		
+MTHICD9	-		C1260881	Allergic bronchitis		
+MTHICD9	-		C1319018	Asthmatic bronchitis		
+MTHICD9	-		C1388869	idiosyncratic; asthma		
+MTHICD9	-		C1390714	chronic; bronchitis, asthmatic (obstructive)		
+MTHICD9	-		C3811910	combination - answer to question		
+RCD2	H33..	Asthma	C0004096	Asthma		CASEDEF
+RCD2	H33z.	Asthma unspecified	C0004096	Asthma		CASEDEF
+RCD2	-		C0155883	Chronic obstructive asthma (with obstructive pulmonary disease)		
+RCD2	-		C0810292	Other and unspecified asthma		
+RCD2	-		C2887463	Unspecified asthma with (acute) exacerbation		
+RCD2	173A.	Exercise induced asthma	C0004099	Asthma, Exercise-Induced		NARROWER (C0004096)
+RCD2	-		C0038218	Status Asthmaticus		
+RCD2	-		C0038218	Status Asthmaticus		
+RCD2	-		C0155883	Chronic obstructive asthma (with obstructive pulmonary disease)		
+RCD2	-		C0004099	Asthma, Exercise-Induced		
+RCD2	-		C0810292	Other and unspecified asthma		
+RCD2	-		C2887463	Unspecified asthma with (acute) exacerbation		
+RCD2	-		C0038218	Status Asthmaticus		
+RCD2	H330.	Extrinsic (atopic) asthma	C0155877	Allergic asthma		CASEDEF
+RCD2	H330z	Extrinsic asthma NOS	C0155877	Allergic asthma		CASEDEF
+RCD2	-		C0155883	Chronic obstructive asthma (with obstructive pulmonary disease)		
+RCD2	H33z2	Late-onset asthma	C0264413	Late onset asthma		CASEDEF
+RCD2	-		C0340076	Asthmatic pulmonary eosinophilia		
+RCD2	H4z..	External agent lung dis.NOS	C0340139	Lung disease due to external agents		CASEDEF
+RCD2	Hyu4.	[X]Lung diseas/external agents	C0340139	Lung disease due to external agents		CASEDEF
+RCD2	H332.	Mixed asthma	C0348819	Mixed asthma		CASEDEF
+RCD2	-		C0349790	Exacerbation of asthma		
+RCD2	-		C0347950	Asthma attack		
+RCD2	-		C1260881	Allergic bronchitis		
+RCD2	-		C1319018	Asthmatic bronchitis		
+RCD2	-		C1388869	idiosyncratic; asthma		
+RCD2	-		C1390714	chronic; bronchitis, asthmatic (obstructive)		
+RCD2	-		C3811910	combination - answer to question		
+SNOMEDCT_US	155574008	Asthma	C0004096	Asthma		CASEDEF
+SNOMEDCT_US	155579003	Asthma NOS	C0004096	Asthma		CASEDEF
+SNOMEDCT_US	187687003	Asthma	C0004096	Asthma		CASEDEF
+SNOMEDCT_US	195967001	Asthma	C0004096	Asthma		CASEDEF
+SNOMEDCT_US	10674711000119105	Acute severe exacerbation of asthma co-occurrent with allergic rhinitis				DESC (195967001)
+SNOMEDCT_US	10674991000119104	Intermittent allergic asthma				DESC (195967001)
+SNOMEDCT_US	10675391000119101	Severe controlled persistent asthma				DESC (195967001)
+SNOMEDCT_US	10675431000119106	Severe persistent allergic asthma				DESC (195967001)
+SNOMEDCT_US	10675471000119109	Acute severe exacerbation of severe persistent allergic asthma				DESC (195967001)
+SNOMEDCT_US	10675551000119104	Acute severe exacerbation of severe persistent asthma co-occurrent with allergic rhinitis				DESC (195967001)
+SNOMEDCT_US	10675751000119107	Severe uncontrolled persistent asthma				DESC (195967001)
+SNOMEDCT_US	10675871000119106	Mild persistent allergic asthma				DESC (195967001)
+SNOMEDCT_US	10675911000119109	Acute severe exacerbation of mild persistent allergic asthma				DESC (195967001)
+SNOMEDCT_US	10675991000119100	Acute severe exacerbation of mild persistent allergic asthma co-occurrent with allergic rhinitis				DESC (195967001)
+SNOMEDCT_US	10676391000119108	Moderate persistent allergic asthma				DESC (195967001)
+SNOMEDCT_US	10676431000119103	Acute severe exacerbation of moderate persistent allergic asthma				DESC (195967001)
+SNOMEDCT_US	10676511000119109	Acute severe exacerbation of moderate persistent asthma co-occurrent with allergic rhinitis				DESC (195967001)
+SNOMEDCT_US	10692681000119108	Aspirin exacerbated respiratory disease				DESC (195967001)
+SNOMEDCT_US	10692721000119102	Chronic obstructive asthma co-occurrent with acute exacerbation of asthma				DESC (195967001)
+SNOMEDCT_US	10692761000119107	Asthma-chronic obstructive pulmonary disease overlap syndrome				DESC (195967001)
+SNOMEDCT_US	10742121000119104	Asthma in mother complicating childbirth				DESC (195967001)
+SNOMEDCT_US	11641008	Millers' asthma				DESC (195967001)
+SNOMEDCT_US	12428000	Intrinsic asthma without status asthmaticus				DESC (195967001)
+SNOMEDCT_US	124991000119109	Severe persistent asthma co-occurrent with allergic rhinitis				DESC (195967001)
+SNOMEDCT_US	125001000119103	Moderate persistent asthma co-occurrent with allergic rhinitis				DESC (195967001)
+SNOMEDCT_US	125011000119100	Mild persistent asthma co-occurrent with allergic rhinitis				DESC (195967001)
+SNOMEDCT_US	125021000119107	Intermittent asthma co-occurrent with allergic rhinitis				DESC (195967001)
+SNOMEDCT_US	16584951000119101	Oral steroid-dependent asthma				DESC (195967001)
+SNOMEDCT_US	1741000119102	Intermittent asthma uncontrolled				DESC (195967001)
+SNOMEDCT_US	1751000119100	Acute exacerbation of chronic obstructive airways disease with asthma				DESC (195967001)
+SNOMEDCT_US	18041002	Printers' asthma				DESC (195967001)
+SNOMEDCT_US	195949008	Chronic asthmatic bronchitis				DESC (195967001)
+SNOMEDCT_US	195977004	Mixed asthma				DESC (195967001)
+SNOMEDCT_US	19849005	Meat-wrappers' asthma				DESC (195967001)
+SNOMEDCT_US	225057002	Brittle asthma				DESC (195967001)
+SNOMEDCT_US	233678006	Childhood asthma				DESC (195967001)
+SNOMEDCT_US	233679003	Late onset asthma				DESC (195967001)
+SNOMEDCT_US	233683003	Hay fever with asthma				DESC (195967001)
+SNOMEDCT_US	233687002	Colophony asthma				DESC (195967001)
+SNOMEDCT_US	233688007	Sulfite-induced asthma				DESC (195967001)
+SNOMEDCT_US	233691007	Asthmatic pulmonary eosinophilia				DESC (195967001)
+SNOMEDCT_US	2360001000004109	Steroid dependent asthma				DESC (195967001)
+SNOMEDCT_US	266361008	Intrinsic asthma				DESC (195967001)
+SNOMEDCT_US	281239006	Acute asthma				DESC (195967001)
+SNOMEDCT_US	31387002	Exercise-induced asthma				DESC (195967001)
+SNOMEDCT_US	34015007	Bakers' asthma				DESC (195967001)
+SNOMEDCT_US	370218001	Mild asthma				DESC (195967001)
+SNOMEDCT_US	370219009	Moderate asthma				DESC (195967001)
+SNOMEDCT_US	370220003	Occasional asthma				DESC (195967001)
+SNOMEDCT_US	370221004	Severe asthma				DESC (195967001)
+SNOMEDCT_US	389145006	Allergic asthma				DESC (195967001)
+SNOMEDCT_US	401000119107	Asthma with irreversible airway obstruction				DESC (195967001)
+SNOMEDCT_US	404804003	Platinum asthma				DESC (195967001)
+SNOMEDCT_US	404806001	Cheese-makers' asthma				DESC (195967001)
+SNOMEDCT_US	404808000	Isocyanate induced asthma				DESC (195967001)
+SNOMEDCT_US	405944004	Asthmatic bronchitis				DESC (195967001)
+SNOMEDCT_US	407674008	Aspirin-induced asthma				DESC (195967001)
+SNOMEDCT_US	409663006	Cough variant asthma				DESC (195967001)
+SNOMEDCT_US	41553006	Detergent asthma				DESC (195967001)
+SNOMEDCT_US	418395004	Tea-makers' asthma				DESC (195967001)
+SNOMEDCT_US	423889005	Non-IgE mediated allergic asthma				DESC (195967001)
+SNOMEDCT_US	424199006	Substance induced asthma				DESC (195967001)
+SNOMEDCT_US	424643009	IgE-mediated allergic asthma				DESC (195967001)
+SNOMEDCT_US	425969006	Exacerbation of intermittent asthma				DESC (195967001)
+SNOMEDCT_US	426656000	Severe persistent asthma				DESC (195967001)
+SNOMEDCT_US	426979002	Mild persistent asthma				DESC (195967001)
+SNOMEDCT_US	427295004	Moderate persistent asthma				DESC (195967001)
+SNOMEDCT_US	427603009	Intermittent asthma				DESC (195967001)
+SNOMEDCT_US	427679007	Mild intermittent asthma				DESC (195967001)
+SNOMEDCT_US	442025000	Acute exacerbation of chronic asthmatic bronchitis				DESC (195967001)
+SNOMEDCT_US	445427006	Seasonal asthma				DESC (195967001)
+SNOMEDCT_US	55570000	Asthma without status asthmaticus				DESC (195967001)
+SNOMEDCT_US	56968009	Asthma caused by wood dust				DESC (195967001)
+SNOMEDCT_US	57607007	Occupational asthma				DESC (195967001)
+SNOMEDCT_US	59786004	Weavers' cough				DESC (195967001)
+SNOMEDCT_US	63088003	Allergic asthma without status asthmaticus				DESC (195967001)
+SNOMEDCT_US	703953004	Allergic asthma due to Dermatophagoides pteronyssinus				DESC (195967001)
+SNOMEDCT_US	703954005	Allergic asthma due to Dermatophagoides farinae				DESC (195967001)
+SNOMEDCT_US	707444001	Uncomplicated asthma				DESC (195967001)
+SNOMEDCT_US	707445000	Exacerbation of mild persistent asthma				DESC (195967001)
+SNOMEDCT_US	707446004	Exacerbation of moderate persistent asthma				DESC (195967001)
+SNOMEDCT_US	707447008	Exacerbation of severe persistent asthma				DESC (195967001)
+SNOMEDCT_US	707511009	Uncomplicated mild persistent asthma				DESC (195967001)
+SNOMEDCT_US	707512002	Uncomplicated moderate persistent asthma				DESC (195967001)
+SNOMEDCT_US	707513007	Uncomplicated severe persistent asthma				DESC (195967001)
+SNOMEDCT_US	707979007	Acute severe exacerbation of severe persistent asthma				DESC (195967001)
+SNOMEDCT_US	707980005	Acute severe exacerbation of moderate persistent asthma				DESC (195967001)
+SNOMEDCT_US	707981009	Acute severe exacerbation of mild persistent asthma				DESC (195967001)
+SNOMEDCT_US	708090002	Acute severe exacerbation of asthma				DESC (195967001)
+SNOMEDCT_US	708093000	Acute exacerbation of allergic asthma				DESC (195967001)
+SNOMEDCT_US	708094006	Acute exacerbation of intrinsic asthma				DESC (195967001)
+SNOMEDCT_US	708095007	Acute severe exacerbation of immunoglobin E-mediated allergic asthma				DESC (195967001)
+SNOMEDCT_US	708096008	Acute severe exacerbation of intrinsic asthma				DESC (195967001)
+SNOMEDCT_US	72301000119103	Asthma in pregnancy				DESC (195967001)
+SNOMEDCT_US	733858005	Acute severe refractory exacerbation of asthma				DESC (195967001)
+SNOMEDCT_US	734904007	Life threatening acute exacerbation of asthma				DESC (195967001)
+SNOMEDCT_US	734905008	Moderate acute exacerbation of asthma				DESC (195967001)
+SNOMEDCT_US	735588005	Uncomplicated allergic asthma				DESC (195967001)
+SNOMEDCT_US	735589002	Uncomplicated non-allergic asthma				DESC (195967001)
+SNOMEDCT_US	762521001	Exacerbation of allergic asthma				DESC (195967001)
+SNOMEDCT_US	782513000	Acute severe exacerbation of allergic asthma				DESC (195967001)
+SNOMEDCT_US	782520007	Exacerbation of allergic asthma due to infection				DESC (195967001)
+SNOMEDCT_US	786836003	Near fatal asthma				DESC (195967001)
+SNOMEDCT_US	829976001	Thunderstorm asthma				DESC (195967001)
+SNOMEDCT_US	92807009	Chemical-induced asthma				DESC (195967001)
+SNOMEDCT_US	93432008	Drug-induced asthma				DESC (195967001)
+SNOMEDCT_US	99031000119107	Acute exacerbation of asthma co-occurrent with allergic rhinitis				DESC (195967001)
+SNOMEDCT_US	195979001	Asthma unspecified	C0004096	Asthma		CASEDEF
+SNOMEDCT_US	195983001	Asthma NOS	C0004096	Asthma		CASEDEF
+SNOMEDCT_US	21341004	Asthma	C0004096	Asthma		CASEDEF
+SNOMEDCT_US	266365004	Asthma NOS	C0004096	Asthma		CASEDEF
+SNOMEDCT_US	266398009	Asthma NOS	C0004096	Asthma		CASEDEF
+SNOMEDCT_US	278517007	Asthma	C0004096	Asthma		CASEDEF
+SNOMEDCT_US	-		C0155883	Chronic obstructive asthma (with obstructive pulmonary disease)		
+SNOMEDCT_US	-		C0810292	Other and unspecified asthma		
+SNOMEDCT_US	-		C2887463	Unspecified asthma with (acute) exacerbation		
+SNOMEDCT_US	139202009	Exercise-induced asthma	C0004099	Asthma, Exercise-Induced		NARROWER (C0004096)
+SNOMEDCT_US	155577001	Status asthmaticus	C0038218	Status Asthmaticus		NARROWER (C0004096)
+SNOMEDCT_US	195980003	Severe asthma attack	C0038218	Status Asthmaticus		NARROWER (C0004096)
+SNOMEDCT_US	266363006	Status asthmaticus NOS	C0038218	Status Asthmaticus		NARROWER (C0004096)
+SNOMEDCT_US	36979006	Status asthmaticus	C0038218	Status Asthmaticus		NARROWER (C0004096)
+SNOMEDCT_US	57546000	Acute severe asthma	C0038218	Status Asthmaticus		NARROWER (C0004096)
+SNOMEDCT_US	-		C0038218	Status Asthmaticus		
+SNOMEDCT_US	-		C0155883	Chronic obstructive asthma (with obstructive pulmonary disease)		
+SNOMEDCT_US	-		C0004099	Asthma, Exercise-Induced		
+SNOMEDCT_US	-		C0810292	Other and unspecified asthma		
+SNOMEDCT_US	-		C2887463	Unspecified asthma with (acute) exacerbation		
+SNOMEDCT_US	-		C0038218	Status Asthmaticus		
+SNOMEDCT_US	155575009	Atopic asthma	C0155877	Allergic asthma		CASEDEF
+SNOMEDCT_US	16862005	Allergic asthma	C0155877	Allergic asthma		CASEDEF
+SNOMEDCT_US	195968006	Allergic asthma	C0155877	Allergic asthma		CASEDEF
+SNOMEDCT_US	195972005	Extrinsic asthma NOS	C0155877	Allergic asthma		CASEDEF
+SNOMEDCT_US	233680000	Allergic asthma	C0155877	Allergic asthma		CASEDEF
+SNOMEDCT_US	266358007	Allergic atopic asthma	C0155877	Allergic asthma		CASEDEF
+SNOMEDCT_US	266396008	Atopic asthma	C0155877	Allergic asthma		CASEDEF
+SNOMEDCT_US	389146007	Extrinsic asthma	C0155877	Allergic asthma		CASEDEF
+SNOMEDCT_US	-		C0155883	Chronic obstructive asthma (with obstructive pulmonary disease)		
+SNOMEDCT_US	155576005	Late onset asthma	C0264413	Late onset asthma		CASEDEF
+SNOMEDCT_US	195973000	Late onset asthma	C0264413	Late onset asthma		CASEDEF
+SNOMEDCT_US	195982006	Late onset asthma	C0264413	Late onset asthma		CASEDEF
+SNOMEDCT_US	266397004	Late onset asthma	C0264413	Late onset asthma		CASEDEF
+SNOMEDCT_US	8312004	Late-onset asthma	C0264413	Late onset asthma		CASEDEF
+SNOMEDCT_US	-		C0340076	Asthmatic pulmonary eosinophilia		
+SNOMEDCT_US	155586006	Lung disease due to external agents	C0340139	Lung disease due to external agents		CASEDEF
+SNOMEDCT_US	155602004	Lung disease due to external agents NOS	C0340139	Lung disease due to external agents		CASEDEF
+SNOMEDCT_US	196004000	Lung disease due to external agents	C0340139	Lung disease due to external agents		CASEDEF
+SNOMEDCT_US	196056008	Lung disease due to external agents NOS	C0340139	Lung disease due to external agents		CASEDEF
+SNOMEDCT_US	196232002	[X]Lung diseases due to external agents	C0340139	Lung disease due to external agents		CASEDEF
+SNOMEDCT_US	266366003	Lung disease due to external agents	C0340139	Lung disease due to external agents		CASEDEF
+SNOMEDCT_US	-		C0348819	Mixed asthma		
+SNOMEDCT_US	195978009	Exacerbation of asthma	C0349790	Exacerbation of asthma		CASEDEF
+SNOMEDCT_US	367110001	Exacerbation of asthma	C0349790	Exacerbation of asthma		CASEDEF
+SNOMEDCT_US	155578006	Asthma attack	C0347950	Asthma attack		NARROWER (C0349790)
+SNOMEDCT_US	195981004	Asthma attack	C0347950	Asthma attack		NARROWER (C0349790)
+SNOMEDCT_US	266364000	Asthma attack	C0347950	Asthma attack		NARROWER (C0349790)
+SNOMEDCT_US	274105009	Asthma attack NOS	C0347950	Asthma attack		NARROWER (C0349790)
+SNOMEDCT_US	708038006	Acute exacerbation of asthma	C0347950	Asthma attack		NARROWER (C0349790)
+SNOMEDCT_US	405720007	Allergic bronchitis	C1260881	Allergic bronchitis		CASEDEF
+SNOMEDCT_US	232430006	Recurrent allergic croup				DESC (405720007)
+SNOMEDCT_US	89099002	Chronic allergic bronchitis				DESC (405720007)
+SNOMEDCT_US	87641005	Feline allergic bronchitis	C1260881	Allergic bronchitis		CASEDEF
+SNOMEDCT_US	195939005	Asthmatic bronchitis	C1319018	Asthmatic bronchitis		CASEDEF
+SNOMEDCT_US	-		C1388869	idiosyncratic; asthma		
+SNOMEDCT_US	-		C1390714	chronic; bronchitis, asthmatic (obstructive)		
+SNOMEDCT_US	-		C3811910	combination - answer to question		

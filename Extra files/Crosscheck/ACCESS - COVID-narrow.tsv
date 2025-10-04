@@ -1,0 +1,1037 @@
+Coding system	Code	Code name	Concept	Concept name	Tags	Origin
+ICD10	-		C5203670	COVID19 (disease)		
+ICD10	B34.2	Coronavirus infection, unspecified	C0206750	Coronavirus Infections		BROADER (C5203670)
+ICD10	-		C5433293	post-acute COVID-19 syndrome		
+ICD10	-		C5400365	SARS-CoV-2 viremia		
+ICD10	-		C5203672	SARS-CoV-2 vaccination		
+ICD10	-		C5439599	Adverse reaction to COVID-19 vaccine		
+ICD10	-		C5203671	Suspected COVID-19		
+ICD10	-		C5203673	Antigen of SARS-CoV-2		
+ICD10	-		C5203674	Antibody to SARS-CoV-2		
+ICD10	-		C5203675	Exposure to SARS-CoV-2		
+ICD10	-		C5203676	SARS-CoV-2		
+ICD10	-		C5244027	Pneumonia caused by SARS-CoV-2		
+ICD10	-		C5244030	Occupational exposure to SARS-CoV-2		
+ICD10	-		C5244047	Asymptomatic SARS-CoV-2		
+ICD10	-		C5244052	SARS-CoV-2 antibody test positive		
+ICD10	-		C5244055	SARS-CoV-2 antibody test negative		
+ICD10	-		C5387588	COVID-19 Vaccines		
+ICD10	-		C5391534	multisystem inflammatory syndrome in children with COVID-19 infection		
+ICD10	-		C5397007	SARS-CoV-2 not detected		
+ICD10	-		C5397008	SARS-CoV-2 detected		
+ICD10	-		C5397032	Conjunctivitis due to COVID-19		
+ICD10	-		C5397033	Dyspnea caused by SARS-CoV-2		
+ICD10	-		C5397034	Fever caused by SARS-CoV-2		
+ICD10	-		C5397035	Infection of upper respiratory tract caused by SARS-CoV-2		
+ICD10	-		C5397136	Measurement of SARS-CoV-2 antigen		
+ICD10	-		C5397137	Measurement of Severe acute respiratory syndrome coronavirus 2 antibody (observable entity)		
+ICD10	-		C5397138	At increased risk of exposure to SARS-CoV-2		
+ICD10	-		C5397139	History of SARS-CoV-2		
+ICD10	-		C5397140	Disease caused by severe acute respiratory syndrome coronavirus 2 absent		
+ICD10	-		C5397141	Lymphocytopenia due to COVID-19		
+ICD10	-		C5397142	Thrombocytopenia due to COVID-19		
+ICD10	-		C5397143	Acute bronchitis caused by SARS-CoV-2		
+ICD10	-		C5397144	Acute respiratory distress syndrome due to COVID-19		
+ICD10	-		C5397145	Sepsis due to disease caused by COVID-19		
+ICD10	-		C5397146	Infection of lower respiratory tract caused by SARS-CoV-2		
+ICD10	-		C5397147	Rhabdomyolysis due to COVID-19		
+ICD10	-		C5397148	Acute kidney injury due to COVID-19		
+ICD10	-		C5397149	Acute hypoxemic respiratory failure due to COVID-19		
+ICD10	-		C5397157	Otitis media due to COVID-19		
+ICD10	-		C5397158	Myocarditis due to COVID-19		
+ICD10	-		C5397159	Encephalopathy due to COVID-19		
+ICD10	-		C5397160	Cardiomyopathy due to COVID-19		
+ICD10	-		C5397185	Severe acute respiratory syndrome coronavirus 2 IgM		
+ICD10	-		C5397186	Severe acute respiratory syndrome coronavirus 2 IgG		
+ICD10	-		C5397190	Ribonucleic acid of Severe acute respiratory syndrome coronavirus 2 (substance)		
+ICD10	-		C5397205	Detection of SARS-CoV-2 antibody		
+ICD10	-		C5397206	Detection of SARS-CoV-2 antigen		
+ICD10	-		C5397208	Detection of ribonucleic acid of SARS-CoV-2		
+ICD10	-		C5397209	Detection of ribonucleic acid of SARS-CoV-2 in nasopharyngeal swab		
+ICD10	-		C5397210	Detection of ribonucleic acid of SARS-CoV-2 in oropharyngeal swab		
+ICD10	-		C5397211	Detection of ribonucleic acid of SARS-CoV-2 in sputum		
+ICD10	-		C5397212	Detection of ribonucleic acid of SARS-CoV-2 in bronchoalveolar lavage fluid		
+ICD10	-		C5397213	Detection of ribonucleic acid of SARS-CoV-2 using polymerase chain reaction		
+ICD10	-		C5397215	Detection of SARS-CoV-2		
+ICD10	-		C5400365	SARS-CoV-2 viremia		
+ICD10	-		C5416826	SARS-CoV-2 mRNA vaccine		
+ICD10	-		C5431834	Post COVID-19 condition		
+ICD10	-		C5431941	pneumonia due to coronavirus disease 2019		
+ICD10	-		C5433293	post-acute COVID-19 syndrome		
+ICD10	-		C5439524	Acute COVID-19		
+ICD10	-		C5439525	Post-acute COVID-19		
+ICD10	-		C5439526	SARS-CoV-2 antigen vaccine		
+ICD10	-		C5439537	Severe acute respiratory syndrome coronavirus 2 mRNA		
+ICD10	-		C5439539	Chronic post-COVID-19 syndrome		
+ICD10	-		C5539296	Encounter for screening for COVID-19		
+ICD10	-		C5539297	Contact with and (suspected) exposure to COVID-19		
+ICD10	-		C5539308	Personal history of COVID-19		
+ICD10	-		C5539317	Post COVID-19 condition, unspecified		
+ICD10	-		C5547424	Inactivated whole severe acute respiratory syndrome coronavirus 2 antigen		
+ICD10	-		C5547660	Severe acute respiratory syndrome coronavirus 2 mRNA encoding spike protein		
+ICD10	-		C5548350	Inactivated whole SARS-CoV-2 antigen vaccine		
+ICD10	-		C5548359	Severe acute respiratory syndrome coronavirus 2 protein antigen		
+ICD10	-		C5548360	Recombinant non-replicating human adenovirus 26 vector encoding severe acute respiratory syndrome coronavirus 2 spike protein		
+ICD10	-		C5548361	Recombinant non-replicating human adenovirus 5 vector encoding severe acute respiratory syndrome coronavirus 2 spike protein		
+ICD10	-		C5548362	Recombinant non-replicating chimpanzee adenovirus vector encoding severe acute respiratory syndrome coronavirus 2 spike protein		
+ICD10	-		C5548363	Recombinant non-replicating viral vector encoding severe acute respiratory syndrome coronavirus 2 spike protein		
+ICD10	-		C5548427	Severe acute respiratory syndrome coronavirus 2 recombinant spike protein antigen		
+ICD10	-		C5548574	Second dose of recombinant spike protein SARS-CoV-2 antigen vaccine contraindicated		
+ICD10	-		C5548575	SARS-CoV-2 recombinant spike protein antigen vaccine declined		
+ICD10	-		C5548576	Second dose of SARS-CoV-2 recombinant spike protein antigen vaccine declined		
+ICD10	-		C5549889	Education about disease caused by severe acute respiratory syndrome coronavirus 2		
+ICD10	-		C5549890	Fear of contracting disease caused by severe acute respiratory syndrome coronavirus 2		
+ICD10	-		C5567197	COVID-19 testing site		
+ICD10	-		C5568264	SARS-CoV-2 virus-like particle antigen vaccine contraindicated		
+ICD10	-		C5568265	SARS-CoV-2 virus-like particle antigen vaccine declined		
+ICD10	-		C5568748	Second dose of SARS-CoV-2 virus-like particle antigen vaccine declined		
+ICD10	-		C5569043	Severe acute respiratory syndrome coronavirus 2 DNA plasmid encoding spike protein		
+ICD10	-		C5569045	SARS-CoV-2 DNA plasmid encoding spike protein vaccine		
+ICD10	-		C5569137	Adverse reaction to COVID-19 DNA plasmid encoding spike protein vaccine		
+ICD10	-		C5569138	Administration of SARS-CoV-2 DNA plasmid encoding spike protein vaccine		
+ICD10	-		C5569139	SARS-CoV-2 DNA plasmid encoding spike protein vaccine contraindicated		
+ICD10	-		C5569153	SARS-CoV-2 DNA plasmid encoding spike protein vaccine declined		
+ICD10	-		C0206419	Genus: Coronavirus	Narrow	
+ICD10	B34.2	Coronavirus infection, unspecified	C0206750	Coronavirus Infections	Narrow	CASEDEF
+ICD10	B97.2	Coronavirus as the cause of diseases classified to other chapters	C0348984	Coronavirus as the cause of diseases classified to other chapters	Narrow	CASEDEF
+ICD10	-		C0859831	Other specified diseases due to viruses	Possible	
+ICD10	-		C3838696	Suspected coronavirus infection	Possible	
+ICD10/CM	U07.1	COVID-19	C5203670	COVID19 (disease)		SEARCH (covid-19)
+ICD10/CM	B34.2	Coronavirus infection, unspecified	C0206750	Coronavirus Infections		BROADER (C5203670)
+ICD10/CM	U09.9	Post-acute sequela of COVID-19	C5433293	post-acute COVID-19 syndrome		NARROWER (C5203670)
+ICD10/CM	-		C5400365	SARS-CoV-2 viremia		
+ICD10/CM	-		C5203672	SARS-CoV-2 vaccination		
+ICD10/CM	-		C5439599	Adverse reaction to COVID-19 vaccine		
+ICD10/CM	-		C5203671	Suspected COVID-19		
+ICD10/CM	-		C5203673	Antigen of SARS-CoV-2		
+ICD10/CM	-		C5203674	Antibody to SARS-CoV-2		
+ICD10/CM	-		C5203675	Exposure to SARS-CoV-2		
+ICD10/CM	-		C5203676	SARS-CoV-2		
+ICD10/CM	-		C5244027	Pneumonia caused by SARS-CoV-2		
+ICD10/CM	-		C5244030	Occupational exposure to SARS-CoV-2		
+ICD10/CM	-		C5244047	Asymptomatic SARS-CoV-2		
+ICD10/CM	-		C5244052	SARS-CoV-2 antibody test positive		
+ICD10/CM	-		C5244055	SARS-CoV-2 antibody test negative		
+ICD10/CM	-		C5387588	COVID-19 Vaccines		
+ICD10/CM	-		C5391534	multisystem inflammatory syndrome in children with COVID-19 infection		
+ICD10/CM	-		C5397007	SARS-CoV-2 not detected		
+ICD10/CM	-		C5397008	SARS-CoV-2 detected		
+ICD10/CM	-		C5397032	Conjunctivitis due to COVID-19		
+ICD10/CM	-		C5397033	Dyspnea caused by SARS-CoV-2		
+ICD10/CM	-		C5397034	Fever caused by SARS-CoV-2		
+ICD10/CM	-		C5397035	Infection of upper respiratory tract caused by SARS-CoV-2		
+ICD10/CM	-		C5397136	Measurement of SARS-CoV-2 antigen		
+ICD10/CM	-		C5397137	Measurement of Severe acute respiratory syndrome coronavirus 2 antibody (observable entity)		
+ICD10/CM	-		C5397138	At increased risk of exposure to SARS-CoV-2		
+ICD10/CM	-		C5397139	History of SARS-CoV-2		
+ICD10/CM	-		C5397140	Disease caused by severe acute respiratory syndrome coronavirus 2 absent		
+ICD10/CM	-		C5397141	Lymphocytopenia due to COVID-19		
+ICD10/CM	-		C5397142	Thrombocytopenia due to COVID-19		
+ICD10/CM	-		C5397143	Acute bronchitis caused by SARS-CoV-2		
+ICD10/CM	-		C5397144	Acute respiratory distress syndrome due to COVID-19		
+ICD10/CM	-		C5397145	Sepsis due to disease caused by COVID-19		
+ICD10/CM	-		C5397146	Infection of lower respiratory tract caused by SARS-CoV-2		
+ICD10/CM	-		C5397147	Rhabdomyolysis due to COVID-19		
+ICD10/CM	-		C5397148	Acute kidney injury due to COVID-19		
+ICD10/CM	-		C5397149	Acute hypoxemic respiratory failure due to COVID-19		
+ICD10/CM	-		C5397157	Otitis media due to COVID-19		
+ICD10/CM	-		C5397158	Myocarditis due to COVID-19		
+ICD10/CM	-		C5397159	Encephalopathy due to COVID-19		
+ICD10/CM	-		C5397160	Cardiomyopathy due to COVID-19		
+ICD10/CM	-		C5397185	Severe acute respiratory syndrome coronavirus 2 IgM		
+ICD10/CM	-		C5397186	Severe acute respiratory syndrome coronavirus 2 IgG		
+ICD10/CM	-		C5397190	Ribonucleic acid of Severe acute respiratory syndrome coronavirus 2 (substance)		
+ICD10/CM	-		C5397205	Detection of SARS-CoV-2 antibody		
+ICD10/CM	-		C5397206	Detection of SARS-CoV-2 antigen		
+ICD10/CM	-		C5397208	Detection of ribonucleic acid of SARS-CoV-2		
+ICD10/CM	-		C5397209	Detection of ribonucleic acid of SARS-CoV-2 in nasopharyngeal swab		
+ICD10/CM	-		C5397210	Detection of ribonucleic acid of SARS-CoV-2 in oropharyngeal swab		
+ICD10/CM	-		C5397211	Detection of ribonucleic acid of SARS-CoV-2 in sputum		
+ICD10/CM	-		C5397212	Detection of ribonucleic acid of SARS-CoV-2 in bronchoalveolar lavage fluid		
+ICD10/CM	-		C5397213	Detection of ribonucleic acid of SARS-CoV-2 using polymerase chain reaction		
+ICD10/CM	-		C5397215	Detection of SARS-CoV-2		
+ICD10/CM	-		C5400365	SARS-CoV-2 viremia		
+ICD10/CM	-		C5416826	SARS-CoV-2 mRNA vaccine		
+ICD10/CM	U09	Post COVID-19 condition	C5431834	Post COVID-19 condition		SEARCH (covid-19)
+ICD10/CM	J12.82	Pneumonia due to coronavirus disease 2019	C5431941	pneumonia due to coronavirus disease 2019		SEARCH (covid-19)
+ICD10/CM	-		C5433293	post-acute COVID-19 syndrome		
+ICD10/CM	-		C5439524	Acute COVID-19		
+ICD10/CM	-		C5439525	Post-acute COVID-19		
+ICD10/CM	-		C5439526	SARS-CoV-2 antigen vaccine		
+ICD10/CM	-		C5439537	Severe acute respiratory syndrome coronavirus 2 mRNA		
+ICD10/CM	-		C5439539	Chronic post-COVID-19 syndrome		
+ICD10/CM	Z11.52	Encounter for screening for COVID-19	C5539296	Encounter for screening for COVID-19		SEARCH (covid-19)
+ICD10/CM	Z20.822	Contact with and (suspected) exposure to COVID-19	C5539297	Contact with and (suspected) exposure to COVID-19		SEARCH (covid-19)
+ICD10/CM	Z86.16	Personal history of COVID-19	C5539308	Personal history of COVID-19		SEARCH (covid-19)
+ICD10/CM	-		C5539317	Post COVID-19 condition, unspecified		
+ICD10/CM	-		C5547424	Inactivated whole severe acute respiratory syndrome coronavirus 2 antigen		
+ICD10/CM	-		C5547660	Severe acute respiratory syndrome coronavirus 2 mRNA encoding spike protein		
+ICD10/CM	-		C5548350	Inactivated whole SARS-CoV-2 antigen vaccine		
+ICD10/CM	-		C5548359	Severe acute respiratory syndrome coronavirus 2 protein antigen		
+ICD10/CM	-		C5548360	Recombinant non-replicating human adenovirus 26 vector encoding severe acute respiratory syndrome coronavirus 2 spike protein		
+ICD10/CM	-		C5548361	Recombinant non-replicating human adenovirus 5 vector encoding severe acute respiratory syndrome coronavirus 2 spike protein		
+ICD10/CM	-		C5548362	Recombinant non-replicating chimpanzee adenovirus vector encoding severe acute respiratory syndrome coronavirus 2 spike protein		
+ICD10/CM	-		C5548363	Recombinant non-replicating viral vector encoding severe acute respiratory syndrome coronavirus 2 spike protein		
+ICD10/CM	-		C5548427	Severe acute respiratory syndrome coronavirus 2 recombinant spike protein antigen		
+ICD10/CM	-		C5548574	Second dose of recombinant spike protein SARS-CoV-2 antigen vaccine contraindicated		
+ICD10/CM	-		C5548575	SARS-CoV-2 recombinant spike protein antigen vaccine declined		
+ICD10/CM	-		C5548576	Second dose of SARS-CoV-2 recombinant spike protein antigen vaccine declined		
+ICD10/CM	-		C5549889	Education about disease caused by severe acute respiratory syndrome coronavirus 2		
+ICD10/CM	-		C5549890	Fear of contracting disease caused by severe acute respiratory syndrome coronavirus 2		
+ICD10/CM	-		C5567197	COVID-19 testing site		
+ICD10/CM	-		C5568264	SARS-CoV-2 virus-like particle antigen vaccine contraindicated		
+ICD10/CM	-		C5568265	SARS-CoV-2 virus-like particle antigen vaccine declined		
+ICD10/CM	-		C5568748	Second dose of SARS-CoV-2 virus-like particle antigen vaccine declined		
+ICD10/CM	-		C5569043	Severe acute respiratory syndrome coronavirus 2 DNA plasmid encoding spike protein		
+ICD10/CM	-		C5569045	SARS-CoV-2 DNA plasmid encoding spike protein vaccine		
+ICD10/CM	-		C5569137	Adverse reaction to COVID-19 DNA plasmid encoding spike protein vaccine		
+ICD10/CM	-		C5569138	Administration of SARS-CoV-2 DNA plasmid encoding spike protein vaccine		
+ICD10/CM	-		C5569139	SARS-CoV-2 DNA plasmid encoding spike protein vaccine contraindicated		
+ICD10/CM	-		C5569153	SARS-CoV-2 DNA plasmid encoding spike protein vaccine declined		
+ICD10/CM	-		C0206419	Genus: Coronavirus	Narrow	
+ICD10/CM	B34.2	Coronavirus infection, unspecified	C0206750	Coronavirus Infections	Narrow	CASEDEF
+ICD10/CM	B97.2	Coronavirus as the cause of diseases classified to other chapters	C0348984	Coronavirus as the cause of diseases classified to other chapters	Narrow	CASEDEF
+ICD10/CM	-		C0859831	Other specified diseases due to viruses	Possible	
+ICD10/CM	-		C3838696	Suspected coronavirus infection	Possible	
+ICD10CM	U07.1	COVID-19	C5203670	COVID19 (disease)		SEARCH (covid-19)
+ICD10CM	B34.2	Coronavirus infection, unspecified	C0206750	Coronavirus Infections		BROADER (C5203670)
+ICD10CM	U09.9	Post-acute sequela of COVID-19	C5433293	post-acute COVID-19 syndrome		NARROWER (C5203670)
+ICD10CM	-		C5400365	SARS-CoV-2 viremia		
+ICD10CM	-		C5203672	SARS-CoV-2 vaccination		
+ICD10CM	-		C5439599	Adverse reaction to COVID-19 vaccine		
+ICD10CM	-		C5203671	Suspected COVID-19		
+ICD10CM	-		C5203673	Antigen of SARS-CoV-2		
+ICD10CM	-		C5203674	Antibody to SARS-CoV-2		
+ICD10CM	-		C5203675	Exposure to SARS-CoV-2		
+ICD10CM	-		C5203676	SARS-CoV-2		
+ICD10CM	-		C5244027	Pneumonia caused by SARS-CoV-2		
+ICD10CM	-		C5244030	Occupational exposure to SARS-CoV-2		
+ICD10CM	-		C5244047	Asymptomatic SARS-CoV-2		
+ICD10CM	-		C5244052	SARS-CoV-2 antibody test positive		
+ICD10CM	-		C5244055	SARS-CoV-2 antibody test negative		
+ICD10CM	-		C5387588	COVID-19 Vaccines		
+ICD10CM	-		C5391534	multisystem inflammatory syndrome in children with COVID-19 infection		
+ICD10CM	-		C5397007	SARS-CoV-2 not detected		
+ICD10CM	-		C5397008	SARS-CoV-2 detected		
+ICD10CM	-		C5397032	Conjunctivitis due to COVID-19		
+ICD10CM	-		C5397033	Dyspnea caused by SARS-CoV-2		
+ICD10CM	-		C5397034	Fever caused by SARS-CoV-2		
+ICD10CM	-		C5397035	Infection of upper respiratory tract caused by SARS-CoV-2		
+ICD10CM	-		C5397136	Measurement of SARS-CoV-2 antigen		
+ICD10CM	-		C5397137	Measurement of Severe acute respiratory syndrome coronavirus 2 antibody (observable entity)		
+ICD10CM	-		C5397138	At increased risk of exposure to SARS-CoV-2		
+ICD10CM	-		C5397139	History of SARS-CoV-2		
+ICD10CM	-		C5397140	Disease caused by severe acute respiratory syndrome coronavirus 2 absent		
+ICD10CM	-		C5397141	Lymphocytopenia due to COVID-19		
+ICD10CM	-		C5397142	Thrombocytopenia due to COVID-19		
+ICD10CM	-		C5397143	Acute bronchitis caused by SARS-CoV-2		
+ICD10CM	-		C5397144	Acute respiratory distress syndrome due to COVID-19		
+ICD10CM	-		C5397145	Sepsis due to disease caused by COVID-19		
+ICD10CM	-		C5397146	Infection of lower respiratory tract caused by SARS-CoV-2		
+ICD10CM	-		C5397147	Rhabdomyolysis due to COVID-19		
+ICD10CM	-		C5397148	Acute kidney injury due to COVID-19		
+ICD10CM	-		C5397149	Acute hypoxemic respiratory failure due to COVID-19		
+ICD10CM	-		C5397157	Otitis media due to COVID-19		
+ICD10CM	-		C5397158	Myocarditis due to COVID-19		
+ICD10CM	-		C5397159	Encephalopathy due to COVID-19		
+ICD10CM	-		C5397160	Cardiomyopathy due to COVID-19		
+ICD10CM	-		C5397185	Severe acute respiratory syndrome coronavirus 2 IgM		
+ICD10CM	-		C5397186	Severe acute respiratory syndrome coronavirus 2 IgG		
+ICD10CM	-		C5397190	Ribonucleic acid of Severe acute respiratory syndrome coronavirus 2 (substance)		
+ICD10CM	-		C5397205	Detection of SARS-CoV-2 antibody		
+ICD10CM	-		C5397206	Detection of SARS-CoV-2 antigen		
+ICD10CM	-		C5397208	Detection of ribonucleic acid of SARS-CoV-2		
+ICD10CM	-		C5397209	Detection of ribonucleic acid of SARS-CoV-2 in nasopharyngeal swab		
+ICD10CM	-		C5397210	Detection of ribonucleic acid of SARS-CoV-2 in oropharyngeal swab		
+ICD10CM	-		C5397211	Detection of ribonucleic acid of SARS-CoV-2 in sputum		
+ICD10CM	-		C5397212	Detection of ribonucleic acid of SARS-CoV-2 in bronchoalveolar lavage fluid		
+ICD10CM	-		C5397213	Detection of ribonucleic acid of SARS-CoV-2 using polymerase chain reaction		
+ICD10CM	-		C5397215	Detection of SARS-CoV-2		
+ICD10CM	-		C5400365	SARS-CoV-2 viremia		
+ICD10CM	-		C5416826	SARS-CoV-2 mRNA vaccine		
+ICD10CM	U09	Post COVID-19 condition	C5431834	Post COVID-19 condition		SEARCH (covid-19)
+ICD10CM	J12.82	Pneumonia due to coronavirus disease 2019	C5431941	pneumonia due to coronavirus disease 2019		SEARCH (covid-19)
+ICD10CM	-		C5433293	post-acute COVID-19 syndrome		
+ICD10CM	-		C5439524	Acute COVID-19		
+ICD10CM	-		C5439525	Post-acute COVID-19		
+ICD10CM	-		C5439526	SARS-CoV-2 antigen vaccine		
+ICD10CM	-		C5439537	Severe acute respiratory syndrome coronavirus 2 mRNA		
+ICD10CM	-		C5439539	Chronic post-COVID-19 syndrome		
+ICD10CM	Z11.52	Encounter for screening for COVID-19	C5539296	Encounter for screening for COVID-19		SEARCH (covid-19)
+ICD10CM	Z20.822	Contact with and (suspected) exposure to COVID-19	C5539297	Contact with and (suspected) exposure to COVID-19		SEARCH (covid-19)
+ICD10CM	Z86.16	Personal history of COVID-19	C5539308	Personal history of COVID-19		SEARCH (covid-19)
+ICD10CM	-		C5539317	Post COVID-19 condition, unspecified		
+ICD10CM	-		C5547424	Inactivated whole severe acute respiratory syndrome coronavirus 2 antigen		
+ICD10CM	-		C5547660	Severe acute respiratory syndrome coronavirus 2 mRNA encoding spike protein		
+ICD10CM	-		C5548350	Inactivated whole SARS-CoV-2 antigen vaccine		
+ICD10CM	-		C5548359	Severe acute respiratory syndrome coronavirus 2 protein antigen		
+ICD10CM	-		C5548360	Recombinant non-replicating human adenovirus 26 vector encoding severe acute respiratory syndrome coronavirus 2 spike protein		
+ICD10CM	-		C5548361	Recombinant non-replicating human adenovirus 5 vector encoding severe acute respiratory syndrome coronavirus 2 spike protein		
+ICD10CM	-		C5548362	Recombinant non-replicating chimpanzee adenovirus vector encoding severe acute respiratory syndrome coronavirus 2 spike protein		
+ICD10CM	-		C5548363	Recombinant non-replicating viral vector encoding severe acute respiratory syndrome coronavirus 2 spike protein		
+ICD10CM	-		C5548427	Severe acute respiratory syndrome coronavirus 2 recombinant spike protein antigen		
+ICD10CM	-		C5548574	Second dose of recombinant spike protein SARS-CoV-2 antigen vaccine contraindicated		
+ICD10CM	-		C5548575	SARS-CoV-2 recombinant spike protein antigen vaccine declined		
+ICD10CM	-		C5548576	Second dose of SARS-CoV-2 recombinant spike protein antigen vaccine declined		
+ICD10CM	-		C5549889	Education about disease caused by severe acute respiratory syndrome coronavirus 2		
+ICD10CM	-		C5549890	Fear of contracting disease caused by severe acute respiratory syndrome coronavirus 2		
+ICD10CM	-		C5567197	COVID-19 testing site		
+ICD10CM	-		C5568264	SARS-CoV-2 virus-like particle antigen vaccine contraindicated		
+ICD10CM	-		C5568265	SARS-CoV-2 virus-like particle antigen vaccine declined		
+ICD10CM	-		C5568748	Second dose of SARS-CoV-2 virus-like particle antigen vaccine declined		
+ICD10CM	-		C5569043	Severe acute respiratory syndrome coronavirus 2 DNA plasmid encoding spike protein		
+ICD10CM	-		C5569045	SARS-CoV-2 DNA plasmid encoding spike protein vaccine		
+ICD10CM	-		C5569137	Adverse reaction to COVID-19 DNA plasmid encoding spike protein vaccine		
+ICD10CM	-		C5569138	Administration of SARS-CoV-2 DNA plasmid encoding spike protein vaccine		
+ICD10CM	-		C5569139	SARS-CoV-2 DNA plasmid encoding spike protein vaccine contraindicated		
+ICD10CM	-		C5569153	SARS-CoV-2 DNA plasmid encoding spike protein vaccine declined		
+ICD10CM	-		C0206419	Genus: Coronavirus	Narrow	
+ICD10CM	B34.2	Coronavirus infection, unspecified	C0206750	Coronavirus Infections	Narrow	CASEDEF
+ICD10CM	-		C0348984	Coronavirus as the cause of diseases classified to other chapters	Narrow	
+ICD10CM	-		C0859831	Other specified diseases due to viruses	Possible	
+ICD10CM	-		C3838696	Suspected coronavirus infection	Possible	
+ICD9CM	-		C5203670	COVID19 (disease)		
+ICD9CM	-		C0206750	Coronavirus Infections		
+ICD9CM	-		C5433293	post-acute COVID-19 syndrome		
+ICD9CM	-		C5400365	SARS-CoV-2 viremia		
+ICD9CM	-		C5203672	SARS-CoV-2 vaccination		
+ICD9CM	-		C5439599	Adverse reaction to COVID-19 vaccine		
+ICD9CM	-		C5203671	Suspected COVID-19		
+ICD9CM	-		C5203673	Antigen of SARS-CoV-2		
+ICD9CM	-		C5203674	Antibody to SARS-CoV-2		
+ICD9CM	-		C5203675	Exposure to SARS-CoV-2		
+ICD9CM	-		C5203676	SARS-CoV-2		
+ICD9CM	-		C5244027	Pneumonia caused by SARS-CoV-2		
+ICD9CM	-		C5244030	Occupational exposure to SARS-CoV-2		
+ICD9CM	-		C5244047	Asymptomatic SARS-CoV-2		
+ICD9CM	-		C5244052	SARS-CoV-2 antibody test positive		
+ICD9CM	-		C5244055	SARS-CoV-2 antibody test negative		
+ICD9CM	-		C5387588	COVID-19 Vaccines		
+ICD9CM	-		C5391534	multisystem inflammatory syndrome in children with COVID-19 infection		
+ICD9CM	-		C5397007	SARS-CoV-2 not detected		
+ICD9CM	-		C5397008	SARS-CoV-2 detected		
+ICD9CM	-		C5397032	Conjunctivitis due to COVID-19		
+ICD9CM	-		C5397033	Dyspnea caused by SARS-CoV-2		
+ICD9CM	-		C5397034	Fever caused by SARS-CoV-2		
+ICD9CM	-		C5397035	Infection of upper respiratory tract caused by SARS-CoV-2		
+ICD9CM	-		C5397136	Measurement of SARS-CoV-2 antigen		
+ICD9CM	-		C5397137	Measurement of Severe acute respiratory syndrome coronavirus 2 antibody (observable entity)		
+ICD9CM	-		C5397138	At increased risk of exposure to SARS-CoV-2		
+ICD9CM	-		C5397139	History of SARS-CoV-2		
+ICD9CM	-		C5397140	Disease caused by severe acute respiratory syndrome coronavirus 2 absent		
+ICD9CM	-		C5397141	Lymphocytopenia due to COVID-19		
+ICD9CM	-		C5397142	Thrombocytopenia due to COVID-19		
+ICD9CM	-		C5397143	Acute bronchitis caused by SARS-CoV-2		
+ICD9CM	-		C5397144	Acute respiratory distress syndrome due to COVID-19		
+ICD9CM	-		C5397145	Sepsis due to disease caused by COVID-19		
+ICD9CM	-		C5397146	Infection of lower respiratory tract caused by SARS-CoV-2		
+ICD9CM	-		C5397147	Rhabdomyolysis due to COVID-19		
+ICD9CM	-		C5397148	Acute kidney injury due to COVID-19		
+ICD9CM	-		C5397149	Acute hypoxemic respiratory failure due to COVID-19		
+ICD9CM	-		C5397157	Otitis media due to COVID-19		
+ICD9CM	-		C5397158	Myocarditis due to COVID-19		
+ICD9CM	-		C5397159	Encephalopathy due to COVID-19		
+ICD9CM	-		C5397160	Cardiomyopathy due to COVID-19		
+ICD9CM	-		C5397185	Severe acute respiratory syndrome coronavirus 2 IgM		
+ICD9CM	-		C5397186	Severe acute respiratory syndrome coronavirus 2 IgG		
+ICD9CM	-		C5397190	Ribonucleic acid of Severe acute respiratory syndrome coronavirus 2 (substance)		
+ICD9CM	-		C5397205	Detection of SARS-CoV-2 antibody		
+ICD9CM	-		C5397206	Detection of SARS-CoV-2 antigen		
+ICD9CM	-		C5397208	Detection of ribonucleic acid of SARS-CoV-2		
+ICD9CM	-		C5397209	Detection of ribonucleic acid of SARS-CoV-2 in nasopharyngeal swab		
+ICD9CM	-		C5397210	Detection of ribonucleic acid of SARS-CoV-2 in oropharyngeal swab		
+ICD9CM	-		C5397211	Detection of ribonucleic acid of SARS-CoV-2 in sputum		
+ICD9CM	-		C5397212	Detection of ribonucleic acid of SARS-CoV-2 in bronchoalveolar lavage fluid		
+ICD9CM	-		C5397213	Detection of ribonucleic acid of SARS-CoV-2 using polymerase chain reaction		
+ICD9CM	-		C5397215	Detection of SARS-CoV-2		
+ICD9CM	-		C5400365	SARS-CoV-2 viremia		
+ICD9CM	-		C5416826	SARS-CoV-2 mRNA vaccine		
+ICD9CM	-		C5431834	Post COVID-19 condition		
+ICD9CM	-		C5431941	pneumonia due to coronavirus disease 2019		
+ICD9CM	-		C5433293	post-acute COVID-19 syndrome		
+ICD9CM	-		C5439524	Acute COVID-19		
+ICD9CM	-		C5439525	Post-acute COVID-19		
+ICD9CM	-		C5439526	SARS-CoV-2 antigen vaccine		
+ICD9CM	-		C5439537	Severe acute respiratory syndrome coronavirus 2 mRNA		
+ICD9CM	-		C5439539	Chronic post-COVID-19 syndrome		
+ICD9CM	-		C5539296	Encounter for screening for COVID-19		
+ICD9CM	-		C5539297	Contact with and (suspected) exposure to COVID-19		
+ICD9CM	-		C5539308	Personal history of COVID-19		
+ICD9CM	-		C5539317	Post COVID-19 condition, unspecified		
+ICD9CM	-		C5547424	Inactivated whole severe acute respiratory syndrome coronavirus 2 antigen		
+ICD9CM	-		C5547660	Severe acute respiratory syndrome coronavirus 2 mRNA encoding spike protein		
+ICD9CM	-		C5548350	Inactivated whole SARS-CoV-2 antigen vaccine		
+ICD9CM	-		C5548359	Severe acute respiratory syndrome coronavirus 2 protein antigen		
+ICD9CM	-		C5548360	Recombinant non-replicating human adenovirus 26 vector encoding severe acute respiratory syndrome coronavirus 2 spike protein		
+ICD9CM	-		C5548361	Recombinant non-replicating human adenovirus 5 vector encoding severe acute respiratory syndrome coronavirus 2 spike protein		
+ICD9CM	-		C5548362	Recombinant non-replicating chimpanzee adenovirus vector encoding severe acute respiratory syndrome coronavirus 2 spike protein		
+ICD9CM	-		C5548363	Recombinant non-replicating viral vector encoding severe acute respiratory syndrome coronavirus 2 spike protein		
+ICD9CM	-		C5548427	Severe acute respiratory syndrome coronavirus 2 recombinant spike protein antigen		
+ICD9CM	-		C5548574	Second dose of recombinant spike protein SARS-CoV-2 antigen vaccine contraindicated		
+ICD9CM	-		C5548575	SARS-CoV-2 recombinant spike protein antigen vaccine declined		
+ICD9CM	-		C5548576	Second dose of SARS-CoV-2 recombinant spike protein antigen vaccine declined		
+ICD9CM	-		C5549889	Education about disease caused by severe acute respiratory syndrome coronavirus 2		
+ICD9CM	-		C5549890	Fear of contracting disease caused by severe acute respiratory syndrome coronavirus 2		
+ICD9CM	-		C5567197	COVID-19 testing site		
+ICD9CM	-		C5568264	SARS-CoV-2 virus-like particle antigen vaccine contraindicated		
+ICD9CM	-		C5568265	SARS-CoV-2 virus-like particle antigen vaccine declined		
+ICD9CM	-		C5568748	Second dose of SARS-CoV-2 virus-like particle antigen vaccine declined		
+ICD9CM	-		C5569043	Severe acute respiratory syndrome coronavirus 2 DNA plasmid encoding spike protein		
+ICD9CM	-		C5569045	SARS-CoV-2 DNA plasmid encoding spike protein vaccine		
+ICD9CM	-		C5569137	Adverse reaction to COVID-19 DNA plasmid encoding spike protein vaccine		
+ICD9CM	-		C5569138	Administration of SARS-CoV-2 DNA plasmid encoding spike protein vaccine		
+ICD9CM	-		C5569139	SARS-CoV-2 DNA plasmid encoding spike protein vaccine contraindicated		
+ICD9CM	-		C5569153	SARS-CoV-2 DNA plasmid encoding spike protein vaccine declined		
+ICD9CM	-		C0206419	Genus: Coronavirus	Narrow	
+ICD9CM	-		C0206750	Coronavirus Infections	Narrow	
+ICD9CM	-		C0348984	Coronavirus as the cause of diseases classified to other chapters	Narrow	
+ICD9CM	078.89	Other specified diseases due to viruses	C0859831	Other specified diseases due to viruses	Possible	CASEDEF
+ICD9CM	-		C3838696	Suspected coronavirus infection	Possible	
+ICPC2P	-		C5203670	COVID19 (disease)		
+ICPC2P	-		C0206750	Coronavirus Infections		
+ICPC2P	-		C5433293	post-acute COVID-19 syndrome		
+ICPC2P	-		C5400365	SARS-CoV-2 viremia		
+ICPC2P	-		C5203672	SARS-CoV-2 vaccination		
+ICPC2P	-		C5439599	Adverse reaction to COVID-19 vaccine		
+ICPC2P	-		C5203671	Suspected COVID-19		
+ICPC2P	-		C5203673	Antigen of SARS-CoV-2		
+ICPC2P	-		C5203674	Antibody to SARS-CoV-2		
+ICPC2P	-		C5203675	Exposure to SARS-CoV-2		
+ICPC2P	-		C5203676	SARS-CoV-2		
+ICPC2P	-		C5244027	Pneumonia caused by SARS-CoV-2		
+ICPC2P	-		C5244030	Occupational exposure to SARS-CoV-2		
+ICPC2P	-		C5244047	Asymptomatic SARS-CoV-2		
+ICPC2P	-		C5244052	SARS-CoV-2 antibody test positive		
+ICPC2P	-		C5244055	SARS-CoV-2 antibody test negative		
+ICPC2P	-		C5387588	COVID-19 Vaccines		
+ICPC2P	-		C5391534	multisystem inflammatory syndrome in children with COVID-19 infection		
+ICPC2P	-		C5397007	SARS-CoV-2 not detected		
+ICPC2P	-		C5397008	SARS-CoV-2 detected		
+ICPC2P	-		C5397032	Conjunctivitis due to COVID-19		
+ICPC2P	-		C5397033	Dyspnea caused by SARS-CoV-2		
+ICPC2P	-		C5397034	Fever caused by SARS-CoV-2		
+ICPC2P	-		C5397035	Infection of upper respiratory tract caused by SARS-CoV-2		
+ICPC2P	-		C5397136	Measurement of SARS-CoV-2 antigen		
+ICPC2P	-		C5397137	Measurement of Severe acute respiratory syndrome coronavirus 2 antibody (observable entity)		
+ICPC2P	-		C5397138	At increased risk of exposure to SARS-CoV-2		
+ICPC2P	-		C5397139	History of SARS-CoV-2		
+ICPC2P	-		C5397140	Disease caused by severe acute respiratory syndrome coronavirus 2 absent		
+ICPC2P	-		C5397141	Lymphocytopenia due to COVID-19		
+ICPC2P	-		C5397142	Thrombocytopenia due to COVID-19		
+ICPC2P	-		C5397143	Acute bronchitis caused by SARS-CoV-2		
+ICPC2P	-		C5397144	Acute respiratory distress syndrome due to COVID-19		
+ICPC2P	-		C5397145	Sepsis due to disease caused by COVID-19		
+ICPC2P	-		C5397146	Infection of lower respiratory tract caused by SARS-CoV-2		
+ICPC2P	-		C5397147	Rhabdomyolysis due to COVID-19		
+ICPC2P	-		C5397148	Acute kidney injury due to COVID-19		
+ICPC2P	-		C5397149	Acute hypoxemic respiratory failure due to COVID-19		
+ICPC2P	-		C5397157	Otitis media due to COVID-19		
+ICPC2P	-		C5397158	Myocarditis due to COVID-19		
+ICPC2P	-		C5397159	Encephalopathy due to COVID-19		
+ICPC2P	-		C5397160	Cardiomyopathy due to COVID-19		
+ICPC2P	-		C5397185	Severe acute respiratory syndrome coronavirus 2 IgM		
+ICPC2P	-		C5397186	Severe acute respiratory syndrome coronavirus 2 IgG		
+ICPC2P	-		C5397190	Ribonucleic acid of Severe acute respiratory syndrome coronavirus 2 (substance)		
+ICPC2P	-		C5397205	Detection of SARS-CoV-2 antibody		
+ICPC2P	-		C5397206	Detection of SARS-CoV-2 antigen		
+ICPC2P	-		C5397208	Detection of ribonucleic acid of SARS-CoV-2		
+ICPC2P	-		C5397209	Detection of ribonucleic acid of SARS-CoV-2 in nasopharyngeal swab		
+ICPC2P	-		C5397210	Detection of ribonucleic acid of SARS-CoV-2 in oropharyngeal swab		
+ICPC2P	-		C5397211	Detection of ribonucleic acid of SARS-CoV-2 in sputum		
+ICPC2P	-		C5397212	Detection of ribonucleic acid of SARS-CoV-2 in bronchoalveolar lavage fluid		
+ICPC2P	-		C5397213	Detection of ribonucleic acid of SARS-CoV-2 using polymerase chain reaction		
+ICPC2P	-		C5397215	Detection of SARS-CoV-2		
+ICPC2P	-		C5400365	SARS-CoV-2 viremia		
+ICPC2P	-		C5416826	SARS-CoV-2 mRNA vaccine		
+ICPC2P	-		C5431834	Post COVID-19 condition		
+ICPC2P	-		C5431941	pneumonia due to coronavirus disease 2019		
+ICPC2P	-		C5433293	post-acute COVID-19 syndrome		
+ICPC2P	-		C5439524	Acute COVID-19		
+ICPC2P	-		C5439525	Post-acute COVID-19		
+ICPC2P	-		C5439526	SARS-CoV-2 antigen vaccine		
+ICPC2P	-		C5439537	Severe acute respiratory syndrome coronavirus 2 mRNA		
+ICPC2P	-		C5439539	Chronic post-COVID-19 syndrome		
+ICPC2P	-		C5539296	Encounter for screening for COVID-19		
+ICPC2P	-		C5539297	Contact with and (suspected) exposure to COVID-19		
+ICPC2P	-		C5539308	Personal history of COVID-19		
+ICPC2P	-		C5539317	Post COVID-19 condition, unspecified		
+ICPC2P	-		C5547424	Inactivated whole severe acute respiratory syndrome coronavirus 2 antigen		
+ICPC2P	-		C5547660	Severe acute respiratory syndrome coronavirus 2 mRNA encoding spike protein		
+ICPC2P	-		C5548350	Inactivated whole SARS-CoV-2 antigen vaccine		
+ICPC2P	-		C5548359	Severe acute respiratory syndrome coronavirus 2 protein antigen		
+ICPC2P	-		C5548360	Recombinant non-replicating human adenovirus 26 vector encoding severe acute respiratory syndrome coronavirus 2 spike protein		
+ICPC2P	-		C5548361	Recombinant non-replicating human adenovirus 5 vector encoding severe acute respiratory syndrome coronavirus 2 spike protein		
+ICPC2P	-		C5548362	Recombinant non-replicating chimpanzee adenovirus vector encoding severe acute respiratory syndrome coronavirus 2 spike protein		
+ICPC2P	-		C5548363	Recombinant non-replicating viral vector encoding severe acute respiratory syndrome coronavirus 2 spike protein		
+ICPC2P	-		C5548427	Severe acute respiratory syndrome coronavirus 2 recombinant spike protein antigen		
+ICPC2P	-		C5548574	Second dose of recombinant spike protein SARS-CoV-2 antigen vaccine contraindicated		
+ICPC2P	-		C5548575	SARS-CoV-2 recombinant spike protein antigen vaccine declined		
+ICPC2P	-		C5548576	Second dose of SARS-CoV-2 recombinant spike protein antigen vaccine declined		
+ICPC2P	-		C5549889	Education about disease caused by severe acute respiratory syndrome coronavirus 2		
+ICPC2P	-		C5549890	Fear of contracting disease caused by severe acute respiratory syndrome coronavirus 2		
+ICPC2P	-		C5567197	COVID-19 testing site		
+ICPC2P	-		C5568264	SARS-CoV-2 virus-like particle antigen vaccine contraindicated		
+ICPC2P	-		C5568265	SARS-CoV-2 virus-like particle antigen vaccine declined		
+ICPC2P	-		C5568748	Second dose of SARS-CoV-2 virus-like particle antigen vaccine declined		
+ICPC2P	-		C5569043	Severe acute respiratory syndrome coronavirus 2 DNA plasmid encoding spike protein		
+ICPC2P	-		C5569045	SARS-CoV-2 DNA plasmid encoding spike protein vaccine		
+ICPC2P	-		C5569137	Adverse reaction to COVID-19 DNA plasmid encoding spike protein vaccine		
+ICPC2P	-		C5569138	Administration of SARS-CoV-2 DNA plasmid encoding spike protein vaccine		
+ICPC2P	-		C5569139	SARS-CoV-2 DNA plasmid encoding spike protein vaccine contraindicated		
+ICPC2P	-		C5569153	SARS-CoV-2 DNA plasmid encoding spike protein vaccine declined		
+ICPC2P	-		C0206419	Genus: Coronavirus	Narrow	
+ICPC2P	-		C0206750	Coronavirus Infections	Narrow	
+ICPC2P	-		C0348984	Coronavirus as the cause of diseases classified to other chapters	Narrow	
+ICPC2P	-		C0859831	Other specified diseases due to viruses	Possible	
+ICPC2P	-		C3838696	Suspected coronavirus infection	Possible	
+RCD2	-		C5203670	COVID19 (disease)		
+RCD2	-		C0206750	Coronavirus Infections		
+RCD2	-		C5433293	post-acute COVID-19 syndrome		
+RCD2	-		C5400365	SARS-CoV-2 viremia		
+RCD2	-		C5203672	SARS-CoV-2 vaccination		
+RCD2	-		C5439599	Adverse reaction to COVID-19 vaccine		
+RCD2	-		C5203671	Suspected COVID-19		
+RCD2	-		C5203673	Antigen of SARS-CoV-2		
+RCD2	-		C5203674	Antibody to SARS-CoV-2		
+RCD2	-		C5203675	Exposure to SARS-CoV-2		
+RCD2	-		C5203676	SARS-CoV-2		
+RCD2	-		C5244027	Pneumonia caused by SARS-CoV-2		
+RCD2	-		C5244030	Occupational exposure to SARS-CoV-2		
+RCD2	-		C5244047	Asymptomatic SARS-CoV-2		
+RCD2	-		C5244052	SARS-CoV-2 antibody test positive		
+RCD2	-		C5244055	SARS-CoV-2 antibody test negative		
+RCD2	-		C5387588	COVID-19 Vaccines		
+RCD2	-		C5391534	multisystem inflammatory syndrome in children with COVID-19 infection		
+RCD2	-		C5397007	SARS-CoV-2 not detected		
+RCD2	-		C5397008	SARS-CoV-2 detected		
+RCD2	-		C5397032	Conjunctivitis due to COVID-19		
+RCD2	-		C5397033	Dyspnea caused by SARS-CoV-2		
+RCD2	-		C5397034	Fever caused by SARS-CoV-2		
+RCD2	-		C5397035	Infection of upper respiratory tract caused by SARS-CoV-2		
+RCD2	-		C5397136	Measurement of SARS-CoV-2 antigen		
+RCD2	-		C5397137	Measurement of Severe acute respiratory syndrome coronavirus 2 antibody (observable entity)		
+RCD2	-		C5397138	At increased risk of exposure to SARS-CoV-2		
+RCD2	-		C5397139	History of SARS-CoV-2		
+RCD2	-		C5397140	Disease caused by severe acute respiratory syndrome coronavirus 2 absent		
+RCD2	-		C5397141	Lymphocytopenia due to COVID-19		
+RCD2	-		C5397142	Thrombocytopenia due to COVID-19		
+RCD2	-		C5397143	Acute bronchitis caused by SARS-CoV-2		
+RCD2	-		C5397144	Acute respiratory distress syndrome due to COVID-19		
+RCD2	-		C5397145	Sepsis due to disease caused by COVID-19		
+RCD2	-		C5397146	Infection of lower respiratory tract caused by SARS-CoV-2		
+RCD2	-		C5397147	Rhabdomyolysis due to COVID-19		
+RCD2	-		C5397148	Acute kidney injury due to COVID-19		
+RCD2	-		C5397149	Acute hypoxemic respiratory failure due to COVID-19		
+RCD2	-		C5397157	Otitis media due to COVID-19		
+RCD2	-		C5397158	Myocarditis due to COVID-19		
+RCD2	-		C5397159	Encephalopathy due to COVID-19		
+RCD2	-		C5397160	Cardiomyopathy due to COVID-19		
+RCD2	-		C5397185	Severe acute respiratory syndrome coronavirus 2 IgM		
+RCD2	-		C5397186	Severe acute respiratory syndrome coronavirus 2 IgG		
+RCD2	-		C5397190	Ribonucleic acid of Severe acute respiratory syndrome coronavirus 2 (substance)		
+RCD2	-		C5397205	Detection of SARS-CoV-2 antibody		
+RCD2	-		C5397206	Detection of SARS-CoV-2 antigen		
+RCD2	-		C5397208	Detection of ribonucleic acid of SARS-CoV-2		
+RCD2	-		C5397209	Detection of ribonucleic acid of SARS-CoV-2 in nasopharyngeal swab		
+RCD2	-		C5397210	Detection of ribonucleic acid of SARS-CoV-2 in oropharyngeal swab		
+RCD2	-		C5397211	Detection of ribonucleic acid of SARS-CoV-2 in sputum		
+RCD2	-		C5397212	Detection of ribonucleic acid of SARS-CoV-2 in bronchoalveolar lavage fluid		
+RCD2	-		C5397213	Detection of ribonucleic acid of SARS-CoV-2 using polymerase chain reaction		
+RCD2	-		C5397215	Detection of SARS-CoV-2		
+RCD2	-		C5400365	SARS-CoV-2 viremia		
+RCD2	-		C5416826	SARS-CoV-2 mRNA vaccine		
+RCD2	-		C5431834	Post COVID-19 condition		
+RCD2	-		C5431941	pneumonia due to coronavirus disease 2019		
+RCD2	-		C5433293	post-acute COVID-19 syndrome		
+RCD2	-		C5439524	Acute COVID-19		
+RCD2	-		C5439525	Post-acute COVID-19		
+RCD2	-		C5439526	SARS-CoV-2 antigen vaccine		
+RCD2	-		C5439537	Severe acute respiratory syndrome coronavirus 2 mRNA		
+RCD2	-		C5439539	Chronic post-COVID-19 syndrome		
+RCD2	-		C5539296	Encounter for screening for COVID-19		
+RCD2	-		C5539297	Contact with and (suspected) exposure to COVID-19		
+RCD2	-		C5539308	Personal history of COVID-19		
+RCD2	-		C5539317	Post COVID-19 condition, unspecified		
+RCD2	-		C5547424	Inactivated whole severe acute respiratory syndrome coronavirus 2 antigen		
+RCD2	-		C5547660	Severe acute respiratory syndrome coronavirus 2 mRNA encoding spike protein		
+RCD2	-		C5548350	Inactivated whole SARS-CoV-2 antigen vaccine		
+RCD2	-		C5548359	Severe acute respiratory syndrome coronavirus 2 protein antigen		
+RCD2	-		C5548360	Recombinant non-replicating human adenovirus 26 vector encoding severe acute respiratory syndrome coronavirus 2 spike protein		
+RCD2	-		C5548361	Recombinant non-replicating human adenovirus 5 vector encoding severe acute respiratory syndrome coronavirus 2 spike protein		
+RCD2	-		C5548362	Recombinant non-replicating chimpanzee adenovirus vector encoding severe acute respiratory syndrome coronavirus 2 spike protein		
+RCD2	-		C5548363	Recombinant non-replicating viral vector encoding severe acute respiratory syndrome coronavirus 2 spike protein		
+RCD2	-		C5548427	Severe acute respiratory syndrome coronavirus 2 recombinant spike protein antigen		
+RCD2	-		C5548574	Second dose of recombinant spike protein SARS-CoV-2 antigen vaccine contraindicated		
+RCD2	-		C5548575	SARS-CoV-2 recombinant spike protein antigen vaccine declined		
+RCD2	-		C5548576	Second dose of SARS-CoV-2 recombinant spike protein antigen vaccine declined		
+RCD2	-		C5549889	Education about disease caused by severe acute respiratory syndrome coronavirus 2		
+RCD2	-		C5549890	Fear of contracting disease caused by severe acute respiratory syndrome coronavirus 2		
+RCD2	-		C5567197	COVID-19 testing site		
+RCD2	-		C5568264	SARS-CoV-2 virus-like particle antigen vaccine contraindicated		
+RCD2	-		C5568265	SARS-CoV-2 virus-like particle antigen vaccine declined		
+RCD2	-		C5568748	Second dose of SARS-CoV-2 virus-like particle antigen vaccine declined		
+RCD2	-		C5569043	Severe acute respiratory syndrome coronavirus 2 DNA plasmid encoding spike protein		
+RCD2	-		C5569045	SARS-CoV-2 DNA plasmid encoding spike protein vaccine		
+RCD2	-		C5569137	Adverse reaction to COVID-19 DNA plasmid encoding spike protein vaccine		
+RCD2	-		C5569138	Administration of SARS-CoV-2 DNA plasmid encoding spike protein vaccine		
+RCD2	-		C5569139	SARS-CoV-2 DNA plasmid encoding spike protein vaccine contraindicated		
+RCD2	-		C5569153	SARS-CoV-2 DNA plasmid encoding spike protein vaccine declined		
+RCD2	-		C0206419	Genus: Coronavirus	Narrow	
+RCD2	A795.	Coronavirus infection	C0206750	Coronavirus Infections	Narrow	CASEDEF
+RCD2	AyuDC	[X]Coronavirus infection,unspc	C0206750	Coronavirus Infections	Narrow	CASEDEF
+RCD2	A7y00	Coronavir caus dis clas oth ch	C0348984	Coronavirus as the cause of diseases classified to other chapters	Narrow	CASEDEF
+RCD2	-		C0859831	Other specified diseases due to viruses	Possible	
+RCD2	-		C3838696	Suspected coronavirus infection	Possible	
+SCTSPA	840539006	COVID-19	C5203670	COVID19 (disease)		SEARCH (covid-19)
+SCTSPA	1017214008	SARS-CoV-2 viremia				DESC (840539006)
+SCTSPA	1119302008	Acute COVID-19				DESC (840539006)
+SCTSPA	119751000146104	Fever caused by SARS-CoV-2				DESC (840539006)
+SCTSPA	119981000146107	Dyspnea caused by SARS-CoV-2				DESC (840539006)
+SCTSPA	1217296006	SARS-CoV-2 breakthrough infection				DESC (840539006)
+SCTSPA	1240541000000107	Infection of upper respiratory tract caused by SARS-CoV-2				DESC (840539006)
+SCTSPA	138389411000119105	Acute bronchitis caused by SARS-CoV-2				DESC (840539006)
+SCTSPA	880529761000119102	Infection of lower respiratory tract caused by SARS-CoV-2				DESC (840539006)
+SCTSPA	882784691000119100	Pneumonia caused by SARS-CoV-2				DESC (840539006)
+SCTSPA	186747009	infección por coronavirus	C0206750	Coronavirus Infections		BROADER (C5203670)
+SCTSPA	398447004	Severe acute respiratory syndrome				DESC (186747009)
+SCTSPA	408688009	Healthcare associated severe acute respiratory syndrome				DESC (186747009)
+SCTSPA	441590008	Pneumonia due to Severe acute respiratory syndrome coronavirus				DESC (186747009)
+SCTSPA	651000146102	Middle East respiratory syndrome				DESC (186747009)
+SCTSPA	713084008	Pneumonia caused by Human coronavirus				DESC (186747009)
+SCTSPA	715882005	Severe acute respiratory syndrome of upper respiratory tract				DESC (186747009)
+SCTSPA	187467005	[X]infección por coronavirus, no especificada	C0206750	Coronavirus Infections		BROADER (C5203670)
+SCTSPA	-		C5433293	post-acute COVID-19 syndrome		
+SCTSPA	-		C5400365	SARS-CoV-2 viremia		
+SCTSPA	1156257007	administración de vacuna contra SARS-CoV-2	C5203672	SARS-CoV-2 vaccination		SEARCH (covid-19)
+SCTSPA	1119350007	Administration of SARS-CoV-2 mRNA vaccine				DESC (1156257007)
+SCTSPA	1144997007	Administration of first dose of SARS-CoV-2 mRNA vaccine				DESC (1156257007)
+SCTSPA	1144998002	Administration of second dose of SARS-CoV-2 mRNA vaccine				DESC (1156257007)
+SCTSPA	1157107003	Administration of SARS-CoV-2 non-replicating viral vector vaccine				DESC (1156257007)
+SCTSPA	1157108008	Administration of second dose SARS-CoV-2 non-replicating viral vector vaccine				DESC (1156257007)
+SCTSPA	1157196000	Administration of inactivated whole SARS-CoV-2 antigen vaccine				DESC (1156257007)
+SCTSPA	1157197009	Administration of second dose of inactivated whole SARS-CoV-2 antigen vaccine				DESC (1156257007)
+SCTSPA	1162645008	Administration of SARS-CoV-2 recombinant spike protein antigen vaccine				DESC (1156257007)
+SCTSPA	1162646009	Administration of second dose of SARS-CoV-2 recombinant spike protein antigen vaccine				DESC (1156257007)
+SCTSPA	1179496000	Administration of SARS-CoV-2 virus-like particle antigen vaccine				DESC (1156257007)
+SCTSPA	1179497009	Administration of second dose of SARS-CoV-2 virus-like particle antigen vaccine				DESC (1156257007)
+SCTSPA	1193583000	Administration of SARS-CoV-2 DNA plasmid encoding spike protein vaccine				DESC (1156257007)
+SCTSPA	840534001	Administration of SARS-CoV-2 antigen vaccine				DESC (1156257007)
+SCTSPA	1142180003	reacción adversa a componente de vacuna que contiene antígeno de coronavirus 2 del síndrome respiratorio agudo severo o ácido ribonucleico mensajero del coronavirus 2 del síndrome respiratorio agudo severo	C5439599	Adverse reaction to COVID-19 vaccine		SEARCH (covid-19)
+SCTSPA	1156256003	reacción adversa a vacuna contra COVID-19	C5439599	Adverse reaction to COVID-19 vaccine		SEARCH (covid-19)
+SCTSPA	1142181004	Adverse reaction to COVID-19 mRNA vaccine				DESC (1156256003)
+SCTSPA	1142182006	Adverse reaction to COVID-19 antigen vaccine				DESC (1156256003)
+SCTSPA	1157106007	Adverse reaction to COVID-19 non-replicating viral vector vaccine				DESC (1156256003)
+SCTSPA	1157195001	Adverse reaction to inactivated whole COVID-19 antigen vaccine				DESC (1156256003)
+SCTSPA	1162644007	Adverse reaction to COVID-19 recombinant spike protein antigen vaccine				DESC (1156256003)
+SCTSPA	1179495001	Adverse reaction to COVID-19 virus-like particle antigen vaccine				DESC (1156256003)
+SCTSPA	840544004	sospecha de COVID-19	C5203671	Suspected COVID-19		SEARCH (covid-19)
+SCTSPA	840536004	antígeno de coronavirus 2 del síndrome respiratorio agudo severo	C5203673	Antigen of SARS-CoV-2		SEARCH (covid-19)
+SCTSPA	1153537004	Inactivated whole severe acute respiratory syndrome coronavirus 2 antigen				DESC (840536004)
+SCTSPA	1157045004	Severe acute respiratory syndrome coronavirus 2 protein antigen				DESC (840536004)
+SCTSPA	29301000087104	Severe acute respiratory syndrome coronavirus 2 recombinant spike protein antigen				DESC (840536004)
+SCTSPA	30131000087101	Severe acute respiratory syndrome coronavirus 2 virus-like particle antigen				DESC (840536004)
+SCTSPA	840535000	anticuerpo contra SARS-CoV-2	C5203674	Antibody to SARS-CoV-2		SEARCH (covid-19)
+SCTSPA	870361009	Severe acute respiratory syndrome coronavirus 2 IgG				DESC (840535000)
+SCTSPA	870362002	Severe acute respiratory syndrome coronavirus 2 IgM				DESC (840535000)
+SCTSPA	840546002	exposición a SARS-CoV-2	C5203675	Exposure to SARS-CoV-2		SEARCH (covid-19)
+SCTSPA	897036007	Occupational exposure to SARS-CoV-2				DESC (840546002)
+SCTSPA	840533007	SARS-CoV-2	C5203676	SARS-CoV-2		SEARCH (covid-19)
+SCTSPA	-		C5244027	Pneumonia caused by SARS-CoV-2		
+SCTSPA	-		C5244030	Occupational exposure to SARS-CoV-2		
+SCTSPA	189486241000119100	infección asintomática por SARS-CoV-2	C5244047	Asymptomatic SARS-CoV-2		SEARCH (covid-19)
+SCTSPA	897034005	prueba positiva para anticuerpos contra SARS-CoV-2	C5244052	SARS-CoV-2 antibody test positive		SEARCH (covid-19)
+SCTSPA	897035006	prueba negativa para anticuerpos contra SARS-CoV-2	C5244055	SARS-CoV-2 antibody test negative		SEARCH (covid-19)
+SCTSPA	28531000087107	vacuna contra COVID-19	C5387588	COVID-19 Vaccines		SEARCH (covid-19)
+SCTSPA	1119305005	SARS-CoV-2 antigen vaccine				DESC (28531000087107)
+SCTSPA	1119349007	SARS-CoV-2 mRNA vaccine				DESC (28531000087107)
+SCTSPA	1157024006	Inactivated whole SARS-CoV-2 antigen vaccine				DESC (28531000087107)
+SCTSPA	1162643001	SARS-CoV-2 recombinant spike protein antigen vaccine				DESC (28531000087107)
+SCTSPA	1187593009	SARS-CoV-2 DNA plasmid encoding spike protein vaccine				DESC (28531000087107)
+SCTSPA	29061000087103	COVID-19 non-replicating viral vector vaccine				DESC (28531000087107)
+SCTSPA	30141000087107	SARS-CoV-2 virus-like particle antigen vaccine				DESC (28531000087107)
+SCTSPA	895448002	síndrome multisistémico inflamatorio pediátrico	C5391534	multisystem inflammatory syndrome in children with COVID-19 infection		SEARCH (covid-19)
+SCTSPA	1240591000000102	coronavirus 2 del síndrome respiratorio agudo severo no detectado	C5397007	SARS-CoV-2 not detected		SEARCH (covid-19)
+SCTSPA	1240581000000104	coronavirus 2 del síndrome respiratorio agudo severo detectado	C5397008	SARS-CoV-2 detected		SEARCH (covid-19)
+SCTSPA	119741000146102	conjuntivitis debida a COVID-19	C5397032	Conjunctivitis due to COVID-19		SEARCH (covid-19)
+SCTSPA	-		C5397033	Dyspnea caused by SARS-CoV-2		
+SCTSPA	-		C5397034	Fever caused by SARS-CoV-2		
+SCTSPA	-		C5397035	Infection of upper respiratory tract caused by SARS-CoV-2		
+SCTSPA	1240471000000102	medición de antígeno de coronavirus 2 del síndrome respiratorio agudo severo	C5397136	Measurement of SARS-CoV-2 antigen		SEARCH (covid-19)
+SCTSPA	1240461000000109	medición de anticuerpos anti-coronavirus 2 del síndrome respiratorio agudo severo	C5397137	Measurement of Severe acute respiratory syndrome coronavirus 2 antibody (observable entity)		SEARCH (covid-19)
+SCTSPA	870577009	con mayor riesgo de exposición a SARS-CoV-2	C5397138	At increased risk of exposure to SARS-CoV-2		SEARCH (covid-19)
+SCTSPA	292508471000119105	antecedente de COVID-19	C5397139	History of SARS-CoV-2		SEARCH (covid-19)
+SCTSPA	688232241000119100	enfermedad causada por coronavirus 2 del síndrome respiratorio agudo severo ausente	C5397140	Disease caused by severe acute respiratory syndrome coronavirus 2 absent		SEARCH (covid-19)
+SCTSPA	866151004	linfocitopenia debida a COVID-19	C5397141	Lymphocytopenia due to COVID-19		SEARCH (covid-19)
+SCTSPA	866152006	trombocitopenia debida a COVID-19	C5397142	Thrombocytopenia due to COVID-19		SEARCH (covid-19)
+SCTSPA	-		C5397143	Acute bronchitis caused by SARS-CoV-2		
+SCTSPA	674814021000119106	síndrome de distrés respiratorio agudo debido a COVID-19	C5397144	Acute respiratory distress syndrome due to COVID-19		SEARCH (covid-19)
+SCTSPA	870588003	sepsis debida a COVID-19	C5397145	Sepsis due to disease caused by COVID-19		SEARCH (covid-19)
+SCTSPA	-		C5397146	Infection of lower respiratory tract caused by SARS-CoV-2		
+SCTSPA	870591003	rabdomiólisis debida a COVID-19	C5397147	Rhabdomyolysis due to COVID-19		SEARCH (covid-19)
+SCTSPA	870589006	lesión renal aguda debida a COVID-19	C5397148	Acute kidney injury due to COVID-19		SEARCH (covid-19)
+SCTSPA	870590002	insuficiencia respiratoria hipoxémica aguda debida a COVID-19	C5397149	Acute hypoxemic respiratory failure due to COVID-19		SEARCH (covid-19)
+SCTSPA	1240521000000100	otitis media debida a COVID-19	C5397157	Otitis media due to COVID-19		SEARCH (covid-19)
+SCTSPA	1240531000000103	miocarditis debida a COVID-19	C5397158	Myocarditis due to COVID-19		SEARCH (covid-19)
+SCTSPA	1240561000000108	encefalopatía debida a COVID-19	C5397159	Encephalopathy due to COVID-19		SEARCH (covid-19)
+SCTSPA	119731000146105	miocardiopatía debida a COVID-19	C5397160	Cardiomyopathy due to COVID-19		SEARCH (covid-19)
+SCTSPA	-		C5397185	Severe acute respiratory syndrome coronavirus 2 IgM		
+SCTSPA	-		C5397186	Severe acute respiratory syndrome coronavirus 2 IgG		
+SCTSPA	1240411000000107	ARN de coronavirus 2 del síndrome respiratorio agudo severo	C5397190	Ribonucleic acid of Severe acute respiratory syndrome coronavirus 2 (substance)		SEARCH (covid-19)
+SCTSPA	871552002	detección de anticuerpos anti-coronavirus 2 del síndrome respiratorio agudo severo	C5397205	Detection of SARS-CoV-2 antibody		SEARCH (covid-19)
+SCTSPA	871553007	detección de antígeno de coronavirus 2 del síndrome respiratorio agudo severo	C5397206	Detection of SARS-CoV-2 antigen		SEARCH (covid-19)
+SCTSPA	871555000	detección de ácido ribonucleico de coronavirus 2 del síndrome respiratorio agudo severo	C5397208	Detection of ribonucleic acid of SARS-CoV-2		SEARCH (covid-19)
+SCTSPA	871556004	Detection of ribonucleic acid of SARS-CoV-2 in nasopharyngeal swab				DESC (871555000)
+SCTSPA	871557008	Detection of ribonucleic acid of SARS-CoV-2 in oropharyngeal swab				DESC (871555000)
+SCTSPA	871558003	Detection of ribonucleic acid of SARS-CoV-2 in sputum				DESC (871555000)
+SCTSPA	871559006	Detection of ribonucleic acid of SARS-CoV-2 in bronchoalveolar lavage fluid				DESC (871555000)
+SCTSPA	871560001	Detection of ribonucleic acid of SARS-CoV-2 using polymerase chain reaction				DESC (871555000)
+SCTSPA	-		C5397209	Detection of ribonucleic acid of SARS-CoV-2 in nasopharyngeal swab		
+SCTSPA	-		C5397210	Detection of ribonucleic acid of SARS-CoV-2 in oropharyngeal swab		
+SCTSPA	-		C5397211	Detection of ribonucleic acid of SARS-CoV-2 in sputum		
+SCTSPA	-		C5397212	Detection of ribonucleic acid of SARS-CoV-2 in bronchoalveolar lavage fluid		
+SCTSPA	-		C5397213	Detection of ribonucleic acid of SARS-CoV-2 using polymerase chain reaction		
+SCTSPA	871562009	detección de coronavirus 2 del síndrome respiratorio agudo severo	C5397215	Detection of SARS-CoV-2		SEARCH (covid-19)
+SCTSPA	-		C5400365	SARS-CoV-2 viremia		
+SCTSPA	-		C5416826	SARS-CoV-2 mRNA vaccine		
+SCTSPA	-		C5431834	Post COVID-19 condition		
+SCTSPA	-		C5431941	pneumonia due to coronavirus disease 2019		
+SCTSPA	-		C5433293	post-acute COVID-19 syndrome		
+SCTSPA	-		C5439524	Acute COVID-19		
+SCTSPA	1119303003	COVID-19 post-agudo	C5439525	Post-acute COVID-19		SEARCH (covid-19)
+SCTSPA	-		C5439526	SARS-CoV-2 antigen vaccine		
+SCTSPA	1119343008	ARNm de SARS-CoV-2	C5439537	Severe acute respiratory syndrome coronavirus 2 mRNA		SEARCH (covid-19)
+SCTSPA	1155866009	Severe acute respiratory syndrome coronavirus 2 mRNA encoding spike protein				DESC (1119343008)
+SCTSPA	1157170002	Tozinameran				DESC (1119343008)
+SCTSPA	1172706007	Elasomeran				DESC (1119343008)
+SCTSPA	1119304009	síndrome crónico post-COVID-19	C5439539	Chronic post-COVID-19 syndrome		SEARCH (covid-19)
+SCTSPA	-		C5539296	Encounter for screening for COVID-19		
+SCTSPA	-		C5539297	Contact with and (suspected) exposure to COVID-19		
+SCTSPA	-		C5539308	Personal history of COVID-19		
+SCTSPA	-		C5539317	Post COVID-19 condition, unspecified		
+SCTSPA	-		C5547424	Inactivated whole severe acute respiratory syndrome coronavirus 2 antigen		
+SCTSPA	-		C5547660	Severe acute respiratory syndrome coronavirus 2 mRNA encoding spike protein		
+SCTSPA	-		C5548350	Inactivated whole SARS-CoV-2 antigen vaccine		
+SCTSPA	-		C5548359	Severe acute respiratory syndrome coronavirus 2 protein antigen		
+SCTSPA	1157047007	vector Adenovirus humano 26 no replicante recombinante que codifica proteína de espiga de SARS-CoV-2	C5548360	Recombinant non-replicating human adenovirus 26 vector encoding severe acute respiratory syndrome coronavirus 2 spike protein		SEARCH (covid-19)
+SCTSPA	1157048002	vector Adenovirus humano 5 no replicante recombinante que codifica proteína de espiga de SARS-CoV-2	C5548361	Recombinant non-replicating human adenovirus 5 vector encoding severe acute respiratory syndrome coronavirus 2 spike protein		SEARCH (covid-19)
+SCTSPA	1157046003	vector adenovirus de chimpancé no replicante recombinante que codifica proteína de espiga de SARS-CoV-2	C5548362	Recombinant non-replicating chimpanzee adenovirus vector encoding severe acute respiratory syndrome coronavirus 2 spike protein		SEARCH (covid-19)
+SCTSPA	1157044000	vector viral no replicante recombinante que codifica proteína de espiga de SARS-CoV-2	C5548363	Recombinant non-replicating viral vector encoding severe acute respiratory syndrome coronavirus 2 spike protein		SEARCH (covid-19)
+SCTSPA	-		C5548427	Severe acute respiratory syndrome coronavirus 2 recombinant spike protein antigen		
+SCTSPA	1162648005	segunda dosis de vacuna proteína de espiga recombinante contra SARS-CoV-2 contraindicada	C5548574	Second dose of recombinant spike protein SARS-CoV-2 antigen vaccine contraindicated		SEARCH (covid-19)
+SCTSPA	1162649002	vacuna proteína de espiga recombinante contra SARS-CoV-2 rechazada	C5548575	SARS-CoV-2 recombinant spike protein antigen vaccine declined		SEARCH (covid-19)
+SCTSPA	1162650002	Second dose of SARS-CoV-2 recombinant spike protein antigen vaccine declined				DESC (1162649002)
+SCTSPA	-		C5548576	Second dose of SARS-CoV-2 recombinant spike protein antigen vaccine declined		
+SCTSPA	-		C5549889	Education about disease caused by severe acute respiratory syndrome coronavirus 2		
+SCTSPA	-		C5549890	Fear of contracting disease caused by severe acute respiratory syndrome coronavirus 2		
+SCTSPA	-		C5567197	COVID-19 testing site		
+SCTSPA	-		C5568264	SARS-CoV-2 virus-like particle antigen vaccine contraindicated		
+SCTSPA	-		C5568265	SARS-CoV-2 virus-like particle antigen vaccine declined		
+SCTSPA	-		C5568748	Second dose of SARS-CoV-2 virus-like particle antigen vaccine declined		
+SCTSPA	-		C5569043	Severe acute respiratory syndrome coronavirus 2 DNA plasmid encoding spike protein		
+SCTSPA	-		C5569045	SARS-CoV-2 DNA plasmid encoding spike protein vaccine		
+SCTSPA	-		C5569137	Adverse reaction to COVID-19 DNA plasmid encoding spike protein vaccine		
+SCTSPA	-		C5569138	Administration of SARS-CoV-2 DNA plasmid encoding spike protein vaccine		
+SCTSPA	-		C5569139	SARS-CoV-2 DNA plasmid encoding spike protein vaccine contraindicated		
+SCTSPA	-		C5569153	SARS-CoV-2 DNA plasmid encoding spike protein vaccine declined		
+SCTSPA	243608008	Coronavirus	C0206419	Genus: Coronavirus	Narrow	CASEDEF
+SCTSPA	88711001	coronavirus	C0206419	Genus: Coronavirus	Narrow	CASEDEF
+SCTSPA	186747009	infección por coronavirus	C0206750	Coronavirus Infections	Narrow	CASEDEF
+SCTSPA	1017214008	SARS-CoV-2 viremia			Narrow	DESC (186747009)
+SCTSPA	1119302008	Acute COVID-19			Narrow	DESC (186747009)
+SCTSPA	119751000146104	Fever caused by SARS-CoV-2			Narrow	DESC (186747009)
+SCTSPA	119981000146107	Dyspnea caused by SARS-CoV-2			Narrow	DESC (186747009)
+SCTSPA	1217296006	SARS-CoV-2 breakthrough infection			Narrow	DESC (186747009)
+SCTSPA	1240541000000107	Infection of upper respiratory tract caused by SARS-CoV-2			Narrow	DESC (186747009)
+SCTSPA	138389411000119105	Acute bronchitis caused by SARS-CoV-2			Narrow	DESC (186747009)
+SCTSPA	398447004	Severe acute respiratory syndrome			Narrow	DESC (186747009)
+SCTSPA	408688009	Healthcare associated severe acute respiratory syndrome			Narrow	DESC (186747009)
+SCTSPA	441590008	Pneumonia due to Severe acute respiratory syndrome coronavirus			Narrow	DESC (186747009)
+SCTSPA	651000146102	Middle East respiratory syndrome			Narrow	DESC (186747009)
+SCTSPA	713084008	Pneumonia caused by Human coronavirus			Narrow	DESC (186747009)
+SCTSPA	715882005	Severe acute respiratory syndrome of upper respiratory tract			Narrow	DESC (186747009)
+SCTSPA	840539006	COVID-19			Narrow	DESC (186747009)
+SCTSPA	880529761000119102	Infection of lower respiratory tract caused by SARS-CoV-2			Narrow	DESC (186747009)
+SCTSPA	882784691000119100	Pneumonia caused by SARS-CoV-2			Narrow	DESC (186747009)
+SCTSPA	187467005	[X]infección por coronavirus, no especificada	C0206750	Coronavirus Infections	Narrow	CASEDEF
+SCTSPA	186758000	Coronavirus como causa de enfermedades clasificadas en otros capítulos	C0348984	Coronavirus as the cause of diseases classified to other chapters	Narrow	CASEDEF
+SCTSPA	187587009	Coronavirus as the cause of diseases classified to other chapters	C0348984	Coronavirus as the cause of diseases classified to other chapters	Narrow	CASEDEF
+SCTSPA	-		C0859831	Other specified diseases due to viruses	Possible	
+SCTSPA	700217006	sospecha de infección por coronavirus	C3838696	Suspected coronavirus infection	Possible	CASEDEF
+SCTSPA	12591000132100	Suspected SARS (severe acute respiratory syndrome)			Possible	DESC (700217006)
+SCTSPA	840544004	Suspected COVID-19			Possible	DESC (700217006)
+SNOMEDCT_US	840539006	COVID-19	C5203670	COVID19 (disease)		SEARCH (covid-19)
+SNOMEDCT_US	1017214008	SARS-CoV-2 viremia				DESC (840539006)
+SNOMEDCT_US	1119302008	Acute COVID-19				DESC (840539006)
+SNOMEDCT_US	119751000146104	Fever caused by SARS-CoV-2				DESC (840539006)
+SNOMEDCT_US	119981000146107	Dyspnea caused by SARS-CoV-2				DESC (840539006)
+SNOMEDCT_US	1217296006	SARS-CoV-2 breakthrough infection				DESC (840539006)
+SNOMEDCT_US	1240541000000107	Infection of upper respiratory tract caused by SARS-CoV-2				DESC (840539006)
+SNOMEDCT_US	138389411000119105	Acute bronchitis caused by SARS-CoV-2				DESC (840539006)
+SNOMEDCT_US	880529761000119102	Infection of lower respiratory tract caused by SARS-CoV-2				DESC (840539006)
+SNOMEDCT_US	882784691000119100	Pneumonia caused by SARS-CoV-2				DESC (840539006)
+SNOMEDCT_US	186747009	Coronavirus infection	C0206750	Coronavirus Infections		BROADER (C5203670)
+SNOMEDCT_US	398447004	Severe acute respiratory syndrome				DESC (186747009)
+SNOMEDCT_US	408688009	Healthcare associated severe acute respiratory syndrome				DESC (186747009)
+SNOMEDCT_US	441590008	Pneumonia due to Severe acute respiratory syndrome coronavirus				DESC (186747009)
+SNOMEDCT_US	651000146102	Middle East respiratory syndrome				DESC (186747009)
+SNOMEDCT_US	713084008	Pneumonia caused by Human coronavirus				DESC (186747009)
+SNOMEDCT_US	715882005	Severe acute respiratory syndrome of upper respiratory tract				DESC (186747009)
+SNOMEDCT_US	187467005	[X]Coronavirus infection, unspecified	C0206750	Coronavirus Infections		BROADER (C5203670)
+SNOMEDCT_US	-		C5433293	post-acute COVID-19 syndrome		
+SNOMEDCT_US	-		C5400365	SARS-CoV-2 viremia		
+SNOMEDCT_US	1156257007	Administration of SARS-CoV-2 vaccine	C5203672	SARS-CoV-2 vaccination		SEARCH (covid-19)
+SNOMEDCT_US	1119350007	Administration of SARS-CoV-2 mRNA vaccine				DESC (1156257007)
+SNOMEDCT_US	1144997007	Administration of first dose of SARS-CoV-2 mRNA vaccine				DESC (1156257007)
+SNOMEDCT_US	1144998002	Administration of second dose of SARS-CoV-2 mRNA vaccine				DESC (1156257007)
+SNOMEDCT_US	1157107003	Administration of SARS-CoV-2 non-replicating viral vector vaccine				DESC (1156257007)
+SNOMEDCT_US	1157108008	Administration of second dose SARS-CoV-2 non-replicating viral vector vaccine				DESC (1156257007)
+SNOMEDCT_US	1157196000	Administration of inactivated whole SARS-CoV-2 antigen vaccine				DESC (1156257007)
+SNOMEDCT_US	1157197009	Administration of second dose of inactivated whole SARS-CoV-2 antigen vaccine				DESC (1156257007)
+SNOMEDCT_US	1162645008	Administration of SARS-CoV-2 recombinant spike protein antigen vaccine				DESC (1156257007)
+SNOMEDCT_US	1162646009	Administration of second dose of SARS-CoV-2 recombinant spike protein antigen vaccine				DESC (1156257007)
+SNOMEDCT_US	1179496000	Administration of SARS-CoV-2 virus-like particle antigen vaccine				DESC (1156257007)
+SNOMEDCT_US	1179497009	Administration of second dose of SARS-CoV-2 virus-like particle antigen vaccine				DESC (1156257007)
+SNOMEDCT_US	1193583000	Administration of SARS-CoV-2 DNA plasmid encoding spike protein vaccine				DESC (1156257007)
+SNOMEDCT_US	840534001	Administration of SARS-CoV-2 antigen vaccine				DESC (1156257007)
+SNOMEDCT_US	1142180003	Adverse reaction to component of vaccine product containing Severe acute respiratory syndrome coronavirus 2 antigen or Severe acute respiratory syndrome coronavirus 2 messenger ribonucleic acid	C5439599	Adverse reaction to COVID-19 vaccine		SEARCH (covid-19)
+SNOMEDCT_US	1156256003	Adverse reaction to COVID-19 vaccine	C5439599	Adverse reaction to COVID-19 vaccine		SEARCH (covid-19)
+SNOMEDCT_US	1142181004	Adverse reaction to COVID-19 mRNA vaccine				DESC (1156256003)
+SNOMEDCT_US	1142182006	Adverse reaction to COVID-19 antigen vaccine				DESC (1156256003)
+SNOMEDCT_US	1157106007	Adverse reaction to COVID-19 non-replicating viral vector vaccine				DESC (1156256003)
+SNOMEDCT_US	1157195001	Adverse reaction to inactivated whole COVID-19 antigen vaccine				DESC (1156256003)
+SNOMEDCT_US	1162644007	Adverse reaction to COVID-19 recombinant spike protein antigen vaccine				DESC (1156256003)
+SNOMEDCT_US	1179495001	Adverse reaction to COVID-19 virus-like particle antigen vaccine				DESC (1156256003)
+SNOMEDCT_US	840544004	Suspected COVID-19	C5203671	Suspected COVID-19		SEARCH (covid-19)
+SNOMEDCT_US	840536004	Severe acute respiratory syndrome coronavirus 2 antigen	C5203673	Antigen of SARS-CoV-2		SEARCH (covid-19)
+SNOMEDCT_US	1153537004	Inactivated whole severe acute respiratory syndrome coronavirus 2 antigen				DESC (840536004)
+SNOMEDCT_US	1157045004	Severe acute respiratory syndrome coronavirus 2 protein antigen				DESC (840536004)
+SNOMEDCT_US	29301000087104	Severe acute respiratory syndrome coronavirus 2 recombinant spike protein antigen				DESC (840536004)
+SNOMEDCT_US	30131000087101	Severe acute respiratory syndrome coronavirus 2 virus-like particle antigen				DESC (840536004)
+SNOMEDCT_US	840535000	Severe acute respiratory syndrome coronavirus 2 antibody	C5203674	Antibody to SARS-CoV-2		SEARCH (covid-19)
+SNOMEDCT_US	870361009	Severe acute respiratory syndrome coronavirus 2 IgG				DESC (840535000)
+SNOMEDCT_US	870362002	Severe acute respiratory syndrome coronavirus 2 IgM				DESC (840535000)
+SNOMEDCT_US	840546002	Exposure to SARS-CoV-2	C5203675	Exposure to SARS-CoV-2		SEARCH (covid-19)
+SNOMEDCT_US	897036007	Occupational exposure to SARS-CoV-2				DESC (840546002)
+SNOMEDCT_US	840533007	SARS-CoV-2	C5203676	SARS-CoV-2		SEARCH (covid-19)
+SNOMEDCT_US	-		C5244027	Pneumonia caused by SARS-CoV-2		
+SNOMEDCT_US	-		C5244030	Occupational exposure to SARS-CoV-2		
+SNOMEDCT_US	189486241000119100	Asymptomatic SARS-CoV-2	C5244047	Asymptomatic SARS-CoV-2		SEARCH (covid-19)
+SNOMEDCT_US	897034005	SARS-CoV-2 antibody test positive	C5244052	SARS-CoV-2 antibody test positive		SEARCH (covid-19)
+SNOMEDCT_US	897035006	SARS-CoV-2 antibody test negative	C5244055	SARS-CoV-2 antibody test negative		SEARCH (covid-19)
+SNOMEDCT_US	28531000087107	COVID-19 vaccine	C5387588	COVID-19 Vaccines		SEARCH (covid-19)
+SNOMEDCT_US	1119305005	SARS-CoV-2 antigen vaccine				DESC (28531000087107)
+SNOMEDCT_US	1119349007	SARS-CoV-2 mRNA vaccine				DESC (28531000087107)
+SNOMEDCT_US	1157024006	Inactivated whole SARS-CoV-2 antigen vaccine				DESC (28531000087107)
+SNOMEDCT_US	1162643001	SARS-CoV-2 recombinant spike protein antigen vaccine				DESC (28531000087107)
+SNOMEDCT_US	1187593009	SARS-CoV-2 DNA plasmid encoding spike protein vaccine				DESC (28531000087107)
+SNOMEDCT_US	29061000087103	COVID-19 non-replicating viral vector vaccine				DESC (28531000087107)
+SNOMEDCT_US	30141000087107	SARS-CoV-2 virus-like particle antigen vaccine				DESC (28531000087107)
+SNOMEDCT_US	895448002	Multisystem inflammatory syndrome in children	C5391534	multisystem inflammatory syndrome in children with COVID-19 infection		SEARCH (covid-19)
+SNOMEDCT_US	1240591000000102	SARS-CoV-2 not detected	C5397007	SARS-CoV-2 not detected		SEARCH (covid-19)
+SNOMEDCT_US	1240581000000104	SARS-CoV-2 detected	C5397008	SARS-CoV-2 detected		SEARCH (covid-19)
+SNOMEDCT_US	119741000146102	Conjunctivitis due to COVID-19	C5397032	Conjunctivitis due to COVID-19		SEARCH (covid-19)
+SNOMEDCT_US	-		C5397033	Dyspnea caused by SARS-CoV-2		
+SNOMEDCT_US	-		C5397034	Fever caused by SARS-CoV-2		
+SNOMEDCT_US	-		C5397035	Infection of upper respiratory tract caused by SARS-CoV-2		
+SNOMEDCT_US	1240471000000102	Measurement of SARS-CoV-2 antigen	C5397136	Measurement of SARS-CoV-2 antigen		SEARCH (covid-19)
+SNOMEDCT_US	1240461000000109	Measurement of SARS-CoV-2 antibody	C5397137	Measurement of Severe acute respiratory syndrome coronavirus 2 antibody (observable entity)		SEARCH (covid-19)
+SNOMEDCT_US	870577009	At increased risk of exposure to SARS-CoV-2	C5397138	At increased risk of exposure to SARS-CoV-2		SEARCH (covid-19)
+SNOMEDCT_US	292508471000119105	History of SARS-CoV-2	C5397139	History of SARS-CoV-2		SEARCH (covid-19)
+SNOMEDCT_US	688232241000119100	Disease caused by severe acute respiratory syndrome coronavirus 2 absent	C5397140	Disease caused by severe acute respiratory syndrome coronavirus 2 absent		SEARCH (covid-19)
+SNOMEDCT_US	866151004	Lymphocytopenia due to COVID-19	C5397141	Lymphocytopenia due to COVID-19		SEARCH (covid-19)
+SNOMEDCT_US	866152006	Thrombocytopenia due to COVID-19	C5397142	Thrombocytopenia due to COVID-19		SEARCH (covid-19)
+SNOMEDCT_US	-		C5397143	Acute bronchitis caused by SARS-CoV-2		
+SNOMEDCT_US	674814021000119106	Acute respiratory distress syndrome due to COVID-19	C5397144	Acute respiratory distress syndrome due to COVID-19		SEARCH (covid-19)
+SNOMEDCT_US	870588003	Sepsis due to disease caused by COVID-19	C5397145	Sepsis due to disease caused by COVID-19		SEARCH (covid-19)
+SNOMEDCT_US	-		C5397146	Infection of lower respiratory tract caused by SARS-CoV-2		
+SNOMEDCT_US	870591003	Rhabdomyolysis due to COVID-19	C5397147	Rhabdomyolysis due to COVID-19		SEARCH (covid-19)
+SNOMEDCT_US	870589006	Acute kidney injury due to COVID-19	C5397148	Acute kidney injury due to COVID-19		SEARCH (covid-19)
+SNOMEDCT_US	870590002	Acute hypoxemic respiratory failure due to COVID-19	C5397149	Acute hypoxemic respiratory failure due to COVID-19		SEARCH (covid-19)
+SNOMEDCT_US	1240521000000100	Otitis media due to COVID-19	C5397157	Otitis media due to COVID-19		SEARCH (covid-19)
+SNOMEDCT_US	1240531000000103	Myocarditis due to COVID-19	C5397158	Myocarditis due to COVID-19		SEARCH (covid-19)
+SNOMEDCT_US	1240561000000108	Encephalopathy due to COVID-19	C5397159	Encephalopathy due to COVID-19		SEARCH (covid-19)
+SNOMEDCT_US	119731000146105	Cardiomyopathy due to COVID-19	C5397160	Cardiomyopathy due to COVID-19		SEARCH (covid-19)
+SNOMEDCT_US	-		C5397185	Severe acute respiratory syndrome coronavirus 2 IgM		
+SNOMEDCT_US	-		C5397186	Severe acute respiratory syndrome coronavirus 2 IgG		
+SNOMEDCT_US	1240411000000107	Severe acute respiratory syndrome coronavirus 2 RNA	C5397190	Ribonucleic acid of Severe acute respiratory syndrome coronavirus 2 (substance)		SEARCH (covid-19)
+SNOMEDCT_US	871552002	Detection of SARS-CoV-2 antibody	C5397205	Detection of SARS-CoV-2 antibody		SEARCH (covid-19)
+SNOMEDCT_US	871553007	Detection of SARS-CoV-2 antigen	C5397206	Detection of SARS-CoV-2 antigen		SEARCH (covid-19)
+SNOMEDCT_US	871555000	Detection of ribonucleic acid of SARS-CoV-2	C5397208	Detection of ribonucleic acid of SARS-CoV-2		SEARCH (covid-19)
+SNOMEDCT_US	871556004	Detection of ribonucleic acid of SARS-CoV-2 in nasopharyngeal swab				DESC (871555000)
+SNOMEDCT_US	871557008	Detection of ribonucleic acid of SARS-CoV-2 in oropharyngeal swab				DESC (871555000)
+SNOMEDCT_US	871558003	Detection of ribonucleic acid of SARS-CoV-2 in sputum				DESC (871555000)
+SNOMEDCT_US	871559006	Detection of ribonucleic acid of SARS-CoV-2 in bronchoalveolar lavage fluid				DESC (871555000)
+SNOMEDCT_US	871560001	Detection of ribonucleic acid of SARS-CoV-2 using polymerase chain reaction				DESC (871555000)
+SNOMEDCT_US	-		C5397209	Detection of ribonucleic acid of SARS-CoV-2 in nasopharyngeal swab		
+SNOMEDCT_US	-		C5397210	Detection of ribonucleic acid of SARS-CoV-2 in oropharyngeal swab		
+SNOMEDCT_US	-		C5397211	Detection of ribonucleic acid of SARS-CoV-2 in sputum		
+SNOMEDCT_US	-		C5397212	Detection of ribonucleic acid of SARS-CoV-2 in bronchoalveolar lavage fluid		
+SNOMEDCT_US	-		C5397213	Detection of ribonucleic acid of SARS-CoV-2 using polymerase chain reaction		
+SNOMEDCT_US	871562009	Detection of SARS-CoV-2	C5397215	Detection of SARS-CoV-2		SEARCH (covid-19)
+SNOMEDCT_US	-		C5400365	SARS-CoV-2 viremia		
+SNOMEDCT_US	-		C5416826	SARS-CoV-2 mRNA vaccine		
+SNOMEDCT_US	-		C5431834	Post COVID-19 condition		
+SNOMEDCT_US	-		C5431941	pneumonia due to coronavirus disease 2019		
+SNOMEDCT_US	-		C5433293	post-acute COVID-19 syndrome		
+SNOMEDCT_US	-		C5439524	Acute COVID-19		
+SNOMEDCT_US	1119303003	Post-acute COVID-19	C5439525	Post-acute COVID-19		SEARCH (covid-19)
+SNOMEDCT_US	-		C5439526	SARS-CoV-2 antigen vaccine		
+SNOMEDCT_US	1119343008	Severe acute respiratory syndrome coronavirus 2 mRNA	C5439537	Severe acute respiratory syndrome coronavirus 2 mRNA		SEARCH (covid-19)
+SNOMEDCT_US	1155866009	Severe acute respiratory syndrome coronavirus 2 mRNA encoding spike protein				DESC (1119343008)
+SNOMEDCT_US	1157170002	Tozinameran				DESC (1119343008)
+SNOMEDCT_US	1172706007	Elasomeran				DESC (1119343008)
+SNOMEDCT_US	1119304009	Chronic post-COVID-19 syndrome	C5439539	Chronic post-COVID-19 syndrome		SEARCH (covid-19)
+SNOMEDCT_US	-		C5539296	Encounter for screening for COVID-19		
+SNOMEDCT_US	-		C5539297	Contact with and (suspected) exposure to COVID-19		
+SNOMEDCT_US	-		C5539308	Personal history of COVID-19		
+SNOMEDCT_US	-		C5539317	Post COVID-19 condition, unspecified		
+SNOMEDCT_US	-		C5547424	Inactivated whole severe acute respiratory syndrome coronavirus 2 antigen		
+SNOMEDCT_US	-		C5547660	Severe acute respiratory syndrome coronavirus 2 mRNA encoding spike protein		
+SNOMEDCT_US	-		C5548350	Inactivated whole SARS-CoV-2 antigen vaccine		
+SNOMEDCT_US	-		C5548359	Severe acute respiratory syndrome coronavirus 2 protein antigen		
+SNOMEDCT_US	1157047007	Recombinant non-replicating human adenovirus 26 vector encoding severe acute respiratory syndrome coronavirus 2 spike protein	C5548360	Recombinant non-replicating human adenovirus 26 vector encoding severe acute respiratory syndrome coronavirus 2 spike protein		SEARCH (covid-19)
+SNOMEDCT_US	1157048002	Recombinant non-replicating human adenovirus 5 vector encoding severe acute respiratory syndrome coronavirus 2 spike protein	C5548361	Recombinant non-replicating human adenovirus 5 vector encoding severe acute respiratory syndrome coronavirus 2 spike protein		SEARCH (covid-19)
+SNOMEDCT_US	1157046003	Recombinant non-replicating chimpanzee adenovirus vector encoding severe acute respiratory syndrome coronavirus 2 spike protein	C5548362	Recombinant non-replicating chimpanzee adenovirus vector encoding severe acute respiratory syndrome coronavirus 2 spike protein		SEARCH (covid-19)
+SNOMEDCT_US	1157044000	Recombinant non-replicating viral vector encoding severe acute respiratory syndrome coronavirus 2 spike protein	C5548363	Recombinant non-replicating viral vector encoding severe acute respiratory syndrome coronavirus 2 spike protein		SEARCH (covid-19)
+SNOMEDCT_US	-		C5548427	Severe acute respiratory syndrome coronavirus 2 recombinant spike protein antigen		
+SNOMEDCT_US	1162648005	Second dose of recombinant spike protein SARS-CoV-2 antigen vaccine contraindicated	C5548574	Second dose of recombinant spike protein SARS-CoV-2 antigen vaccine contraindicated		SEARCH (covid-19)
+SNOMEDCT_US	1162649002	SARS-CoV-2 recombinant spike protein antigen vaccine declined	C5548575	SARS-CoV-2 recombinant spike protein antigen vaccine declined		SEARCH (covid-19)
+SNOMEDCT_US	1162650002	Second dose of SARS-CoV-2 recombinant spike protein antigen vaccine declined				DESC (1162649002)
+SNOMEDCT_US	-		C5548576	Second dose of SARS-CoV-2 recombinant spike protein antigen vaccine declined		
+SNOMEDCT_US	471951000124103	Education about disease caused by severe acute respiratory syndrome coronavirus 2	C5549889	Education about disease caused by severe acute respiratory syndrome coronavirus 2		SEARCH (covid-19)
+SNOMEDCT_US	471961000124101	Fear of contracting disease caused by severe acute respiratory syndrome coronavirus 2	C5549890	Fear of contracting disease caused by severe acute respiratory syndrome coronavirus 2		SEARCH (covid-19)
+SNOMEDCT_US	1163582002	COVID-19 testing site	C5567197	COVID-19 testing site		SEARCH (covid-19)
+SNOMEDCT_US	1179498004	SARS-CoV-2 virus-like particle antigen vaccine contraindicated	C5568264	SARS-CoV-2 virus-like particle antigen vaccine contraindicated		SEARCH (covid-19)
+SNOMEDCT_US	1179499007	Second dose of virus-like particle SARS-CoV-2 antigen vaccine contraindicated				DESC (1179498004)
+SNOMEDCT_US	1179500003	SARS-CoV-2 virus-like particle antigen vaccine declined	C5568265	SARS-CoV-2 virus-like particle antigen vaccine declined		SEARCH (covid-19)
+SNOMEDCT_US	1179501004	Second dose of SARS-CoV-2 virus-like particle antigen vaccine declined				DESC (1179500003)
+SNOMEDCT_US	-		C5568748	Second dose of SARS-CoV-2 virus-like particle antigen vaccine declined		
+SNOMEDCT_US	1187591006	Severe acute respiratory syndrome coronavirus 2 DNA plasmid encoding spike protein	C5569043	Severe acute respiratory syndrome coronavirus 2 DNA plasmid encoding spike protein		SEARCH (covid-19)
+SNOMEDCT_US	-		C5569045	SARS-CoV-2 DNA plasmid encoding spike protein vaccine		
+SNOMEDCT_US	1193581003	Adverse reaction to COVID-19 DNA plasmid encoding spike protein vaccine	C5569137	Adverse reaction to COVID-19 DNA plasmid encoding spike protein vaccine		SEARCH (covid-19)
+SNOMEDCT_US	-		C5569138	Administration of SARS-CoV-2 DNA plasmid encoding spike protein vaccine		
+SNOMEDCT_US	1193584006	SARS-CoV-2 DNA plasmid encoding spike protein vaccine contraindicated	C5569139	SARS-CoV-2 DNA plasmid encoding spike protein vaccine contraindicated		SEARCH (covid-19)
+SNOMEDCT_US	1193582005	SARS-CoV-2 DNA plasmid encoding spike protein vaccine declined	C5569153	SARS-CoV-2 DNA plasmid encoding spike protein vaccine declined		SEARCH (covid-19)
+SNOMEDCT_US	243608008	Coronavirus	C0206419	Genus: Coronavirus	Narrow	CASEDEF
+SNOMEDCT_US	88711001	Coronavirus	C0206419	Genus: Coronavirus	Narrow	CASEDEF
+SNOMEDCT_US	186747009	Coronavirus infection	C0206750	Coronavirus Infections	Narrow	CASEDEF
+SNOMEDCT_US	1017214008	SARS-CoV-2 viremia			Narrow	DESC (186747009)
+SNOMEDCT_US	1119302008	Acute COVID-19			Narrow	DESC (186747009)
+SNOMEDCT_US	119751000146104	Fever caused by SARS-CoV-2			Narrow	DESC (186747009)
+SNOMEDCT_US	119981000146107	Dyspnea caused by SARS-CoV-2			Narrow	DESC (186747009)
+SNOMEDCT_US	1217296006	SARS-CoV-2 breakthrough infection			Narrow	DESC (186747009)
+SNOMEDCT_US	1240541000000107	Infection of upper respiratory tract caused by SARS-CoV-2			Narrow	DESC (186747009)
+SNOMEDCT_US	138389411000119105	Acute bronchitis caused by SARS-CoV-2			Narrow	DESC (186747009)
+SNOMEDCT_US	398447004	Severe acute respiratory syndrome			Narrow	DESC (186747009)
+SNOMEDCT_US	408688009	Healthcare associated severe acute respiratory syndrome			Narrow	DESC (186747009)
+SNOMEDCT_US	441590008	Pneumonia due to Severe acute respiratory syndrome coronavirus			Narrow	DESC (186747009)
+SNOMEDCT_US	651000146102	Middle East respiratory syndrome			Narrow	DESC (186747009)
+SNOMEDCT_US	713084008	Pneumonia caused by Human coronavirus			Narrow	DESC (186747009)
+SNOMEDCT_US	715882005	Severe acute respiratory syndrome of upper respiratory tract			Narrow	DESC (186747009)
+SNOMEDCT_US	840539006	COVID-19			Narrow	DESC (186747009)
+SNOMEDCT_US	880529761000119102	Infection of lower respiratory tract caused by SARS-CoV-2			Narrow	DESC (186747009)
+SNOMEDCT_US	882784691000119100	Pneumonia caused by SARS-CoV-2			Narrow	DESC (186747009)
+SNOMEDCT_US	187467005	[X]Coronavirus infection, unspecified	C0206750	Coronavirus Infections	Narrow	CASEDEF
+SNOMEDCT_US	186758000	Coronavirus as the cause of diseases classified to other chapters	C0348984	Coronavirus as the cause of diseases classified to other chapters	Narrow	CASEDEF
+SNOMEDCT_US	187587009	Coronavirus as the cause of diseases classified to other chapters	C0348984	Coronavirus as the cause of diseases classified to other chapters	Narrow	CASEDEF
+SNOMEDCT_US	-		C0859831	Other specified diseases due to viruses	Possible	
+SNOMEDCT_US	700217006	Suspected coronavirus infection	C3838696	Suspected coronavirus infection	Possible	CASEDEF
+SNOMEDCT_US	12591000132100	Suspected SARS (severe acute respiratory syndrome)			Possible	DESC (700217006)
+SNOMEDCT_US	840544004	Suspected COVID-19			Possible	DESC (700217006)
+ICPC	-		C5203670	COVID19 (disease)		
+ICPC	-		C0206750	Coronavirus Infections		
+ICPC	-		C5433293	post-acute COVID-19 syndrome		
+ICPC	-		C5400365	SARS-CoV-2 viremia		
+ICPC	-		C5203672	SARS-CoV-2 vaccination		
+ICPC	-		C5439599	Adverse reaction to COVID-19 vaccine		
+ICPC	-		C5203671	Suspected COVID-19		
+ICPC	-		C5203673	Antigen of SARS-CoV-2		
+ICPC	-		C5203674	Antibody to SARS-CoV-2		
+ICPC	-		C5203675	Exposure to SARS-CoV-2		
+ICPC	-		C5203676	SARS-CoV-2		
+ICPC	-		C5244027	Pneumonia caused by SARS-CoV-2		
+ICPC	-		C5244030	Occupational exposure to SARS-CoV-2		
+ICPC	-		C5244047	Asymptomatic SARS-CoV-2		
+ICPC	-		C5244052	SARS-CoV-2 antibody test positive		
+ICPC	-		C5244055	SARS-CoV-2 antibody test negative		
+ICPC	-		C5387588	COVID-19 Vaccines		
+ICPC	-		C5391534	multisystem inflammatory syndrome in children with COVID-19 infection		
+ICPC	-		C5397007	SARS-CoV-2 not detected		
+ICPC	-		C5397008	SARS-CoV-2 detected		
+ICPC	-		C5397032	Conjunctivitis due to COVID-19		
+ICPC	-		C5397033	Dyspnea caused by SARS-CoV-2		
+ICPC	-		C5397034	Fever caused by SARS-CoV-2		
+ICPC	-		C5397035	Infection of upper respiratory tract caused by SARS-CoV-2		
+ICPC	-		C5397136	Measurement of SARS-CoV-2 antigen		
+ICPC	-		C5397137	Measurement of Severe acute respiratory syndrome coronavirus 2 antibody (observable entity)		
+ICPC	-		C5397138	At increased risk of exposure to SARS-CoV-2		
+ICPC	-		C5397139	History of SARS-CoV-2		
+ICPC	-		C5397140	Disease caused by severe acute respiratory syndrome coronavirus 2 absent		
+ICPC	-		C5397141	Lymphocytopenia due to COVID-19		
+ICPC	-		C5397142	Thrombocytopenia due to COVID-19		
+ICPC	-		C5397143	Acute bronchitis caused by SARS-CoV-2		
+ICPC	-		C5397144	Acute respiratory distress syndrome due to COVID-19		
+ICPC	-		C5397145	Sepsis due to disease caused by COVID-19		
+ICPC	-		C5397146	Infection of lower respiratory tract caused by SARS-CoV-2		
+ICPC	-		C5397147	Rhabdomyolysis due to COVID-19		
+ICPC	-		C5397148	Acute kidney injury due to COVID-19		
+ICPC	-		C5397149	Acute hypoxemic respiratory failure due to COVID-19		
+ICPC	-		C5397157	Otitis media due to COVID-19		
+ICPC	-		C5397158	Myocarditis due to COVID-19		
+ICPC	-		C5397159	Encephalopathy due to COVID-19		
+ICPC	-		C5397160	Cardiomyopathy due to COVID-19		
+ICPC	-		C5397185	Severe acute respiratory syndrome coronavirus 2 IgM		
+ICPC	-		C5397186	Severe acute respiratory syndrome coronavirus 2 IgG		
+ICPC	-		C5397190	Ribonucleic acid of Severe acute respiratory syndrome coronavirus 2 (substance)		
+ICPC	-		C5397205	Detection of SARS-CoV-2 antibody		
+ICPC	-		C5397206	Detection of SARS-CoV-2 antigen		
+ICPC	-		C5397208	Detection of ribonucleic acid of SARS-CoV-2		
+ICPC	-		C5397209	Detection of ribonucleic acid of SARS-CoV-2 in nasopharyngeal swab		
+ICPC	-		C5397210	Detection of ribonucleic acid of SARS-CoV-2 in oropharyngeal swab		
+ICPC	-		C5397211	Detection of ribonucleic acid of SARS-CoV-2 in sputum		
+ICPC	-		C5397212	Detection of ribonucleic acid of SARS-CoV-2 in bronchoalveolar lavage fluid		
+ICPC	-		C5397213	Detection of ribonucleic acid of SARS-CoV-2 using polymerase chain reaction		
+ICPC	-		C5397215	Detection of SARS-CoV-2		
+ICPC	-		C5400365	SARS-CoV-2 viremia		
+ICPC	-		C5416826	SARS-CoV-2 mRNA vaccine		
+ICPC	-		C5431834	Post COVID-19 condition		
+ICPC	-		C5431941	pneumonia due to coronavirus disease 2019		
+ICPC	-		C5433293	post-acute COVID-19 syndrome		
+ICPC	-		C5439524	Acute COVID-19		
+ICPC	-		C5439525	Post-acute COVID-19		
+ICPC	-		C5439526	SARS-CoV-2 antigen vaccine		
+ICPC	-		C5439537	Severe acute respiratory syndrome coronavirus 2 mRNA		
+ICPC	-		C5439539	Chronic post-COVID-19 syndrome		
+ICPC	-		C5539296	Encounter for screening for COVID-19		
+ICPC	-		C5539297	Contact with and (suspected) exposure to COVID-19		
+ICPC	-		C5539308	Personal history of COVID-19		
+ICPC	-		C5539317	Post COVID-19 condition, unspecified		
+ICPC	-		C5547424	Inactivated whole severe acute respiratory syndrome coronavirus 2 antigen		
+ICPC	-		C5547660	Severe acute respiratory syndrome coronavirus 2 mRNA encoding spike protein		
+ICPC	-		C5548350	Inactivated whole SARS-CoV-2 antigen vaccine		
+ICPC	-		C5548359	Severe acute respiratory syndrome coronavirus 2 protein antigen		
+ICPC	-		C5548360	Recombinant non-replicating human adenovirus 26 vector encoding severe acute respiratory syndrome coronavirus 2 spike protein		
+ICPC	-		C5548361	Recombinant non-replicating human adenovirus 5 vector encoding severe acute respiratory syndrome coronavirus 2 spike protein		
+ICPC	-		C5548362	Recombinant non-replicating chimpanzee adenovirus vector encoding severe acute respiratory syndrome coronavirus 2 spike protein		
+ICPC	-		C5548363	Recombinant non-replicating viral vector encoding severe acute respiratory syndrome coronavirus 2 spike protein		
+ICPC	-		C5548427	Severe acute respiratory syndrome coronavirus 2 recombinant spike protein antigen		
+ICPC	-		C5548574	Second dose of recombinant spike protein SARS-CoV-2 antigen vaccine contraindicated		
+ICPC	-		C5548575	SARS-CoV-2 recombinant spike protein antigen vaccine declined		
+ICPC	-		C5548576	Second dose of SARS-CoV-2 recombinant spike protein antigen vaccine declined		
+ICPC	-		C5549889	Education about disease caused by severe acute respiratory syndrome coronavirus 2		
+ICPC	-		C5549890	Fear of contracting disease caused by severe acute respiratory syndrome coronavirus 2		
+ICPC	-		C5567197	COVID-19 testing site		
+ICPC	-		C5568264	SARS-CoV-2 virus-like particle antigen vaccine contraindicated		
+ICPC	-		C5568265	SARS-CoV-2 virus-like particle antigen vaccine declined		
+ICPC	-		C5568748	Second dose of SARS-CoV-2 virus-like particle antigen vaccine declined		
+ICPC	-		C5569043	Severe acute respiratory syndrome coronavirus 2 DNA plasmid encoding spike protein		
+ICPC	-		C5569045	SARS-CoV-2 DNA plasmid encoding spike protein vaccine		
+ICPC	-		C5569137	Adverse reaction to COVID-19 DNA plasmid encoding spike protein vaccine		
+ICPC	-		C5569138	Administration of SARS-CoV-2 DNA plasmid encoding spike protein vaccine		
+ICPC	-		C5569139	SARS-CoV-2 DNA plasmid encoding spike protein vaccine contraindicated		
+ICPC	-		C5569153	SARS-CoV-2 DNA plasmid encoding spike protein vaccine declined		
+ICPC	-		C0206419	Genus: Coronavirus	Narrow	
+ICPC	-		C0206750	Coronavirus Infections	Narrow	
+ICPC	-		C0348984	Coronavirus as the cause of diseases classified to other chapters	Narrow	
+ICPC	-		C0859831	Other specified diseases due to viruses	Possible	
+ICPC	-		C3838696	Suspected coronavirus infection	Possible	

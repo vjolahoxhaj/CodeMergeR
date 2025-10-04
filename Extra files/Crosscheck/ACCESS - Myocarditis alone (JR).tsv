@@ -1,0 +1,1899 @@
+Coding system	Code	Code name	Concept	Concept name	Tags	Origin
+ICD10	I09.0	Rheumatic myocarditis	C0489959	Rheumatoid myocarditis		SEARCH (myocarditis)
+ICD10	I40	Acute myocarditis	C0155686	Acute myocarditis		SEARCH (myocarditis)
+ICD10	I40.0	Infective myocarditis				DESC (I40)
+ICD10	I40.1	Isolated myocarditis				DESC (I40)
+ICD10	I40.8	Other acute myocarditis				DESC (I40)
+ICD10	I40.9	Acute myocarditis, unspecified				DESC (I40)
+ICD10	I51.4	Myocarditis, unspecified	C0027059	Myocarditis		SEARCH (myocarditis)
+ICD10	-		C0155692	Other acute myocarditis		
+ICD10	-		C0155689	Isolated (Fiedler's) myocarditis		
+ICD10	I01.2	Acute rheumatic myocarditis	C0155557	Acute rheumatic myocarditis		SEARCH (myocarditis)
+ICD10	-		C0155687	Acute myocarditis in diseases classified elsewhere		
+ICD10	-		C0155690	Septic myocarditis		
+ICD10	-		C0276804	Toxoplasma myocarditis		
+ICD10	-		C0340432	Sarcoid heart muscle disease		
+ICD10	-		C0152961	Meningococcal myocarditis		
+ICD10	-		C0153165	Syphilitic myocarditis		
+ICD10	-		C0152952	Diphtheritic myocarditis		
+ICD10	-		C0264856	Giant cell myocarditis		
+ICD10	-		C0153106	Coxsackie myocarditis		
+ICD10	-		C0155691	Toxic myocarditis		
+ICD10	-		C0264752	Chronic rheumatic myocarditis		
+ICD10	I42.3	Endomyocardial (eosinophilic) disease	C0264834	Primary eosinophilic endomyocardial restrictive cardiomyopathy		SEARCH (myocarditis)
+ICD10	-		C0264852	Chronic interstitial myocarditis		
+ICD10	-		C0276138	Viral myocarditis		
+ICD10	-		C0276513	Subacute myocarditis with AIDS (acquired immunodeficiency syndrome)		
+ICD10	I41.0	Myocarditis in bacterial diseases classified elsewhere	C0348611	Myocarditis in bacterial diseases classified elsewhere		SEARCH (myocarditis)
+ICD10	I41.1	Myocarditis in viral diseases classified elsewhere	C0348612	Myocarditis in viral diseases classified elsewhere		SEARCH (myocarditis)
+ICD10	I41.2	Myocarditis in other infectious and parasitic diseases classified elsewhere	C0348613	Myocarditis in other infectious and parasitic diseases classified elsewhere		SEARCH (myocarditis)
+ICD10	I41.8	Myocarditis in other diseases classified elsewhere	C0348614	Myocarditis in other diseases classified elsewhere		SEARCH (myocarditis)
+ICD10	-		C0398355	Acute myocarditis - meningococcal		
+ICD10	-		C0729608	Myocarditis due to infectious agent		
+ICD10	-		C0264797	Dilated cardiomyopathy due to viral myocarditis		
+ICD10	-		C0264853	Fibroid myocarditis		
+ICD10	-		C0264854	Senile myocarditis		
+ICD10	-		C0264855	Isolated diffuse granulomatous myocarditis		
+ICD10	-		C0276320	Mumps myocarditis		
+ICD10	-		C0276350	Myocarditis due to influenza virus		
+ICD10	-		C0276432	aseptic myocarditis of newborn		
+ICD10	-		C0340405	Acute aseptic myocarditis of the newborn		
+ICD10	-		C0340407	Acute myocarditis - influenzal		
+ICD10	-		C0340409	Septic myocarditis - streptococcal		
+ICD10	-		C0340410	Septic myocarditis - staphylococcal		
+ICD10	-		C0340411	Septic myocarditis - pneumococcal		
+ICD10	-		C0340412	Acute myocarditis - tuberculous		
+ICD10	-		C0340413	Acute myocarditis - syphilitic		
+ICD10	-		C0553979	Acute myocarditis - toxoplasmosis		
+ICD10	-		C0579991	Acute myocarditis - coxsackie		
+ICD10	-		C0579992	Acute myocarditis - diphtheritic		
+ICD10	-		C2893394	Gonococcal myocarditis		
+ICD10	-		C3661903	Myocarditis due to Influenza A virus subtype H1N1		
+ICD10	-		C0027060	Interstitial myocarditis		
+ICD10	-		C0151788	Eosinophilic myocarditis		
+ICD10	-		C0264798	Dilated cardiomyopathy due to bacterial myocarditis		
+ICD10	-		C0264799	Dilated cardiomyopathy due to fungal myocarditis		
+ICD10	-		C0264800	Dilated cardiomyopathy due to protozoan myocarditis		
+ICD10	-		C0264801	Dilated cardiomyopathy secondary to metazoal myocarditis		
+ICD10	-		C0264851	Subacute interstitial myocarditis		
+ICD10	-		C0264857	Myocarditis due to hypersensitivity state		
+ICD10	-		C0264858	Myocarditis due to radiation		
+ICD10	-		C0264859	Myocarditis due to chemical agent		
+ICD10	-		C0264860	Myocarditis due to drug		
+ICD10	-		C0264861	Myocarditis due to physical agent		
+ICD10	-		C0276163	Adenoviral myocarditis		
+ICD10	-		C0276309	Rubella myocarditis		
+ICD10	-		C0276336	Measles myocarditis		
+ICD10	-		C0276512	AIDS with acute myocarditis		
+ICD10	-		C0276776	Protozoan myocarditis		
+ICD10	-		C0340414	Q fever myocarditis		
+ICD10	-		C0340415	Fungal myocarditis		
+ICD10	-		C0340416	Parasitic myocarditis		
+ICD10	I41	Myocarditis in diseases classified elsewhere	C0694498	Myocarditis in diseases classified elsewhere		SEARCH (myocarditis)
+ICD10	-		C0865681	Chronic myocarditis		
+ICD10	-		C1384588	Bacterial myocarditis		
+ICD10	-		C1531771	Coxsackie myocarditis of newborn		
+ICD10	-		C1690442	Acute myocarditis associated with another disorder		
+ICD10	-		C1719813	Myocarditis with AIDS (acquired immunodeficiency syndrome)		
+ICD10	-		C1960273	Lymphocytic myocarditis		
+ICD10	-		C2585300	Family history of myocarditis		
+ICD10	-		C3531948	Myocarditis due to Genus Rickettsia		
+ICD10	-		C3531950	Myocarditis due to Genus Candida		
+ICD10	-		C3531951	Myocarditis due to Genus Aspergillus		
+ICD10	-		C3531952	Myocarditis due to echovirus		
+ICD10	-		C3531953	Myocarditis due to Order Spirochaetales		
+ICD10	-		C3532017	Myocarditis due to Genus Borrelia		
+ICD10	-		C3532265	Fetal myocarditis		
+ICD10	-		C3532347	Cardiovascular abnormality due to infective myocarditis		
+ICD10	-		C3839467	Heart failure with reduced ejection fraction due to myocarditis		
+ICD10	-		C4039176	Myocarditis due to scarlet fever		
+ICD10	-		C4040593	Myocarditis due to Influenza A virus		
+ICD10	-		C4076233	Myocarditis co-occurrent with human immunodeficiency virus infection		
+ICD10	-		C5396716	Myocarditis due to childhood type dermatomyositis		
+ICD10	-		C5397158	Myocarditis due to COVID-19		
+ICD10	-		C5397305	Myocarditis due to Chaga disease		
+ICD10	-		C5397337	Myocarditis due to autoimmune disease		
+ICD10	-		C5437446	Myocarditis due to Kawasaki disease		
+ICD10	-		C5547370	Dilated cardiomyopathy due to parasitic myocarditis		
+ICD10	-		C0865640	myocarditis; acute or subacute		
+ICD10	-		C0865641	Acute or subacute interstitial myocarditis		
+ICD10	-		C0865642	Acute or subacute myocarditis, Fiedler's		
+ICD10	-		C0865643	Acute or subacute myocarditis, giant cell		
+ICD10	-		C0865644	Acute or subacute myocarditis, isolated		
+ICD10	-		C0865645	Isolated diffuse myocarditis		
+ICD10	-		C0865646	Isolated diffuse acute or subacute myocarditis		
+ICD10	-		C0865647	Isolated granulomatous myocarditis		
+ICD10	-		C0865648	Isolated granulomatous acute or subacute myocarditis		
+ICD10	-		C0865649	Isolated diffuse granulomatous acute or subacute myocarditis		
+ICD10	-		C0865650	Acute or subacute myocarditis, nonspecific granulomatous		
+ICD10	-		C0865651	Acute or subacute myocarditis, pneumococcal		
+ICD10	-		C0865652	Acute or subacute myocarditis, staphylococcal		
+ICD10	-		C0865680	Myocarditis with mention of arteriosclerosis		
+ICD10	-		C0865682	Chronic myocarditis with mention of arteriosclerosis		
+ICD10	-		C0865683	Chronic interstitial myocarditis with mention of arteriosclerosis		
+ICD10	-		C0865684	Fibroid myocarditis with mention of arteriosclerosis		
+ICD10	-		C0865685	Senile myocarditis with mention of arteriosclerosis		
+ICD10	-		C2118532	tuberculous myocarditis		
+ICD10	-		C2830256	Acute Chagas' disease with myocarditis		
+ICD10	-		C2830257	Chagas' disease (chronic) with myocarditis		
+ICD10	-		C2880087	Typhoid myocarditis		
+ICD10	-		C2882053	Any condition in I00 with myocarditis		
+ICD10	-		C2887078	Scarlet fever with myocarditis		
+ICD10	-		C2977049	Influenza due to other identified influenza virus with myocarditis		
+ICD10	-		C2977061	Influenza due to unidentified influenza virus with myocarditis		
+ICD10	-		C3264390	Influenza due to identified novel influenza A virus with myocarditis		
+ICD10	-		C3463914	Subacute myocarditis		
+ICD10	I51.4	Myocarditis, unspecified	C0027059	Myocarditis	Narrow	CASEDEF
+ICD10	I24.1	Dressler's syndrome	C0152107	Postmyocardial infarction syndrome		NARROWER (C0027059)
+ICD10	-		C0155690	Septic myocarditis		
+ICD10	-		C3670881	Granulomatous myocarditis	Narrow	
+ICD10	I41	Myocarditis in diseases classified elsewhere	C0694498	Myocarditis in diseases classified elsewhere	Narrow	NARROWER (C0027059)
+ICD10	I41.0	Myocarditis in bacterial diseases classified elsewhere			Narrow	DESC (I41)
+ICD10	I41.1	Myocarditis in viral diseases classified elsewhere			Narrow	DESC (I41)
+ICD10	I41.2	Myocarditis in other infectious and parasitic diseases classified elsewhere			Narrow	DESC (I41)
+ICD10	I41.8	Myocarditis in other diseases classified elsewhere			Narrow	DESC (I41)
+ICD10	-		C4039176	Myocarditis due to scarlet fever	Narrow	
+ICD10	-		C0027060	Interstitial myocarditis	Narrow	
+ICD10	-		C0151654	Myocardial fibrosis	Narrow	
+ICD10	-		C4531194	Interstitial cardiac fibrosis	Possible	
+ICD10	I40	Acute myocarditis	C0155686	Acute myocarditis	Narrow	CASEDEF
+ICD10	I40.0	Infective myocarditis			Narrow	DESC (I40)
+ICD10	I40.1	Isolated myocarditis			Narrow	DESC (I40)
+ICD10	I40.8	Other acute myocarditis			Narrow	DESC (I40)
+ICD10	I40.9	Acute myocarditis, unspecified			Narrow	DESC (I40)
+ICD10	-		C0155689	Isolated (Fiedler's) myocarditis	Narrow	
+ICD10	I01.2	Acute rheumatic myocarditis	C0155557	Acute rheumatic myocarditis	Narrow	NARROWER (C0155686)
+ICD10	-		C0155687	Acute myocarditis in diseases classified elsewhere	Narrow	
+ICD10	-		C0155687	Acute myocarditis in diseases classified elsewhere	Narrow	
+ICD10	-		C0155692	Other acute myocarditis	Narrow	
+ICD10	-		C0155686	Acute myocarditis	Narrow	
+ICD10	-		C0155689	Isolated (Fiedler's) myocarditis	Narrow	
+ICD10	-		C0155557	Acute rheumatic myocarditis	Narrow	
+ICD10	-		C0155687	Acute myocarditis in diseases classified elsewhere	Narrow	
+ICD10	-		C0155691	Toxic myocarditis	Narrow	
+ICD10	-		C0264852	Chronic interstitial myocarditis	Narrow	
+ICD10	-		C0264853	Fibroid myocarditis	Narrow	
+ICD10	-		C2074697	fibroid chronic myocarditis	Narrow	
+ICD10	-		C0264854	Senile myocarditis	Narrow	
+ICD10	-		C0348611	Myocarditis in bacterial diseases classified elsewhere	Narrow	
+ICD10	-		C0152952	Diphtheritic myocarditis	Narrow	
+ICD10	-		C0579992	Acute myocarditis - diphtheritic	Narrow	
+ICD10	-		C0348612	Myocarditis in viral diseases classified elsewhere	Narrow	
+ICD10	-		C1388749	aseptic; myocarditis (manifestation)	Narrow	
+ICD10	-		C0348613	Myocarditis in other infectious and parasitic diseases classified elsewhere	Narrow	
+ICD10	-		C1391996	Chagas; cardiomyopathy (manifestation)	Narrow	
+ICD10	-		C0348614	Myocarditis in other diseases classified elsewhere	Narrow	
+ICD10	-		C1388630	arthritis; rheumatoid, with myocarditis (manifestation)	Narrow	
+ICD10	-		C0865680	Myocarditis with mention of arteriosclerosis	Narrow	
+ICD10	-		C0865681	Chronic myocarditis	Narrow	
+ICD10	-		C0264756	Chronic rheumatic myopericarditis	Narrow	
+ICD10	-		C0264852	Chronic interstitial myocarditis	Narrow	
+ICD10	-		C0865682	Chronic myocarditis with mention of arteriosclerosis	Narrow	
+ICD10	-		C0865683	Chronic interstitial myocarditis with mention of arteriosclerosis	Narrow	
+ICD10	-		C0865684	Fibroid myocarditis with mention of arteriosclerosis	Narrow	
+ICD10	-		C0865685	Senile myocarditis with mention of arteriosclerosis	Narrow	
+ICD10CM	I09.0	Rheumatic myocarditis	C0489959	Rheumatoid myocarditis		SEARCH (myocarditis)
+ICD10CM	M05.3	Rheumatoid myocarditis	C0489959	Rheumatoid myocarditis		SEARCH (myocarditis)
+ICD10CM	M05.30	Rheumatoid heart disease with rheumatoid arthritis of unspecified site				DESC (M05.3)
+ICD10CM	M05.31	Rheumatoid heart disease with rheumatoid arthritis of shoulder				DESC (M05.3)
+ICD10CM	M05.311	Rheumatoid heart disease with rheumatoid arthritis of right shoulder				DESC (M05.3)
+ICD10CM	M05.312	Rheumatoid heart disease with rheumatoid arthritis of left shoulder				DESC (M05.3)
+ICD10CM	M05.319	Rheumatoid heart disease with rheumatoid arthritis of unspecified shoulder				DESC (M05.3)
+ICD10CM	M05.32	Rheumatoid heart disease with rheumatoid arthritis of elbow				DESC (M05.3)
+ICD10CM	M05.321	Rheumatoid heart disease with rheumatoid arthritis of right elbow				DESC (M05.3)
+ICD10CM	M05.322	Rheumatoid heart disease with rheumatoid arthritis of left elbow				DESC (M05.3)
+ICD10CM	M05.329	Rheumatoid heart disease with rheumatoid arthritis of unspecified elbow				DESC (M05.3)
+ICD10CM	M05.33	Rheumatoid heart disease with rheumatoid arthritis of wrist				DESC (M05.3)
+ICD10CM	M05.331	Rheumatoid heart disease with rheumatoid arthritis of right wrist				DESC (M05.3)
+ICD10CM	M05.332	Rheumatoid heart disease with rheumatoid arthritis of left wrist				DESC (M05.3)
+ICD10CM	M05.339	Rheumatoid heart disease with rheumatoid arthritis of unspecified wrist				DESC (M05.3)
+ICD10CM	M05.34	Rheumatoid heart disease with rheumatoid arthritis of hand				DESC (M05.3)
+ICD10CM	M05.341	Rheumatoid heart disease with rheumatoid arthritis of right hand				DESC (M05.3)
+ICD10CM	M05.342	Rheumatoid heart disease with rheumatoid arthritis of left hand				DESC (M05.3)
+ICD10CM	M05.349	Rheumatoid heart disease with rheumatoid arthritis of unspecified hand				DESC (M05.3)
+ICD10CM	M05.35	Rheumatoid heart disease with rheumatoid arthritis of hip				DESC (M05.3)
+ICD10CM	M05.351	Rheumatoid heart disease with rheumatoid arthritis of right hip				DESC (M05.3)
+ICD10CM	M05.352	Rheumatoid heart disease with rheumatoid arthritis of left hip				DESC (M05.3)
+ICD10CM	M05.359	Rheumatoid heart disease with rheumatoid arthritis of unspecified hip				DESC (M05.3)
+ICD10CM	M05.36	Rheumatoid heart disease with rheumatoid arthritis of knee				DESC (M05.3)
+ICD10CM	M05.361	Rheumatoid heart disease with rheumatoid arthritis of right knee				DESC (M05.3)
+ICD10CM	M05.362	Rheumatoid heart disease with rheumatoid arthritis of left knee				DESC (M05.3)
+ICD10CM	M05.369	Rheumatoid heart disease with rheumatoid arthritis of unspecified knee				DESC (M05.3)
+ICD10CM	M05.37	Rheumatoid heart disease with rheumatoid arthritis of ankle and foot				DESC (M05.3)
+ICD10CM	M05.371	Rheumatoid heart disease with rheumatoid arthritis of right ankle and foot				DESC (M05.3)
+ICD10CM	M05.372	Rheumatoid heart disease with rheumatoid arthritis of left ankle and foot				DESC (M05.3)
+ICD10CM	M05.379	Rheumatoid heart disease with rheumatoid arthritis of unspecified ankle and foot				DESC (M05.3)
+ICD10CM	M05.39	Rheumatoid heart disease with rheumatoid arthritis of multiple sites				DESC (M05.3)
+ICD10CM	I40	Acute myocarditis	C0155686	Acute myocarditis		SEARCH (myocarditis)
+ICD10CM	I40.0	Infective myocarditis				DESC (I40)
+ICD10CM	I40.1	Isolated myocarditis				DESC (I40)
+ICD10CM	I40.8	Other acute myocarditis				DESC (I40)
+ICD10CM	I40.9	Acute myocarditis, unspecified				DESC (I40)
+ICD10CM	I51.4	Myocarditis, unspecified	C0027059	Myocarditis		SEARCH (myocarditis)
+ICD10CM	-		C0155692	Other acute myocarditis		
+ICD10CM	-		C0155689	Isolated (Fiedler's) myocarditis		
+ICD10CM	I01.2	Acute rheumatic myocarditis	C0155557	Acute rheumatic myocarditis		SEARCH (myocarditis)
+ICD10CM	-		C0155687	Acute myocarditis in diseases classified elsewhere		
+ICD10CM	-		C0155690	Septic myocarditis		
+ICD10CM	B58.81	Toxoplasma myocarditis	C0276804	Toxoplasma myocarditis		SEARCH (myocarditis)
+ICD10CM	D86.85	Sarcoid myocarditis	C0340432	Sarcoid heart muscle disease		SEARCH (myocarditis)
+ICD10CM	A39.52	Meningococcal myocarditis	C0152961	Meningococcal myocarditis		SEARCH (myocarditis)
+ICD10CM	A52.06	Syphilitic myocarditis	C0153165	Syphilitic myocarditis		SEARCH (myocarditis)
+ICD10CM	A36.81	Diphtheritic myocarditis	C0152952	Diphtheritic myocarditis		SEARCH (myocarditis)
+ICD10CM	-		C0264856	Giant cell myocarditis		
+ICD10CM	-		C0153106	Coxsackie myocarditis		
+ICD10CM	-		C0155691	Toxic myocarditis		
+ICD10CM	-		C0264752	Chronic rheumatic myocarditis		
+ICD10CM	I42.3	Endomyocardial (eosinophilic) disease	C0264834	Primary eosinophilic endomyocardial restrictive cardiomyopathy		SEARCH (myocarditis)
+ICD10CM	-		C0264852	Chronic interstitial myocarditis		
+ICD10CM	B33.22	Viral myocarditis	C0276138	Viral myocarditis		SEARCH (myocarditis)
+ICD10CM	-		C0276513	Subacute myocarditis with AIDS (acquired immunodeficiency syndrome)		
+ICD10CM	-		C0348611	Myocarditis in bacterial diseases classified elsewhere		
+ICD10CM	-		C0348612	Myocarditis in viral diseases classified elsewhere		
+ICD10CM	-		C0348613	Myocarditis in other infectious and parasitic diseases classified elsewhere		
+ICD10CM	-		C0348614	Myocarditis in other diseases classified elsewhere		
+ICD10CM	-		C0398355	Acute myocarditis - meningococcal		
+ICD10CM	-		C0729608	Myocarditis due to infectious agent		
+ICD10CM	B33.24	Viral cardiomyopathy	C0264797	Dilated cardiomyopathy due to viral myocarditis		SEARCH (myocarditis)
+ICD10CM	-		C0264853	Fibroid myocarditis		
+ICD10CM	-		C0264854	Senile myocarditis		
+ICD10CM	-		C0264855	Isolated diffuse granulomatous myocarditis		
+ICD10CM	B26.82	Mumps myocarditis	C0276320	Mumps myocarditis		SEARCH (myocarditis)
+ICD10CM	J11.82	Influenzal myocarditis NOS	C0276350	Myocarditis due to influenza virus		SEARCH (myocarditis)
+ICD10CM	-		C0276432	aseptic myocarditis of newborn		
+ICD10CM	-		C0340405	Acute aseptic myocarditis of the newborn		
+ICD10CM	-		C0340407	Acute myocarditis - influenzal		
+ICD10CM	-		C0340409	Septic myocarditis - streptococcal		
+ICD10CM	-		C0340410	Septic myocarditis - staphylococcal		
+ICD10CM	-		C0340411	Septic myocarditis - pneumococcal		
+ICD10CM	-		C0340412	Acute myocarditis - tuberculous		
+ICD10CM	-		C0340413	Acute myocarditis - syphilitic		
+ICD10CM	-		C0553979	Acute myocarditis - toxoplasmosis		
+ICD10CM	-		C0579991	Acute myocarditis - coxsackie		
+ICD10CM	-		C0579992	Acute myocarditis - diphtheritic		
+ICD10CM	A54.83	Gonococcal myocarditis	C2893394	Gonococcal myocarditis		SEARCH (myocarditis)
+ICD10CM	-		C3661903	Myocarditis due to Influenza A virus subtype H1N1		
+ICD10CM	-		C0027060	Interstitial myocarditis		
+ICD10CM	-		C0151788	Eosinophilic myocarditis		
+ICD10CM	-		C0264798	Dilated cardiomyopathy due to bacterial myocarditis		
+ICD10CM	-		C0264799	Dilated cardiomyopathy due to fungal myocarditis		
+ICD10CM	-		C0264800	Dilated cardiomyopathy due to protozoan myocarditis		
+ICD10CM	-		C0264801	Dilated cardiomyopathy secondary to metazoal myocarditis		
+ICD10CM	-		C0264851	Subacute interstitial myocarditis		
+ICD10CM	-		C0264857	Myocarditis due to hypersensitivity state		
+ICD10CM	-		C0264858	Myocarditis due to radiation		
+ICD10CM	-		C0264859	Myocarditis due to chemical agent		
+ICD10CM	-		C0264860	Myocarditis due to drug		
+ICD10CM	-		C0264861	Myocarditis due to physical agent		
+ICD10CM	-		C0276163	Adenoviral myocarditis		
+ICD10CM	-		C0276309	Rubella myocarditis		
+ICD10CM	-		C0276336	Measles myocarditis		
+ICD10CM	-		C0276512	AIDS with acute myocarditis		
+ICD10CM	-		C0276776	Protozoan myocarditis		
+ICD10CM	-		C0340414	Q fever myocarditis		
+ICD10CM	-		C0340415	Fungal myocarditis		
+ICD10CM	-		C0340416	Parasitic myocarditis		
+ICD10CM	I41	Myocarditis in diseases classified elsewhere	C0694498	Myocarditis in diseases classified elsewhere		SEARCH (myocarditis)
+ICD10CM	-		C0865681	Chronic myocarditis		
+ICD10CM	-		C1384588	Bacterial myocarditis		
+ICD10CM	-		C1531771	Coxsackie myocarditis of newborn		
+ICD10CM	-		C1690442	Acute myocarditis associated with another disorder		
+ICD10CM	-		C1719813	Myocarditis with AIDS (acquired immunodeficiency syndrome)		
+ICD10CM	-		C1960273	Lymphocytic myocarditis		
+ICD10CM	-		C2585300	Family history of myocarditis		
+ICD10CM	-		C3531948	Myocarditis due to Genus Rickettsia		
+ICD10CM	-		C3531950	Myocarditis due to Genus Candida		
+ICD10CM	-		C3531951	Myocarditis due to Genus Aspergillus		
+ICD10CM	-		C3531952	Myocarditis due to echovirus		
+ICD10CM	-		C3531953	Myocarditis due to Order Spirochaetales		
+ICD10CM	-		C3532017	Myocarditis due to Genus Borrelia		
+ICD10CM	-		C3532265	Fetal myocarditis		
+ICD10CM	-		C3532347	Cardiovascular abnormality due to infective myocarditis		
+ICD10CM	-		C3839467	Heart failure with reduced ejection fraction due to myocarditis		
+ICD10CM	-		C4039176	Myocarditis due to scarlet fever		
+ICD10CM	-		C4040593	Myocarditis due to Influenza A virus		
+ICD10CM	-		C4076233	Myocarditis co-occurrent with human immunodeficiency virus infection		
+ICD10CM	-		C5396716	Myocarditis due to childhood type dermatomyositis		
+ICD10CM	-		C5397158	Myocarditis due to COVID-19		
+ICD10CM	-		C5397305	Myocarditis due to Chaga disease		
+ICD10CM	-		C5397337	Myocarditis due to autoimmune disease		
+ICD10CM	-		C5437446	Myocarditis due to Kawasaki disease		
+ICD10CM	-		C5547370	Dilated cardiomyopathy due to parasitic myocarditis		
+ICD10CM	-		C0865640	myocarditis; acute or subacute		
+ICD10CM	-		C0865641	Acute or subacute interstitial myocarditis		
+ICD10CM	-		C0865642	Acute or subacute myocarditis, Fiedler's		
+ICD10CM	-		C0865643	Acute or subacute myocarditis, giant cell		
+ICD10CM	-		C0865644	Acute or subacute myocarditis, isolated		
+ICD10CM	-		C0865645	Isolated diffuse myocarditis		
+ICD10CM	-		C0865646	Isolated diffuse acute or subacute myocarditis		
+ICD10CM	-		C0865647	Isolated granulomatous myocarditis		
+ICD10CM	-		C0865648	Isolated granulomatous acute or subacute myocarditis		
+ICD10CM	-		C0865649	Isolated diffuse granulomatous acute or subacute myocarditis		
+ICD10CM	-		C0865650	Acute or subacute myocarditis, nonspecific granulomatous		
+ICD10CM	-		C0865651	Acute or subacute myocarditis, pneumococcal		
+ICD10CM	-		C0865652	Acute or subacute myocarditis, staphylococcal		
+ICD10CM	-		C0865680	Myocarditis with mention of arteriosclerosis		
+ICD10CM	-		C0865682	Chronic myocarditis with mention of arteriosclerosis		
+ICD10CM	-		C0865683	Chronic interstitial myocarditis with mention of arteriosclerosis		
+ICD10CM	-		C0865684	Fibroid myocarditis with mention of arteriosclerosis		
+ICD10CM	-		C0865685	Senile myocarditis with mention of arteriosclerosis		
+ICD10CM	A18.84	Tuberculous myocarditis	C2118532	tuberculous myocarditis		SEARCH (myocarditis)
+ICD10CM	B57.0	Acute Chagas' disease with myocarditis	C2830256	Acute Chagas' disease with myocarditis		SEARCH (myocarditis)
+ICD10CM	B57.2	Chagas' disease (chronic) with myocarditis	C2830257	Chagas' disease (chronic) with myocarditis		SEARCH (myocarditis)
+ICD10CM	A01.02	Typhoid myocarditis	C2880087	Typhoid myocarditis		SEARCH (myocarditis)
+ICD10CM	-		C2882053	Any condition in I00 with myocarditis		
+ICD10CM	A38.1	Scarlet fever with myocarditis	C2887078	Scarlet fever with myocarditis		SEARCH (myocarditis)
+ICD10CM	J10.82	Influenza due to other identified influenza virus with myocarditis	C2977049	Influenza due to other identified influenza virus with myocarditis		SEARCH (myocarditis)
+ICD10CM	-		C2977061	Influenza due to unidentified influenza virus with myocarditis		
+ICD10CM	J09.X9	Influenza due to identified novel influenza A virus with myocarditis	C3264390	Influenza due to identified novel influenza A virus with myocarditis		SEARCH (myocarditis)
+ICD10CM	-		C3463914	Subacute myocarditis		
+ICD10CM	I51.4	Myocarditis, unspecified	C0027059	Myocarditis	Narrow	CASEDEF
+ICD10CM	I24.1	Dressler's syndrome	C0152107	Postmyocardial infarction syndrome		NARROWER (C0027059)
+ICD10CM	-		C0155690	Septic myocarditis		
+ICD10CM	-		C3670881	Granulomatous myocarditis	Narrow	
+ICD10CM	I41	Myocarditis in diseases classified elsewhere	C0694498	Myocarditis in diseases classified elsewhere	Narrow	NARROWER (C0027059)
+ICD10CM	-		C4039176	Myocarditis due to scarlet fever	Narrow	
+ICD10CM	-		C0027060	Interstitial myocarditis	Narrow	
+ICD10CM	-		C0151654	Myocardial fibrosis	Narrow	
+ICD10CM	-		C4531194	Interstitial cardiac fibrosis	Possible	
+ICD10CM	I40	Acute myocarditis	C0155686	Acute myocarditis	Narrow	CASEDEF
+ICD10CM	I40.0	Infective myocarditis			Narrow	DESC (I40)
+ICD10CM	I40.1	Isolated myocarditis			Narrow	DESC (I40)
+ICD10CM	I40.8	Other acute myocarditis			Narrow	DESC (I40)
+ICD10CM	I40.9	Acute myocarditis, unspecified			Narrow	DESC (I40)
+ICD10CM	-		C0155689	Isolated (Fiedler's) myocarditis	Narrow	
+ICD10CM	I01.2	Acute rheumatic myocarditis	C0155557	Acute rheumatic myocarditis	Narrow	NARROWER (C0155686)
+ICD10CM	-		C0155687	Acute myocarditis in diseases classified elsewhere	Narrow	
+ICD10CM	-		C0155687	Acute myocarditis in diseases classified elsewhere	Narrow	
+ICD10CM	-		C0155692	Other acute myocarditis	Narrow	
+ICD10CM	-		C0155686	Acute myocarditis	Narrow	
+ICD10CM	-		C0155689	Isolated (Fiedler's) myocarditis	Narrow	
+ICD10CM	-		C0155557	Acute rheumatic myocarditis	Narrow	
+ICD10CM	-		C0155687	Acute myocarditis in diseases classified elsewhere	Narrow	
+ICD10CM	-		C0155691	Toxic myocarditis	Narrow	
+ICD10CM	-		C0264852	Chronic interstitial myocarditis	Narrow	
+ICD10CM	-		C0264853	Fibroid myocarditis	Narrow	
+ICD10CM	-		C2074697	fibroid chronic myocarditis	Narrow	
+ICD10CM	-		C0264854	Senile myocarditis	Narrow	
+ICD10CM	-		C0348611	Myocarditis in bacterial diseases classified elsewhere	Narrow	
+ICD10CM	A36.81	Diphtheritic myocarditis	C0152952	Diphtheritic myocarditis	Narrow	NARROWER (C0348611)
+ICD10CM	-		C0579992	Acute myocarditis - diphtheritic	Narrow	
+ICD10CM	-		C0348612	Myocarditis in viral diseases classified elsewhere	Narrow	
+ICD10CM	-		C1388749	aseptic; myocarditis (manifestation)	Narrow	
+ICD10CM	-		C0348613	Myocarditis in other infectious and parasitic diseases classified elsewhere	Narrow	
+ICD10CM	-		C1391996	Chagas; cardiomyopathy (manifestation)	Narrow	
+ICD10CM	-		C0348614	Myocarditis in other diseases classified elsewhere	Narrow	
+ICD10CM	-		C1388630	arthritis; rheumatoid, with myocarditis (manifestation)	Narrow	
+ICD10CM	-		C0865680	Myocarditis with mention of arteriosclerosis	Narrow	
+ICD10CM	-		C0865681	Chronic myocarditis	Narrow	
+ICD10CM	I09.2	Chronic rheumatic myopericarditis	C0264756	Chronic rheumatic myopericarditis	Narrow	NARROWER (C0865681)
+ICD10CM	-		C0264852	Chronic interstitial myocarditis	Narrow	
+ICD10CM	-		C0865682	Chronic myocarditis with mention of arteriosclerosis	Narrow	
+ICD10CM	-		C0865683	Chronic interstitial myocarditis with mention of arteriosclerosis	Narrow	
+ICD10CM	-		C0865684	Fibroid myocarditis with mention of arteriosclerosis	Narrow	
+ICD10CM	-		C0865685	Senile myocarditis with mention of arteriosclerosis	Narrow	
+ICD9CM	398.0	Rheumatic myocarditis	C0489959	Rheumatoid myocarditis		SEARCH (myocarditis)
+ICD9CM	422	Acute myocarditis	C0155686	Acute myocarditis		SEARCH (myocarditis)
+ICD9CM	422.0	Acute myocarditis in diseases classified elsewhere				DESC (422)
+ICD9CM	422.9	Other and unspecified acute myocarditis				DESC (422)
+ICD9CM	422.90	Acute myocarditis, unspecified				DESC (422)
+ICD9CM	422.91	Idiopathic myocarditis				DESC (422)
+ICD9CM	422.92	Septic myocarditis				DESC (422)
+ICD9CM	422.93	Toxic myocarditis				DESC (422)
+ICD9CM	422.99	Other acute myocarditis				DESC (422)
+ICD9CM	429.0	Myocarditis, unspecified	C0027059	Myocarditis		SEARCH (myocarditis)
+ICD9CM	-		C0155692	Other acute myocarditis		
+ICD9CM	-		C0155689	Isolated (Fiedler's) myocarditis		
+ICD9CM	391.2	Acute rheumatic myocarditis	C0155557	Acute rheumatic myocarditis		SEARCH (myocarditis)
+ICD9CM	-		C0155687	Acute myocarditis in diseases classified elsewhere		
+ICD9CM	-		C0155690	Septic myocarditis		
+ICD9CM	130.3	Myocarditis due to toxoplasmosis	C0276804	Toxoplasma myocarditis		SEARCH (myocarditis)
+ICD9CM	-		C0340432	Sarcoid heart muscle disease		
+ICD9CM	036.43	Meningococcal myocarditis	C0152961	Meningococcal myocarditis		SEARCH (myocarditis)
+ICD9CM	093.82	Syphilitic myocarditis	C0153165	Syphilitic myocarditis		SEARCH (myocarditis)
+ICD9CM	032.82	Diphtheritic myocarditis	C0152952	Diphtheritic myocarditis		SEARCH (myocarditis)
+ICD9CM	-		C0264856	Giant cell myocarditis		
+ICD9CM	074.23	Coxsackie myocarditis	C0153106	Coxsackie myocarditis		SEARCH (myocarditis)
+ICD9CM	-		C0155691	Toxic myocarditis		
+ICD9CM	-		C0264752	Chronic rheumatic myocarditis		
+ICD9CM	-		C0264834	Primary eosinophilic endomyocardial restrictive cardiomyopathy		
+ICD9CM	-		C0264852	Chronic interstitial myocarditis		
+ICD9CM	-		C0276138	Viral myocarditis		
+ICD9CM	-		C0276513	Subacute myocarditis with AIDS (acquired immunodeficiency syndrome)		
+ICD9CM	-		C0348611	Myocarditis in bacterial diseases classified elsewhere		
+ICD9CM	-		C0348612	Myocarditis in viral diseases classified elsewhere		
+ICD9CM	-		C0348613	Myocarditis in other infectious and parasitic diseases classified elsewhere		
+ICD9CM	-		C0348614	Myocarditis in other diseases classified elsewhere		
+ICD9CM	-		C0398355	Acute myocarditis - meningococcal		
+ICD9CM	-		C0729608	Myocarditis due to infectious agent		
+ICD9CM	-		C0264797	Dilated cardiomyopathy due to viral myocarditis		
+ICD9CM	-		C0264853	Fibroid myocarditis		
+ICD9CM	-		C0264854	Senile myocarditis		
+ICD9CM	-		C0264855	Isolated diffuse granulomatous myocarditis		
+ICD9CM	-		C0276320	Mumps myocarditis		
+ICD9CM	-		C0276350	Myocarditis due to influenza virus		
+ICD9CM	-		C0276432	aseptic myocarditis of newborn		
+ICD9CM	-		C0340405	Acute aseptic myocarditis of the newborn		
+ICD9CM	-		C0340407	Acute myocarditis - influenzal		
+ICD9CM	-		C0340409	Septic myocarditis - streptococcal		
+ICD9CM	-		C0340410	Septic myocarditis - staphylococcal		
+ICD9CM	-		C0340411	Septic myocarditis - pneumococcal		
+ICD9CM	-		C0340412	Acute myocarditis - tuberculous		
+ICD9CM	-		C0340413	Acute myocarditis - syphilitic		
+ICD9CM	-		C0553979	Acute myocarditis - toxoplasmosis		
+ICD9CM	-		C0579991	Acute myocarditis - coxsackie		
+ICD9CM	-		C0579992	Acute myocarditis - diphtheritic		
+ICD9CM	-		C2893394	Gonococcal myocarditis		
+ICD9CM	-		C3661903	Myocarditis due to Influenza A virus subtype H1N1		
+ICD9CM	-		C0027060	Interstitial myocarditis		
+ICD9CM	-		C0151788	Eosinophilic myocarditis		
+ICD9CM	-		C0264798	Dilated cardiomyopathy due to bacterial myocarditis		
+ICD9CM	-		C0264799	Dilated cardiomyopathy due to fungal myocarditis		
+ICD9CM	-		C0264800	Dilated cardiomyopathy due to protozoan myocarditis		
+ICD9CM	-		C0264801	Dilated cardiomyopathy secondary to metazoal myocarditis		
+ICD9CM	-		C0264851	Subacute interstitial myocarditis		
+ICD9CM	-		C0264857	Myocarditis due to hypersensitivity state		
+ICD9CM	-		C0264858	Myocarditis due to radiation		
+ICD9CM	-		C0264859	Myocarditis due to chemical agent		
+ICD9CM	-		C0264860	Myocarditis due to drug		
+ICD9CM	-		C0264861	Myocarditis due to physical agent		
+ICD9CM	-		C0276163	Adenoviral myocarditis		
+ICD9CM	-		C0276309	Rubella myocarditis		
+ICD9CM	-		C0276336	Measles myocarditis		
+ICD9CM	-		C0276512	AIDS with acute myocarditis		
+ICD9CM	-		C0276776	Protozoan myocarditis		
+ICD9CM	-		C0340414	Q fever myocarditis		
+ICD9CM	-		C0340415	Fungal myocarditis		
+ICD9CM	-		C0340416	Parasitic myocarditis		
+ICD9CM	-		C0694498	Myocarditis in diseases classified elsewhere		
+ICD9CM	-		C0865681	Chronic myocarditis		
+ICD9CM	-		C1384588	Bacterial myocarditis		
+ICD9CM	-		C1531771	Coxsackie myocarditis of newborn		
+ICD9CM	-		C1690442	Acute myocarditis associated with another disorder		
+ICD9CM	-		C1719813	Myocarditis with AIDS (acquired immunodeficiency syndrome)		
+ICD9CM	-		C1960273	Lymphocytic myocarditis		
+ICD9CM	-		C2585300	Family history of myocarditis		
+ICD9CM	-		C3531948	Myocarditis due to Genus Rickettsia		
+ICD9CM	-		C3531950	Myocarditis due to Genus Candida		
+ICD9CM	-		C3531951	Myocarditis due to Genus Aspergillus		
+ICD9CM	-		C3531952	Myocarditis due to echovirus		
+ICD9CM	-		C3531953	Myocarditis due to Order Spirochaetales		
+ICD9CM	-		C3532017	Myocarditis due to Genus Borrelia		
+ICD9CM	-		C3532265	Fetal myocarditis		
+ICD9CM	-		C3532347	Cardiovascular abnormality due to infective myocarditis		
+ICD9CM	-		C3839467	Heart failure with reduced ejection fraction due to myocarditis		
+ICD9CM	-		C4039176	Myocarditis due to scarlet fever		
+ICD9CM	-		C4040593	Myocarditis due to Influenza A virus		
+ICD9CM	-		C4076233	Myocarditis co-occurrent with human immunodeficiency virus infection		
+ICD9CM	-		C5396716	Myocarditis due to childhood type dermatomyositis		
+ICD9CM	-		C5397158	Myocarditis due to COVID-19		
+ICD9CM	-		C5397305	Myocarditis due to Chaga disease		
+ICD9CM	-		C5397337	Myocarditis due to autoimmune disease		
+ICD9CM	-		C5437446	Myocarditis due to Kawasaki disease		
+ICD9CM	-		C5547370	Dilated cardiomyopathy due to parasitic myocarditis		
+ICD9CM	-		C0865640	myocarditis; acute or subacute		
+ICD9CM	-		C0865641	Acute or subacute interstitial myocarditis		
+ICD9CM	-		C0865642	Acute or subacute myocarditis, Fiedler's		
+ICD9CM	-		C0865643	Acute or subacute myocarditis, giant cell		
+ICD9CM	-		C0865644	Acute or subacute myocarditis, isolated		
+ICD9CM	-		C0865645	Isolated diffuse myocarditis		
+ICD9CM	-		C0865646	Isolated diffuse acute or subacute myocarditis		
+ICD9CM	-		C0865647	Isolated granulomatous myocarditis		
+ICD9CM	-		C0865648	Isolated granulomatous acute or subacute myocarditis		
+ICD9CM	-		C0865649	Isolated diffuse granulomatous acute or subacute myocarditis		
+ICD9CM	-		C0865650	Acute or subacute myocarditis, nonspecific granulomatous		
+ICD9CM	-		C0865651	Acute or subacute myocarditis, pneumococcal		
+ICD9CM	-		C0865652	Acute or subacute myocarditis, staphylococcal		
+ICD9CM	-		C0865680	Myocarditis with mention of arteriosclerosis		
+ICD9CM	-		C0865682	Chronic myocarditis with mention of arteriosclerosis		
+ICD9CM	-		C0865683	Chronic interstitial myocarditis with mention of arteriosclerosis		
+ICD9CM	-		C0865684	Fibroid myocarditis with mention of arteriosclerosis		
+ICD9CM	-		C0865685	Senile myocarditis with mention of arteriosclerosis		
+ICD9CM	-		C2118532	tuberculous myocarditis		
+ICD9CM	-		C2830256	Acute Chagas' disease with myocarditis		
+ICD9CM	-		C2830257	Chagas' disease (chronic) with myocarditis		
+ICD9CM	-		C2880087	Typhoid myocarditis		
+ICD9CM	-		C2882053	Any condition in I00 with myocarditis		
+ICD9CM	-		C2887078	Scarlet fever with myocarditis		
+ICD9CM	-		C2977049	Influenza due to other identified influenza virus with myocarditis		
+ICD9CM	-		C2977061	Influenza due to unidentified influenza virus with myocarditis		
+ICD9CM	-		C3264390	Influenza due to identified novel influenza A virus with myocarditis		
+ICD9CM	-		C3463914	Subacute myocarditis		
+ICD9CM	429.0	Myocarditis, unspecified	C0027059	Myocarditis	Narrow	CASEDEF
+ICD9CM	411.0	Postmyocardial infarction syndrome	C0152107	Postmyocardial infarction syndrome		NARROWER (C0027059)
+ICD9CM	-		C0155690	Septic myocarditis		
+ICD9CM	-		C3670881	Granulomatous myocarditis	Narrow	
+ICD9CM	-		C0694498	Myocarditis in diseases classified elsewhere	Narrow	
+ICD9CM	-		C4039176	Myocarditis due to scarlet fever	Narrow	
+ICD9CM	-		C0027060	Interstitial myocarditis	Narrow	
+ICD9CM	-		C0151654	Myocardial fibrosis	Narrow	
+ICD9CM	-		C4531194	Interstitial cardiac fibrosis	Possible	
+ICD9CM	422	Acute myocarditis	C0155686	Acute myocarditis	Narrow	CASEDEF
+ICD9CM	422.0	Acute myocarditis in diseases classified elsewhere			Narrow	DESC (422)
+ICD9CM	422.9	Other and unspecified acute myocarditis			Narrow	DESC (422)
+ICD9CM	422.90	Acute myocarditis, unspecified			Narrow	DESC (422)
+ICD9CM	422.91	Idiopathic myocarditis			Narrow	DESC (422)
+ICD9CM	422.92	Septic myocarditis			Narrow	DESC (422)
+ICD9CM	422.93	Toxic myocarditis			Narrow	DESC (422)
+ICD9CM	422.99	Other acute myocarditis			Narrow	DESC (422)
+ICD9CM	-		C0155689	Isolated (Fiedler's) myocarditis	Narrow	
+ICD9CM	391.2	Acute rheumatic myocarditis	C0155557	Acute rheumatic myocarditis	Narrow	NARROWER (C0155686)
+ICD9CM	-		C0155687	Acute myocarditis in diseases classified elsewhere	Narrow	
+ICD9CM	-		C0155687	Acute myocarditis in diseases classified elsewhere	Narrow	
+ICD9CM	-		C0155692	Other acute myocarditis	Narrow	
+ICD9CM	-		C0155686	Acute myocarditis	Narrow	
+ICD9CM	-		C0155689	Isolated (Fiedler's) myocarditis	Narrow	
+ICD9CM	-		C0155557	Acute rheumatic myocarditis	Narrow	
+ICD9CM	-		C0155687	Acute myocarditis in diseases classified elsewhere	Narrow	
+ICD9CM	-		C0155691	Toxic myocarditis	Narrow	
+ICD9CM	-		C0264852	Chronic interstitial myocarditis	Narrow	
+ICD9CM	-		C0264853	Fibroid myocarditis	Narrow	
+ICD9CM	-		C2074697	fibroid chronic myocarditis	Narrow	
+ICD9CM	-		C0264854	Senile myocarditis	Narrow	
+ICD9CM	-		C0348611	Myocarditis in bacterial diseases classified elsewhere	Narrow	
+ICD9CM	032.82	Diphtheritic myocarditis	C0152952	Diphtheritic myocarditis	Narrow	NARROWER (C0348611)
+ICD9CM	-		C0579992	Acute myocarditis - diphtheritic	Narrow	
+ICD9CM	-		C0348612	Myocarditis in viral diseases classified elsewhere	Narrow	
+ICD9CM	-		C1388749	aseptic; myocarditis (manifestation)	Narrow	
+ICD9CM	-		C0348613	Myocarditis in other infectious and parasitic diseases classified elsewhere	Narrow	
+ICD9CM	-		C1391996	Chagas; cardiomyopathy (manifestation)	Narrow	
+ICD9CM	-		C0348614	Myocarditis in other diseases classified elsewhere	Narrow	
+ICD9CM	-		C1388630	arthritis; rheumatoid, with myocarditis (manifestation)	Narrow	
+ICD9CM	-		C0865680	Myocarditis with mention of arteriosclerosis	Narrow	
+ICD9CM	-		C0865681	Chronic myocarditis	Narrow	
+ICD9CM	-		C0264756	Chronic rheumatic myopericarditis	Narrow	
+ICD9CM	-		C0264852	Chronic interstitial myocarditis	Narrow	
+ICD9CM	-		C0865682	Chronic myocarditis with mention of arteriosclerosis	Narrow	
+ICD9CM	-		C0865683	Chronic interstitial myocarditis with mention of arteriosclerosis	Narrow	
+ICD9CM	-		C0865684	Fibroid myocarditis with mention of arteriosclerosis	Narrow	
+ICD9CM	-		C0865685	Senile myocarditis with mention of arteriosclerosis	Narrow	
+ICPC2P	-		C0489959	Rheumatoid myocarditis		
+ICPC2P	K70002	Myocarditis;acute	C0155686	Acute myocarditis		SEARCH (myocarditis)
+ICPC2P	-		C0027059	Myocarditis		
+ICPC2P	-		C0155692	Other acute myocarditis		
+ICPC2P	-		C0155689	Isolated (Fiedler's) myocarditis		
+ICPC2P	K71017	Myocarditis;rheumatic;acute	C0155557	Acute rheumatic myocarditis		SEARCH (myocarditis)
+ICPC2P	-		C0155687	Acute myocarditis in diseases classified elsewhere		
+ICPC2P	-		C0155690	Septic myocarditis		
+ICPC2P	-		C0276804	Toxoplasma myocarditis		
+ICPC2P	-		C0340432	Sarcoid heart muscle disease		
+ICPC2P	-		C0152961	Meningococcal myocarditis		
+ICPC2P	-		C0153165	Syphilitic myocarditis		
+ICPC2P	-		C0152952	Diphtheritic myocarditis		
+ICPC2P	-		C0264856	Giant cell myocarditis		
+ICPC2P	-		C0153106	Coxsackie myocarditis		
+ICPC2P	-		C0155691	Toxic myocarditis		
+ICPC2P	K71012	Myocarditis;rheumatic;chronic	C0264752	Chronic rheumatic myocarditis		SEARCH (myocarditis)
+ICPC2P	-		C0264834	Primary eosinophilic endomyocardial restrictive cardiomyopathy		
+ICPC2P	-		C0264852	Chronic interstitial myocarditis		
+ICPC2P	-		C0276138	Viral myocarditis		
+ICPC2P	-		C0276513	Subacute myocarditis with AIDS (acquired immunodeficiency syndrome)		
+ICPC2P	-		C0348611	Myocarditis in bacterial diseases classified elsewhere		
+ICPC2P	-		C0348612	Myocarditis in viral diseases classified elsewhere		
+ICPC2P	-		C0348613	Myocarditis in other infectious and parasitic diseases classified elsewhere		
+ICPC2P	-		C0348614	Myocarditis in other diseases classified elsewhere		
+ICPC2P	-		C0398355	Acute myocarditis - meningococcal		
+ICPC2P	-		C0729608	Myocarditis due to infectious agent		
+ICPC2P	-		C0264797	Dilated cardiomyopathy due to viral myocarditis		
+ICPC2P	-		C0264853	Fibroid myocarditis		
+ICPC2P	-		C0264854	Senile myocarditis		
+ICPC2P	-		C0264855	Isolated diffuse granulomatous myocarditis		
+ICPC2P	-		C0276320	Mumps myocarditis		
+ICPC2P	-		C0276350	Myocarditis due to influenza virus		
+ICPC2P	-		C0276432	aseptic myocarditis of newborn		
+ICPC2P	-		C0340405	Acute aseptic myocarditis of the newborn		
+ICPC2P	-		C0340407	Acute myocarditis - influenzal		
+ICPC2P	-		C0340409	Septic myocarditis - streptococcal		
+ICPC2P	-		C0340410	Septic myocarditis - staphylococcal		
+ICPC2P	-		C0340411	Septic myocarditis - pneumococcal		
+ICPC2P	-		C0340412	Acute myocarditis - tuberculous		
+ICPC2P	-		C0340413	Acute myocarditis - syphilitic		
+ICPC2P	-		C0553979	Acute myocarditis - toxoplasmosis		
+ICPC2P	-		C0579991	Acute myocarditis - coxsackie		
+ICPC2P	-		C0579992	Acute myocarditis - diphtheritic		
+ICPC2P	-		C2893394	Gonococcal myocarditis		
+ICPC2P	-		C3661903	Myocarditis due to Influenza A virus subtype H1N1		
+ICPC2P	-		C0027060	Interstitial myocarditis		
+ICPC2P	-		C0151788	Eosinophilic myocarditis		
+ICPC2P	-		C0264798	Dilated cardiomyopathy due to bacterial myocarditis		
+ICPC2P	-		C0264799	Dilated cardiomyopathy due to fungal myocarditis		
+ICPC2P	-		C0264800	Dilated cardiomyopathy due to protozoan myocarditis		
+ICPC2P	-		C0264801	Dilated cardiomyopathy secondary to metazoal myocarditis		
+ICPC2P	-		C0264851	Subacute interstitial myocarditis		
+ICPC2P	-		C0264857	Myocarditis due to hypersensitivity state		
+ICPC2P	-		C0264858	Myocarditis due to radiation		
+ICPC2P	-		C0264859	Myocarditis due to chemical agent		
+ICPC2P	-		C0264860	Myocarditis due to drug		
+ICPC2P	-		C0264861	Myocarditis due to physical agent		
+ICPC2P	-		C0276163	Adenoviral myocarditis		
+ICPC2P	-		C0276309	Rubella myocarditis		
+ICPC2P	-		C0276336	Measles myocarditis		
+ICPC2P	-		C0276512	AIDS with acute myocarditis		
+ICPC2P	-		C0276776	Protozoan myocarditis		
+ICPC2P	-		C0340414	Q fever myocarditis		
+ICPC2P	-		C0340415	Fungal myocarditis		
+ICPC2P	-		C0340416	Parasitic myocarditis		
+ICPC2P	-		C0694498	Myocarditis in diseases classified elsewhere		
+ICPC2P	-		C0865681	Chronic myocarditis		
+ICPC2P	-		C1384588	Bacterial myocarditis		
+ICPC2P	-		C1531771	Coxsackie myocarditis of newborn		
+ICPC2P	-		C1690442	Acute myocarditis associated with another disorder		
+ICPC2P	-		C1719813	Myocarditis with AIDS (acquired immunodeficiency syndrome)		
+ICPC2P	-		C1960273	Lymphocytic myocarditis		
+ICPC2P	-		C2585300	Family history of myocarditis		
+ICPC2P	-		C3531948	Myocarditis due to Genus Rickettsia		
+ICPC2P	-		C3531950	Myocarditis due to Genus Candida		
+ICPC2P	-		C3531951	Myocarditis due to Genus Aspergillus		
+ICPC2P	-		C3531952	Myocarditis due to echovirus		
+ICPC2P	-		C3531953	Myocarditis due to Order Spirochaetales		
+ICPC2P	-		C3532017	Myocarditis due to Genus Borrelia		
+ICPC2P	-		C3532265	Fetal myocarditis		
+ICPC2P	-		C3532347	Cardiovascular abnormality due to infective myocarditis		
+ICPC2P	-		C3839467	Heart failure with reduced ejection fraction due to myocarditis		
+ICPC2P	-		C4039176	Myocarditis due to scarlet fever		
+ICPC2P	-		C4040593	Myocarditis due to Influenza A virus		
+ICPC2P	-		C4076233	Myocarditis co-occurrent with human immunodeficiency virus infection		
+ICPC2P	-		C5396716	Myocarditis due to childhood type dermatomyositis		
+ICPC2P	-		C5397158	Myocarditis due to COVID-19		
+ICPC2P	-		C5397305	Myocarditis due to Chaga disease		
+ICPC2P	-		C5397337	Myocarditis due to autoimmune disease		
+ICPC2P	-		C5437446	Myocarditis due to Kawasaki disease		
+ICPC2P	-		C5547370	Dilated cardiomyopathy due to parasitic myocarditis		
+ICPC2P	-		C0865640	myocarditis; acute or subacute		
+ICPC2P	-		C0865641	Acute or subacute interstitial myocarditis		
+ICPC2P	-		C0865642	Acute or subacute myocarditis, Fiedler's		
+ICPC2P	-		C0865643	Acute or subacute myocarditis, giant cell		
+ICPC2P	-		C0865644	Acute or subacute myocarditis, isolated		
+ICPC2P	-		C0865645	Isolated diffuse myocarditis		
+ICPC2P	-		C0865646	Isolated diffuse acute or subacute myocarditis		
+ICPC2P	-		C0865647	Isolated granulomatous myocarditis		
+ICPC2P	-		C0865648	Isolated granulomatous acute or subacute myocarditis		
+ICPC2P	-		C0865649	Isolated diffuse granulomatous acute or subacute myocarditis		
+ICPC2P	-		C0865650	Acute or subacute myocarditis, nonspecific granulomatous		
+ICPC2P	-		C0865651	Acute or subacute myocarditis, pneumococcal		
+ICPC2P	-		C0865652	Acute or subacute myocarditis, staphylococcal		
+ICPC2P	-		C0865680	Myocarditis with mention of arteriosclerosis		
+ICPC2P	-		C0865682	Chronic myocarditis with mention of arteriosclerosis		
+ICPC2P	-		C0865683	Chronic interstitial myocarditis with mention of arteriosclerosis		
+ICPC2P	-		C0865684	Fibroid myocarditis with mention of arteriosclerosis		
+ICPC2P	-		C0865685	Senile myocarditis with mention of arteriosclerosis		
+ICPC2P	-		C2118532	tuberculous myocarditis		
+ICPC2P	-		C2830256	Acute Chagas' disease with myocarditis		
+ICPC2P	-		C2830257	Chagas' disease (chronic) with myocarditis		
+ICPC2P	-		C2880087	Typhoid myocarditis		
+ICPC2P	-		C2882053	Any condition in I00 with myocarditis		
+ICPC2P	-		C2887078	Scarlet fever with myocarditis		
+ICPC2P	-		C2977049	Influenza due to other identified influenza virus with myocarditis		
+ICPC2P	-		C2977061	Influenza due to unidentified influenza virus with myocarditis		
+ICPC2P	-		C3264390	Influenza due to identified novel influenza A virus with myocarditis		
+ICPC2P	-		C3463914	Subacute myocarditis		
+ICPC2P	-		C0027059	Myocarditis	Narrow	
+ICPC2P	K75011	Postmyocardial infarct syndrom	C0152107	Postmyocardial infarction syndrome		NARROWER (C0027059)
+ICPC2P	-		C0155690	Septic myocarditis		
+ICPC2P	-		C3670881	Granulomatous myocarditis	Narrow	
+ICPC2P	-		C0694498	Myocarditis in diseases classified elsewhere	Narrow	
+ICPC2P	-		C4039176	Myocarditis due to scarlet fever	Narrow	
+ICPC2P	-		C0027060	Interstitial myocarditis	Narrow	
+ICPC2P	-		C0151654	Myocardial fibrosis	Narrow	
+ICPC2P	-		C4531194	Interstitial cardiac fibrosis	Possible	
+ICPC2P	K70002	Myocarditis;acute	C0155686	Acute myocarditis	Narrow	CASEDEF
+ICPC2P	-		C0155689	Isolated (Fiedler's) myocarditis	Narrow	
+ICPC2P	K71017	Myocarditis;rheumatic;acute	C0155557	Acute rheumatic myocarditis	Narrow	NARROWER (C0155686)
+ICPC2P	-		C0155687	Acute myocarditis in diseases classified elsewhere	Narrow	
+ICPC2P	-		C0155687	Acute myocarditis in diseases classified elsewhere	Narrow	
+ICPC2P	-		C0155692	Other acute myocarditis	Narrow	
+ICPC2P	-		C0155686	Acute myocarditis	Narrow	
+ICPC2P	-		C0155689	Isolated (Fiedler's) myocarditis	Narrow	
+ICPC2P	-		C0155557	Acute rheumatic myocarditis	Narrow	
+ICPC2P	-		C0155687	Acute myocarditis in diseases classified elsewhere	Narrow	
+ICPC2P	-		C0155691	Toxic myocarditis	Narrow	
+ICPC2P	-		C0264852	Chronic interstitial myocarditis	Narrow	
+ICPC2P	-		C0264853	Fibroid myocarditis	Narrow	
+ICPC2P	-		C2074697	fibroid chronic myocarditis	Narrow	
+ICPC2P	-		C0264854	Senile myocarditis	Narrow	
+ICPC2P	-		C0348611	Myocarditis in bacterial diseases classified elsewhere	Narrow	
+ICPC2P	-		C0152952	Diphtheritic myocarditis	Narrow	
+ICPC2P	-		C0579992	Acute myocarditis - diphtheritic	Narrow	
+ICPC2P	-		C0348612	Myocarditis in viral diseases classified elsewhere	Narrow	
+ICPC2P	-		C1388749	aseptic; myocarditis (manifestation)	Narrow	
+ICPC2P	-		C0348613	Myocarditis in other infectious and parasitic diseases classified elsewhere	Narrow	
+ICPC2P	-		C1391996	Chagas; cardiomyopathy (manifestation)	Narrow	
+ICPC2P	-		C0348614	Myocarditis in other diseases classified elsewhere	Narrow	
+ICPC2P	-		C1388630	arthritis; rheumatoid, with myocarditis (manifestation)	Narrow	
+ICPC2P	-		C0865680	Myocarditis with mention of arteriosclerosis	Narrow	
+ICPC2P	-		C0865681	Chronic myocarditis	Narrow	
+ICPC2P	-		C0264756	Chronic rheumatic myopericarditis	Narrow	
+ICPC2P	-		C0264852	Chronic interstitial myocarditis	Narrow	
+ICPC2P	-		C0865682	Chronic myocarditis with mention of arteriosclerosis	Narrow	
+ICPC2P	-		C0865683	Chronic interstitial myocarditis with mention of arteriosclerosis	Narrow	
+ICPC2P	-		C0865684	Fibroid myocarditis with mention of arteriosclerosis	Narrow	
+ICPC2P	-		C0865685	Senile myocarditis with mention of arteriosclerosis	Narrow	
+MTHICD9	398.0	Rheumatic degeneration of myocardium	C0489959	Rheumatoid myocarditis		SEARCH (myocarditis)
+MTHICD9	-		C0155686	Acute myocarditis		
+MTHICD9	429.0	Myocarditis	C0027059	Myocarditis		SEARCH (myocarditis)
+MTHICD9	-		C0155692	Other acute myocarditis		
+MTHICD9	422.91	Myocarditis, Fiedler's	C0155689	Isolated (Fiedler's) myocarditis		SEARCH (myocarditis)
+MTHICD9	391.2	Active Rheumatic fever with myocarditis	C0155557	Acute rheumatic myocarditis		SEARCH (myocarditis)
+MTHICD9	-		C0155687	Acute myocarditis in diseases classified elsewhere		
+MTHICD9	-		C0155690	Septic myocarditis		
+MTHICD9	-		C0276804	Toxoplasma myocarditis		
+MTHICD9	-		C0340432	Sarcoid heart muscle disease		
+MTHICD9	-		C0152961	Meningococcal myocarditis		
+MTHICD9	-		C0153165	Syphilitic myocarditis		
+MTHICD9	-		C0152952	Diphtheritic myocarditis		
+MTHICD9	-		C0264856	Giant cell myocarditis		
+MTHICD9	-		C0153106	Coxsackie myocarditis		
+MTHICD9	-		C0155691	Toxic myocarditis		
+MTHICD9	-		C0264752	Chronic rheumatic myocarditis		
+MTHICD9	-		C0264834	Primary eosinophilic endomyocardial restrictive cardiomyopathy		
+MTHICD9	-		C0264852	Chronic interstitial myocarditis		
+MTHICD9	-		C0276138	Viral myocarditis		
+MTHICD9	-		C0276513	Subacute myocarditis with AIDS (acquired immunodeficiency syndrome)		
+MTHICD9	-		C0348611	Myocarditis in bacterial diseases classified elsewhere		
+MTHICD9	-		C0348612	Myocarditis in viral diseases classified elsewhere		
+MTHICD9	-		C0348613	Myocarditis in other infectious and parasitic diseases classified elsewhere		
+MTHICD9	-		C0348614	Myocarditis in other diseases classified elsewhere		
+MTHICD9	-		C0398355	Acute myocarditis - meningococcal		
+MTHICD9	-		C0729608	Myocarditis due to infectious agent		
+MTHICD9	-		C0264797	Dilated cardiomyopathy due to viral myocarditis		
+MTHICD9	-		C0264853	Fibroid myocarditis		
+MTHICD9	-		C0264854	Senile myocarditis		
+MTHICD9	-		C0264855	Isolated diffuse granulomatous myocarditis		
+MTHICD9	-		C0276320	Mumps myocarditis		
+MTHICD9	-		C0276350	Myocarditis due to influenza virus		
+MTHICD9	074.23	Aseptic myocarditis of newborn	C0276432	aseptic myocarditis of newborn		SEARCH (myocarditis)
+MTHICD9	-		C0340405	Acute aseptic myocarditis of the newborn		
+MTHICD9	-		C0340407	Acute myocarditis - influenzal		
+MTHICD9	-		C0340409	Septic myocarditis - streptococcal		
+MTHICD9	-		C0340410	Septic myocarditis - staphylococcal		
+MTHICD9	-		C0340411	Septic myocarditis - pneumococcal		
+MTHICD9	-		C0340412	Acute myocarditis - tuberculous		
+MTHICD9	-		C0340413	Acute myocarditis - syphilitic		
+MTHICD9	-		C0553979	Acute myocarditis - toxoplasmosis		
+MTHICD9	-		C0579991	Acute myocarditis - coxsackie		
+MTHICD9	-		C0579992	Acute myocarditis - diphtheritic		
+MTHICD9	-		C2893394	Gonococcal myocarditis		
+MTHICD9	-		C3661903	Myocarditis due to Influenza A virus subtype H1N1		
+MTHICD9	-		C0027060	Interstitial myocarditis		
+MTHICD9	-		C0151788	Eosinophilic myocarditis		
+MTHICD9	-		C0264798	Dilated cardiomyopathy due to bacterial myocarditis		
+MTHICD9	-		C0264799	Dilated cardiomyopathy due to fungal myocarditis		
+MTHICD9	-		C0264800	Dilated cardiomyopathy due to protozoan myocarditis		
+MTHICD9	-		C0264801	Dilated cardiomyopathy secondary to metazoal myocarditis		
+MTHICD9	-		C0264851	Subacute interstitial myocarditis		
+MTHICD9	-		C0264857	Myocarditis due to hypersensitivity state		
+MTHICD9	-		C0264858	Myocarditis due to radiation		
+MTHICD9	-		C0264859	Myocarditis due to chemical agent		
+MTHICD9	-		C0264860	Myocarditis due to drug		
+MTHICD9	-		C0264861	Myocarditis due to physical agent		
+MTHICD9	-		C0276163	Adenoviral myocarditis		
+MTHICD9	-		C0276309	Rubella myocarditis		
+MTHICD9	-		C0276336	Measles myocarditis		
+MTHICD9	-		C0276512	AIDS with acute myocarditis		
+MTHICD9	-		C0276776	Protozoan myocarditis		
+MTHICD9	-		C0340414	Q fever myocarditis		
+MTHICD9	-		C0340415	Fungal myocarditis		
+MTHICD9	-		C0340416	Parasitic myocarditis		
+MTHICD9	-		C0694498	Myocarditis in diseases classified elsewhere		
+MTHICD9	-		C0865681	Chronic myocarditis		
+MTHICD9	-		C1384588	Bacterial myocarditis		
+MTHICD9	-		C1531771	Coxsackie myocarditis of newborn		
+MTHICD9	-		C1690442	Acute myocarditis associated with another disorder		
+MTHICD9	-		C1719813	Myocarditis with AIDS (acquired immunodeficiency syndrome)		
+MTHICD9	-		C1960273	Lymphocytic myocarditis		
+MTHICD9	-		C2585300	Family history of myocarditis		
+MTHICD9	-		C3531948	Myocarditis due to Genus Rickettsia		
+MTHICD9	-		C3531950	Myocarditis due to Genus Candida		
+MTHICD9	-		C3531951	Myocarditis due to Genus Aspergillus		
+MTHICD9	-		C3531952	Myocarditis due to echovirus		
+MTHICD9	-		C3531953	Myocarditis due to Order Spirochaetales		
+MTHICD9	-		C3532017	Myocarditis due to Genus Borrelia		
+MTHICD9	-		C3532265	Fetal myocarditis		
+MTHICD9	-		C3532347	Cardiovascular abnormality due to infective myocarditis		
+MTHICD9	-		C3839467	Heart failure with reduced ejection fraction due to myocarditis		
+MTHICD9	-		C4039176	Myocarditis due to scarlet fever		
+MTHICD9	-		C4040593	Myocarditis due to Influenza A virus		
+MTHICD9	-		C4076233	Myocarditis co-occurrent with human immunodeficiency virus infection		
+MTHICD9	-		C5396716	Myocarditis due to childhood type dermatomyositis		
+MTHICD9	-		C5397158	Myocarditis due to COVID-19		
+MTHICD9	-		C5397305	Myocarditis due to Chaga disease		
+MTHICD9	-		C5397337	Myocarditis due to autoimmune disease		
+MTHICD9	-		C5437446	Myocarditis due to Kawasaki disease		
+MTHICD9	-		C5547370	Dilated cardiomyopathy due to parasitic myocarditis		
+MTHICD9	422.90	Acute or subacute myocarditis	C0865640	myocarditis; acute or subacute		SEARCH (myocarditis)
+MTHICD9	-		C0865641	Acute or subacute interstitial myocarditis		
+MTHICD9	-		C0865642	Acute or subacute myocarditis, Fiedler's		
+MTHICD9	-		C0865643	Acute or subacute myocarditis, giant cell		
+MTHICD9	-		C0865644	Acute or subacute myocarditis, isolated		
+MTHICD9	-		C0865645	Isolated diffuse myocarditis		
+MTHICD9	-		C0865646	Isolated diffuse acute or subacute myocarditis		
+MTHICD9	-		C0865647	Isolated granulomatous myocarditis		
+MTHICD9	-		C0865648	Isolated granulomatous acute or subacute myocarditis		
+MTHICD9	-		C0865649	Isolated diffuse granulomatous acute or subacute myocarditis		
+MTHICD9	-		C0865650	Acute or subacute myocarditis, nonspecific granulomatous		
+MTHICD9	422.92	Acute or subacute myocarditis, pneumococcal	C0865651	Acute or subacute myocarditis, pneumococcal		SEARCH (myocarditis)
+MTHICD9	-		C0865652	Acute or subacute myocarditis, staphylococcal		
+MTHICD9	-		C0865680	Myocarditis with mention of arteriosclerosis		
+MTHICD9	-		C0865682	Chronic myocarditis with mention of arteriosclerosis		
+MTHICD9	-		C0865683	Chronic interstitial myocarditis with mention of arteriosclerosis		
+MTHICD9	-		C0865684	Fibroid myocarditis with mention of arteriosclerosis		
+MTHICD9	-		C0865685	Senile myocarditis with mention of arteriosclerosis		
+MTHICD9	-		C2118532	tuberculous myocarditis		
+MTHICD9	-		C2830256	Acute Chagas' disease with myocarditis		
+MTHICD9	-		C2830257	Chagas' disease (chronic) with myocarditis		
+MTHICD9	-		C2880087	Typhoid myocarditis		
+MTHICD9	-		C2882053	Any condition in I00 with myocarditis		
+MTHICD9	-		C2887078	Scarlet fever with myocarditis		
+MTHICD9	-		C2977049	Influenza due to other identified influenza virus with myocarditis		
+MTHICD9	-		C2977061	Influenza due to unidentified influenza virus with myocarditis		
+MTHICD9	-		C3264390	Influenza due to identified novel influenza A virus with myocarditis		
+MTHICD9	-		C3463914	Subacute myocarditis		
+MTHICD9	429.0	Myocarditis	C0027059	Myocarditis	Narrow	CASEDEF
+MTHICD9	411.0	Dressler's syndrome	C0152107	Postmyocardial infarction syndrome		NARROWER (C0027059)
+MTHICD9	-		C0155690	Septic myocarditis		
+MTHICD9	-		C3670881	Granulomatous myocarditis	Narrow	
+MTHICD9	-		C0694498	Myocarditis in diseases classified elsewhere	Narrow	
+MTHICD9	-		C4039176	Myocarditis due to scarlet fever	Narrow	
+MTHICD9	-		C0027060	Interstitial myocarditis	Narrow	
+MTHICD9	-		C0151654	Myocardial fibrosis	Narrow	
+MTHICD9	-		C4531194	Interstitial cardiac fibrosis	Possible	
+MTHICD9	-		C0155686	Acute myocarditis	Narrow	
+MTHICD9	422.91	Myocarditis, Fiedler's	C0155689	Isolated (Fiedler's) myocarditis	Narrow	NARROWER (C0155686)
+MTHICD9	391.2	Active Rheumatic fever with myocarditis	C0155557	Acute rheumatic myocarditis	Narrow	NARROWER (C0155686)
+MTHICD9	-		C0155687	Acute myocarditis in diseases classified elsewhere	Narrow	
+MTHICD9	-		C0155687	Acute myocarditis in diseases classified elsewhere	Narrow	
+MTHICD9	-		C0155692	Other acute myocarditis	Narrow	
+MTHICD9	-		C0155686	Acute myocarditis	Narrow	
+MTHICD9	-		C0155689	Isolated (Fiedler's) myocarditis	Narrow	
+MTHICD9	-		C0155557	Acute rheumatic myocarditis	Narrow	
+MTHICD9	-		C0155687	Acute myocarditis in diseases classified elsewhere	Narrow	
+MTHICD9	-		C0155691	Toxic myocarditis	Narrow	
+MTHICD9	-		C0264852	Chronic interstitial myocarditis	Narrow	
+MTHICD9	-		C0264853	Fibroid myocarditis	Narrow	
+MTHICD9	-		C2074697	fibroid chronic myocarditis	Narrow	
+MTHICD9	-		C0264854	Senile myocarditis	Narrow	
+MTHICD9	-		C0348611	Myocarditis in bacterial diseases classified elsewhere	Narrow	
+MTHICD9	-		C0152952	Diphtheritic myocarditis	Narrow	
+MTHICD9	-		C0579992	Acute myocarditis - diphtheritic	Narrow	
+MTHICD9	-		C0348612	Myocarditis in viral diseases classified elsewhere	Narrow	
+MTHICD9	-		C1388749	aseptic; myocarditis (manifestation)	Narrow	
+MTHICD9	-		C0348613	Myocarditis in other infectious and parasitic diseases classified elsewhere	Narrow	
+MTHICD9	-		C1391996	Chagas; cardiomyopathy (manifestation)	Narrow	
+MTHICD9	-		C0348614	Myocarditis in other diseases classified elsewhere	Narrow	
+MTHICD9	-		C1388630	arthritis; rheumatoid, with myocarditis (manifestation)	Narrow	
+MTHICD9	-		C0865680	Myocarditis with mention of arteriosclerosis	Narrow	
+MTHICD9	-		C0865681	Chronic myocarditis	Narrow	
+MTHICD9	393	Chronic rheumatic, myopericarditis	C0264756	Chronic rheumatic myopericarditis	Narrow	NARROWER (C0865681)
+MTHICD9	-		C0264852	Chronic interstitial myocarditis	Narrow	
+MTHICD9	-		C0865682	Chronic myocarditis with mention of arteriosclerosis	Narrow	
+MTHICD9	-		C0865683	Chronic interstitial myocarditis with mention of arteriosclerosis	Narrow	
+MTHICD9	-		C0865684	Fibroid myocarditis with mention of arteriosclerosis	Narrow	
+MTHICD9	-		C0865685	Senile myocarditis with mention of arteriosclerosis	Narrow	
+RCD2	G1y0.	Rheumatic myocarditis	C0489959	Rheumatoid myocarditis		SEARCH (myocarditis)
+RCD2	G5y8.	Rheumatoid myocarditis	C0489959	Rheumatoid myocarditis		SEARCH (myocarditis)
+RCD2	G52..	Acute myocarditis	C0155686	Acute myocarditis		SEARCH (myocarditis)
+RCD2	G52y0	Acute myocarditis, unspecified	C0155686	Acute myocarditis		SEARCH (myocarditis)
+RCD2	G52z.	Acute myocarditis NOS	C0155686	Acute myocarditis		SEARCH (myocarditis)
+RCD2	Gyu5G	[X]Acute myocarditis,unspcfd	C0155686	Acute myocarditis		SEARCH (myocarditis)
+RCD2	G5y0.	Myocarditis NOS	C0027059	Myocarditis		SEARCH (myocarditis)
+RCD2	G52y.	Other acute myocarditis	C0155692	Other acute myocarditis		SEARCH (myocarditis)
+RCD2	G52yz	Other acute myocarditis NOS	C0155692	Other acute myocarditis		SEARCH (myocarditis)
+RCD2	Gyu5F	[X]Other acute myocarditis	C0155692	Other acute myocarditis		SEARCH (myocarditis)
+RCD2	G52y2	Idiopathic myocarditis NOS	C0155689	Isolated (Fiedler's) myocarditis		SEARCH (myocarditis)
+RCD2	G012.	Acute rheumatic myocarditis	C0155557	Acute rheumatic myocarditis		SEARCH (myocarditis)
+RCD2	G520.	Acute myocarditis + disease EC	C0155687	Acute myocarditis in diseases classified elsewhere		SEARCH (myocarditis)
+RCD2	G520z	Acute myocarditis + dis.EC NOS	C0155687	Acute myocarditis in diseases classified elsewhere		SEARCH (myocarditis)
+RCD2	G52y6	Septic myocarditis NOS	C0155690	Septic myocarditis		SEARCH (myocarditis)
+RCD2	AD03.	Toxoplasma myocarditis	C0276804	Toxoplasma myocarditis		SEARCH (myocarditis)
+RCD2	G5583	Sarcoid heart disease	C0340432	Sarcoid heart muscle disease		SEARCH (myocarditis)
+RCD2	G5y7.	Sarcoid myocarditis	C0340432	Sarcoid heart muscle disease		SEARCH (myocarditis)
+RCD2	G5207	Acute myocarditis - meningococ	C0152961	Meningococcal myocarditis		SEARCH (myocarditis)
+RCD2	A93y1	Syphilitic myocarditis	C0153165	Syphilitic myocarditis		SEARCH (myocarditis)
+RCD2	A32y1	Diphtheritic myocarditis	C0152952	Diphtheritic myocarditis		SEARCH (myocarditis)
+RCD2	-		C0264856	Giant cell myocarditis		
+RCD2	A7423	Coxsackie myocarditis	C0153106	Coxsackie myocarditis		SEARCH (myocarditis)
+RCD2	G52y7	Toxic myocarditis	C0155691	Toxic myocarditis		SEARCH (myocarditis)
+RCD2	-		C0264752	Chronic rheumatic myocarditis		
+RCD2	-		C0264834	Primary eosinophilic endomyocardial restrictive cardiomyopathy		
+RCD2	-		C0264852	Chronic interstitial myocarditis		
+RCD2	Gyu5J	[X]Myocarditis/viral dis CE	C0276138	Viral myocarditis		SEARCH (myocarditis)
+RCD2	-		C0276513	Subacute myocarditis with AIDS (acquired immunodeficiency syndrome)		
+RCD2	Gyu5H	[X]Myocrditis/bacterial dis CE	C0348611	Myocarditis in bacterial diseases classified elsewhere		SEARCH (myocarditis)
+RCD2	-		C0348612	Myocarditis in viral diseases classified elsewhere		
+RCD2	Gyu5K	[X]Myocarditis/o inf+para d CE	C0348613	Myocarditis in other infectious and parasitic diseases classified elsewhere		SEARCH (myocarditis)
+RCD2	Gyu5L	[X]Myocarditis/oth diseases CE	C0348614	Myocarditis in other diseases classified elsewhere		SEARCH (myocarditis)
+RCD2	-		C0398355	Acute myocarditis - meningococcal		
+RCD2	-		C0729608	Myocarditis due to infectious agent		
+RCD2	-		C0264797	Dilated cardiomyopathy due to viral myocarditis		
+RCD2	-		C0264853	Fibroid myocarditis		
+RCD2	-		C0264854	Senile myocarditis		
+RCD2	-		C0264855	Isolated diffuse granulomatous myocarditis		
+RCD2	-		C0276320	Mumps myocarditis		
+RCD2	-		C0276350	Myocarditis due to influenza virus		
+RCD2	-		C0276432	aseptic myocarditis of newborn		
+RCD2	G5200	Acute aseptic myocard.-newborn	C0340405	Acute aseptic myocarditis of the newborn		SEARCH (myocarditis)
+RCD2	G5203	Acute myocarditis - influenzal	C0340407	Acute myocarditis - influenzal		SEARCH (myocarditis)
+RCD2	G52y5	Septic myocarditis-streptococ.	C0340409	Septic myocarditis - streptococcal		SEARCH (myocarditis)
+RCD2	G52y4	Septic myocarditis-staphylococ	C0340410	Septic myocarditis - staphylococcal		SEARCH (myocarditis)
+RCD2	G52y3	Septic myocarditis-pneumococc.	C0340411	Septic myocarditis - pneumococcal		SEARCH (myocarditis)
+RCD2	G5206	Acute myocarditis - tubercul.	C0340412	Acute myocarditis - tuberculous		SEARCH (myocarditis)
+RCD2	G5204	Acute myocarditis - syphilitic	C0340413	Acute myocarditis - syphilitic		SEARCH (myocarditis)
+RCD2	G5205	Acute myocarditis - toxoplasm.	C0553979	Acute myocarditis - toxoplasmosis		SEARCH (myocarditis)
+RCD2	G5201	Acute myocarditis - coxsackie	C0579991	Acute myocarditis - coxsackie		SEARCH (myocarditis)
+RCD2	G5202	Acute myocarditis - diphther.	C0579992	Acute myocarditis - diphtheritic		SEARCH (myocarditis)
+RCD2	-		C2893394	Gonococcal myocarditis		
+RCD2	-		C3661903	Myocarditis due to Influenza A virus subtype H1N1		
+RCD2	-		C0027060	Interstitial myocarditis		
+RCD2	-		C0151788	Eosinophilic myocarditis		
+RCD2	-		C0264798	Dilated cardiomyopathy due to bacterial myocarditis		
+RCD2	-		C0264799	Dilated cardiomyopathy due to fungal myocarditis		
+RCD2	-		C0264800	Dilated cardiomyopathy due to protozoan myocarditis		
+RCD2	-		C0264801	Dilated cardiomyopathy secondary to metazoal myocarditis		
+RCD2	-		C0264851	Subacute interstitial myocarditis		
+RCD2	-		C0264857	Myocarditis due to hypersensitivity state		
+RCD2	-		C0264858	Myocarditis due to radiation		
+RCD2	-		C0264859	Myocarditis due to chemical agent		
+RCD2	-		C0264860	Myocarditis due to drug		
+RCD2	-		C0264861	Myocarditis due to physical agent		
+RCD2	-		C0276163	Adenoviral myocarditis		
+RCD2	-		C0276309	Rubella myocarditis		
+RCD2	-		C0276336	Measles myocarditis		
+RCD2	-		C0276512	AIDS with acute myocarditis		
+RCD2	-		C0276776	Protozoan myocarditis		
+RCD2	-		C0340414	Q fever myocarditis		
+RCD2	-		C0340415	Fungal myocarditis		
+RCD2	-		C0340416	Parasitic myocarditis		
+RCD2	-		C0694498	Myocarditis in diseases classified elsewhere		
+RCD2	-		C0865681	Chronic myocarditis		
+RCD2	-		C1384588	Bacterial myocarditis		
+RCD2	-		C1531771	Coxsackie myocarditis of newborn		
+RCD2	-		C1690442	Acute myocarditis associated with another disorder		
+RCD2	-		C1719813	Myocarditis with AIDS (acquired immunodeficiency syndrome)		
+RCD2	-		C1960273	Lymphocytic myocarditis		
+RCD2	-		C2585300	Family history of myocarditis		
+RCD2	-		C3531948	Myocarditis due to Genus Rickettsia		
+RCD2	-		C3531950	Myocarditis due to Genus Candida		
+RCD2	-		C3531951	Myocarditis due to Genus Aspergillus		
+RCD2	-		C3531952	Myocarditis due to echovirus		
+RCD2	-		C3531953	Myocarditis due to Order Spirochaetales		
+RCD2	-		C3532017	Myocarditis due to Genus Borrelia		
+RCD2	-		C3532265	Fetal myocarditis		
+RCD2	-		C3532347	Cardiovascular abnormality due to infective myocarditis		
+RCD2	-		C3839467	Heart failure with reduced ejection fraction due to myocarditis		
+RCD2	-		C4039176	Myocarditis due to scarlet fever		
+RCD2	-		C4040593	Myocarditis due to Influenza A virus		
+RCD2	-		C4076233	Myocarditis co-occurrent with human immunodeficiency virus infection		
+RCD2	-		C5396716	Myocarditis due to childhood type dermatomyositis		
+RCD2	-		C5397158	Myocarditis due to COVID-19		
+RCD2	-		C5397305	Myocarditis due to Chaga disease		
+RCD2	-		C5397337	Myocarditis due to autoimmune disease		
+RCD2	-		C5437446	Myocarditis due to Kawasaki disease		
+RCD2	-		C5547370	Dilated cardiomyopathy due to parasitic myocarditis		
+RCD2	-		C0865640	myocarditis; acute or subacute		
+RCD2	-		C0865641	Acute or subacute interstitial myocarditis		
+RCD2	-		C0865642	Acute or subacute myocarditis, Fiedler's		
+RCD2	-		C0865643	Acute or subacute myocarditis, giant cell		
+RCD2	-		C0865644	Acute or subacute myocarditis, isolated		
+RCD2	-		C0865645	Isolated diffuse myocarditis		
+RCD2	-		C0865646	Isolated diffuse acute or subacute myocarditis		
+RCD2	-		C0865647	Isolated granulomatous myocarditis		
+RCD2	-		C0865648	Isolated granulomatous acute or subacute myocarditis		
+RCD2	-		C0865649	Isolated diffuse granulomatous acute or subacute myocarditis		
+RCD2	-		C0865650	Acute or subacute myocarditis, nonspecific granulomatous		
+RCD2	-		C0865651	Acute or subacute myocarditis, pneumococcal		
+RCD2	-		C0865652	Acute or subacute myocarditis, staphylococcal		
+RCD2	-		C0865680	Myocarditis with mention of arteriosclerosis		
+RCD2	-		C0865682	Chronic myocarditis with mention of arteriosclerosis		
+RCD2	-		C0865683	Chronic interstitial myocarditis with mention of arteriosclerosis		
+RCD2	-		C0865684	Fibroid myocarditis with mention of arteriosclerosis		
+RCD2	-		C0865685	Senile myocarditis with mention of arteriosclerosis		
+RCD2	-		C2118532	tuberculous myocarditis		
+RCD2	-		C2830256	Acute Chagas' disease with myocarditis		
+RCD2	-		C2830257	Chagas' disease (chronic) with myocarditis		
+RCD2	-		C2880087	Typhoid myocarditis		
+RCD2	-		C2882053	Any condition in I00 with myocarditis		
+RCD2	-		C2887078	Scarlet fever with myocarditis		
+RCD2	-		C2977049	Influenza due to other identified influenza virus with myocarditis		
+RCD2	-		C2977061	Influenza due to unidentified influenza virus with myocarditis		
+RCD2	-		C3264390	Influenza due to identified novel influenza A virus with myocarditis		
+RCD2	-		C3463914	Subacute myocarditis		
+RCD2	G5y0.	Myocarditis NOS	C0027059	Myocarditis	Narrow	CASEDEF
+RCD2	G310.	Postmyocardial infarct. syndr.	C0152107	Postmyocardial infarction syndrome		NARROWER (C0027059)
+RCD2	-		C0155690	Septic myocarditis		
+RCD2	-		C3670881	Granulomatous myocarditis	Narrow	
+RCD2	-		C0694498	Myocarditis in diseases classified elsewhere	Narrow	
+RCD2	-		C4039176	Myocarditis due to scarlet fever	Narrow	
+RCD2	-		C0027060	Interstitial myocarditis	Narrow	
+RCD2	-		C0151654	Myocardial fibrosis	Narrow	
+RCD2	-		C4531194	Interstitial cardiac fibrosis	Possible	
+RCD2	G52..	Acute myocarditis	C0155686	Acute myocarditis	Narrow	CASEDEF
+RCD2	G52y0	Acute myocarditis, unspecified	C0155686	Acute myocarditis	Narrow	CASEDEF
+RCD2	G52z.	Acute myocarditis NOS	C0155686	Acute myocarditis	Narrow	CASEDEF
+RCD2	Gyu5G	[X]Acute myocarditis,unspcfd	C0155686	Acute myocarditis	Narrow	CASEDEF
+RCD2	G52y2	Idiopathic myocarditis NOS	C0155689	Isolated (Fiedler's) myocarditis	Narrow	NARROWER (C0155686)
+RCD2	G012.	Acute rheumatic myocarditis	C0155557	Acute rheumatic myocarditis	Narrow	NARROWER (C0155686)
+RCD2	G520.	Acute myocarditis + disease EC	C0155687	Acute myocarditis in diseases classified elsewhere	Narrow	NARROWER (C0155686)
+RCD2	G520z	Acute myocarditis + dis.EC NOS	C0155687	Acute myocarditis in diseases classified elsewhere	Narrow	NARROWER (C0155686)
+RCD2	-		C0155687	Acute myocarditis in diseases classified elsewhere	Narrow	
+RCD2	G52y.	Other acute myocarditis	C0155692	Other acute myocarditis	Narrow	CASEDEF
+RCD2	G52yz	Other acute myocarditis NOS	C0155692	Other acute myocarditis	Narrow	CASEDEF
+RCD2	Gyu5F	[X]Other acute myocarditis	C0155692	Other acute myocarditis	Narrow	CASEDEF
+RCD2	-		C0155686	Acute myocarditis	Narrow	
+RCD2	-		C0155689	Isolated (Fiedler's) myocarditis	Narrow	
+RCD2	-		C0155557	Acute rheumatic myocarditis	Narrow	
+RCD2	-		C0155687	Acute myocarditis in diseases classified elsewhere	Narrow	
+RCD2	G52y7	Toxic myocarditis	C0155691	Toxic myocarditis	Narrow	NARROWER (C0155692)
+RCD2	-		C0264852	Chronic interstitial myocarditis	Narrow	
+RCD2	-		C0264853	Fibroid myocarditis	Narrow	
+RCD2	-		C2074697	fibroid chronic myocarditis	Narrow	
+RCD2	-		C0264854	Senile myocarditis	Narrow	
+RCD2	Gyu5H	[X]Myocrditis/bacterial dis CE	C0348611	Myocarditis in bacterial diseases classified elsewhere	Narrow	CASEDEF
+RCD2	A32y1	Diphtheritic myocarditis	C0152952	Diphtheritic myocarditis	Narrow	NARROWER (C0348611)
+RCD2	G5202	Acute myocarditis - diphther.	C0579992	Acute myocarditis - diphtheritic	Narrow	NARROWER (C0152952)
+RCD2	Gyu5J	[X]Myocarditis/viral dis CE	C0348612	Myocarditis in viral diseases classified elsewhere	Narrow	CASEDEF
+RCD2	-		C1388749	aseptic; myocarditis (manifestation)	Narrow	
+RCD2	Gyu5K	[X]Myocarditis/o inf+para d CE	C0348613	Myocarditis in other infectious and parasitic diseases classified elsewhere	Narrow	CASEDEF
+RCD2	-		C1391996	Chagas; cardiomyopathy (manifestation)	Narrow	
+RCD2	Gyu5L	[X]Myocarditis/oth diseases CE	C0348614	Myocarditis in other diseases classified elsewhere	Narrow	CASEDEF
+RCD2	-		C1388630	arthritis; rheumatoid, with myocarditis (manifestation)	Narrow	
+RCD2	-		C0865680	Myocarditis with mention of arteriosclerosis	Narrow	
+RCD2	-		C0865681	Chronic myocarditis	Narrow	
+RCD2	G102.	Chronic rheum.myopericarditis	C0264756	Chronic rheumatic myopericarditis	Narrow	NARROWER (C0865681)
+RCD2	-		C0264852	Chronic interstitial myocarditis	Narrow	
+RCD2	-		C0865682	Chronic myocarditis with mention of arteriosclerosis	Narrow	
+RCD2	-		C0865683	Chronic interstitial myocarditis with mention of arteriosclerosis	Narrow	
+RCD2	-		C0865684	Fibroid myocarditis with mention of arteriosclerosis	Narrow	
+RCD2	-		C0865685	Senile myocarditis with mention of arteriosclerosis	Narrow	
+SCTSPA	194750008	degeneración reumática del miocardio	C0489959	Rheumatoid myocarditis		SEARCH (myocarditis)
+SCTSPA	195136004	miocarditis reumatoidea	C0489959	Rheumatoid myocarditis		SEARCH (myocarditis)
+SCTSPA	4536006	degeneración reumática del miocardio	C0489959	Rheumatoid myocarditis		SEARCH (myocarditis)
+SCTSPA	194953001	miocarditis aguda, no especificada	C0155686	Acute myocarditis		SEARCH (myocarditis)
+SCTSPA	194961006	miocarditis aguda, SAI	C0155686	Acute myocarditis		SEARCH (myocarditis)
+SCTSPA	195569005	[X]miocarditis aguda, no especificada	C0155686	Acute myocarditis		SEARCH (myocarditis)
+SCTSPA	46701001	miocarditis aguda	C0155686	Acute myocarditis		SEARCH (myocarditis)
+SCTSPA	11176009	Acute myopericarditis				DESC (46701001)
+SCTSPA	194942007	Acute myocarditis associated with another disorder				DESC (46701001)
+SCTSPA	194943002	Acute aseptic myocarditis of the newborn				DESC (46701001)
+SCTSPA	194944008	Acute myocarditis - coxsackie				DESC (46701001)
+SCTSPA	194945009	Acute myocarditis - diphtheritic				DESC (46701001)
+SCTSPA	194947001	Acute syphilitic myocarditis				DESC (46701001)
+SCTSPA	194948006	Acute myocarditis - toxoplasmosis				DESC (46701001)
+SCTSPA	194950003	Acute myocarditis - meningococcal				DESC (46701001)
+SCTSPA	30328003	Acute myoendocarditis				DESC (46701001)
+SCTSPA	421929001	Myocarditis with AIDS (acquired immunodeficiency syndrome)				DESC (46701001)
+SCTSPA	155380004	miocarditis, SAI	C0027059	Myocarditis		SEARCH (myocarditis)
+SCTSPA	195119007	miocarditis, SAI	C0027059	Myocarditis		SEARCH (myocarditis)
+SCTSPA	251060004	inflamación miocárdica	C0027059	Myocarditis		SEARCH (myocarditis)
+SCTSPA	50920009	miocarditis	C0027059	Myocarditis		SEARCH (myocarditis)
+SCTSPA	1052287002	Gonococcal myocarditis				DESC (50920009)
+SCTSPA	10629351000119108	Myocarditis due to Influenza A virus				DESC (50920009)
+SCTSPA	1089931000119105	Myocarditis due to scarlet fever				DESC (50920009)
+SCTSPA	1204460007	Myocardial dysfunction with sepsis				DESC (50920009)
+SCTSPA	1208897003	Myocarditis due to idiopathic hypereosinophilic syndrome				DESC (50920009)
+SCTSPA	1240531000000103	Myocarditis due to COVID-19				DESC (50920009)
+SCTSPA	142951000119106	Myocarditis due to Influenza A virus subtype H1N1				DESC (50920009)
+SCTSPA	18484008	Subacute interstitial myocarditis				DESC (50920009)
+SCTSPA	187195003	Toxoplasma myocarditis				DESC (50920009)
+SCTSPA	194709000	Acute rheumatic myocarditis				DESC (50920009)
+SCTSPA	194946005	Acute myocarditis - influenzal				DESC (50920009)
+SCTSPA	194949003	Acute myocarditis - tuberculous				DESC (50920009)
+SCTSPA	194956009	Septic myocarditis - pneumococcal				DESC (50920009)
+SCTSPA	194957000	Septic myocarditis - staphylococcal				DESC (50920009)
+SCTSPA	194958005	Septic myocarditis - streptococcal				DESC (50920009)
+SCTSPA	195033009	Sarcoid heart muscle disease				DESC (50920009)
+SCTSPA	22653005	Myocarditis due to infectious agent				DESC (50920009)
+SCTSPA	233867000	Q fever myocarditis				DESC (50920009)
+SCTSPA	233868005	Fungal myocarditis				DESC (50920009)
+SCTSPA	233869002	Parasitic myocarditis				DESC (50920009)
+SCTSPA	26117009	Diphtheritic myocarditis				DESC (50920009)
+SCTSPA	266238009	Isolated (Fiedler's) myocarditis				DESC (50920009)
+SCTSPA	279001	Senile myocarditis				DESC (50920009)
+SCTSPA	31993003	Toxic myocarditis				DESC (50920009)
+SCTSPA	37217002	Coxsackie myocarditis				DESC (50920009)
+SCTSPA	37925008	Interstitial myocarditis				DESC (50920009)
+SCTSPA	4082005	Syphilitic myocarditis				DESC (50920009)
+SCTSPA	413933004	Coxsackie myocarditis of newborn				DESC (50920009)
+SCTSPA	421272004	Subacute myocarditis with AIDS (acquired immunodeficiency syndrome)				DESC (50920009)
+SCTSPA	427372006	Eosinophilic myocarditis				DESC (50920009)
+SCTSPA	427443009	Lymphocytic myocarditis				DESC (50920009)
+SCTSPA	45093008	Chronic interstitial myocarditis				DESC (50920009)
+SCTSPA	460317007	Myocarditis due to Genus Rickettsia				DESC (50920009)
+SCTSPA	460329003	Myocarditis due to Genus Candida				DESC (50920009)
+SCTSPA	460338001	Myocarditis due to Genus Aspergillus				DESC (50920009)
+SCTSPA	460345001	Myocarditis due to echovirus				DESC (50920009)
+SCTSPA	460352004	Myocarditis due to Order Spirochaetales				DESC (50920009)
+SCTSPA	460620006	Myocarditis due to Genus Borrelia				DESC (50920009)
+SCTSPA	471841009	Inflammatory cardiomyopathy				DESC (50920009)
+SCTSPA	472707009	Fetal myocarditis				DESC (50920009)
+SCTSPA	47292005	Tuberculosis of myocardium				DESC (50920009)
+SCTSPA	488007	Fibroid myocarditis				DESC (50920009)
+SCTSPA	55087008	Myocarditis due to chemical agent				DESC (50920009)
+SCTSPA	55482007	Isolated diffuse granulomatous myocarditis				DESC (50920009)
+SCTSPA	60812006	Giant cell myocarditis				DESC (50920009)
+SCTSPA	61012002	Chronic rheumatic myocarditis				DESC (50920009)
+SCTSPA	63462008	Mumps myocarditis				DESC (50920009)
+SCTSPA	64043005	Bacterial myocarditis				DESC (50920009)
+SCTSPA	64190005	Rubella myocarditis				DESC (50920009)
+SCTSPA	65718001	Adenoviral myocarditis				DESC (50920009)
+SCTSPA	69589006	Subacute myoendocarditis				DESC (50920009)
+SCTSPA	713318009	Myocarditis co-occurrent with human immunodeficiency virus infection				DESC (50920009)
+SCTSPA	723863003	Myopericarditis				DESC (50920009)
+SCTSPA	723865005	Infection causing myoendocarditis				DESC (50920009)
+SCTSPA	72527006	Myocarditis due to drug				DESC (50920009)
+SCTSPA	74918002	Measles myocarditis				DESC (50920009)
+SCTSPA	756003	Chronic rheumatic myopericarditis				DESC (50920009)
+SCTSPA	76534005	Myocarditis due to acquired toxoplasmosis				DESC (50920009)
+SCTSPA	78046005	Myocarditis due to influenza virus				DESC (50920009)
+SCTSPA	79096004	Myocarditis due to physical agent				DESC (50920009)
+SCTSPA	8676001	Myocarditis due to hypersensitivity state				DESC (50920009)
+SCTSPA	870301007	Myocarditis due to childhood type dermatomyositis				DESC (50920009)
+SCTSPA	871587002	Myocarditis due to Chaga disease				DESC (50920009)
+SCTSPA	871640001	Myocarditis due to autoimmune disease				DESC (50920009)
+SCTSPA	880012008	Myocarditis due to Kawasaki disease				DESC (50920009)
+SCTSPA	88782004	Myocarditis due to radiation				DESC (50920009)
+SCTSPA	89141000	Viral myocarditis				DESC (50920009)
+SCTSPA	91025000	Idiopathic myocarditis				DESC (50920009)
+SCTSPA	91468009	Meningococcal myocarditis				DESC (50920009)
+SCTSPA	194952006	otras miocarditis agudas	C0155692	Other acute myocarditis		SEARCH (myocarditis)
+SCTSPA	194960007	otra miocarditis aguda, SAI	C0155692	Other acute myocarditis		SEARCH (myocarditis)
+SCTSPA	195568002	[X]otra miocarditis aguda	C0155692	Other acute myocarditis		SEARCH (myocarditis)
+SCTSPA	194955008	miocarditis idiopática, SAI	C0155689	Isolated (Fiedler's) myocarditis		SEARCH (myocarditis)
+SCTSPA	-		C0155557	Acute rheumatic myocarditis		
+SCTSPA	194951004	miocarditis aguda en enfermedades clasificadas en otra parte, SAI	C0155687	Acute myocarditis in diseases classified elsewhere		SEARCH (myocarditis)
+SCTSPA	194959002	miocarditis séptica, SAI	C0155690	Septic myocarditis		SEARCH (myocarditis)
+SCTSPA	-		C0276804	Toxoplasma myocarditis		
+SCTSPA	195135000	miocarditis sarcoide	C0340432	Sarcoid heart muscle disease		SEARCH (myocarditis)
+SCTSPA	-		C0152961	Meningococcal myocarditis		
+SCTSPA	-		C0153165	Syphilitic myocarditis		
+SCTSPA	-		C0152952	Diphtheritic myocarditis		
+SCTSPA	-		C0264856	Giant cell myocarditis		
+SCTSPA	-		C0153106	Coxsackie myocarditis		
+SCTSPA	-		C0155691	Toxic myocarditis		
+SCTSPA	-		C0264752	Chronic rheumatic myocarditis		
+SCTSPA	33258008	miocardiopatía restrictiva endomiocárdica eosinófila primaria	C0264834	Primary eosinophilic endomyocardial restrictive cardiomyopathy		SEARCH (myocarditis)
+SCTSPA	-		C0264852	Chronic interstitial myocarditis		
+SCTSPA	-		C0276138	Viral myocarditis		
+SCTSPA	13452004	SIDA con miocarditis subaguda	C0276513	Subacute myocarditis with AIDS (acquired immunodeficiency syndrome)		SEARCH (myocarditis)
+SCTSPA	195570006	[X]miocarditis en enfermedades bacterianas clasificadas en otra parte	C0348611	Myocarditis in bacterial diseases classified elsewhere		SEARCH (myocarditis)
+SCTSPA	195571005	[X]miocarditis en enfermedades virales clasificadas en otra parte	C0348612	Myocarditis in viral diseases classified elsewhere		SEARCH (myocarditis)
+SCTSPA	195572003	[X]miocarditis en otras enfermedades infecciosas y parasitarias clasificadas en otra parte	C0348613	Myocarditis in other infectious and parasitic diseases classified elsewhere		SEARCH (myocarditis)
+SCTSPA	195573008	[X]miocarditis en otras enfermedades clasificadas en otra parte	C0348614	Myocarditis in other diseases classified elsewhere		SEARCH (myocarditis)
+SCTSPA	-		C0398355	Acute myocarditis - meningococcal		
+SCTSPA	-		C0729608	Myocarditis due to infectious agent		
+SCTSPA	30496006	miocardiopatía dilatada debida a miocarditis viral	C0264797	Dilated cardiomyopathy due to viral myocarditis		SEARCH (myocarditis)
+SCTSPA	-		C0264853	Fibroid myocarditis		
+SCTSPA	-		C0264854	Senile myocarditis		
+SCTSPA	-		C0264855	Isolated diffuse granulomatous myocarditis		
+SCTSPA	-		C0276320	Mumps myocarditis		
+SCTSPA	-		C0276350	Myocarditis due to influenza virus		
+SCTSPA	34336004	miocarditis aséptica del recién nacido	C0276432	aseptic myocarditis of newborn		SEARCH (myocarditis)
+SCTSPA	-		C0340405	Acute aseptic myocarditis of the newborn		
+SCTSPA	-		C0340407	Acute myocarditis - influenzal		
+SCTSPA	-		C0340409	Septic myocarditis - streptococcal		
+SCTSPA	-		C0340410	Septic myocarditis - staphylococcal		
+SCTSPA	-		C0340411	Septic myocarditis - pneumococcal		
+SCTSPA	-		C0340412	Acute myocarditis - tuberculous		
+SCTSPA	-		C0340413	Acute myocarditis - syphilitic		
+SCTSPA	-		C0553979	Acute myocarditis - toxoplasmosis		
+SCTSPA	-		C0579991	Acute myocarditis - coxsackie		
+SCTSPA	-		C0579992	Acute myocarditis - diphtheritic		
+SCTSPA	-		C2893394	Gonococcal myocarditis		
+SCTSPA	-		C3661903	Myocarditis due to Influenza A virus subtype H1N1		
+SCTSPA	-		C0027060	Interstitial myocarditis		
+SCTSPA	-		C0151788	Eosinophilic myocarditis		
+SCTSPA	54830008	miocardiopatía dilatada debida a miocarditis bacteriana	C0264798	Dilated cardiomyopathy due to bacterial myocarditis		SEARCH (myocarditis)
+SCTSPA	44630002	miocardiopatía dilatada debida a miocarditis fúngica	C0264799	Dilated cardiomyopathy due to fungal myocarditis		SEARCH (myocarditis)
+SCTSPA	40532006	miocardiopatía dilatada debida a miocarditis por protozoarios	C0264800	Dilated cardiomyopathy due to protozoan myocarditis		SEARCH (myocarditis)
+SCTSPA	2024009	miocardiopatía dilatada secundaria a miocarditis metazoica	C0264801	Dilated cardiomyopathy secondary to metazoal myocarditis		SEARCH (myocarditis)
+SCTSPA	-		C0264851	Subacute interstitial myocarditis		
+SCTSPA	-		C0264857	Myocarditis due to hypersensitivity state		
+SCTSPA	-		C0264858	Myocarditis due to radiation		
+SCTSPA	-		C0264859	Myocarditis due to chemical agent		
+SCTSPA	-		C0264860	Myocarditis due to drug		
+SCTSPA	-		C0264861	Myocarditis due to physical agent		
+SCTSPA	-		C0276163	Adenoviral myocarditis		
+SCTSPA	-		C0276309	Rubella myocarditis		
+SCTSPA	-		C0276336	Measles myocarditis		
+SCTSPA	8402005	SIDA con miocarditis aguda	C0276512	AIDS with acute myocarditis		SEARCH (myocarditis)
+SCTSPA	8916007	miocarditis por protozoarios	C0276776	Protozoan myocarditis		SEARCH (myocarditis)
+SCTSPA	-		C0340414	Q fever myocarditis		
+SCTSPA	-		C0340415	Fungal myocarditis		
+SCTSPA	-		C0340416	Parasitic myocarditis		
+SCTSPA	-		C0694498	Myocarditis in diseases classified elsewhere		
+SCTSPA	-		C0865681	Chronic myocarditis		
+SCTSPA	-		C1384588	Bacterial myocarditis		
+SCTSPA	-		C1531771	Coxsackie myocarditis of newborn		
+SCTSPA	-		C1690442	Acute myocarditis associated with another disorder		
+SCTSPA	-		C1719813	Myocarditis with AIDS (acquired immunodeficiency syndrome)		
+SCTSPA	-		C1960273	Lymphocytic myocarditis		
+SCTSPA	439154009	antecedente familiar de miocarditis	C2585300	Family history of myocarditis		SEARCH (myocarditis)
+SCTSPA	-		C3531948	Myocarditis due to Genus Rickettsia		
+SCTSPA	-		C3531950	Myocarditis due to Genus Candida		
+SCTSPA	-		C3531951	Myocarditis due to Genus Aspergillus		
+SCTSPA	-		C3531952	Myocarditis due to echovirus		
+SCTSPA	-		C3531953	Myocarditis due to Order Spirochaetales		
+SCTSPA	-		C3532017	Myocarditis due to Genus Borrelia		
+SCTSPA	-		C3532265	Fetal myocarditis		
+SCTSPA	472811009	anomalía cardiovascular debida a miocarditis infecciosa	C3532347	Cardiovascular abnormality due to infective myocarditis		SEARCH (myocarditis)
+SCTSPA	1153452008	Dilated cardiomyopathy due to parasitic myocarditis				DESC (472811009)
+SCTSPA	703274008	insuficiencia cardíaca con fracción de eyección disminuida debida a miocarditis	C3839467	Heart failure with reduced ejection fraction due to myocarditis		SEARCH (myocarditis)
+SCTSPA	-		C4039176	Myocarditis due to scarlet fever		
+SCTSPA	-		C4040593	Myocarditis due to Influenza A virus		
+SCTSPA	-		C4076233	Myocarditis co-occurrent with human immunodeficiency virus infection		
+SCTSPA	-		C5396716	Myocarditis due to childhood type dermatomyositis		
+SCTSPA	-		C5397158	Myocarditis due to COVID-19		
+SCTSPA	-		C5397305	Myocarditis due to Chaga disease		
+SCTSPA	-		C5397337	Myocarditis due to autoimmune disease		
+SCTSPA	-		C5437446	Myocarditis due to Kawasaki disease		
+SCTSPA	-		C5547370	Dilated cardiomyopathy due to parasitic myocarditis		
+SCTSPA	-		C0865640	myocarditis; acute or subacute		
+SCTSPA	-		C0865641	Acute or subacute interstitial myocarditis		
+SCTSPA	-		C0865642	Acute or subacute myocarditis, Fiedler's		
+SCTSPA	-		C0865643	Acute or subacute myocarditis, giant cell		
+SCTSPA	-		C0865644	Acute or subacute myocarditis, isolated		
+SCTSPA	-		C0865645	Isolated diffuse myocarditis		
+SCTSPA	-		C0865646	Isolated diffuse acute or subacute myocarditis		
+SCTSPA	-		C0865647	Isolated granulomatous myocarditis		
+SCTSPA	-		C0865648	Isolated granulomatous acute or subacute myocarditis		
+SCTSPA	-		C0865649	Isolated diffuse granulomatous acute or subacute myocarditis		
+SCTSPA	-		C0865650	Acute or subacute myocarditis, nonspecific granulomatous		
+SCTSPA	-		C0865651	Acute or subacute myocarditis, pneumococcal		
+SCTSPA	-		C0865652	Acute or subacute myocarditis, staphylococcal		
+SCTSPA	-		C0865680	Myocarditis with mention of arteriosclerosis		
+SCTSPA	-		C0865682	Chronic myocarditis with mention of arteriosclerosis		
+SCTSPA	-		C0865683	Chronic interstitial myocarditis with mention of arteriosclerosis		
+SCTSPA	-		C0865684	Fibroid myocarditis with mention of arteriosclerosis		
+SCTSPA	-		C0865685	Senile myocarditis with mention of arteriosclerosis		
+SCTSPA	-		C2118532	tuberculous myocarditis		
+SCTSPA	-		C2830256	Acute Chagas' disease with myocarditis		
+SCTSPA	-		C2830257	Chagas' disease (chronic) with myocarditis		
+SCTSPA	-		C2880087	Typhoid myocarditis		
+SCTSPA	-		C2882053	Any condition in I00 with myocarditis		
+SCTSPA	-		C2887078	Scarlet fever with myocarditis		
+SCTSPA	-		C2977049	Influenza due to other identified influenza virus with myocarditis		
+SCTSPA	-		C2977061	Influenza due to unidentified influenza virus with myocarditis		
+SCTSPA	-		C3264390	Influenza due to identified novel influenza A virus with myocarditis		
+SCTSPA	-		C3463914	Subacute myocarditis		
+SCTSPA	155380004	miocarditis, SAI	C0027059	Myocarditis	Narrow	CASEDEF
+SCTSPA	195119007	miocarditis, SAI	C0027059	Myocarditis	Narrow	CASEDEF
+SCTSPA	251060004	inflamación miocárdica	C0027059	Myocarditis	Narrow	CASEDEF
+SCTSPA	50920009	miocarditis	C0027059	Myocarditis	Narrow	CASEDEF
+SCTSPA	1052287002	Gonococcal myocarditis			Narrow	DESC (50920009)
+SCTSPA	10629351000119108	Myocarditis due to Influenza A virus			Narrow	DESC (50920009)
+SCTSPA	1089931000119105	Myocarditis due to scarlet fever			Narrow	DESC (50920009)
+SCTSPA	11176009	Acute myopericarditis			Narrow	DESC (50920009)
+SCTSPA	1204460007	Myocardial dysfunction with sepsis			Narrow	DESC (50920009)
+SCTSPA	1208897003	Myocarditis due to idiopathic hypereosinophilic syndrome			Narrow	DESC (50920009)
+SCTSPA	1240531000000103	Myocarditis due to COVID-19			Narrow	DESC (50920009)
+SCTSPA	142951000119106	Myocarditis due to Influenza A virus subtype H1N1			Narrow	DESC (50920009)
+SCTSPA	18484008	Subacute interstitial myocarditis			Narrow	DESC (50920009)
+SCTSPA	187195003	Toxoplasma myocarditis			Narrow	DESC (50920009)
+SCTSPA	194709000	Acute rheumatic myocarditis			Narrow	DESC (50920009)
+SCTSPA	194942007	Acute myocarditis associated with another disorder			Narrow	DESC (50920009)
+SCTSPA	194943002	Acute aseptic myocarditis of the newborn			Narrow	DESC (50920009)
+SCTSPA	194944008	Acute myocarditis - coxsackie			Narrow	DESC (50920009)
+SCTSPA	194945009	Acute myocarditis - diphtheritic			Narrow	DESC (50920009)
+SCTSPA	194946005	Acute myocarditis - influenzal			Narrow	DESC (50920009)
+SCTSPA	194947001	Acute syphilitic myocarditis			Narrow	DESC (50920009)
+SCTSPA	194948006	Acute myocarditis - toxoplasmosis			Narrow	DESC (50920009)
+SCTSPA	194949003	Acute myocarditis - tuberculous			Narrow	DESC (50920009)
+SCTSPA	194950003	Acute myocarditis - meningococcal			Narrow	DESC (50920009)
+SCTSPA	194956009	Septic myocarditis - pneumococcal			Narrow	DESC (50920009)
+SCTSPA	194957000	Septic myocarditis - staphylococcal			Narrow	DESC (50920009)
+SCTSPA	194958005	Septic myocarditis - streptococcal			Narrow	DESC (50920009)
+SCTSPA	195033009	Sarcoid heart muscle disease			Narrow	DESC (50920009)
+SCTSPA	195136004	Rheumatoid myocarditis			Narrow	DESC (50920009)
+SCTSPA	22653005	Myocarditis due to infectious agent			Narrow	DESC (50920009)
+SCTSPA	233867000	Q fever myocarditis			Narrow	DESC (50920009)
+SCTSPA	233868005	Fungal myocarditis			Narrow	DESC (50920009)
+SCTSPA	233869002	Parasitic myocarditis			Narrow	DESC (50920009)
+SCTSPA	26117009	Diphtheritic myocarditis			Narrow	DESC (50920009)
+SCTSPA	266238009	Isolated (Fiedler's) myocarditis			Narrow	DESC (50920009)
+SCTSPA	279001	Senile myocarditis			Narrow	DESC (50920009)
+SCTSPA	30328003	Acute myoendocarditis			Narrow	DESC (50920009)
+SCTSPA	31993003	Toxic myocarditis			Narrow	DESC (50920009)
+SCTSPA	37217002	Coxsackie myocarditis			Narrow	DESC (50920009)
+SCTSPA	37925008	Interstitial myocarditis			Narrow	DESC (50920009)
+SCTSPA	4082005	Syphilitic myocarditis			Narrow	DESC (50920009)
+SCTSPA	413933004	Coxsackie myocarditis of newborn			Narrow	DESC (50920009)
+SCTSPA	421272004	Subacute myocarditis with AIDS (acquired immunodeficiency syndrome)			Narrow	DESC (50920009)
+SCTSPA	421929001	Myocarditis with AIDS (acquired immunodeficiency syndrome)			Narrow	DESC (50920009)
+SCTSPA	427372006	Eosinophilic myocarditis			Narrow	DESC (50920009)
+SCTSPA	427443009	Lymphocytic myocarditis			Narrow	DESC (50920009)
+SCTSPA	45093008	Chronic interstitial myocarditis			Narrow	DESC (50920009)
+SCTSPA	460317007	Myocarditis due to Genus Rickettsia			Narrow	DESC (50920009)
+SCTSPA	460329003	Myocarditis due to Genus Candida			Narrow	DESC (50920009)
+SCTSPA	460338001	Myocarditis due to Genus Aspergillus			Narrow	DESC (50920009)
+SCTSPA	460345001	Myocarditis due to echovirus			Narrow	DESC (50920009)
+SCTSPA	460352004	Myocarditis due to Order Spirochaetales			Narrow	DESC (50920009)
+SCTSPA	460620006	Myocarditis due to Genus Borrelia			Narrow	DESC (50920009)
+SCTSPA	46701001	Acute myocarditis			Narrow	DESC (50920009)
+SCTSPA	471841009	Inflammatory cardiomyopathy			Narrow	DESC (50920009)
+SCTSPA	472707009	Fetal myocarditis			Narrow	DESC (50920009)
+SCTSPA	47292005	Tuberculosis of myocardium			Narrow	DESC (50920009)
+SCTSPA	488007	Fibroid myocarditis			Narrow	DESC (50920009)
+SCTSPA	55087008	Myocarditis due to chemical agent			Narrow	DESC (50920009)
+SCTSPA	55482007	Isolated diffuse granulomatous myocarditis			Narrow	DESC (50920009)
+SCTSPA	60812006	Giant cell myocarditis			Narrow	DESC (50920009)
+SCTSPA	61012002	Chronic rheumatic myocarditis			Narrow	DESC (50920009)
+SCTSPA	63462008	Mumps myocarditis			Narrow	DESC (50920009)
+SCTSPA	64043005	Bacterial myocarditis			Narrow	DESC (50920009)
+SCTSPA	64190005	Rubella myocarditis			Narrow	DESC (50920009)
+SCTSPA	65718001	Adenoviral myocarditis			Narrow	DESC (50920009)
+SCTSPA	69589006	Subacute myoendocarditis			Narrow	DESC (50920009)
+SCTSPA	713318009	Myocarditis co-occurrent with human immunodeficiency virus infection			Narrow	DESC (50920009)
+SCTSPA	723863003	Myopericarditis			Narrow	DESC (50920009)
+SCTSPA	723865005	Infection causing myoendocarditis			Narrow	DESC (50920009)
+SCTSPA	72527006	Myocarditis due to drug			Narrow	DESC (50920009)
+SCTSPA	74918002	Measles myocarditis			Narrow	DESC (50920009)
+SCTSPA	756003	Chronic rheumatic myopericarditis			Narrow	DESC (50920009)
+SCTSPA	76534005	Myocarditis due to acquired toxoplasmosis			Narrow	DESC (50920009)
+SCTSPA	78046005	Myocarditis due to influenza virus			Narrow	DESC (50920009)
+SCTSPA	79096004	Myocarditis due to physical agent			Narrow	DESC (50920009)
+SCTSPA	8676001	Myocarditis due to hypersensitivity state			Narrow	DESC (50920009)
+SCTSPA	870301007	Myocarditis due to childhood type dermatomyositis			Narrow	DESC (50920009)
+SCTSPA	871587002	Myocarditis due to Chaga disease			Narrow	DESC (50920009)
+SCTSPA	871640001	Myocarditis due to autoimmune disease			Narrow	DESC (50920009)
+SCTSPA	880012008	Myocarditis due to Kawasaki disease			Narrow	DESC (50920009)
+SCTSPA	88782004	Myocarditis due to radiation			Narrow	DESC (50920009)
+SCTSPA	89141000	Viral myocarditis			Narrow	DESC (50920009)
+SCTSPA	91025000	Idiopathic myocarditis			Narrow	DESC (50920009)
+SCTSPA	91468009	Meningococcal myocarditis			Narrow	DESC (50920009)
+SCTSPA	66189004	pericarditis posinfarto de miocardio	C0152107	Postmyocardial infarction syndrome		NARROWER (C0027059)
+SCTSPA	1163420005	Postmyocardial infarction pericardial effusion				DESC (66189004)
+SCTSPA	233885007	Post-infarction pericarditis				DESC (66189004)
+SCTSPA	827163002	Early postmyocardial infarction pericarditis				DESC (66189004)
+SCTSPA	827164008	Delayed postmyocardial infarction pericarditis				DESC (66189004)
+SCTSPA	-		C0155690	Septic myocarditis		
+SCTSPA	-		C3670881	Granulomatous myocarditis	Narrow	
+SCTSPA	-		C0694498	Myocarditis in diseases classified elsewhere	Narrow	
+SCTSPA	-		C4039176	Myocarditis due to scarlet fever	Narrow	
+SCTSPA	-		C0027060	Interstitial myocarditis	Narrow	
+SCTSPA	-		C0151654	Myocardial fibrosis	Narrow	
+SCTSPA	-		C4531194	Interstitial cardiac fibrosis	Possible	
+SCTSPA	194953001	miocarditis aguda, no especificada	C0155686	Acute myocarditis	Narrow	CASEDEF
+SCTSPA	194961006	miocarditis aguda, SAI	C0155686	Acute myocarditis	Narrow	CASEDEF
+SCTSPA	195569005	[X]miocarditis aguda, no especificada	C0155686	Acute myocarditis	Narrow	CASEDEF
+SCTSPA	194955008	miocarditis idiopática, SAI	C0155689	Isolated (Fiedler's) myocarditis	Narrow	NARROWER (C0155686)
+SCTSPA	4536006	fiebre reumática activa con miocarditis	C0155557	Acute rheumatic myocarditis	Narrow	NARROWER (C0155686)
+SCTSPA	194951004	miocarditis aguda en enfermedades clasificadas en otra parte, SAI	C0155687	Acute myocarditis in diseases classified elsewhere	Narrow	NARROWER (C0155686)
+SCTSPA	-		C0155687	Acute myocarditis in diseases classified elsewhere	Narrow	
+SCTSPA	194952006	otras miocarditis agudas	C0155692	Other acute myocarditis	Narrow	CASEDEF
+SCTSPA	194960007	otra miocarditis aguda, SAI	C0155692	Other acute myocarditis	Narrow	CASEDEF
+SCTSPA	195568002	[X]otra miocarditis aguda	C0155692	Other acute myocarditis	Narrow	CASEDEF
+SCTSPA	-		C0155686	Acute myocarditis	Narrow	
+SCTSPA	-		C0155689	Isolated (Fiedler's) myocarditis	Narrow	
+SCTSPA	-		C0155557	Acute rheumatic myocarditis	Narrow	
+SCTSPA	-		C0155687	Acute myocarditis in diseases classified elsewhere	Narrow	
+SCTSPA	-		C0155691	Toxic myocarditis	Narrow	
+SCTSPA	-		C0264852	Chronic interstitial myocarditis	Narrow	
+SCTSPA	-		C0264853	Fibroid myocarditis	Narrow	
+SCTSPA	-		C2074697	fibroid chronic myocarditis	Narrow	
+SCTSPA	-		C0264854	Senile myocarditis	Narrow	
+SCTSPA	195570006	[X]miocarditis en enfermedades bacterianas clasificadas en otra parte	C0348611	Myocarditis in bacterial diseases classified elsewhere	Narrow	CASEDEF
+SCTSPA	-		C0152952	Diphtheritic myocarditis	Narrow	
+SCTSPA	-		C0579992	Acute myocarditis - diphtheritic	Narrow	
+SCTSPA	195571005	[X]miocarditis en enfermedades virales clasificadas en otra parte	C0348612	Myocarditis in viral diseases classified elsewhere	Narrow	CASEDEF
+SCTSPA	-		C1388749	aseptic; myocarditis (manifestation)	Narrow	
+SCTSPA	195572003	[X]miocarditis en otras enfermedades infecciosas y parasitarias clasificadas en otra parte	C0348613	Myocarditis in other infectious and parasitic diseases classified elsewhere	Narrow	CASEDEF
+SCTSPA	-		C1391996	Chagas; cardiomyopathy (manifestation)	Narrow	
+SCTSPA	195573008	[X]miocarditis en otras enfermedades clasificadas en otra parte	C0348614	Myocarditis in other diseases classified elsewhere	Narrow	CASEDEF
+SCTSPA	-		C1388630	arthritis; rheumatoid, with myocarditis (manifestation)	Narrow	
+SCTSPA	-		C0865680	Myocarditis with mention of arteriosclerosis	Narrow	
+SCTSPA	-		C0865681	Chronic myocarditis	Narrow	
+SCTSPA	-		C0264756	Chronic rheumatic myopericarditis	Narrow	
+SCTSPA	-		C0264852	Chronic interstitial myocarditis	Narrow	
+SCTSPA	-		C0865682	Chronic myocarditis with mention of arteriosclerosis	Narrow	
+SCTSPA	-		C0865683	Chronic interstitial myocarditis with mention of arteriosclerosis	Narrow	
+SCTSPA	-		C0865684	Fibroid myocarditis with mention of arteriosclerosis	Narrow	
+SCTSPA	-		C0865685	Senile myocarditis with mention of arteriosclerosis	Narrow	
+SNOMEDCT_US	194750008	Rheumatic degeneration of myocardium	C0489959	Rheumatoid myocarditis		SEARCH (myocarditis)
+SNOMEDCT_US	195136004	Rheumatoid myocarditis	C0489959	Rheumatoid myocarditis		SEARCH (myocarditis)
+SNOMEDCT_US	266285003	Rheumatic myocarditis	C0489959	Rheumatoid myocarditis		SEARCH (myocarditis)
+SNOMEDCT_US	4536006	Rheumatic degeneration of myocardium	C0489959	Rheumatoid myocarditis		SEARCH (myocarditis)
+SNOMEDCT_US	155336004	Acute myocarditis	C0155686	Acute myocarditis		SEARCH (myocarditis)
+SNOMEDCT_US	194953001	Acute myocarditis, unspecified	C0155686	Acute myocarditis		SEARCH (myocarditis)
+SNOMEDCT_US	194961006	Acute myocarditis NOS	C0155686	Acute myocarditis		SEARCH (myocarditis)
+SNOMEDCT_US	195569005	[X]Acute myocarditis, unspecified	C0155686	Acute myocarditis		SEARCH (myocarditis)
+SNOMEDCT_US	46701001	Acute myocarditis	C0155686	Acute myocarditis		SEARCH (myocarditis)
+SNOMEDCT_US	11176009	Acute myopericarditis				DESC (46701001)
+SNOMEDCT_US	194942007	Acute myocarditis associated with another disorder				DESC (46701001)
+SNOMEDCT_US	194943002	Acute aseptic myocarditis of the newborn				DESC (46701001)
+SNOMEDCT_US	194944008	Acute myocarditis - coxsackie				DESC (46701001)
+SNOMEDCT_US	194945009	Acute myocarditis - diphtheritic				DESC (46701001)
+SNOMEDCT_US	194947001	Acute syphilitic myocarditis				DESC (46701001)
+SNOMEDCT_US	194948006	Acute myocarditis - toxoplasmosis				DESC (46701001)
+SNOMEDCT_US	194950003	Acute myocarditis - meningococcal				DESC (46701001)
+SNOMEDCT_US	30328003	Acute myoendocarditis				DESC (46701001)
+SNOMEDCT_US	421929001	Myocarditis with AIDS (acquired immunodeficiency syndrome)				DESC (46701001)
+SNOMEDCT_US	155380004	Myocarditis NOS	C0027059	Myocarditis		SEARCH (myocarditis)
+SNOMEDCT_US	195119007	Myocarditis NOS	C0027059	Myocarditis		SEARCH (myocarditis)
+SNOMEDCT_US	251060004	Myocardial inflammation	C0027059	Myocarditis		SEARCH (myocarditis)
+SNOMEDCT_US	50920009	Myocarditis	C0027059	Myocarditis		SEARCH (myocarditis)
+SNOMEDCT_US	1052287002	Gonococcal myocarditis				DESC (50920009)
+SNOMEDCT_US	10629351000119108	Myocarditis due to Influenza A virus				DESC (50920009)
+SNOMEDCT_US	1089931000119105	Myocarditis due to scarlet fever				DESC (50920009)
+SNOMEDCT_US	1204460007	Myocardial dysfunction with sepsis				DESC (50920009)
+SNOMEDCT_US	1208897003	Myocarditis due to idiopathic hypereosinophilic syndrome				DESC (50920009)
+SNOMEDCT_US	1240531000000103	Myocarditis due to COVID-19				DESC (50920009)
+SNOMEDCT_US	142951000119106	Myocarditis due to Influenza A virus subtype H1N1				DESC (50920009)
+SNOMEDCT_US	18484008	Subacute interstitial myocarditis				DESC (50920009)
+SNOMEDCT_US	187195003	Toxoplasma myocarditis				DESC (50920009)
+SNOMEDCT_US	194709000	Acute rheumatic myocarditis				DESC (50920009)
+SNOMEDCT_US	194946005	Acute myocarditis - influenzal				DESC (50920009)
+SNOMEDCT_US	194949003	Acute myocarditis - tuberculous				DESC (50920009)
+SNOMEDCT_US	194956009	Septic myocarditis - pneumococcal				DESC (50920009)
+SNOMEDCT_US	194957000	Septic myocarditis - staphylococcal				DESC (50920009)
+SNOMEDCT_US	194958005	Septic myocarditis - streptococcal				DESC (50920009)
+SNOMEDCT_US	195033009	Sarcoid heart muscle disease				DESC (50920009)
+SNOMEDCT_US	22653005	Myocarditis due to infectious agent				DESC (50920009)
+SNOMEDCT_US	233867000	Q fever myocarditis				DESC (50920009)
+SNOMEDCT_US	233868005	Fungal myocarditis				DESC (50920009)
+SNOMEDCT_US	233869002	Parasitic myocarditis				DESC (50920009)
+SNOMEDCT_US	26117009	Diphtheritic myocarditis				DESC (50920009)
+SNOMEDCT_US	266238009	Isolated (Fiedler's) myocarditis				DESC (50920009)
+SNOMEDCT_US	279001	Senile myocarditis				DESC (50920009)
+SNOMEDCT_US	31993003	Toxic myocarditis				DESC (50920009)
+SNOMEDCT_US	37217002	Coxsackie myocarditis				DESC (50920009)
+SNOMEDCT_US	37925008	Interstitial myocarditis				DESC (50920009)
+SNOMEDCT_US	4082005	Syphilitic myocarditis				DESC (50920009)
+SNOMEDCT_US	413933004	Coxsackie myocarditis of newborn				DESC (50920009)
+SNOMEDCT_US	421272004	Subacute myocarditis with AIDS (acquired immunodeficiency syndrome)				DESC (50920009)
+SNOMEDCT_US	427372006	Eosinophilic myocarditis				DESC (50920009)
+SNOMEDCT_US	427443009	Lymphocytic myocarditis				DESC (50920009)
+SNOMEDCT_US	45093008	Chronic interstitial myocarditis				DESC (50920009)
+SNOMEDCT_US	460317007	Myocarditis due to Genus Rickettsia				DESC (50920009)
+SNOMEDCT_US	460329003	Myocarditis due to Genus Candida				DESC (50920009)
+SNOMEDCT_US	460338001	Myocarditis due to Genus Aspergillus				DESC (50920009)
+SNOMEDCT_US	460345001	Myocarditis due to echovirus				DESC (50920009)
+SNOMEDCT_US	460352004	Myocarditis due to Order Spirochaetales				DESC (50920009)
+SNOMEDCT_US	460620006	Myocarditis due to Genus Borrelia				DESC (50920009)
+SNOMEDCT_US	471841009	Inflammatory cardiomyopathy				DESC (50920009)
+SNOMEDCT_US	472707009	Fetal myocarditis				DESC (50920009)
+SNOMEDCT_US	47292005	Tuberculosis of myocardium				DESC (50920009)
+SNOMEDCT_US	488007	Fibroid myocarditis				DESC (50920009)
+SNOMEDCT_US	55087008	Myocarditis due to chemical agent				DESC (50920009)
+SNOMEDCT_US	55482007	Isolated diffuse granulomatous myocarditis				DESC (50920009)
+SNOMEDCT_US	60812006	Giant cell myocarditis				DESC (50920009)
+SNOMEDCT_US	61012002	Chronic rheumatic myocarditis				DESC (50920009)
+SNOMEDCT_US	63462008	Mumps myocarditis				DESC (50920009)
+SNOMEDCT_US	64043005	Bacterial myocarditis				DESC (50920009)
+SNOMEDCT_US	64190005	Rubella myocarditis				DESC (50920009)
+SNOMEDCT_US	65718001	Adenoviral myocarditis				DESC (50920009)
+SNOMEDCT_US	69589006	Subacute myoendocarditis				DESC (50920009)
+SNOMEDCT_US	713318009	Myocarditis co-occurrent with human immunodeficiency virus infection				DESC (50920009)
+SNOMEDCT_US	723863003	Myopericarditis				DESC (50920009)
+SNOMEDCT_US	723865005	Infection causing myoendocarditis				DESC (50920009)
+SNOMEDCT_US	72527006	Myocarditis due to drug				DESC (50920009)
+SNOMEDCT_US	74918002	Measles myocarditis				DESC (50920009)
+SNOMEDCT_US	756003	Chronic rheumatic myopericarditis				DESC (50920009)
+SNOMEDCT_US	76534005	Myocarditis due to acquired toxoplasmosis				DESC (50920009)
+SNOMEDCT_US	78046005	Myocarditis due to influenza virus				DESC (50920009)
+SNOMEDCT_US	79096004	Myocarditis due to physical agent				DESC (50920009)
+SNOMEDCT_US	8676001	Myocarditis due to hypersensitivity state				DESC (50920009)
+SNOMEDCT_US	870301007	Myocarditis due to childhood type dermatomyositis				DESC (50920009)
+SNOMEDCT_US	871587002	Myocarditis due to Chaga disease				DESC (50920009)
+SNOMEDCT_US	871640001	Myocarditis due to autoimmune disease				DESC (50920009)
+SNOMEDCT_US	880012008	Myocarditis due to Kawasaki disease				DESC (50920009)
+SNOMEDCT_US	88782004	Myocarditis due to radiation				DESC (50920009)
+SNOMEDCT_US	89141000	Viral myocarditis				DESC (50920009)
+SNOMEDCT_US	91025000	Idiopathic myocarditis				DESC (50920009)
+SNOMEDCT_US	91468009	Meningococcal myocarditis				DESC (50920009)
+SNOMEDCT_US	194952006	Other acute myocarditis	C0155692	Other acute myocarditis		SEARCH (myocarditis)
+SNOMEDCT_US	194960007	Other acute myocarditis NOS	C0155692	Other acute myocarditis		SEARCH (myocarditis)
+SNOMEDCT_US	195568002	[X]Other acute myocarditis	C0155692	Other acute myocarditis		SEARCH (myocarditis)
+SNOMEDCT_US	194954007	Isolated (Fiedler's) myocarditis	C0155689	Isolated (Fiedler's) myocarditis		SEARCH (myocarditis)
+SNOMEDCT_US	194955008	Idiopathic myocarditis NOS	C0155689	Isolated (Fiedler's) myocarditis		SEARCH (myocarditis)
+SNOMEDCT_US	155269001	Acute rheumatic myocarditis	C0155557	Acute rheumatic myocarditis		SEARCH (myocarditis)
+SNOMEDCT_US	194951004	Acute myocarditis in diseases EC, NOS	C0155687	Acute myocarditis in diseases classified elsewhere		SEARCH (myocarditis)
+SNOMEDCT_US	194959002	Septic myocarditis NOS	C0155690	Septic myocarditis		SEARCH (myocarditis)
+SNOMEDCT_US	-		C0276804	Toxoplasma myocarditis		
+SNOMEDCT_US	195135000	Sarcoid myocarditis	C0340432	Sarcoid heart muscle disease		SEARCH (myocarditis)
+SNOMEDCT_US	-		C0152961	Meningococcal myocarditis		
+SNOMEDCT_US	186881007	Syphilitic myocarditis	C0153165	Syphilitic myocarditis		SEARCH (myocarditis)
+SNOMEDCT_US	-		C0152952	Diphtheritic myocarditis		
+SNOMEDCT_US	-		C0264856	Giant cell myocarditis		
+SNOMEDCT_US	-		C0153106	Coxsackie myocarditis		
+SNOMEDCT_US	-		C0155691	Toxic myocarditis		
+SNOMEDCT_US	-		C0264752	Chronic rheumatic myocarditis		
+SNOMEDCT_US	33258008	Primary eosinophilic endomyocardial restrictive cardiomyopathy	C0264834	Primary eosinophilic endomyocardial restrictive cardiomyopathy		SEARCH (myocarditis)
+SNOMEDCT_US	-		C0264852	Chronic interstitial myocarditis		
+SNOMEDCT_US	-		C0276138	Viral myocarditis		
+SNOMEDCT_US	13452004	AIDS with subacute myocarditis	C0276513	Subacute myocarditis with AIDS (acquired immunodeficiency syndrome)		SEARCH (myocarditis)
+SNOMEDCT_US	195570006	[X]Myocarditis in bacterial diseases classified elsewhere	C0348611	Myocarditis in bacterial diseases classified elsewhere		SEARCH (myocarditis)
+SNOMEDCT_US	195571005	[X]Myocarditis in viral diseases classified elsewhere	C0348612	Myocarditis in viral diseases classified elsewhere		SEARCH (myocarditis)
+SNOMEDCT_US	195572003	[X]Myocarditis in other infectious and parasitic diseases classified elsewhere	C0348613	Myocarditis in other infectious and parasitic diseases classified elsewhere		SEARCH (myocarditis)
+SNOMEDCT_US	195573008	[X]Myocarditis in other diseases classified elsewhere	C0348614	Myocarditis in other diseases classified elsewhere		SEARCH (myocarditis)
+SNOMEDCT_US	186370003	Acute myocarditis - meningococcal	C0398355	Acute myocarditis - meningococcal		SEARCH (myocarditis)
+SNOMEDCT_US	-		C0729608	Myocarditis due to infectious agent		
+SNOMEDCT_US	30496006	Dilated cardiomyopathy due to viral myocarditis	C0264797	Dilated cardiomyopathy due to viral myocarditis		SEARCH (myocarditis)
+SNOMEDCT_US	-		C0264853	Fibroid myocarditis		
+SNOMEDCT_US	-		C0264854	Senile myocarditis		
+SNOMEDCT_US	-		C0264855	Isolated diffuse granulomatous myocarditis		
+SNOMEDCT_US	-		C0276320	Mumps myocarditis		
+SNOMEDCT_US	-		C0276350	Myocarditis due to influenza virus		
+SNOMEDCT_US	34336004	Aseptic myocarditis of newborn	C0276432	aseptic myocarditis of newborn		SEARCH (myocarditis)
+SNOMEDCT_US	-		C0340405	Acute aseptic myocarditis of the newborn		
+SNOMEDCT_US	-		C0340407	Acute myocarditis - influenzal		
+SNOMEDCT_US	-		C0340409	Septic myocarditis - streptococcal		
+SNOMEDCT_US	-		C0340410	Septic myocarditis - staphylococcal		
+SNOMEDCT_US	-		C0340411	Septic myocarditis - pneumococcal		
+SNOMEDCT_US	-		C0340412	Acute myocarditis - tuberculous		
+SNOMEDCT_US	-		C0340413	Acute myocarditis - syphilitic		
+SNOMEDCT_US	-		C0553979	Acute myocarditis - toxoplasmosis		
+SNOMEDCT_US	-		C0579991	Acute myocarditis - coxsackie		
+SNOMEDCT_US	-		C0579992	Acute myocarditis - diphtheritic		
+SNOMEDCT_US	-		C2893394	Gonococcal myocarditis		
+SNOMEDCT_US	434911000124100	Myocarditis due to H1N1 Influenza virus	C3661903	Myocarditis due to Influenza A virus subtype H1N1		SEARCH (myocarditis)
+SNOMEDCT_US	-		C0027060	Interstitial myocarditis		
+SNOMEDCT_US	-		C0151788	Eosinophilic myocarditis		
+SNOMEDCT_US	54830008	Dilated cardiomyopathy due to bacterial myocarditis	C0264798	Dilated cardiomyopathy due to bacterial myocarditis		SEARCH (myocarditis)
+SNOMEDCT_US	44630002	Dilated cardiomyopathy due to fungal myocarditis	C0264799	Dilated cardiomyopathy due to fungal myocarditis		SEARCH (myocarditis)
+SNOMEDCT_US	40532006	Dilated cardiomyopathy due to protozoan myocarditis	C0264800	Dilated cardiomyopathy due to protozoan myocarditis		SEARCH (myocarditis)
+SNOMEDCT_US	2024009	Dilated cardiomyopathy secondary to metazoal myocarditis	C0264801	Dilated cardiomyopathy secondary to metazoal myocarditis		SEARCH (myocarditis)
+SNOMEDCT_US	-		C0264851	Subacute interstitial myocarditis		
+SNOMEDCT_US	-		C0264857	Myocarditis due to hypersensitivity state		
+SNOMEDCT_US	-		C0264858	Myocarditis due to radiation		
+SNOMEDCT_US	-		C0264859	Myocarditis due to chemical agent		
+SNOMEDCT_US	-		C0264860	Myocarditis due to drug		
+SNOMEDCT_US	-		C0264861	Myocarditis due to physical agent		
+SNOMEDCT_US	-		C0276163	Adenoviral myocarditis		
+SNOMEDCT_US	-		C0276309	Rubella myocarditis		
+SNOMEDCT_US	-		C0276336	Measles myocarditis		
+SNOMEDCT_US	8402005	AIDS with acute myocarditis	C0276512	AIDS with acute myocarditis		SEARCH (myocarditis)
+SNOMEDCT_US	8916007	Protozoan myocarditis	C0276776	Protozoan myocarditis		SEARCH (myocarditis)
+SNOMEDCT_US	-		C0340414	Q fever myocarditis		
+SNOMEDCT_US	-		C0340415	Fungal myocarditis		
+SNOMEDCT_US	-		C0340416	Parasitic myocarditis		
+SNOMEDCT_US	-		C0694498	Myocarditis in diseases classified elsewhere		
+SNOMEDCT_US	451241000124108	Chronic myocarditis	C0865681	Chronic myocarditis		SEARCH (myocarditis)
+SNOMEDCT_US	-		C1384588	Bacterial myocarditis		
+SNOMEDCT_US	-		C1531771	Coxsackie myocarditis of newborn		
+SNOMEDCT_US	-		C1690442	Acute myocarditis associated with another disorder		
+SNOMEDCT_US	-		C1719813	Myocarditis with AIDS (acquired immunodeficiency syndrome)		
+SNOMEDCT_US	-		C1960273	Lymphocytic myocarditis		
+SNOMEDCT_US	439154009	Family history of myocarditis	C2585300	Family history of myocarditis		SEARCH (myocarditis)
+SNOMEDCT_US	-		C3531948	Myocarditis due to Genus Rickettsia		
+SNOMEDCT_US	-		C3531950	Myocarditis due to Genus Candida		
+SNOMEDCT_US	-		C3531951	Myocarditis due to Genus Aspergillus		
+SNOMEDCT_US	-		C3531952	Myocarditis due to echovirus		
+SNOMEDCT_US	-		C3531953	Myocarditis due to Order Spirochaetales		
+SNOMEDCT_US	-		C3532017	Myocarditis due to Genus Borrelia		
+SNOMEDCT_US	-		C3532265	Fetal myocarditis		
+SNOMEDCT_US	472811009	Cardiovascular abnormality due to infective myocarditis	C3532347	Cardiovascular abnormality due to infective myocarditis		SEARCH (myocarditis)
+SNOMEDCT_US	1153452008	Dilated cardiomyopathy due to parasitic myocarditis				DESC (472811009)
+SNOMEDCT_US	703274008	Heart failure with reduced ejection fraction due to myocarditis	C3839467	Heart failure with reduced ejection fraction due to myocarditis		SEARCH (myocarditis)
+SNOMEDCT_US	-		C4039176	Myocarditis due to scarlet fever		
+SNOMEDCT_US	-		C4040593	Myocarditis due to Influenza A virus		
+SNOMEDCT_US	-		C4076233	Myocarditis co-occurrent with human immunodeficiency virus infection		
+SNOMEDCT_US	-		C5396716	Myocarditis due to childhood type dermatomyositis		
+SNOMEDCT_US	-		C5397158	Myocarditis due to COVID-19		
+SNOMEDCT_US	-		C5397305	Myocarditis due to Chaga disease		
+SNOMEDCT_US	-		C5397337	Myocarditis due to autoimmune disease		
+SNOMEDCT_US	-		C5437446	Myocarditis due to Kawasaki disease		
+SNOMEDCT_US	-		C5547370	Dilated cardiomyopathy due to parasitic myocarditis		
+SNOMEDCT_US	-		C0865640	myocarditis; acute or subacute		
+SNOMEDCT_US	-		C0865641	Acute or subacute interstitial myocarditis		
+SNOMEDCT_US	-		C0865642	Acute or subacute myocarditis, Fiedler's		
+SNOMEDCT_US	-		C0865643	Acute or subacute myocarditis, giant cell		
+SNOMEDCT_US	-		C0865644	Acute or subacute myocarditis, isolated		
+SNOMEDCT_US	-		C0865645	Isolated diffuse myocarditis		
+SNOMEDCT_US	-		C0865646	Isolated diffuse acute or subacute myocarditis		
+SNOMEDCT_US	-		C0865647	Isolated granulomatous myocarditis		
+SNOMEDCT_US	-		C0865648	Isolated granulomatous acute or subacute myocarditis		
+SNOMEDCT_US	-		C0865649	Isolated diffuse granulomatous acute or subacute myocarditis		
+SNOMEDCT_US	-		C0865650	Acute or subacute myocarditis, nonspecific granulomatous		
+SNOMEDCT_US	-		C0865651	Acute or subacute myocarditis, pneumococcal		
+SNOMEDCT_US	-		C0865652	Acute or subacute myocarditis, staphylococcal		
+SNOMEDCT_US	-		C0865680	Myocarditis with mention of arteriosclerosis		
+SNOMEDCT_US	-		C0865682	Chronic myocarditis with mention of arteriosclerosis		
+SNOMEDCT_US	-		C0865683	Chronic interstitial myocarditis with mention of arteriosclerosis		
+SNOMEDCT_US	-		C0865684	Fibroid myocarditis with mention of arteriosclerosis		
+SNOMEDCT_US	-		C0865685	Senile myocarditis with mention of arteriosclerosis		
+SNOMEDCT_US	-		C2118532	tuberculous myocarditis		
+SNOMEDCT_US	-		C2830256	Acute Chagas' disease with myocarditis		
+SNOMEDCT_US	-		C2830257	Chagas' disease (chronic) with myocarditis		
+SNOMEDCT_US	-		C2880087	Typhoid myocarditis		
+SNOMEDCT_US	-		C2882053	Any condition in I00 with myocarditis		
+SNOMEDCT_US	-		C2887078	Scarlet fever with myocarditis		
+SNOMEDCT_US	-		C2977049	Influenza due to other identified influenza virus with myocarditis		
+SNOMEDCT_US	-		C2977061	Influenza due to unidentified influenza virus with myocarditis		
+SNOMEDCT_US	-		C3264390	Influenza due to identified novel influenza A virus with myocarditis		
+SNOMEDCT_US	-		C3463914	Subacute myocarditis		
+SNOMEDCT_US	155380004	Myocarditis NOS	C0027059	Myocarditis	Narrow	CASEDEF
+SNOMEDCT_US	195119007	Myocarditis NOS	C0027059	Myocarditis	Narrow	CASEDEF
+SNOMEDCT_US	251060004	Myocardial inflammation	C0027059	Myocarditis	Narrow	CASEDEF
+SNOMEDCT_US	50920009	Myocarditis	C0027059	Myocarditis	Narrow	CASEDEF
+SNOMEDCT_US	1052287002	Gonococcal myocarditis			Narrow	DESC (50920009)
+SNOMEDCT_US	10629351000119108	Myocarditis due to Influenza A virus			Narrow	DESC (50920009)
+SNOMEDCT_US	1089931000119105	Myocarditis due to scarlet fever			Narrow	DESC (50920009)
+SNOMEDCT_US	11176009	Acute myopericarditis			Narrow	DESC (50920009)
+SNOMEDCT_US	1204460007	Myocardial dysfunction with sepsis			Narrow	DESC (50920009)
+SNOMEDCT_US	1208897003	Myocarditis due to idiopathic hypereosinophilic syndrome			Narrow	DESC (50920009)
+SNOMEDCT_US	1240531000000103	Myocarditis due to COVID-19			Narrow	DESC (50920009)
+SNOMEDCT_US	142951000119106	Myocarditis due to Influenza A virus subtype H1N1			Narrow	DESC (50920009)
+SNOMEDCT_US	18484008	Subacute interstitial myocarditis			Narrow	DESC (50920009)
+SNOMEDCT_US	187195003	Toxoplasma myocarditis			Narrow	DESC (50920009)
+SNOMEDCT_US	194709000	Acute rheumatic myocarditis			Narrow	DESC (50920009)
+SNOMEDCT_US	194942007	Acute myocarditis associated with another disorder			Narrow	DESC (50920009)
+SNOMEDCT_US	194943002	Acute aseptic myocarditis of the newborn			Narrow	DESC (50920009)
+SNOMEDCT_US	194944008	Acute myocarditis - coxsackie			Narrow	DESC (50920009)
+SNOMEDCT_US	194945009	Acute myocarditis - diphtheritic			Narrow	DESC (50920009)
+SNOMEDCT_US	194946005	Acute myocarditis - influenzal			Narrow	DESC (50920009)
+SNOMEDCT_US	194947001	Acute syphilitic myocarditis			Narrow	DESC (50920009)
+SNOMEDCT_US	194948006	Acute myocarditis - toxoplasmosis			Narrow	DESC (50920009)
+SNOMEDCT_US	194949003	Acute myocarditis - tuberculous			Narrow	DESC (50920009)
+SNOMEDCT_US	194950003	Acute myocarditis - meningococcal			Narrow	DESC (50920009)
+SNOMEDCT_US	194956009	Septic myocarditis - pneumococcal			Narrow	DESC (50920009)
+SNOMEDCT_US	194957000	Septic myocarditis - staphylococcal			Narrow	DESC (50920009)
+SNOMEDCT_US	194958005	Septic myocarditis - streptococcal			Narrow	DESC (50920009)
+SNOMEDCT_US	195033009	Sarcoid heart muscle disease			Narrow	DESC (50920009)
+SNOMEDCT_US	195136004	Rheumatoid myocarditis			Narrow	DESC (50920009)
+SNOMEDCT_US	22653005	Myocarditis due to infectious agent			Narrow	DESC (50920009)
+SNOMEDCT_US	233867000	Q fever myocarditis			Narrow	DESC (50920009)
+SNOMEDCT_US	233868005	Fungal myocarditis			Narrow	DESC (50920009)
+SNOMEDCT_US	233869002	Parasitic myocarditis			Narrow	DESC (50920009)
+SNOMEDCT_US	26117009	Diphtheritic myocarditis			Narrow	DESC (50920009)
+SNOMEDCT_US	266238009	Isolated (Fiedler's) myocarditis			Narrow	DESC (50920009)
+SNOMEDCT_US	279001	Senile myocarditis			Narrow	DESC (50920009)
+SNOMEDCT_US	30328003	Acute myoendocarditis			Narrow	DESC (50920009)
+SNOMEDCT_US	31993003	Toxic myocarditis			Narrow	DESC (50920009)
+SNOMEDCT_US	37217002	Coxsackie myocarditis			Narrow	DESC (50920009)
+SNOMEDCT_US	37925008	Interstitial myocarditis			Narrow	DESC (50920009)
+SNOMEDCT_US	4082005	Syphilitic myocarditis			Narrow	DESC (50920009)
+SNOMEDCT_US	413933004	Coxsackie myocarditis of newborn			Narrow	DESC (50920009)
+SNOMEDCT_US	421272004	Subacute myocarditis with AIDS (acquired immunodeficiency syndrome)			Narrow	DESC (50920009)
+SNOMEDCT_US	421929001	Myocarditis with AIDS (acquired immunodeficiency syndrome)			Narrow	DESC (50920009)
+SNOMEDCT_US	427372006	Eosinophilic myocarditis			Narrow	DESC (50920009)
+SNOMEDCT_US	427443009	Lymphocytic myocarditis			Narrow	DESC (50920009)
+SNOMEDCT_US	45093008	Chronic interstitial myocarditis			Narrow	DESC (50920009)
+SNOMEDCT_US	460317007	Myocarditis due to Genus Rickettsia			Narrow	DESC (50920009)
+SNOMEDCT_US	460329003	Myocarditis due to Genus Candida			Narrow	DESC (50920009)
+SNOMEDCT_US	460338001	Myocarditis due to Genus Aspergillus			Narrow	DESC (50920009)
+SNOMEDCT_US	460345001	Myocarditis due to echovirus			Narrow	DESC (50920009)
+SNOMEDCT_US	460352004	Myocarditis due to Order Spirochaetales			Narrow	DESC (50920009)
+SNOMEDCT_US	460620006	Myocarditis due to Genus Borrelia			Narrow	DESC (50920009)
+SNOMEDCT_US	46701001	Acute myocarditis			Narrow	DESC (50920009)
+SNOMEDCT_US	471841009	Inflammatory cardiomyopathy			Narrow	DESC (50920009)
+SNOMEDCT_US	472707009	Fetal myocarditis			Narrow	DESC (50920009)
+SNOMEDCT_US	47292005	Tuberculosis of myocardium			Narrow	DESC (50920009)
+SNOMEDCT_US	488007	Fibroid myocarditis			Narrow	DESC (50920009)
+SNOMEDCT_US	55087008	Myocarditis due to chemical agent			Narrow	DESC (50920009)
+SNOMEDCT_US	55482007	Isolated diffuse granulomatous myocarditis			Narrow	DESC (50920009)
+SNOMEDCT_US	60812006	Giant cell myocarditis			Narrow	DESC (50920009)
+SNOMEDCT_US	61012002	Chronic rheumatic myocarditis			Narrow	DESC (50920009)
+SNOMEDCT_US	63462008	Mumps myocarditis			Narrow	DESC (50920009)
+SNOMEDCT_US	64043005	Bacterial myocarditis			Narrow	DESC (50920009)
+SNOMEDCT_US	64190005	Rubella myocarditis			Narrow	DESC (50920009)
+SNOMEDCT_US	65718001	Adenoviral myocarditis			Narrow	DESC (50920009)
+SNOMEDCT_US	69589006	Subacute myoendocarditis			Narrow	DESC (50920009)
+SNOMEDCT_US	713318009	Myocarditis co-occurrent with human immunodeficiency virus infection			Narrow	DESC (50920009)
+SNOMEDCT_US	723863003	Myopericarditis			Narrow	DESC (50920009)
+SNOMEDCT_US	723865005	Infection causing myoendocarditis			Narrow	DESC (50920009)
+SNOMEDCT_US	72527006	Myocarditis due to drug			Narrow	DESC (50920009)
+SNOMEDCT_US	74918002	Measles myocarditis			Narrow	DESC (50920009)
+SNOMEDCT_US	756003	Chronic rheumatic myopericarditis			Narrow	DESC (50920009)
+SNOMEDCT_US	76534005	Myocarditis due to acquired toxoplasmosis			Narrow	DESC (50920009)
+SNOMEDCT_US	78046005	Myocarditis due to influenza virus			Narrow	DESC (50920009)
+SNOMEDCT_US	79096004	Myocarditis due to physical agent			Narrow	DESC (50920009)
+SNOMEDCT_US	8676001	Myocarditis due to hypersensitivity state			Narrow	DESC (50920009)
+SNOMEDCT_US	870301007	Myocarditis due to childhood type dermatomyositis			Narrow	DESC (50920009)
+SNOMEDCT_US	871587002	Myocarditis due to Chaga disease			Narrow	DESC (50920009)
+SNOMEDCT_US	871640001	Myocarditis due to autoimmune disease			Narrow	DESC (50920009)
+SNOMEDCT_US	880012008	Myocarditis due to Kawasaki disease			Narrow	DESC (50920009)
+SNOMEDCT_US	88782004	Myocarditis due to radiation			Narrow	DESC (50920009)
+SNOMEDCT_US	89141000	Viral myocarditis			Narrow	DESC (50920009)
+SNOMEDCT_US	91025000	Idiopathic myocarditis			Narrow	DESC (50920009)
+SNOMEDCT_US	91468009	Meningococcal myocarditis			Narrow	DESC (50920009)
+SNOMEDCT_US	66189004	Postmyocardial infarction syndrome	C0152107	Postmyocardial infarction syndrome		NARROWER (C0027059)
+SNOMEDCT_US	1163420005	Postmyocardial infarction pericardial effusion				DESC (66189004)
+SNOMEDCT_US	233885007	Post-infarction pericarditis				DESC (66189004)
+SNOMEDCT_US	827163002	Early postmyocardial infarction pericarditis				DESC (66189004)
+SNOMEDCT_US	827164008	Delayed postmyocardial infarction pericarditis				DESC (66189004)
+SNOMEDCT_US	-		C0155690	Septic myocarditis		
+SNOMEDCT_US	-		C3670881	Granulomatous myocarditis	Narrow	
+SNOMEDCT_US	-		C0694498	Myocarditis in diseases classified elsewhere	Narrow	
+SNOMEDCT_US	-		C4039176	Myocarditis due to scarlet fever	Narrow	
+SNOMEDCT_US	-		C0027060	Interstitial myocarditis	Narrow	
+SNOMEDCT_US	-		C0151654	Myocardial fibrosis	Narrow	
+SNOMEDCT_US	-		C4531194	Interstitial cardiac fibrosis	Possible	
+SNOMEDCT_US	155336004	Acute myocarditis	C0155686	Acute myocarditis	Narrow	CASEDEF
+SNOMEDCT_US	194953001	Acute myocarditis, unspecified	C0155686	Acute myocarditis	Narrow	CASEDEF
+SNOMEDCT_US	194961006	Acute myocarditis NOS	C0155686	Acute myocarditis	Narrow	CASEDEF
+SNOMEDCT_US	195569005	[X]Acute myocarditis, unspecified	C0155686	Acute myocarditis	Narrow	CASEDEF
+SNOMEDCT_US	194954007	Isolated (Fiedler's) myocarditis	C0155689	Isolated (Fiedler's) myocarditis	Narrow	NARROWER (C0155686)
+SNOMEDCT_US	194955008	Idiopathic myocarditis NOS	C0155689	Isolated (Fiedler's) myocarditis	Narrow	NARROWER (C0155686)
+SNOMEDCT_US	155269001	Acute rheumatic myocarditis	C0155557	Acute rheumatic myocarditis	Narrow	NARROWER (C0155686)
+SNOMEDCT_US	4536006	Active rheumatic fever with myocarditis	C0155557	Acute rheumatic myocarditis	Narrow	NARROWER (C0155686)
+SNOMEDCT_US	194951004	Acute myocarditis in diseases EC, NOS	C0155687	Acute myocarditis in diseases classified elsewhere	Narrow	NARROWER (C0155686)
+SNOMEDCT_US	-		C0155687	Acute myocarditis in diseases classified elsewhere	Narrow	
+SNOMEDCT_US	194952006	Other acute myocarditis	C0155692	Other acute myocarditis	Narrow	CASEDEF
+SNOMEDCT_US	194960007	Other acute myocarditis NOS	C0155692	Other acute myocarditis	Narrow	CASEDEF
+SNOMEDCT_US	195568002	[X]Other acute myocarditis	C0155692	Other acute myocarditis	Narrow	CASEDEF
+SNOMEDCT_US	-		C0155686	Acute myocarditis	Narrow	
+SNOMEDCT_US	-		C0155689	Isolated (Fiedler's) myocarditis	Narrow	
+SNOMEDCT_US	-		C0155557	Acute rheumatic myocarditis	Narrow	
+SNOMEDCT_US	-		C0155687	Acute myocarditis in diseases classified elsewhere	Narrow	
+SNOMEDCT_US	-		C0155691	Toxic myocarditis	Narrow	
+SNOMEDCT_US	-		C0264852	Chronic interstitial myocarditis	Narrow	
+SNOMEDCT_US	-		C0264853	Fibroid myocarditis	Narrow	
+SNOMEDCT_US	-		C2074697	fibroid chronic myocarditis	Narrow	
+SNOMEDCT_US	-		C0264854	Senile myocarditis	Narrow	
+SNOMEDCT_US	195570006	[X]Myocarditis in bacterial diseases classified elsewhere	C0348611	Myocarditis in bacterial diseases classified elsewhere	Narrow	CASEDEF
+SNOMEDCT_US	-		C0152952	Diphtheritic myocarditis	Narrow	
+SNOMEDCT_US	-		C0579992	Acute myocarditis - diphtheritic	Narrow	
+SNOMEDCT_US	195571005	[X]Myocarditis in viral diseases classified elsewhere	C0348612	Myocarditis in viral diseases classified elsewhere	Narrow	CASEDEF
+SNOMEDCT_US	-		C1388749	aseptic; myocarditis (manifestation)	Narrow	
+SNOMEDCT_US	195572003	[X]Myocarditis in other infectious and parasitic diseases classified elsewhere	C0348613	Myocarditis in other infectious and parasitic diseases classified elsewhere	Narrow	CASEDEF
+SNOMEDCT_US	-		C1391996	Chagas; cardiomyopathy (manifestation)	Narrow	
+SNOMEDCT_US	195573008	[X]Myocarditis in other diseases classified elsewhere	C0348614	Myocarditis in other diseases classified elsewhere	Narrow	CASEDEF
+SNOMEDCT_US	-		C1388630	arthritis; rheumatoid, with myocarditis (manifestation)	Narrow	
+SNOMEDCT_US	-		C0865680	Myocarditis with mention of arteriosclerosis	Narrow	
+SNOMEDCT_US	451241000124108	Chronic myocarditis	C0865681	Chronic myocarditis	Narrow	CASEDEF
+SNOMEDCT_US	194722008	Chronic rheumatic myopericarditis	C0264756	Chronic rheumatic myopericarditis	Narrow	NARROWER (C0865681)
+SNOMEDCT_US	-		C0264852	Chronic interstitial myocarditis	Narrow	
+SNOMEDCT_US	-		C0865682	Chronic myocarditis with mention of arteriosclerosis	Narrow	
+SNOMEDCT_US	-		C0865683	Chronic interstitial myocarditis with mention of arteriosclerosis	Narrow	
+SNOMEDCT_US	-		C0865684	Fibroid myocarditis with mention of arteriosclerosis	Narrow	
+SNOMEDCT_US	-		C0865685	Senile myocarditis with mention of arteriosclerosis	Narrow	
+ICPC	-		C0489959	Rheumatoid myocarditis		
+ICPC	-		C0155686	Acute myocarditis		
+ICPC	-		C0027059	Myocarditis		
+ICPC	-		C0155692	Other acute myocarditis		
+ICPC	-		C0155689	Isolated (Fiedler's) myocarditis		
+ICPC	-		C0155557	Acute rheumatic myocarditis		
+ICPC	-		C0155687	Acute myocarditis in diseases classified elsewhere		
+ICPC	-		C0155690	Septic myocarditis		
+ICPC	-		C0276804	Toxoplasma myocarditis		
+ICPC	-		C0340432	Sarcoid heart muscle disease		
+ICPC	-		C0152961	Meningococcal myocarditis		
+ICPC	-		C0153165	Syphilitic myocarditis		
+ICPC	-		C0152952	Diphtheritic myocarditis		
+ICPC	-		C0264856	Giant cell myocarditis		
+ICPC	-		C0153106	Coxsackie myocarditis		
+ICPC	-		C0155691	Toxic myocarditis		
+ICPC	-		C0264752	Chronic rheumatic myocarditis		
+ICPC	-		C0264834	Primary eosinophilic endomyocardial restrictive cardiomyopathy		
+ICPC	-		C0264852	Chronic interstitial myocarditis		
+ICPC	-		C0276138	Viral myocarditis		
+ICPC	-		C0276513	Subacute myocarditis with AIDS (acquired immunodeficiency syndrome)		
+ICPC	-		C0348611	Myocarditis in bacterial diseases classified elsewhere		
+ICPC	-		C0348612	Myocarditis in viral diseases classified elsewhere		
+ICPC	-		C0348613	Myocarditis in other infectious and parasitic diseases classified elsewhere		
+ICPC	-		C0348614	Myocarditis in other diseases classified elsewhere		
+ICPC	-		C0398355	Acute myocarditis - meningococcal		
+ICPC	-		C0729608	Myocarditis due to infectious agent		
+ICPC	-		C0264797	Dilated cardiomyopathy due to viral myocarditis		
+ICPC	-		C0264853	Fibroid myocarditis		
+ICPC	-		C0264854	Senile myocarditis		
+ICPC	-		C0264855	Isolated diffuse granulomatous myocarditis		
+ICPC	-		C0276320	Mumps myocarditis		
+ICPC	-		C0276350	Myocarditis due to influenza virus		
+ICPC	-		C0276432	aseptic myocarditis of newborn		
+ICPC	-		C0340405	Acute aseptic myocarditis of the newborn		
+ICPC	-		C0340407	Acute myocarditis - influenzal		
+ICPC	-		C0340409	Septic myocarditis - streptococcal		
+ICPC	-		C0340410	Septic myocarditis - staphylococcal		
+ICPC	-		C0340411	Septic myocarditis - pneumococcal		
+ICPC	-		C0340412	Acute myocarditis - tuberculous		
+ICPC	-		C0340413	Acute myocarditis - syphilitic		
+ICPC	-		C0553979	Acute myocarditis - toxoplasmosis		
+ICPC	-		C0579991	Acute myocarditis - coxsackie		
+ICPC	-		C0579992	Acute myocarditis - diphtheritic		
+ICPC	-		C2893394	Gonococcal myocarditis		
+ICPC	-		C3661903	Myocarditis due to Influenza A virus subtype H1N1		
+ICPC	-		C0027060	Interstitial myocarditis		
+ICPC	-		C0151788	Eosinophilic myocarditis		
+ICPC	-		C0264798	Dilated cardiomyopathy due to bacterial myocarditis		
+ICPC	-		C0264799	Dilated cardiomyopathy due to fungal myocarditis		
+ICPC	-		C0264800	Dilated cardiomyopathy due to protozoan myocarditis		
+ICPC	-		C0264801	Dilated cardiomyopathy secondary to metazoal myocarditis		
+ICPC	-		C0264851	Subacute interstitial myocarditis		
+ICPC	-		C0264857	Myocarditis due to hypersensitivity state		
+ICPC	-		C0264858	Myocarditis due to radiation		
+ICPC	-		C0264859	Myocarditis due to chemical agent		
+ICPC	-		C0264860	Myocarditis due to drug		
+ICPC	-		C0264861	Myocarditis due to physical agent		
+ICPC	-		C0276163	Adenoviral myocarditis		
+ICPC	-		C0276309	Rubella myocarditis		
+ICPC	-		C0276336	Measles myocarditis		
+ICPC	-		C0276512	AIDS with acute myocarditis		
+ICPC	-		C0276776	Protozoan myocarditis		
+ICPC	-		C0340414	Q fever myocarditis		
+ICPC	-		C0340415	Fungal myocarditis		
+ICPC	-		C0340416	Parasitic myocarditis		
+ICPC	-		C0694498	Myocarditis in diseases classified elsewhere		
+ICPC	-		C0865681	Chronic myocarditis		
+ICPC	-		C1384588	Bacterial myocarditis		
+ICPC	-		C1531771	Coxsackie myocarditis of newborn		
+ICPC	-		C1690442	Acute myocarditis associated with another disorder		
+ICPC	-		C1719813	Myocarditis with AIDS (acquired immunodeficiency syndrome)		
+ICPC	-		C1960273	Lymphocytic myocarditis		
+ICPC	-		C2585300	Family history of myocarditis		
+ICPC	-		C3531948	Myocarditis due to Genus Rickettsia		
+ICPC	-		C3531950	Myocarditis due to Genus Candida		
+ICPC	-		C3531951	Myocarditis due to Genus Aspergillus		
+ICPC	-		C3531952	Myocarditis due to echovirus		
+ICPC	-		C3531953	Myocarditis due to Order Spirochaetales		
+ICPC	-		C3532017	Myocarditis due to Genus Borrelia		
+ICPC	-		C3532265	Fetal myocarditis		
+ICPC	-		C3532347	Cardiovascular abnormality due to infective myocarditis		
+ICPC	-		C3839467	Heart failure with reduced ejection fraction due to myocarditis		
+ICPC	-		C4039176	Myocarditis due to scarlet fever		
+ICPC	-		C4040593	Myocarditis due to Influenza A virus		
+ICPC	-		C4076233	Myocarditis co-occurrent with human immunodeficiency virus infection		
+ICPC	-		C5396716	Myocarditis due to childhood type dermatomyositis		
+ICPC	-		C5397158	Myocarditis due to COVID-19		
+ICPC	-		C5397305	Myocarditis due to Chaga disease		
+ICPC	-		C5397337	Myocarditis due to autoimmune disease		
+ICPC	-		C5437446	Myocarditis due to Kawasaki disease		
+ICPC	-		C5547370	Dilated cardiomyopathy due to parasitic myocarditis		
+ICPC	-		C0865640	myocarditis; acute or subacute		
+ICPC	-		C0865641	Acute or subacute interstitial myocarditis		
+ICPC	-		C0865642	Acute or subacute myocarditis, Fiedler's		
+ICPC	-		C0865643	Acute or subacute myocarditis, giant cell		
+ICPC	-		C0865644	Acute or subacute myocarditis, isolated		
+ICPC	-		C0865645	Isolated diffuse myocarditis		
+ICPC	-		C0865646	Isolated diffuse acute or subacute myocarditis		
+ICPC	-		C0865647	Isolated granulomatous myocarditis		
+ICPC	-		C0865648	Isolated granulomatous acute or subacute myocarditis		
+ICPC	-		C0865649	Isolated diffuse granulomatous acute or subacute myocarditis		
+ICPC	-		C0865650	Acute or subacute myocarditis, nonspecific granulomatous		
+ICPC	-		C0865651	Acute or subacute myocarditis, pneumococcal		
+ICPC	-		C0865652	Acute or subacute myocarditis, staphylococcal		
+ICPC	-		C0865680	Myocarditis with mention of arteriosclerosis		
+ICPC	-		C0865682	Chronic myocarditis with mention of arteriosclerosis		
+ICPC	-		C0865683	Chronic interstitial myocarditis with mention of arteriosclerosis		
+ICPC	-		C0865684	Fibroid myocarditis with mention of arteriosclerosis		
+ICPC	-		C0865685	Senile myocarditis with mention of arteriosclerosis		
+ICPC	-		C2118532	tuberculous myocarditis		
+ICPC	-		C2830256	Acute Chagas' disease with myocarditis		
+ICPC	-		C2830257	Chagas' disease (chronic) with myocarditis		
+ICPC	-		C2880087	Typhoid myocarditis		
+ICPC	-		C2882053	Any condition in I00 with myocarditis		
+ICPC	-		C2887078	Scarlet fever with myocarditis		
+ICPC	-		C2977049	Influenza due to other identified influenza virus with myocarditis		
+ICPC	-		C2977061	Influenza due to unidentified influenza virus with myocarditis		
+ICPC	-		C3264390	Influenza due to identified novel influenza A virus with myocarditis		
+ICPC	-		C3463914	Subacute myocarditis		
+ICPC	-		C0027059	Myocarditis	Narrow	
+ICPC	-		C0152107	Postmyocardial infarction syndrome		
+ICPC	-		C0155690	Septic myocarditis		
+ICPC	-		C3670881	Granulomatous myocarditis	Narrow	
+ICPC	-		C0694498	Myocarditis in diseases classified elsewhere	Narrow	
+ICPC	-		C4039176	Myocarditis due to scarlet fever	Narrow	
+ICPC	-		C0027060	Interstitial myocarditis	Narrow	
+ICPC	-		C0151654	Myocardial fibrosis	Narrow	
+ICPC	-		C4531194	Interstitial cardiac fibrosis	Possible	
+ICPC	-		C0155686	Acute myocarditis	Narrow	
+ICPC	-		C0155689	Isolated (Fiedler's) myocarditis	Narrow	
+ICPC	-		C0155557	Acute rheumatic myocarditis	Narrow	
+ICPC	-		C0155687	Acute myocarditis in diseases classified elsewhere	Narrow	
+ICPC	-		C0155687	Acute myocarditis in diseases classified elsewhere	Narrow	
+ICPC	-		C0155692	Other acute myocarditis	Narrow	
+ICPC	-		C0155686	Acute myocarditis	Narrow	
+ICPC	-		C0155689	Isolated (Fiedler's) myocarditis	Narrow	
+ICPC	-		C0155557	Acute rheumatic myocarditis	Narrow	
+ICPC	-		C0155687	Acute myocarditis in diseases classified elsewhere	Narrow	
+ICPC	-		C0155691	Toxic myocarditis	Narrow	
+ICPC	-		C0264852	Chronic interstitial myocarditis	Narrow	
+ICPC	-		C0264853	Fibroid myocarditis	Narrow	
+ICPC	-		C2074697	fibroid chronic myocarditis	Narrow	
+ICPC	-		C0264854	Senile myocarditis	Narrow	
+ICPC	-		C0348611	Myocarditis in bacterial diseases classified elsewhere	Narrow	
+ICPC	-		C0152952	Diphtheritic myocarditis	Narrow	
+ICPC	-		C0579992	Acute myocarditis - diphtheritic	Narrow	
+ICPC	-		C0348612	Myocarditis in viral diseases classified elsewhere	Narrow	
+ICPC	-		C1388749	aseptic; myocarditis (manifestation)	Narrow	
+ICPC	-		C0348613	Myocarditis in other infectious and parasitic diseases classified elsewhere	Narrow	
+ICPC	-		C1391996	Chagas; cardiomyopathy (manifestation)	Narrow	
+ICPC	-		C0348614	Myocarditis in other diseases classified elsewhere	Narrow	
+ICPC	-		C1388630	arthritis; rheumatoid, with myocarditis (manifestation)	Narrow	
+ICPC	-		C0865680	Myocarditis with mention of arteriosclerosis	Narrow	
+ICPC	-		C0865681	Chronic myocarditis	Narrow	
+ICPC	-		C0264756	Chronic rheumatic myopericarditis	Narrow	
+ICPC	-		C0264852	Chronic interstitial myocarditis	Narrow	
+ICPC	-		C0865682	Chronic myocarditis with mention of arteriosclerosis	Narrow	
+ICPC	-		C0865683	Chronic interstitial myocarditis with mention of arteriosclerosis	Narrow	
+ICPC	-		C0865684	Fibroid myocarditis with mention of arteriosclerosis	Narrow	
+ICPC	-		C0865685	Senile myocarditis with mention of arteriosclerosis	Narrow	

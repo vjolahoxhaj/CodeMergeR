@@ -1,0 +1,1569 @@
+Coding system	Code	Code name	Concept	Concept name	Tags	Origin
+ICD10	G46.5	Pure motor lacunar syndrome	C0393957	Pure motor lacunar infarction		SEARCH (lacunar syndrome)
+ICD10	G46.6	Pure sensory lacunar syndrome	C0393958	Pure sensory lacunar infarction		SEARCH (lacunar syndrome)
+ICD10	G46.7	Other lacunar syndromes	C0477376	Other lacunar syndromes		SEARCH (lacunar syndrome)
+ICD10	-		C0585229	Multiple lacunar infarcts		
+ICD10	I63	Cerebral infarction	C0007785	Cerebral Infarction		SEARCH (cerebral infarction)
+ICD10	I63.0	Cerebral infarction due to thrombosis of precerebral arteries				DESC (I63)
+ICD10	I63.1	Cerebral infarction due to embolism of precerebral arteries				DESC (I63)
+ICD10	I63.2	Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries				DESC (I63)
+ICD10	I63.3	Cerebral infarction due to thrombosis of cerebral arteries				DESC (I63)
+ICD10	I63.4	Cerebral infarction due to embolism of cerebral arteries				DESC (I63)
+ICD10	I63.5	Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries				DESC (I63)
+ICD10	I63.6	Cerebral infarction due to cerebral venous thrombosis, nonpyogenic				DESC (I63)
+ICD10	I63.8	Other cerebral infarction				DESC (I63)
+ICD10	I63.9	Cerebral infarction, unspecified				DESC (I63)
+ICD10	F01.1	Multi-infarct dementia	C0011263	Multi-infarct dementia		NARROWER (C0007785)
+ICD10	-		C0342405	Pituitary infarction		
+ICD10	-		C0338530	Infarction of visual cortex		
+ICD10	-		C0455714	Occipital cerebral infarction		
+ICD10	-		C0393953	Anterior Cerebral Circulation Infarction		
+ICD10	-		C2711270	Infarct of cerebrum due to iatrogenic cerebrovascular accident		
+ICD10	-		C0338517	Infarction of optic chiasm		
+ICD10	-		C4302087	Silent cerebral infarct		
+ICD10	-		C0338521	Infarction of optic tract		
+ICD10	-		C0338526	Infarction of optic radiation		
+ICD10	-		C0348636	Other cerebral infarction		
+ICD10	-		C0348647	Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries		
+ICD10	-		C0348635	Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries		
+ICD10	-		C0451673	Cerebral infarction due to embolism of precerebral arteries		
+ICD10	-		C0451674	Cerebral infarction due to thrombosis of cerebral arteries		
+ICD10	-		C0451675	Cerebral infarction due to embolism of cerebral arteries		
+ICD10	-		C0451676	Cerebral infarction due to cerebral venous thrombosis, non-pyogenic		
+ICD10	I69.3	Sequelae of cerebral infarction	C0451677	Sequelae of cerebral infarction		SEARCH (cerebral infarction)
+ICD10	-		C0494609	Cerebral infarct due to thrombosis of precerebral arteries		
+ICD10	-		C0521542	Brain Stem Infarctions		
+ICD10	-		C1299567	Neonatal stroke		
+ICD10	-		C2349471	persistent migraine aura with cerebral infarction		
+ICD10	-		C2882363	Cerebral infarction due to thrombosis of middle cerebral artery		
+ICD10	-		C2882381	Cerebral infarction due to embolism of middle cerebral artery		
+ICD10	-		C2882599	Other sequelae of cerebral infarction		
+ICD10	-		C0236073	Cerebellar infarction		
+ICD10	-		C0375274	Occlusion and stenosis of basilar artery with cerebral infarction		
+ICD10	-		C0375276	Occlusion and stenosis of carotid artery with cerebral infarction		
+ICD10	-		C0375278	Occlusion and stenosis of vertebral artery with cerebral infarction		
+ICD10	-		C0375280	occlusion and stenosis of multiple and bilateral precerebral arteries with cerebral infarction		
+ICD10	-		C0375282	Occlusion and stenosis of other specified precerebral artery with cerebral infarction		
+ICD10	-		C0375284	Occlusion and stenosis of unspecified precerebral artery with cerebral infarction		
+ICD10	-		C0375286	Cerebral thrombosis with cerebral infarction		
+ICD10	-		C0375288	cerebral embolism with cerebral infarction		
+ICD10	-		C0375291	Cerebral artery occlusion, unspecified with cerebral infarction		
+ICD10	-		C0393953	Anterior Cerebral Circulation Infarction		
+ICD10	-		C0393954	Total anterior cerebral circulation infarction		
+ICD10	-		C0393955	Partial anterior cerebral circulation infarction		
+ICD10	-		C0393956	Posterior cerebral circulation infarction		
+ICD10	-		C0455714	Occipital cerebral infarction		
+ICD10	-		C0472369	Hemorrhagic cerebral infarction		
+ICD10	-		C0472370	Anterior cerebral circulation hemorrhagic infarction		
+ICD10	-		C0472371	Posterior cerebral circulation hemorrhagic infarction		
+ICD10	-		C0585629	Left sided cerebral infarction		
+ICD10	-		C0585630	Right sided cerebral infarction		
+ICD10	-		C1392253	Cerebral infarction due to stenosis of precerebral artery		
+ICD10	-		C1446220	Infarction of basal ganglia		
+ICD10	-		C1960659	Infarction of medulla oblongata		
+ICD10	-		C2349462	Persistent migraine aura without cerebral infarction, with intractable migraine, so stated, without mention of status migrainosus		
+ICD10	-		C2349463	Persistent migraine aura without cerebral infarction, without mention of intractable migraine with status migrainosus		
+ICD10	-		C2349468	Persistent migraine aura with cerebral infarction, with intractable migraine, so stated, without mention of status migrainosus		
+ICD10	-		C2349469	Persistent migraine aura with cerebral infarction, without mention of intractable migraine with status migrainosus		
+ICD10	-		C2349470	Persistent migraine aura with cerebral infarction, with intractable migraine, so stated, with status migrainosus		
+ICD10	-		C2584725	Family history of cerebral infarction		
+ICD10	-		C2875167	Persistent migraine aura with cerebral infarction, not intractable, with status migrainosus		
+ICD10	-		C2875168	Persistent migraine aura with cerebral infarction, not intractable, without status migrainosus		
+ICD10	-		C2875169	Persistent migraine aura with cerebral infarction, intractable		
+ICD10	-		C2875170	Persistent migraine aura with cerebral infarction, intractable, with status migrainosus		
+ICD10	-		C2875171	Persistent migraine aura with cerebral infarction, intractable, without status migrainosus		
+ICD10	-		C2882329	Cerebral infarction due to thrombosis of unspecified precerebral artery		
+ICD10	-		C2882330	Cerebral infarction due to thrombosis of vertebral artery		
+ICD10	-		C2882331	Cerebral infarction due to thrombosis of right vertebral artery		
+ICD10	-		C2882332	Cerebral infarction due to thrombosis of left vertebral artery		
+ICD10	-		C2882333	Cerebral infarction due to thrombosis of unspecified vertebral artery		
+ICD10	-		C2882334	Cerebral infarction due to thrombosis of basilar artery		
+ICD10	-		C2882335	Cerebral infarction due to thrombosis of carotid artery		
+ICD10	-		C2882336	Cerebral infarction due to thrombosis of right carotid artery		
+ICD10	-		C2882337	Cerebral infarction due to thrombosis of left carotid artery		
+ICD10	-		C2882338	Cerebral infarction due to thrombosis of unspecified carotid artery		
+ICD10	-		C2882339	Cerebral infarction due to thrombosis of other precerebral artery		
+ICD10	-		C2882340	Cerebral infarction due to embolism of unspecified precerebral artery		
+ICD10	-		C2882341	Cerebral infarction due to embolism of vertebral artery		
+ICD10	-		C2882342	Cerebral infarction due to embolism of right vertebral artery		
+ICD10	-		C2882343	Cerebral infarction due to embolism of left vertebral artery		
+ICD10	-		C2882344	Cerebral infarction due to embolism of unspecified vertebral artery		
+ICD10	-		C2882345	Cerebral infarction due to embolism of basilar artery		
+ICD10	-		C2882346	Cerebral infarction due to embolism of carotid artery		
+ICD10	-		C2882347	Cerebral infarction due to embolism of right carotid artery		
+ICD10	-		C2882348	Cerebral infarction due to embolism of left carotid artery		
+ICD10	-		C2882349	Cerebral infarction due to embolism of unspecified carotid artery		
+ICD10	-		C2882350	Cerebral infarction due to embolism of other precerebral artery		
+ICD10	-		C2882351	Cerebral infarction due to unspecified occlusion or stenosis of unspecified precerebral arteries		
+ICD10	-		C2882352	Cerebral infarction due to unspecified occlusion or stenosis of vertebral arteries		
+ICD10	-		C2882353	Cerebral infarction due to unspecified occlusion or stenosis of right vertebral artery		
+ICD10	-		C2882354	Cerebral infarction due to unspecified occlusion or stenosis of left vertebral artery		
+ICD10	-		C2882355	Cerebral infarction due to unspecified occlusion or stenosis of unspecified vertebral artery		
+ICD10	-		C2882356	Cerebral infarction due to unspecified occlusion or stenosis of basilar artery		
+ICD10	-		C2882357	Cerebral infarction due to unspecified occlusion or stenosis of carotid arteries		
+ICD10	-		C2882359	Cerebral infarction due to unspecified occlusion or stenosis of left carotid arteries		
+ICD10	-		C2882360	Cerebral infarction due to unspecified occlusion or stenosis of unspecified carotid artery		
+ICD10	-		C2882362	Cerebral infarction due to thrombosis of unspecified cerebral artery		
+ICD10	-		C2882364	Cerebral infarction due to thrombosis of right middle cerebral artery		
+ICD10	-		C2882365	Cerebral infarction due to thrombosis of left middle cerebral artery		
+ICD10	-		C2882366	Cerebral infarction due to thrombosis of unspecified middle cerebral artery		
+ICD10	-		C2882367	Cerebral infarction due to thrombosis of anterior cerebral artery		
+ICD10	-		C2882368	Cerebral infarction due to thrombosis of right anterior cerebral artery		
+ICD10	-		C2882369	Cerebral infarction due to thrombosis of left anterior cerebral artery		
+ICD10	-		C2882370	Cerebral infarction due to thrombosis of unspecified anterior cerebral artery		
+ICD10	-		C2882371	Cerebral infarction due to thrombosis of posterior cerebral artery		
+ICD10	-		C2882372	Cerebral infarction due to thrombosis of right posterior cerebral artery		
+ICD10	-		C2882373	Cerebral infarction due to thrombosis of left posterior cerebral artery		
+ICD10	-		C2882374	Cerebral infarction due to thrombosis of unspecified posterior cerebral artery		
+ICD10	-		C2882375	Cerebral infarction due to thrombosis of cerebellar artery		
+ICD10	-		C2882376	Cerebral infarction due to thrombosis of right cerebellar artery		
+ICD10	-		C2882377	Cerebral infarction due to thrombosis of left cerebellar artery		
+ICD10	-		C2882378	Cerebral infarction due to thrombosis of unspecified cerebellar artery		
+ICD10	-		C2882379	Cerebral infarction due to thrombosis of other cerebral artery		
+ICD10	-		C2882380	Cerebral infarction due to embolism of unspecified cerebral artery		
+ICD10	-		C2882382	Cerebral infarction due to embolism of right middle cerebral artery		
+ICD10	-		C2882383	Cerebral infarction due to embolism of left middle cerebral artery		
+ICD10	-		C2882384	Cerebral infarction due to embolism of unspecified middle cerebral artery		
+ICD10	-		C2882385	Cerebral infarction due to embolism of anterior cerebral artery		
+ICD10	-		C2882386	Cerebral infarction due to embolism of right anterior cerebral artery		
+ICD10	-		C2882387	Cerebral infarction due to embolism of left anterior cerebral artery		
+ICD10	-		C2882388	Cerebral infarction due to embolism of unspecified anterior cerebral artery		
+ICD10	-		C2882389	Cerebral infarction due to embolism of posterior cerebral artery		
+ICD10	-		C2882390	Cerebral infarction due to embolism of right posterior cerebral artery		
+ICD10	-		C2882391	Cerebral infarction due to embolism of left posterior cerebral artery		
+ICD10	-		C2882392	Cerebral infarction due to embolism of unspecified posterior cerebral artery		
+ICD10	-		C2882393	Cerebral infarction due to embolism of cerebellar artery		
+ICD10	-		C2882394	Cerebral infarction due to embolism of right cerebellar artery		
+ICD10	-		C2882395	Cerebral infarction due to embolism of left cerebellar artery		
+ICD10	-		C2882396	Cerebral infarction due to embolism of unspecified cerebellar artery		
+ICD10	-		C2882397	Cerebral infarction due to embolism of other cerebral artery		
+ICD10	-		C2882398	Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebral artery		
+ICD10	-		C2882399	Cerebral infarction due to unspecified occlusion or stenosis of middle cerebral artery		
+ICD10	-		C2882400	Cerebral infarction due to unspecified occlusion or stenosis of right middle cerebral artery		
+ICD10	-		C2882401	Cerebral infarction due to unspecified occlusion or stenosis of left middle cerebral artery		
+ICD10	-		C2882402	Cerebral infarction due to unspecified occlusion or stenosis of unspecified middle cerebral artery		
+ICD10	-		C2882403	Cerebral infarction due to unspecified occlusion or stenosis of anterior cerebral artery		
+ICD10	-		C2882404	Cerebral infarction due to unspecified occlusion or stenosis of right anterior cerebral artery		
+ICD10	-		C2882405	Cerebral infarction due to unspecified occlusion or stenosis of left anterior cerebral artery		
+ICD10	-		C2882406	Cerebral infarction due to unspecified occlusion or stenosis of unspecified anterior cerebral artery		
+ICD10	-		C2882407	Cerebral infarction due to unspecified occlusion or stenosis of posterior cerebral artery		
+ICD10	-		C2882408	Cerebral infarction due to unspecified occlusion or stenosis of right posterior cerebral artery		
+ICD10	-		C2882409	Cerebral infarction due to unspecified occlusion or stenosis of left posterior cerebral artery		
+ICD10	-		C2882410	Cerebral infarction due to unspecified occlusion or stenosis of unspecified posterior cerebral artery		
+ICD10	-		C2882411	Cerebral infarction due to unspecified occlusion or stenosis of cerebellar artery		
+ICD10	-		C2882412	Cerebral infarction due to unspecified occlusion or stenosis of right cerebellar artery		
+ICD10	-		C2882413	Cerebral infarction due to unspecified occlusion or stenosis of left cerebellar artery		
+ICD10	-		C2882414	Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebellar artery		
+ICD10	-		C2882415	Cerebral infarction due to unspecified occlusion or stenosis of other cerebral artery		
+ICD10	-		C2882566	Unspecified sequelae of cerebral infarction		
+ICD10	-		C2882567	Cognitive deficits following cerebral infarction		
+ICD10	-		C2882568	Speech and language deficits following cerebral infarction		
+ICD10	-		C2882569	Aphasia following cerebral infarction		
+ICD10	-		C2882570	Dysphasia following cerebral infarction		
+ICD10	-		C2882571	Dysarthria following cerebral infarction		
+ICD10	-		C2882572	Fluency disorder following cerebral infarction		
+ICD10	-		C2882573	Other speech and language deficits following cerebral infarction		
+ICD10	-		C2882574	Monoplegia of upper limb following cerebral infarction		
+ICD10	-		C2882575	Monoplegia of upper limb following cerebral infarction affecting right dominant side		
+ICD10	-		C2882576	Monoplegia of upper limb following cerebral infarction affecting left dominant side		
+ICD10	-		C2882577	Monoplegia of upper limb following cerebral infarction affecting right non-dominant side		
+ICD10	-		C2882578	Monoplegia of upper limb following cerebral infarction affecting left non-dominant side		
+ICD10	-		C2882579	Monoplegia of upper limb following cerebral infarction affecting unspecified side		
+ICD10	-		C2882580	Monoplegia of lower limb following cerebral infarction		
+ICD10	-		C2882581	Monoplegia of lower limb following cerebral infarction affecting right dominant side		
+ICD10	-		C2882582	Monoplegia of lower limb following cerebral infarction affecting left dominant side		
+ICD10	-		C2882583	Monoplegia of lower limb following cerebral infarction affecting right non-dominant side		
+ICD10	-		C2882584	Monoplegia of lower limb following cerebral infarction affecting left non-dominant side		
+ICD10	-		C2882585	Monoplegia of lower limb following cerebral infarction affecting unspecified side		
+ICD10	-		C2882586	Hemiplegia and hemiparesis following cerebral infarction		
+ICD10	-		C2882587	Hemiplegia and hemiparesis following cerebral infarction affecting right dominant side		
+ICD10	-		C2882588	Hemiplegia and hemiparesis following cerebral infarction affecting left dominant side		
+ICD10	-		C2882589	Hemiplegia and hemiparesis following cerebral infarction affecting right non-dominant side		
+ICD10	-		C2882590	Hemiplegia and hemiparesis following cerebral infarction affecting left non-dominant side		
+ICD10	-		C2882591	Hemiplegia and hemiparesis following cerebral infarction affecting unspecified side		
+ICD10	-		C2882592	Other paralytic syndrome following cerebral infarction		
+ICD10	-		C2882593	Other paralytic syndrome following cerebral infarction affecting right dominant side		
+ICD10	-		C2882594	Other paralytic syndrome following cerebral infarction affecting left dominant side		
+ICD10	-		C2882595	Other paralytic syndrome following cerebral infarction affecting right non-dominant side		
+ICD10	-		C2882596	Other paralytic syndrome following cerebral infarction affecting left non-dominant side		
+ICD10	-		C2882597	Other paralytic syndrome following cerebral infarction, bilateral		
+ICD10	-		C2882600	Apraxia following cerebral infarction		
+ICD10	-		C2882598	Other paralytic syndrome following cerebral infarction affecting unspecified side		
+ICD10	-		C2882601	Dysphagia following cerebral infarction		
+ICD10	-		C2882602	Facial droop following cerebral infarction		
+ICD10	-		C2882603	Facial weakness following cerebral infarction		
+ICD10	-		C2882604	Ataxia following cerebral infarction		
+ICD10	-		C2882605	Alteration of sensation following cerebral infarction		
+ICD10	-		C2882606	Disturbance of vision following cerebral infarction		
+ICD10	-		C3264012	Persistent migraine aura with cerebral infarction, with refractory migraine		
+ICD10	-		C3264011	Persistent migraine aura with cerebral infarction, without refractory migraine		
+ICD10	-		C3536611	Cerebral infarction due to occlusion of basilar artery		
+ICD10	-		C3662027	Cerebral infarction due to stenosis of carotid artery		
+ICD10	-		C3662063	Cerebral infarction due to carotid artery occlusion		
+ICD10	-		C3662066	Behavior disorder as sequela of cerebral infarction		
+ICD10	-		C3662091	Sequela of ischemic cerebral infarction		
+ICD10	-		C3698306	Cerebral infarction due to vertebral artery occlusion		
+ICD10	-		C4038830	Cerebral infarction due to vertebral artery stenosis		
+ICD10	-		C4040904	Cerebral infarction due to occlusion of precerebral artery		
+ICD10	-		C0375284	Occlusion and stenosis of unspecified precerebral artery with cerebral infarction		
+ICD10	-		C0375282	Occlusion and stenosis of other specified precerebral artery with cerebral infarction		
+ICD10	-		C0375280	occlusion and stenosis of multiple and bilateral precerebral arteries with cerebral infarction		
+ICD10	-		C0375278	Occlusion and stenosis of vertebral artery with cerebral infarction		
+ICD10	-		C0375274	Occlusion and stenosis of basilar artery with cerebral infarction		
+ICD10	-		C0375276	Occlusion and stenosis of carotid artery with cerebral infarction		
+ICD10	-		C0948008	Ischemic stroke		
+ICD10	-		C4302206	Perinatal arterial ischemic stroke		
+ICD10	-		C3648410	Ischemic stroke without residual deficits		
+ICD10	-		C5392097	Cryptogenic Ischemic Stroke		
+ICD10	-		C4510771	Cerebral ischemic stroke due to extracranial large artery atherosclerosis		
+ICD10	-		C4510772	Cerebral ischemic stroke due to intracranial large artery atherosclerosis		
+ICD10	-		C1298680	Occlusive stroke		
+ICD10	-		C5545767	Neonatal ischemic stroke		
+ICD10	-		C3662053	Ischemic stroke with coma		
+ICD10	-		C3662058	Ischemic stroke without coma		
+ICD10	-		C4510726	Cerebral ischemic stroke due to stenosis of extracranial large artery		
+ICD10	-		C4510727	Cerebral ischemic stroke due to occlusion of extracranial large artery		
+ICD10	-		C4510768	Cerebral ischemic stroke due to small artery occlusion		
+ICD10CM	G46.5	Pure motor lacunar syndrome	C0393957	Pure motor lacunar infarction		SEARCH (lacunar syndrome)
+ICD10CM	G46.6	Pure sensory lacunar syndrome	C0393958	Pure sensory lacunar infarction		SEARCH (lacunar syndrome)
+ICD10CM	G46.7	Other lacunar syndromes	C0477376	Other lacunar syndromes		SEARCH (lacunar syndrome)
+ICD10CM	-		C0585229	Multiple lacunar infarcts		
+ICD10CM	I63	Cerebral infarction	C0007785	Cerebral Infarction		SEARCH (cerebral infarction)
+ICD10CM	I63.0	Cerebral infarction due to thrombosis of precerebral arteries				DESC (I63)
+ICD10CM	I63.00	Cerebral infarction due to thrombosis of unspecified precerebral artery				DESC (I63)
+ICD10CM	I63.01	Cerebral infarction due to thrombosis of vertebral artery				DESC (I63)
+ICD10CM	I63.011	Cerebral infarction due to thrombosis of right vertebral artery				DESC (I63)
+ICD10CM	I63.012	Cerebral infarction due to thrombosis of left vertebral artery				DESC (I63)
+ICD10CM	I63.013	Cerebral infarction due to thrombosis of bilateral vertebral arteries				DESC (I63)
+ICD10CM	I63.019	Cerebral infarction due to thrombosis of unspecified vertebral artery				DESC (I63)
+ICD10CM	I63.02	Cerebral infarction due to thrombosis of basilar artery				DESC (I63)
+ICD10CM	I63.03	Cerebral infarction due to thrombosis of carotid artery				DESC (I63)
+ICD10CM	I63.031	Cerebral infarction due to thrombosis of right carotid artery				DESC (I63)
+ICD10CM	I63.032	Cerebral infarction due to thrombosis of left carotid artery				DESC (I63)
+ICD10CM	I63.033	Cerebral infarction due to thrombosis of bilateral carotid arteries				DESC (I63)
+ICD10CM	I63.039	Cerebral infarction due to thrombosis of unspecified carotid artery				DESC (I63)
+ICD10CM	I63.09	Cerebral infarction due to thrombosis of other precerebral artery				DESC (I63)
+ICD10CM	I63.1	Cerebral infarction due to embolism of precerebral arteries				DESC (I63)
+ICD10CM	I63.10	Cerebral infarction due to embolism of unspecified precerebral artery				DESC (I63)
+ICD10CM	I63.11	Cerebral infarction due to embolism of vertebral artery				DESC (I63)
+ICD10CM	I63.111	Cerebral infarction due to embolism of right vertebral artery				DESC (I63)
+ICD10CM	I63.112	Cerebral infarction due to embolism of left vertebral artery				DESC (I63)
+ICD10CM	I63.113	Cerebral infarction due to embolism of bilateral vertebral arteries				DESC (I63)
+ICD10CM	I63.119	Cerebral infarction due to embolism of unspecified vertebral artery				DESC (I63)
+ICD10CM	I63.12	Cerebral infarction due to embolism of basilar artery				DESC (I63)
+ICD10CM	I63.13	Cerebral infarction due to embolism of carotid artery				DESC (I63)
+ICD10CM	I63.131	Cerebral infarction due to embolism of right carotid artery				DESC (I63)
+ICD10CM	I63.132	Cerebral infarction due to embolism of left carotid artery				DESC (I63)
+ICD10CM	I63.133	Cerebral infarction due to embolism of bilateral carotid arteries				DESC (I63)
+ICD10CM	I63.139	Cerebral infarction due to embolism of unspecified carotid artery				DESC (I63)
+ICD10CM	I63.19	Cerebral infarction due to embolism of other precerebral artery				DESC (I63)
+ICD10CM	I63.2	Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries				DESC (I63)
+ICD10CM	I63.20	Cerebral infarction due to unspecified occlusion or stenosis of unspecified precerebral arteries				DESC (I63)
+ICD10CM	I63.21	Cerebral infarction due to unspecified occlusion or stenosis of vertebral arteries				DESC (I63)
+ICD10CM	I63.211	Cerebral infarction due to unspecified occlusion or stenosis of right vertebral artery				DESC (I63)
+ICD10CM	I63.212	Cerebral infarction due to unspecified occlusion or stenosis of left vertebral artery				DESC (I63)
+ICD10CM	I63.213	Cerebral infarction due to unspecified occlusion or stenosis of bilateral vertebral arteries				DESC (I63)
+ICD10CM	I63.219	Cerebral infarction due to unspecified occlusion or stenosis of unspecified vertebral artery				DESC (I63)
+ICD10CM	I63.22	Cerebral infarction due to unspecified occlusion or stenosis of basilar artery				DESC (I63)
+ICD10CM	I63.23	Cerebral infarction due to unspecified occlusion or stenosis of carotid arteries				DESC (I63)
+ICD10CM	I63.231	Cerebral infarction due to unspecified occlusion or stenosis of right carotid arteries				DESC (I63)
+ICD10CM	I63.232	Cerebral infarction due to unspecified occlusion or stenosis of left carotid arteries				DESC (I63)
+ICD10CM	I63.233	Cerebral infarction due to unspecified occlusion or stenosis of bilateral carotid arteries				DESC (I63)
+ICD10CM	I63.239	Cerebral infarction due to unspecified occlusion or stenosis of unspecified carotid artery				DESC (I63)
+ICD10CM	I63.29	Cerebral infarction due to unspecified occlusion or stenosis of other precerebral arteries				DESC (I63)
+ICD10CM	I63.3	Cerebral infarction due to thrombosis of cerebral arteries				DESC (I63)
+ICD10CM	I63.30	Cerebral infarction due to thrombosis of unspecified cerebral artery				DESC (I63)
+ICD10CM	I63.31	Cerebral infarction due to thrombosis of middle cerebral artery				DESC (I63)
+ICD10CM	I63.311	Cerebral infarction due to thrombosis of right middle cerebral artery				DESC (I63)
+ICD10CM	I63.312	Cerebral infarction due to thrombosis of left middle cerebral artery				DESC (I63)
+ICD10CM	I63.313	Cerebral infarction due to thrombosis of bilateral middle cerebral arteries				DESC (I63)
+ICD10CM	I63.319	Cerebral infarction due to thrombosis of unspecified middle cerebral artery				DESC (I63)
+ICD10CM	I63.32	Cerebral infarction due to thrombosis of anterior cerebral artery				DESC (I63)
+ICD10CM	I63.321	Cerebral infarction due to thrombosis of right anterior cerebral artery				DESC (I63)
+ICD10CM	I63.322	Cerebral infarction due to thrombosis of left anterior cerebral artery				DESC (I63)
+ICD10CM	I63.323	Cerebral infarction due to thrombosis of bilateral anterior cerebral arteries				DESC (I63)
+ICD10CM	I63.329	Cerebral infarction due to thrombosis of unspecified anterior cerebral artery				DESC (I63)
+ICD10CM	I63.33	Cerebral infarction due to thrombosis of posterior cerebral artery				DESC (I63)
+ICD10CM	I63.331	Cerebral infarction due to thrombosis of right posterior cerebral artery				DESC (I63)
+ICD10CM	I63.332	Cerebral infarction due to thrombosis of left posterior cerebral artery				DESC (I63)
+ICD10CM	I63.333	Cerebral infarction due to thrombosis of bilateral posterior cerebral arteries				DESC (I63)
+ICD10CM	I63.339	Cerebral infarction due to thrombosis of unspecified posterior cerebral artery				DESC (I63)
+ICD10CM	I63.34	Cerebral infarction due to thrombosis of cerebellar artery				DESC (I63)
+ICD10CM	I63.341	Cerebral infarction due to thrombosis of right cerebellar artery				DESC (I63)
+ICD10CM	I63.342	Cerebral infarction due to thrombosis of left cerebellar artery				DESC (I63)
+ICD10CM	I63.343	Cerebral infarction due to thrombosis of bilateral cerebellar arteries				DESC (I63)
+ICD10CM	I63.349	Cerebral infarction due to thrombosis of unspecified cerebellar artery				DESC (I63)
+ICD10CM	I63.39	Cerebral infarction due to thrombosis of other cerebral artery				DESC (I63)
+ICD10CM	I63.4	Cerebral infarction due to embolism of cerebral arteries				DESC (I63)
+ICD10CM	I63.40	Cerebral infarction due to embolism of unspecified cerebral artery				DESC (I63)
+ICD10CM	I63.41	Cerebral infarction due to embolism of middle cerebral artery				DESC (I63)
+ICD10CM	I63.411	Cerebral infarction due to embolism of right middle cerebral artery				DESC (I63)
+ICD10CM	I63.412	Cerebral infarction due to embolism of left middle cerebral artery				DESC (I63)
+ICD10CM	I63.413	Cerebral infarction due to embolism of bilateral middle cerebral arteries				DESC (I63)
+ICD10CM	I63.419	Cerebral infarction due to embolism of unspecified middle cerebral artery				DESC (I63)
+ICD10CM	I63.42	Cerebral infarction due to embolism of anterior cerebral artery				DESC (I63)
+ICD10CM	I63.421	Cerebral infarction due to embolism of right anterior cerebral artery				DESC (I63)
+ICD10CM	I63.422	Cerebral infarction due to embolism of left anterior cerebral artery				DESC (I63)
+ICD10CM	I63.423	Cerebral infarction due to embolism of bilateral anterior cerebral arteries				DESC (I63)
+ICD10CM	I63.429	Cerebral infarction due to embolism of unspecified anterior cerebral artery				DESC (I63)
+ICD10CM	I63.43	Cerebral infarction due to embolism of posterior cerebral artery				DESC (I63)
+ICD10CM	I63.431	Cerebral infarction due to embolism of right posterior cerebral artery				DESC (I63)
+ICD10CM	I63.432	Cerebral infarction due to embolism of left posterior cerebral artery				DESC (I63)
+ICD10CM	I63.433	Cerebral infarction due to embolism of bilateral posterior cerebral arteries				DESC (I63)
+ICD10CM	I63.439	Cerebral infarction due to embolism of unspecified posterior cerebral artery				DESC (I63)
+ICD10CM	I63.44	Cerebral infarction due to embolism of cerebellar artery				DESC (I63)
+ICD10CM	I63.441	Cerebral infarction due to embolism of right cerebellar artery				DESC (I63)
+ICD10CM	I63.442	Cerebral infarction due to embolism of left cerebellar artery				DESC (I63)
+ICD10CM	I63.443	Cerebral infarction due to embolism of bilateral cerebellar arteries				DESC (I63)
+ICD10CM	I63.449	Cerebral infarction due to embolism of unspecified cerebellar artery				DESC (I63)
+ICD10CM	I63.49	Cerebral infarction due to embolism of other cerebral artery				DESC (I63)
+ICD10CM	I63.5	Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries				DESC (I63)
+ICD10CM	I63.50	Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebral artery				DESC (I63)
+ICD10CM	I63.51	Cerebral infarction due to unspecified occlusion or stenosis of middle cerebral artery				DESC (I63)
+ICD10CM	I63.511	Cerebral infarction due to unspecified occlusion or stenosis of right middle cerebral artery				DESC (I63)
+ICD10CM	I63.512	Cerebral infarction due to unspecified occlusion or stenosis of left middle cerebral artery				DESC (I63)
+ICD10CM	I63.513	Cerebral infarction due to unspecified occlusion or stenosis of bilateral middle cerebral arteries				DESC (I63)
+ICD10CM	I63.519	Cerebral infarction due to unspecified occlusion or stenosis of unspecified middle cerebral artery				DESC (I63)
+ICD10CM	I63.52	Cerebral infarction due to unspecified occlusion or stenosis of anterior cerebral artery				DESC (I63)
+ICD10CM	I63.521	Cerebral infarction due to unspecified occlusion or stenosis of right anterior cerebral artery				DESC (I63)
+ICD10CM	I63.522	Cerebral infarction due to unspecified occlusion or stenosis of left anterior cerebral artery				DESC (I63)
+ICD10CM	I63.523	Cerebral infarction due to unspecified occlusion or stenosis of bilateral anterior cerebral arteries				DESC (I63)
+ICD10CM	I63.529	Cerebral infarction due to unspecified occlusion or stenosis of unspecified anterior cerebral artery				DESC (I63)
+ICD10CM	I63.53	Cerebral infarction due to unspecified occlusion or stenosis of posterior cerebral artery				DESC (I63)
+ICD10CM	I63.531	Cerebral infarction due to unspecified occlusion or stenosis of right posterior cerebral artery				DESC (I63)
+ICD10CM	I63.532	Cerebral infarction due to unspecified occlusion or stenosis of left posterior cerebral artery				DESC (I63)
+ICD10CM	I63.533	Cerebral infarction due to unspecified occlusion or stenosis of bilateral posterior cerebral arteries				DESC (I63)
+ICD10CM	I63.539	Cerebral infarction due to unspecified occlusion or stenosis of unspecified posterior cerebral artery				DESC (I63)
+ICD10CM	I63.54	Cerebral infarction due to unspecified occlusion or stenosis of cerebellar artery				DESC (I63)
+ICD10CM	I63.541	Cerebral infarction due to unspecified occlusion or stenosis of right cerebellar artery				DESC (I63)
+ICD10CM	I63.542	Cerebral infarction due to unspecified occlusion or stenosis of left cerebellar artery				DESC (I63)
+ICD10CM	I63.543	Cerebral infarction due to unspecified occlusion or stenosis of bilateral cerebellar arteries				DESC (I63)
+ICD10CM	I63.549	Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebellar artery				DESC (I63)
+ICD10CM	I63.59	Cerebral infarction due to unspecified occlusion or stenosis of other cerebral artery				DESC (I63)
+ICD10CM	I63.6	Cerebral infarction due to cerebral venous thrombosis, nonpyogenic				DESC (I63)
+ICD10CM	I63.8	Other cerebral infarction				DESC (I63)
+ICD10CM	I63.81	Other cerebral infarction due to occlusion or stenosis of small artery				DESC (I63)
+ICD10CM	I63.89	Other cerebral infarction				DESC (I63)
+ICD10CM	I63.9	Cerebral infarction, unspecified				DESC (I63)
+ICD10CM	-		C0011263	Multi-infarct dementia		
+ICD10CM	-		C0342405	Pituitary infarction		
+ICD10CM	-		C0338530	Infarction of visual cortex		
+ICD10CM	-		C0455714	Occipital cerebral infarction		
+ICD10CM	-		C0393953	Anterior Cerebral Circulation Infarction		
+ICD10CM	-		C2711270	Infarct of cerebrum due to iatrogenic cerebrovascular accident		
+ICD10CM	-		C0338517	Infarction of optic chiasm		
+ICD10CM	-		C4302087	Silent cerebral infarct		
+ICD10CM	-		C0338521	Infarction of optic tract		
+ICD10CM	-		C0338526	Infarction of optic radiation		
+ICD10CM	-		C0348636	Other cerebral infarction		
+ICD10CM	-		C0348647	Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries		
+ICD10CM	-		C0348635	Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries		
+ICD10CM	-		C0451673	Cerebral infarction due to embolism of precerebral arteries		
+ICD10CM	-		C0451674	Cerebral infarction due to thrombosis of cerebral arteries		
+ICD10CM	-		C0451675	Cerebral infarction due to embolism of cerebral arteries		
+ICD10CM	-		C0451676	Cerebral infarction due to cerebral venous thrombosis, non-pyogenic		
+ICD10CM	I69.3	Sequelae of cerebral infarction	C0451677	Sequelae of cerebral infarction		SEARCH (cerebral infarction)
+ICD10CM	I69.30	Unspecified sequelae of cerebral infarction				DESC (I69.3)
+ICD10CM	I69.31	Cognitive deficits following cerebral infarction				DESC (I69.3)
+ICD10CM	I69.310	Attention and concentration deficit following cerebral infarction				DESC (I69.3)
+ICD10CM	I69.311	Memory deficit following cerebral infarction				DESC (I69.3)
+ICD10CM	I69.312	Visuospatial deficit and spatial neglect following cerebral infarction				DESC (I69.3)
+ICD10CM	I69.313	Psychomotor deficit following cerebral infarction				DESC (I69.3)
+ICD10CM	I69.314	Frontal lobe and executive function deficit following cerebral infarction				DESC (I69.3)
+ICD10CM	I69.315	Cognitive social or emotional deficit following cerebral infarction				DESC (I69.3)
+ICD10CM	I69.318	Other symptoms and signs involving cognitive functions following cerebral infarction				DESC (I69.3)
+ICD10CM	I69.319	Unspecified symptoms and signs involving cognitive functions following cerebral infarction				DESC (I69.3)
+ICD10CM	I69.32	Speech and language deficits following cerebral infarction				DESC (I69.3)
+ICD10CM	I69.320	Aphasia following cerebral infarction				DESC (I69.3)
+ICD10CM	I69.321	Dysphasia following cerebral infarction				DESC (I69.3)
+ICD10CM	I69.322	Dysarthria following cerebral infarction				DESC (I69.3)
+ICD10CM	I69.323	Fluency disorder following cerebral infarction				DESC (I69.3)
+ICD10CM	I69.328	Other speech and language deficits following cerebral infarction				DESC (I69.3)
+ICD10CM	I69.33	Monoplegia of upper limb following cerebral infarction				DESC (I69.3)
+ICD10CM	I69.331	Monoplegia of upper limb following cerebral infarction affecting right dominant side				DESC (I69.3)
+ICD10CM	I69.332	Monoplegia of upper limb following cerebral infarction affecting left dominant side				DESC (I69.3)
+ICD10CM	I69.333	Monoplegia of upper limb following cerebral infarction affecting right non-dominant side				DESC (I69.3)
+ICD10CM	I69.334	Monoplegia of upper limb following cerebral infarction affecting left non-dominant side				DESC (I69.3)
+ICD10CM	I69.339	Monoplegia of upper limb following cerebral infarction affecting unspecified side				DESC (I69.3)
+ICD10CM	I69.34	Monoplegia of lower limb following cerebral infarction				DESC (I69.3)
+ICD10CM	I69.341	Monoplegia of lower limb following cerebral infarction affecting right dominant side				DESC (I69.3)
+ICD10CM	I69.342	Monoplegia of lower limb following cerebral infarction affecting left dominant side				DESC (I69.3)
+ICD10CM	I69.343	Monoplegia of lower limb following cerebral infarction affecting right non-dominant side				DESC (I69.3)
+ICD10CM	I69.344	Monoplegia of lower limb following cerebral infarction affecting left non-dominant side				DESC (I69.3)
+ICD10CM	I69.349	Monoplegia of lower limb following cerebral infarction affecting unspecified side				DESC (I69.3)
+ICD10CM	I69.35	Hemiplegia and hemiparesis following cerebral infarction				DESC (I69.3)
+ICD10CM	I69.351	Hemiplegia and hemiparesis following cerebral infarction affecting right dominant side				DESC (I69.3)
+ICD10CM	I69.352	Hemiplegia and hemiparesis following cerebral infarction affecting left dominant side				DESC (I69.3)
+ICD10CM	I69.353	Hemiplegia and hemiparesis following cerebral infarction affecting right non-dominant side				DESC (I69.3)
+ICD10CM	I69.354	Hemiplegia and hemiparesis following cerebral infarction affecting left non-dominant side				DESC (I69.3)
+ICD10CM	I69.359	Hemiplegia and hemiparesis following cerebral infarction affecting unspecified side				DESC (I69.3)
+ICD10CM	I69.36	Other paralytic syndrome following cerebral infarction				DESC (I69.3)
+ICD10CM	I69.361	Other paralytic syndrome following cerebral infarction affecting right dominant side				DESC (I69.3)
+ICD10CM	I69.362	Other paralytic syndrome following cerebral infarction affecting left dominant side				DESC (I69.3)
+ICD10CM	I69.363	Other paralytic syndrome following cerebral infarction affecting right non-dominant side				DESC (I69.3)
+ICD10CM	I69.364	Other paralytic syndrome following cerebral infarction affecting left non-dominant side				DESC (I69.3)
+ICD10CM	I69.365	Other paralytic syndrome following cerebral infarction, bilateral				DESC (I69.3)
+ICD10CM	I69.369	Other paralytic syndrome following cerebral infarction affecting unspecified side				DESC (I69.3)
+ICD10CM	I69.39	Other sequelae of cerebral infarction				DESC (I69.3)
+ICD10CM	I69.390	Apraxia following cerebral infarction				DESC (I69.3)
+ICD10CM	I69.391	Dysphagia following cerebral infarction				DESC (I69.3)
+ICD10CM	I69.392	Facial weakness following cerebral infarction				DESC (I69.3)
+ICD10CM	I69.393	Ataxia following cerebral infarction				DESC (I69.3)
+ICD10CM	I69.398	Other sequelae of cerebral infarction				DESC (I69.3)
+ICD10CM	-		C0494609	Cerebral infarct due to thrombosis of precerebral arteries		
+ICD10CM	-		C0521542	Brain Stem Infarctions		
+ICD10CM	P91.82	Neonatal cerebral infarction	C1299567	Neonatal stroke		SEARCH (cerebral infarction)
+ICD10CM	P91.821	Neonatal cerebral infarction, right side of brain				DESC (P91.82)
+ICD10CM	P91.822	Neonatal cerebral infarction, left side of brain				DESC (P91.82)
+ICD10CM	P91.823	Neonatal cerebral infarction, bilateral				DESC (P91.82)
+ICD10CM	P91.829	Neonatal cerebral infarction, unspecified side				DESC (P91.82)
+ICD10CM	G43.6	Persistent migraine aura with cerebral infarction	C2349471	persistent migraine aura with cerebral infarction		SEARCH (cerebral infarction)
+ICD10CM	G43.60	Persistent migraine aura with cerebral infarction, not intractable				DESC (G43.6)
+ICD10CM	G43.601	Persistent migraine aura with cerebral infarction, not intractable, with status migrainosus				DESC (G43.6)
+ICD10CM	G43.609	Persistent migraine aura with cerebral infarction, not intractable, without status migrainosus				DESC (G43.6)
+ICD10CM	G43.61	Persistent migraine aura with cerebral infarction, intractable				DESC (G43.6)
+ICD10CM	G43.611	Persistent migraine aura with cerebral infarction, intractable, with status migrainosus				DESC (G43.6)
+ICD10CM	G43.619	Persistent migraine aura with cerebral infarction, intractable, without status migrainosus				DESC (G43.6)
+ICD10CM	-		C2882363	Cerebral infarction due to thrombosis of middle cerebral artery		
+ICD10CM	-		C2882381	Cerebral infarction due to embolism of middle cerebral artery		
+ICD10CM	-		C2882599	Other sequelae of cerebral infarction		
+ICD10CM	-		C0236073	Cerebellar infarction		
+ICD10CM	-		C0375274	Occlusion and stenosis of basilar artery with cerebral infarction		
+ICD10CM	-		C0375276	Occlusion and stenosis of carotid artery with cerebral infarction		
+ICD10CM	-		C0375278	Occlusion and stenosis of vertebral artery with cerebral infarction		
+ICD10CM	-		C0375280	occlusion and stenosis of multiple and bilateral precerebral arteries with cerebral infarction		
+ICD10CM	-		C0375282	Occlusion and stenosis of other specified precerebral artery with cerebral infarction		
+ICD10CM	-		C0375284	Occlusion and stenosis of unspecified precerebral artery with cerebral infarction		
+ICD10CM	-		C0375286	Cerebral thrombosis with cerebral infarction		
+ICD10CM	-		C0375288	cerebral embolism with cerebral infarction		
+ICD10CM	-		C0375291	Cerebral artery occlusion, unspecified with cerebral infarction		
+ICD10CM	-		C0393953	Anterior Cerebral Circulation Infarction		
+ICD10CM	-		C0393954	Total anterior cerebral circulation infarction		
+ICD10CM	-		C0393955	Partial anterior cerebral circulation infarction		
+ICD10CM	-		C0393956	Posterior cerebral circulation infarction		
+ICD10CM	-		C0455714	Occipital cerebral infarction		
+ICD10CM	-		C0472369	Hemorrhagic cerebral infarction		
+ICD10CM	-		C0472370	Anterior cerebral circulation hemorrhagic infarction		
+ICD10CM	-		C0472371	Posterior cerebral circulation hemorrhagic infarction		
+ICD10CM	-		C0585629	Left sided cerebral infarction		
+ICD10CM	-		C0585630	Right sided cerebral infarction		
+ICD10CM	-		C1392253	Cerebral infarction due to stenosis of precerebral artery		
+ICD10CM	-		C1446220	Infarction of basal ganglia		
+ICD10CM	-		C1960659	Infarction of medulla oblongata		
+ICD10CM	-		C2349462	Persistent migraine aura without cerebral infarction, with intractable migraine, so stated, without mention of status migrainosus		
+ICD10CM	-		C2349463	Persistent migraine aura without cerebral infarction, without mention of intractable migraine with status migrainosus		
+ICD10CM	-		C2349468	Persistent migraine aura with cerebral infarction, with intractable migraine, so stated, without mention of status migrainosus		
+ICD10CM	-		C2349469	Persistent migraine aura with cerebral infarction, without mention of intractable migraine with status migrainosus		
+ICD10CM	-		C2349470	Persistent migraine aura with cerebral infarction, with intractable migraine, so stated, with status migrainosus		
+ICD10CM	-		C2584725	Family history of cerebral infarction		
+ICD10CM	-		C2875167	Persistent migraine aura with cerebral infarction, not intractable, with status migrainosus		
+ICD10CM	-		C2875168	Persistent migraine aura with cerebral infarction, not intractable, without status migrainosus		
+ICD10CM	-		C2875169	Persistent migraine aura with cerebral infarction, intractable		
+ICD10CM	-		C2875170	Persistent migraine aura with cerebral infarction, intractable, with status migrainosus		
+ICD10CM	-		C2875171	Persistent migraine aura with cerebral infarction, intractable, without status migrainosus		
+ICD10CM	-		C2882329	Cerebral infarction due to thrombosis of unspecified precerebral artery		
+ICD10CM	-		C2882330	Cerebral infarction due to thrombosis of vertebral artery		
+ICD10CM	-		C2882331	Cerebral infarction due to thrombosis of right vertebral artery		
+ICD10CM	-		C2882332	Cerebral infarction due to thrombosis of left vertebral artery		
+ICD10CM	-		C2882333	Cerebral infarction due to thrombosis of unspecified vertebral artery		
+ICD10CM	-		C2882334	Cerebral infarction due to thrombosis of basilar artery		
+ICD10CM	-		C2882335	Cerebral infarction due to thrombosis of carotid artery		
+ICD10CM	-		C2882336	Cerebral infarction due to thrombosis of right carotid artery		
+ICD10CM	-		C2882337	Cerebral infarction due to thrombosis of left carotid artery		
+ICD10CM	-		C2882338	Cerebral infarction due to thrombosis of unspecified carotid artery		
+ICD10CM	-		C2882339	Cerebral infarction due to thrombosis of other precerebral artery		
+ICD10CM	-		C2882340	Cerebral infarction due to embolism of unspecified precerebral artery		
+ICD10CM	-		C2882341	Cerebral infarction due to embolism of vertebral artery		
+ICD10CM	-		C2882342	Cerebral infarction due to embolism of right vertebral artery		
+ICD10CM	-		C2882343	Cerebral infarction due to embolism of left vertebral artery		
+ICD10CM	-		C2882344	Cerebral infarction due to embolism of unspecified vertebral artery		
+ICD10CM	-		C2882345	Cerebral infarction due to embolism of basilar artery		
+ICD10CM	-		C2882346	Cerebral infarction due to embolism of carotid artery		
+ICD10CM	-		C2882347	Cerebral infarction due to embolism of right carotid artery		
+ICD10CM	-		C2882348	Cerebral infarction due to embolism of left carotid artery		
+ICD10CM	-		C2882349	Cerebral infarction due to embolism of unspecified carotid artery		
+ICD10CM	-		C2882350	Cerebral infarction due to embolism of other precerebral artery		
+ICD10CM	-		C2882351	Cerebral infarction due to unspecified occlusion or stenosis of unspecified precerebral arteries		
+ICD10CM	-		C2882352	Cerebral infarction due to unspecified occlusion or stenosis of vertebral arteries		
+ICD10CM	-		C2882353	Cerebral infarction due to unspecified occlusion or stenosis of right vertebral artery		
+ICD10CM	-		C2882354	Cerebral infarction due to unspecified occlusion or stenosis of left vertebral artery		
+ICD10CM	-		C2882355	Cerebral infarction due to unspecified occlusion or stenosis of unspecified vertebral artery		
+ICD10CM	-		C2882356	Cerebral infarction due to unspecified occlusion or stenosis of basilar artery		
+ICD10CM	-		C2882357	Cerebral infarction due to unspecified occlusion or stenosis of carotid arteries		
+ICD10CM	-		C2882359	Cerebral infarction due to unspecified occlusion or stenosis of left carotid arteries		
+ICD10CM	-		C2882360	Cerebral infarction due to unspecified occlusion or stenosis of unspecified carotid artery		
+ICD10CM	-		C2882362	Cerebral infarction due to thrombosis of unspecified cerebral artery		
+ICD10CM	-		C2882364	Cerebral infarction due to thrombosis of right middle cerebral artery		
+ICD10CM	-		C2882365	Cerebral infarction due to thrombosis of left middle cerebral artery		
+ICD10CM	-		C2882366	Cerebral infarction due to thrombosis of unspecified middle cerebral artery		
+ICD10CM	-		C2882367	Cerebral infarction due to thrombosis of anterior cerebral artery		
+ICD10CM	-		C2882368	Cerebral infarction due to thrombosis of right anterior cerebral artery		
+ICD10CM	-		C2882369	Cerebral infarction due to thrombosis of left anterior cerebral artery		
+ICD10CM	-		C2882370	Cerebral infarction due to thrombosis of unspecified anterior cerebral artery		
+ICD10CM	-		C2882371	Cerebral infarction due to thrombosis of posterior cerebral artery		
+ICD10CM	-		C2882372	Cerebral infarction due to thrombosis of right posterior cerebral artery		
+ICD10CM	-		C2882373	Cerebral infarction due to thrombosis of left posterior cerebral artery		
+ICD10CM	-		C2882374	Cerebral infarction due to thrombosis of unspecified posterior cerebral artery		
+ICD10CM	-		C2882375	Cerebral infarction due to thrombosis of cerebellar artery		
+ICD10CM	-		C2882376	Cerebral infarction due to thrombosis of right cerebellar artery		
+ICD10CM	-		C2882377	Cerebral infarction due to thrombosis of left cerebellar artery		
+ICD10CM	-		C2882378	Cerebral infarction due to thrombosis of unspecified cerebellar artery		
+ICD10CM	-		C2882379	Cerebral infarction due to thrombosis of other cerebral artery		
+ICD10CM	-		C2882380	Cerebral infarction due to embolism of unspecified cerebral artery		
+ICD10CM	-		C2882382	Cerebral infarction due to embolism of right middle cerebral artery		
+ICD10CM	-		C2882383	Cerebral infarction due to embolism of left middle cerebral artery		
+ICD10CM	-		C2882384	Cerebral infarction due to embolism of unspecified middle cerebral artery		
+ICD10CM	-		C2882385	Cerebral infarction due to embolism of anterior cerebral artery		
+ICD10CM	-		C2882386	Cerebral infarction due to embolism of right anterior cerebral artery		
+ICD10CM	-		C2882387	Cerebral infarction due to embolism of left anterior cerebral artery		
+ICD10CM	-		C2882388	Cerebral infarction due to embolism of unspecified anterior cerebral artery		
+ICD10CM	-		C2882389	Cerebral infarction due to embolism of posterior cerebral artery		
+ICD10CM	-		C2882390	Cerebral infarction due to embolism of right posterior cerebral artery		
+ICD10CM	-		C2882391	Cerebral infarction due to embolism of left posterior cerebral artery		
+ICD10CM	-		C2882392	Cerebral infarction due to embolism of unspecified posterior cerebral artery		
+ICD10CM	-		C2882393	Cerebral infarction due to embolism of cerebellar artery		
+ICD10CM	-		C2882394	Cerebral infarction due to embolism of right cerebellar artery		
+ICD10CM	-		C2882395	Cerebral infarction due to embolism of left cerebellar artery		
+ICD10CM	-		C2882396	Cerebral infarction due to embolism of unspecified cerebellar artery		
+ICD10CM	-		C2882397	Cerebral infarction due to embolism of other cerebral artery		
+ICD10CM	-		C2882398	Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebral artery		
+ICD10CM	-		C2882399	Cerebral infarction due to unspecified occlusion or stenosis of middle cerebral artery		
+ICD10CM	-		C2882400	Cerebral infarction due to unspecified occlusion or stenosis of right middle cerebral artery		
+ICD10CM	-		C2882401	Cerebral infarction due to unspecified occlusion or stenosis of left middle cerebral artery		
+ICD10CM	-		C2882402	Cerebral infarction due to unspecified occlusion or stenosis of unspecified middle cerebral artery		
+ICD10CM	-		C2882403	Cerebral infarction due to unspecified occlusion or stenosis of anterior cerebral artery		
+ICD10CM	-		C2882404	Cerebral infarction due to unspecified occlusion or stenosis of right anterior cerebral artery		
+ICD10CM	-		C2882405	Cerebral infarction due to unspecified occlusion or stenosis of left anterior cerebral artery		
+ICD10CM	-		C2882406	Cerebral infarction due to unspecified occlusion or stenosis of unspecified anterior cerebral artery		
+ICD10CM	-		C2882407	Cerebral infarction due to unspecified occlusion or stenosis of posterior cerebral artery		
+ICD10CM	-		C2882408	Cerebral infarction due to unspecified occlusion or stenosis of right posterior cerebral artery		
+ICD10CM	-		C2882409	Cerebral infarction due to unspecified occlusion or stenosis of left posterior cerebral artery		
+ICD10CM	-		C2882410	Cerebral infarction due to unspecified occlusion or stenosis of unspecified posterior cerebral artery		
+ICD10CM	-		C2882411	Cerebral infarction due to unspecified occlusion or stenosis of cerebellar artery		
+ICD10CM	-		C2882412	Cerebral infarction due to unspecified occlusion or stenosis of right cerebellar artery		
+ICD10CM	-		C2882413	Cerebral infarction due to unspecified occlusion or stenosis of left cerebellar artery		
+ICD10CM	-		C2882414	Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebellar artery		
+ICD10CM	-		C2882415	Cerebral infarction due to unspecified occlusion or stenosis of other cerebral artery		
+ICD10CM	-		C2882566	Unspecified sequelae of cerebral infarction		
+ICD10CM	-		C2882567	Cognitive deficits following cerebral infarction		
+ICD10CM	-		C2882568	Speech and language deficits following cerebral infarction		
+ICD10CM	-		C2882569	Aphasia following cerebral infarction		
+ICD10CM	-		C2882570	Dysphasia following cerebral infarction		
+ICD10CM	-		C2882571	Dysarthria following cerebral infarction		
+ICD10CM	-		C2882572	Fluency disorder following cerebral infarction		
+ICD10CM	-		C2882573	Other speech and language deficits following cerebral infarction		
+ICD10CM	-		C2882574	Monoplegia of upper limb following cerebral infarction		
+ICD10CM	-		C2882575	Monoplegia of upper limb following cerebral infarction affecting right dominant side		
+ICD10CM	-		C2882576	Monoplegia of upper limb following cerebral infarction affecting left dominant side		
+ICD10CM	-		C2882577	Monoplegia of upper limb following cerebral infarction affecting right non-dominant side		
+ICD10CM	-		C2882578	Monoplegia of upper limb following cerebral infarction affecting left non-dominant side		
+ICD10CM	-		C2882579	Monoplegia of upper limb following cerebral infarction affecting unspecified side		
+ICD10CM	-		C2882580	Monoplegia of lower limb following cerebral infarction		
+ICD10CM	-		C2882581	Monoplegia of lower limb following cerebral infarction affecting right dominant side		
+ICD10CM	-		C2882582	Monoplegia of lower limb following cerebral infarction affecting left dominant side		
+ICD10CM	-		C2882583	Monoplegia of lower limb following cerebral infarction affecting right non-dominant side		
+ICD10CM	-		C2882584	Monoplegia of lower limb following cerebral infarction affecting left non-dominant side		
+ICD10CM	-		C2882585	Monoplegia of lower limb following cerebral infarction affecting unspecified side		
+ICD10CM	-		C2882586	Hemiplegia and hemiparesis following cerebral infarction		
+ICD10CM	-		C2882587	Hemiplegia and hemiparesis following cerebral infarction affecting right dominant side		
+ICD10CM	-		C2882588	Hemiplegia and hemiparesis following cerebral infarction affecting left dominant side		
+ICD10CM	-		C2882589	Hemiplegia and hemiparesis following cerebral infarction affecting right non-dominant side		
+ICD10CM	-		C2882590	Hemiplegia and hemiparesis following cerebral infarction affecting left non-dominant side		
+ICD10CM	-		C2882591	Hemiplegia and hemiparesis following cerebral infarction affecting unspecified side		
+ICD10CM	-		C2882592	Other paralytic syndrome following cerebral infarction		
+ICD10CM	-		C2882593	Other paralytic syndrome following cerebral infarction affecting right dominant side		
+ICD10CM	-		C2882594	Other paralytic syndrome following cerebral infarction affecting left dominant side		
+ICD10CM	-		C2882595	Other paralytic syndrome following cerebral infarction affecting right non-dominant side		
+ICD10CM	-		C2882596	Other paralytic syndrome following cerebral infarction affecting left non-dominant side		
+ICD10CM	-		C2882597	Other paralytic syndrome following cerebral infarction, bilateral		
+ICD10CM	-		C2882600	Apraxia following cerebral infarction		
+ICD10CM	-		C2882598	Other paralytic syndrome following cerebral infarction affecting unspecified side		
+ICD10CM	-		C2882601	Dysphagia following cerebral infarction		
+ICD10CM	-		C2882602	Facial droop following cerebral infarction		
+ICD10CM	-		C2882603	Facial weakness following cerebral infarction		
+ICD10CM	-		C2882604	Ataxia following cerebral infarction		
+ICD10CM	-		C2882605	Alteration of sensation following cerebral infarction		
+ICD10CM	-		C2882606	Disturbance of vision following cerebral infarction		
+ICD10CM	-		C3264012	Persistent migraine aura with cerebral infarction, with refractory migraine		
+ICD10CM	-		C3264011	Persistent migraine aura with cerebral infarction, without refractory migraine		
+ICD10CM	-		C3536611	Cerebral infarction due to occlusion of basilar artery		
+ICD10CM	-		C3662027	Cerebral infarction due to stenosis of carotid artery		
+ICD10CM	-		C3662063	Cerebral infarction due to carotid artery occlusion		
+ICD10CM	-		C3662066	Behavior disorder as sequela of cerebral infarction		
+ICD10CM	-		C3662091	Sequela of ischemic cerebral infarction		
+ICD10CM	-		C3698306	Cerebral infarction due to vertebral artery occlusion		
+ICD10CM	-		C4038830	Cerebral infarction due to vertebral artery stenosis		
+ICD10CM	-		C4040904	Cerebral infarction due to occlusion of precerebral artery		
+ICD10CM	-		C0375284	Occlusion and stenosis of unspecified precerebral artery with cerebral infarction		
+ICD10CM	-		C0375282	Occlusion and stenosis of other specified precerebral artery with cerebral infarction		
+ICD10CM	-		C0375280	occlusion and stenosis of multiple and bilateral precerebral arteries with cerebral infarction		
+ICD10CM	-		C0375278	Occlusion and stenosis of vertebral artery with cerebral infarction		
+ICD10CM	-		C0375274	Occlusion and stenosis of basilar artery with cerebral infarction		
+ICD10CM	-		C0375276	Occlusion and stenosis of carotid artery with cerebral infarction		
+ICD10CM	-		C0948008	Ischemic stroke		
+ICD10CM	-		C4302206	Perinatal arterial ischemic stroke		
+ICD10CM	-		C3648410	Ischemic stroke without residual deficits		
+ICD10CM	-		C5392097	Cryptogenic Ischemic Stroke		
+ICD10CM	-		C4510771	Cerebral ischemic stroke due to extracranial large artery atherosclerosis		
+ICD10CM	-		C4510772	Cerebral ischemic stroke due to intracranial large artery atherosclerosis		
+ICD10CM	-		C1298680	Occlusive stroke		
+ICD10CM	-		C5545767	Neonatal ischemic stroke		
+ICD10CM	-		C3662053	Ischemic stroke with coma		
+ICD10CM	-		C3662058	Ischemic stroke without coma		
+ICD10CM	-		C4510726	Cerebral ischemic stroke due to stenosis of extracranial large artery		
+ICD10CM	-		C4510727	Cerebral ischemic stroke due to occlusion of extracranial large artery		
+ICD10CM	-		C4510768	Cerebral ischemic stroke due to small artery occlusion		
+ICD9CM	-		C0393957	Pure motor lacunar infarction		
+ICD9CM	-		C0393958	Pure sensory lacunar infarction		
+ICD9CM	-		C0477376	Other lacunar syndromes		
+ICD9CM	-		C0585229	Multiple lacunar infarcts		
+ICD9CM	-		C0007785	Cerebral Infarction		
+ICD9CM	-		C0011263	Multi-infarct dementia		
+ICD9CM	-		C0342405	Pituitary infarction		
+ICD9CM	-		C0338530	Infarction of visual cortex		
+ICD9CM	-		C0455714	Occipital cerebral infarction		
+ICD9CM	-		C0393953	Anterior Cerebral Circulation Infarction		
+ICD9CM	-		C2711270	Infarct of cerebrum due to iatrogenic cerebrovascular accident		
+ICD9CM	-		C0338517	Infarction of optic chiasm		
+ICD9CM	-		C4302087	Silent cerebral infarct		
+ICD9CM	-		C0338521	Infarction of optic tract		
+ICD9CM	-		C0338526	Infarction of optic radiation		
+ICD9CM	-		C0348636	Other cerebral infarction		
+ICD9CM	-		C0348647	Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries		
+ICD9CM	-		C0348635	Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries		
+ICD9CM	-		C0451673	Cerebral infarction due to embolism of precerebral arteries		
+ICD9CM	-		C0451674	Cerebral infarction due to thrombosis of cerebral arteries		
+ICD9CM	-		C0451675	Cerebral infarction due to embolism of cerebral arteries		
+ICD9CM	-		C0451676	Cerebral infarction due to cerebral venous thrombosis, non-pyogenic		
+ICD9CM	-		C0451677	Sequelae of cerebral infarction		
+ICD9CM	-		C0494609	Cerebral infarct due to thrombosis of precerebral arteries		
+ICD9CM	-		C0521542	Brain Stem Infarctions		
+ICD9CM	-		C1299567	Neonatal stroke		
+ICD9CM	346.6	Persistent migraine aura with cerebral infarction	C2349471	persistent migraine aura with cerebral infarction		SEARCH (cerebral infarction)
+ICD9CM	346.60	Persistent migraine aura with cerebral infarction, without mention of intractable migraine without mention of status migrainosus				DESC (346.6)
+ICD9CM	346.61	Persistent migraine aura with cerebral infarction, with intractable migraine, so stated, without mention of status migrainosus				DESC (346.6)
+ICD9CM	346.62	Persistent migraine aura with cerebral infarction, without mention of intractable migraine with status migrainosus				DESC (346.6)
+ICD9CM	346.63	Persistent migraine aura with cerebral infarction, with intractable migraine, so stated, with status migrainosus				DESC (346.6)
+ICD9CM	-		C2882363	Cerebral infarction due to thrombosis of middle cerebral artery		
+ICD9CM	-		C2882381	Cerebral infarction due to embolism of middle cerebral artery		
+ICD9CM	-		C2882599	Other sequelae of cerebral infarction		
+ICD9CM	-		C0236073	Cerebellar infarction		
+ICD9CM	433.01	Occlusion and stenosis of basilar artery with cerebral infarction	C0375274	Occlusion and stenosis of basilar artery with cerebral infarction		SEARCH (cerebral infarction)
+ICD9CM	433.11	Occlusion and stenosis of carotid artery with cerebral infarction	C0375276	Occlusion and stenosis of carotid artery with cerebral infarction		SEARCH (cerebral infarction)
+ICD9CM	433.21	Occlusion and stenosis of vertebral artery with cerebral infarction	C0375278	Occlusion and stenosis of vertebral artery with cerebral infarction		SEARCH (cerebral infarction)
+ICD9CM	433.31	Occlusion and stenosis of multiple and bilateral precerebral arteries with cerebral infarction	C0375280	occlusion and stenosis of multiple and bilateral precerebral arteries with cerebral infarction		SEARCH (cerebral infarction)
+ICD9CM	433.81	Occlusion and stenosis of other specified precerebral artery with cerebral infarction	C0375282	Occlusion and stenosis of other specified precerebral artery with cerebral infarction		SEARCH (cerebral infarction)
+ICD9CM	433.91	Occlusion and stenosis of unspecified precerebral artery with cerebral infarction	C0375284	Occlusion and stenosis of unspecified precerebral artery with cerebral infarction		SEARCH (cerebral infarction)
+ICD9CM	434.01	Cerebral thrombosis with cerebral infarction	C0375286	Cerebral thrombosis with cerebral infarction		SEARCH (cerebral infarction)
+ICD9CM	434.11	Cerebral embolism with cerebral infarction	C0375288	cerebral embolism with cerebral infarction		SEARCH (cerebral infarction)
+ICD9CM	434.91	Cerebral artery occlusion, unspecified with cerebral infarction	C0375291	Cerebral artery occlusion, unspecified with cerebral infarction		SEARCH (cerebral infarction)
+ICD9CM	-		C0393953	Anterior Cerebral Circulation Infarction		
+ICD9CM	-		C0393954	Total anterior cerebral circulation infarction		
+ICD9CM	-		C0393955	Partial anterior cerebral circulation infarction		
+ICD9CM	-		C0393956	Posterior cerebral circulation infarction		
+ICD9CM	-		C0455714	Occipital cerebral infarction		
+ICD9CM	-		C0472369	Hemorrhagic cerebral infarction		
+ICD9CM	-		C0472370	Anterior cerebral circulation hemorrhagic infarction		
+ICD9CM	-		C0472371	Posterior cerebral circulation hemorrhagic infarction		
+ICD9CM	-		C0585629	Left sided cerebral infarction		
+ICD9CM	-		C0585630	Right sided cerebral infarction		
+ICD9CM	-		C1392253	Cerebral infarction due to stenosis of precerebral artery		
+ICD9CM	-		C1446220	Infarction of basal ganglia		
+ICD9CM	-		C1960659	Infarction of medulla oblongata		
+ICD9CM	346.51	Persistent migraine aura without cerebral infarction, with intractable migraine, so stated, without mention of status migrainosus	C2349462	Persistent migraine aura without cerebral infarction, with intractable migraine, so stated, without mention of status migrainosus		SEARCH (cerebral infarction)
+ICD9CM	346.52	Persistent migraine aura without cerebral infarction, without mention of intractable migraine with status migrainosus	C2349463	Persistent migraine aura without cerebral infarction, without mention of intractable migraine with status migrainosus		SEARCH (cerebral infarction)
+ICD9CM	-		C2349468	Persistent migraine aura with cerebral infarction, with intractable migraine, so stated, without mention of status migrainosus		
+ICD9CM	-		C2349469	Persistent migraine aura with cerebral infarction, without mention of intractable migraine with status migrainosus		
+ICD9CM	-		C2349470	Persistent migraine aura with cerebral infarction, with intractable migraine, so stated, with status migrainosus		
+ICD9CM	-		C2584725	Family history of cerebral infarction		
+ICD9CM	-		C2875167	Persistent migraine aura with cerebral infarction, not intractable, with status migrainosus		
+ICD9CM	-		C2875168	Persistent migraine aura with cerebral infarction, not intractable, without status migrainosus		
+ICD9CM	-		C2875169	Persistent migraine aura with cerebral infarction, intractable		
+ICD9CM	-		C2875170	Persistent migraine aura with cerebral infarction, intractable, with status migrainosus		
+ICD9CM	-		C2875171	Persistent migraine aura with cerebral infarction, intractable, without status migrainosus		
+ICD9CM	-		C2882329	Cerebral infarction due to thrombosis of unspecified precerebral artery		
+ICD9CM	-		C2882330	Cerebral infarction due to thrombosis of vertebral artery		
+ICD9CM	-		C2882331	Cerebral infarction due to thrombosis of right vertebral artery		
+ICD9CM	-		C2882332	Cerebral infarction due to thrombosis of left vertebral artery		
+ICD9CM	-		C2882333	Cerebral infarction due to thrombosis of unspecified vertebral artery		
+ICD9CM	-		C2882334	Cerebral infarction due to thrombosis of basilar artery		
+ICD9CM	-		C2882335	Cerebral infarction due to thrombosis of carotid artery		
+ICD9CM	-		C2882336	Cerebral infarction due to thrombosis of right carotid artery		
+ICD9CM	-		C2882337	Cerebral infarction due to thrombosis of left carotid artery		
+ICD9CM	-		C2882338	Cerebral infarction due to thrombosis of unspecified carotid artery		
+ICD9CM	-		C2882339	Cerebral infarction due to thrombosis of other precerebral artery		
+ICD9CM	-		C2882340	Cerebral infarction due to embolism of unspecified precerebral artery		
+ICD9CM	-		C2882341	Cerebral infarction due to embolism of vertebral artery		
+ICD9CM	-		C2882342	Cerebral infarction due to embolism of right vertebral artery		
+ICD9CM	-		C2882343	Cerebral infarction due to embolism of left vertebral artery		
+ICD9CM	-		C2882344	Cerebral infarction due to embolism of unspecified vertebral artery		
+ICD9CM	-		C2882345	Cerebral infarction due to embolism of basilar artery		
+ICD9CM	-		C2882346	Cerebral infarction due to embolism of carotid artery		
+ICD9CM	-		C2882347	Cerebral infarction due to embolism of right carotid artery		
+ICD9CM	-		C2882348	Cerebral infarction due to embolism of left carotid artery		
+ICD9CM	-		C2882349	Cerebral infarction due to embolism of unspecified carotid artery		
+ICD9CM	-		C2882350	Cerebral infarction due to embolism of other precerebral artery		
+ICD9CM	-		C2882351	Cerebral infarction due to unspecified occlusion or stenosis of unspecified precerebral arteries		
+ICD9CM	-		C2882352	Cerebral infarction due to unspecified occlusion or stenosis of vertebral arteries		
+ICD9CM	-		C2882353	Cerebral infarction due to unspecified occlusion or stenosis of right vertebral artery		
+ICD9CM	-		C2882354	Cerebral infarction due to unspecified occlusion or stenosis of left vertebral artery		
+ICD9CM	-		C2882355	Cerebral infarction due to unspecified occlusion or stenosis of unspecified vertebral artery		
+ICD9CM	-		C2882356	Cerebral infarction due to unspecified occlusion or stenosis of basilar artery		
+ICD9CM	-		C2882357	Cerebral infarction due to unspecified occlusion or stenosis of carotid arteries		
+ICD9CM	-		C2882359	Cerebral infarction due to unspecified occlusion or stenosis of left carotid arteries		
+ICD9CM	-		C2882360	Cerebral infarction due to unspecified occlusion or stenosis of unspecified carotid artery		
+ICD9CM	-		C2882362	Cerebral infarction due to thrombosis of unspecified cerebral artery		
+ICD9CM	-		C2882364	Cerebral infarction due to thrombosis of right middle cerebral artery		
+ICD9CM	-		C2882365	Cerebral infarction due to thrombosis of left middle cerebral artery		
+ICD9CM	-		C2882366	Cerebral infarction due to thrombosis of unspecified middle cerebral artery		
+ICD9CM	-		C2882367	Cerebral infarction due to thrombosis of anterior cerebral artery		
+ICD9CM	-		C2882368	Cerebral infarction due to thrombosis of right anterior cerebral artery		
+ICD9CM	-		C2882369	Cerebral infarction due to thrombosis of left anterior cerebral artery		
+ICD9CM	-		C2882370	Cerebral infarction due to thrombosis of unspecified anterior cerebral artery		
+ICD9CM	-		C2882371	Cerebral infarction due to thrombosis of posterior cerebral artery		
+ICD9CM	-		C2882372	Cerebral infarction due to thrombosis of right posterior cerebral artery		
+ICD9CM	-		C2882373	Cerebral infarction due to thrombosis of left posterior cerebral artery		
+ICD9CM	-		C2882374	Cerebral infarction due to thrombosis of unspecified posterior cerebral artery		
+ICD9CM	-		C2882375	Cerebral infarction due to thrombosis of cerebellar artery		
+ICD9CM	-		C2882376	Cerebral infarction due to thrombosis of right cerebellar artery		
+ICD9CM	-		C2882377	Cerebral infarction due to thrombosis of left cerebellar artery		
+ICD9CM	-		C2882378	Cerebral infarction due to thrombosis of unspecified cerebellar artery		
+ICD9CM	-		C2882379	Cerebral infarction due to thrombosis of other cerebral artery		
+ICD9CM	-		C2882380	Cerebral infarction due to embolism of unspecified cerebral artery		
+ICD9CM	-		C2882382	Cerebral infarction due to embolism of right middle cerebral artery		
+ICD9CM	-		C2882383	Cerebral infarction due to embolism of left middle cerebral artery		
+ICD9CM	-		C2882384	Cerebral infarction due to embolism of unspecified middle cerebral artery		
+ICD9CM	-		C2882385	Cerebral infarction due to embolism of anterior cerebral artery		
+ICD9CM	-		C2882386	Cerebral infarction due to embolism of right anterior cerebral artery		
+ICD9CM	-		C2882387	Cerebral infarction due to embolism of left anterior cerebral artery		
+ICD9CM	-		C2882388	Cerebral infarction due to embolism of unspecified anterior cerebral artery		
+ICD9CM	-		C2882389	Cerebral infarction due to embolism of posterior cerebral artery		
+ICD9CM	-		C2882390	Cerebral infarction due to embolism of right posterior cerebral artery		
+ICD9CM	-		C2882391	Cerebral infarction due to embolism of left posterior cerebral artery		
+ICD9CM	-		C2882392	Cerebral infarction due to embolism of unspecified posterior cerebral artery		
+ICD9CM	-		C2882393	Cerebral infarction due to embolism of cerebellar artery		
+ICD9CM	-		C2882394	Cerebral infarction due to embolism of right cerebellar artery		
+ICD9CM	-		C2882395	Cerebral infarction due to embolism of left cerebellar artery		
+ICD9CM	-		C2882396	Cerebral infarction due to embolism of unspecified cerebellar artery		
+ICD9CM	-		C2882397	Cerebral infarction due to embolism of other cerebral artery		
+ICD9CM	-		C2882398	Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebral artery		
+ICD9CM	-		C2882399	Cerebral infarction due to unspecified occlusion or stenosis of middle cerebral artery		
+ICD9CM	-		C2882400	Cerebral infarction due to unspecified occlusion or stenosis of right middle cerebral artery		
+ICD9CM	-		C2882401	Cerebral infarction due to unspecified occlusion or stenosis of left middle cerebral artery		
+ICD9CM	-		C2882402	Cerebral infarction due to unspecified occlusion or stenosis of unspecified middle cerebral artery		
+ICD9CM	-		C2882403	Cerebral infarction due to unspecified occlusion or stenosis of anterior cerebral artery		
+ICD9CM	-		C2882404	Cerebral infarction due to unspecified occlusion or stenosis of right anterior cerebral artery		
+ICD9CM	-		C2882405	Cerebral infarction due to unspecified occlusion or stenosis of left anterior cerebral artery		
+ICD9CM	-		C2882406	Cerebral infarction due to unspecified occlusion or stenosis of unspecified anterior cerebral artery		
+ICD9CM	-		C2882407	Cerebral infarction due to unspecified occlusion or stenosis of posterior cerebral artery		
+ICD9CM	-		C2882408	Cerebral infarction due to unspecified occlusion or stenosis of right posterior cerebral artery		
+ICD9CM	-		C2882409	Cerebral infarction due to unspecified occlusion or stenosis of left posterior cerebral artery		
+ICD9CM	-		C2882410	Cerebral infarction due to unspecified occlusion or stenosis of unspecified posterior cerebral artery		
+ICD9CM	-		C2882411	Cerebral infarction due to unspecified occlusion or stenosis of cerebellar artery		
+ICD9CM	-		C2882412	Cerebral infarction due to unspecified occlusion or stenosis of right cerebellar artery		
+ICD9CM	-		C2882413	Cerebral infarction due to unspecified occlusion or stenosis of left cerebellar artery		
+ICD9CM	-		C2882414	Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebellar artery		
+ICD9CM	-		C2882415	Cerebral infarction due to unspecified occlusion or stenosis of other cerebral artery		
+ICD9CM	-		C2882566	Unspecified sequelae of cerebral infarction		
+ICD9CM	-		C2882567	Cognitive deficits following cerebral infarction		
+ICD9CM	-		C2882568	Speech and language deficits following cerebral infarction		
+ICD9CM	-		C2882569	Aphasia following cerebral infarction		
+ICD9CM	-		C2882570	Dysphasia following cerebral infarction		
+ICD9CM	-		C2882571	Dysarthria following cerebral infarction		
+ICD9CM	-		C2882572	Fluency disorder following cerebral infarction		
+ICD9CM	-		C2882573	Other speech and language deficits following cerebral infarction		
+ICD9CM	-		C2882574	Monoplegia of upper limb following cerebral infarction		
+ICD9CM	-		C2882575	Monoplegia of upper limb following cerebral infarction affecting right dominant side		
+ICD9CM	-		C2882576	Monoplegia of upper limb following cerebral infarction affecting left dominant side		
+ICD9CM	-		C2882577	Monoplegia of upper limb following cerebral infarction affecting right non-dominant side		
+ICD9CM	-		C2882578	Monoplegia of upper limb following cerebral infarction affecting left non-dominant side		
+ICD9CM	-		C2882579	Monoplegia of upper limb following cerebral infarction affecting unspecified side		
+ICD9CM	-		C2882580	Monoplegia of lower limb following cerebral infarction		
+ICD9CM	-		C2882581	Monoplegia of lower limb following cerebral infarction affecting right dominant side		
+ICD9CM	-		C2882582	Monoplegia of lower limb following cerebral infarction affecting left dominant side		
+ICD9CM	-		C2882583	Monoplegia of lower limb following cerebral infarction affecting right non-dominant side		
+ICD9CM	-		C2882584	Monoplegia of lower limb following cerebral infarction affecting left non-dominant side		
+ICD9CM	-		C2882585	Monoplegia of lower limb following cerebral infarction affecting unspecified side		
+ICD9CM	-		C2882586	Hemiplegia and hemiparesis following cerebral infarction		
+ICD9CM	-		C2882587	Hemiplegia and hemiparesis following cerebral infarction affecting right dominant side		
+ICD9CM	-		C2882588	Hemiplegia and hemiparesis following cerebral infarction affecting left dominant side		
+ICD9CM	-		C2882589	Hemiplegia and hemiparesis following cerebral infarction affecting right non-dominant side		
+ICD9CM	-		C2882590	Hemiplegia and hemiparesis following cerebral infarction affecting left non-dominant side		
+ICD9CM	-		C2882591	Hemiplegia and hemiparesis following cerebral infarction affecting unspecified side		
+ICD9CM	-		C2882592	Other paralytic syndrome following cerebral infarction		
+ICD9CM	-		C2882593	Other paralytic syndrome following cerebral infarction affecting right dominant side		
+ICD9CM	-		C2882594	Other paralytic syndrome following cerebral infarction affecting left dominant side		
+ICD9CM	-		C2882595	Other paralytic syndrome following cerebral infarction affecting right non-dominant side		
+ICD9CM	-		C2882596	Other paralytic syndrome following cerebral infarction affecting left non-dominant side		
+ICD9CM	-		C2882597	Other paralytic syndrome following cerebral infarction, bilateral		
+ICD9CM	-		C2882600	Apraxia following cerebral infarction		
+ICD9CM	-		C2882598	Other paralytic syndrome following cerebral infarction affecting unspecified side		
+ICD9CM	-		C2882601	Dysphagia following cerebral infarction		
+ICD9CM	-		C2882602	Facial droop following cerebral infarction		
+ICD9CM	-		C2882603	Facial weakness following cerebral infarction		
+ICD9CM	-		C2882604	Ataxia following cerebral infarction		
+ICD9CM	-		C2882605	Alteration of sensation following cerebral infarction		
+ICD9CM	-		C2882606	Disturbance of vision following cerebral infarction		
+ICD9CM	-		C3264012	Persistent migraine aura with cerebral infarction, with refractory migraine		
+ICD9CM	-		C3264011	Persistent migraine aura with cerebral infarction, without refractory migraine		
+ICD9CM	-		C3536611	Cerebral infarction due to occlusion of basilar artery		
+ICD9CM	-		C3662027	Cerebral infarction due to stenosis of carotid artery		
+ICD9CM	-		C3662063	Cerebral infarction due to carotid artery occlusion		
+ICD9CM	-		C3662066	Behavior disorder as sequela of cerebral infarction		
+ICD9CM	-		C3662091	Sequela of ischemic cerebral infarction		
+ICD9CM	-		C3698306	Cerebral infarction due to vertebral artery occlusion		
+ICD9CM	-		C4038830	Cerebral infarction due to vertebral artery stenosis		
+ICD9CM	-		C4040904	Cerebral infarction due to occlusion of precerebral artery		
+ICD9CM	-		C0375284	Occlusion and stenosis of unspecified precerebral artery with cerebral infarction		
+ICD9CM	-		C0375282	Occlusion and stenosis of other specified precerebral artery with cerebral infarction		
+ICD9CM	-		C0375280	occlusion and stenosis of multiple and bilateral precerebral arteries with cerebral infarction		
+ICD9CM	-		C0375278	Occlusion and stenosis of vertebral artery with cerebral infarction		
+ICD9CM	-		C0375274	Occlusion and stenosis of basilar artery with cerebral infarction		
+ICD9CM	-		C0375276	Occlusion and stenosis of carotid artery with cerebral infarction		
+ICD9CM	-		C0948008	Ischemic stroke		
+ICD9CM	-		C4302206	Perinatal arterial ischemic stroke		
+ICD9CM	-		C3648410	Ischemic stroke without residual deficits		
+ICD9CM	-		C5392097	Cryptogenic Ischemic Stroke		
+ICD9CM	-		C4510771	Cerebral ischemic stroke due to extracranial large artery atherosclerosis		
+ICD9CM	-		C4510772	Cerebral ischemic stroke due to intracranial large artery atherosclerosis		
+ICD9CM	-		C1298680	Occlusive stroke		
+ICD9CM	-		C5545767	Neonatal ischemic stroke		
+ICD9CM	-		C3662053	Ischemic stroke with coma		
+ICD9CM	-		C3662058	Ischemic stroke without coma		
+ICD9CM	-		C4510726	Cerebral ischemic stroke due to stenosis of extracranial large artery		
+ICD9CM	-		C4510727	Cerebral ischemic stroke due to occlusion of extracranial large artery		
+ICD9CM	-		C4510768	Cerebral ischemic stroke due to small artery occlusion		
+ICPC2P	-		C0393957	Pure motor lacunar infarction		
+ICPC2P	-		C0393958	Pure sensory lacunar infarction		
+ICPC2P	-		C0477376	Other lacunar syndromes		
+ICPC2P	-		C0585229	Multiple lacunar infarcts		
+ICPC2P	K90010	Infarction;cerebral	C0007785	Cerebral Infarction		SEARCH (cerebral infarction)
+ICPC2P	-		C0011263	Multi-infarct dementia		
+ICPC2P	-		C0342405	Pituitary infarction		
+ICPC2P	-		C0338530	Infarction of visual cortex		
+ICPC2P	-		C0455714	Occipital cerebral infarction		
+ICPC2P	-		C0393953	Anterior Cerebral Circulation Infarction		
+ICPC2P	-		C2711270	Infarct of cerebrum due to iatrogenic cerebrovascular accident		
+ICPC2P	-		C0338517	Infarction of optic chiasm		
+ICPC2P	-		C4302087	Silent cerebral infarct		
+ICPC2P	-		C0338521	Infarction of optic tract		
+ICPC2P	-		C0338526	Infarction of optic radiation		
+ICPC2P	-		C0348636	Other cerebral infarction		
+ICPC2P	-		C0348647	Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries		
+ICPC2P	-		C0348635	Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries		
+ICPC2P	-		C0451673	Cerebral infarction due to embolism of precerebral arteries		
+ICPC2P	-		C0451674	Cerebral infarction due to thrombosis of cerebral arteries		
+ICPC2P	-		C0451675	Cerebral infarction due to embolism of cerebral arteries		
+ICPC2P	-		C0451676	Cerebral infarction due to cerebral venous thrombosis, non-pyogenic		
+ICPC2P	-		C0451677	Sequelae of cerebral infarction		
+ICPC2P	-		C0494609	Cerebral infarct due to thrombosis of precerebral arteries		
+ICPC2P	-		C0521542	Brain Stem Infarctions		
+ICPC2P	-		C1299567	Neonatal stroke		
+ICPC2P	-		C2349471	persistent migraine aura with cerebral infarction		
+ICPC2P	-		C2882363	Cerebral infarction due to thrombosis of middle cerebral artery		
+ICPC2P	-		C2882381	Cerebral infarction due to embolism of middle cerebral artery		
+ICPC2P	-		C2882599	Other sequelae of cerebral infarction		
+ICPC2P	-		C0236073	Cerebellar infarction		
+ICPC2P	-		C0375274	Occlusion and stenosis of basilar artery with cerebral infarction		
+ICPC2P	-		C0375276	Occlusion and stenosis of carotid artery with cerebral infarction		
+ICPC2P	-		C0375278	Occlusion and stenosis of vertebral artery with cerebral infarction		
+ICPC2P	-		C0375280	occlusion and stenosis of multiple and bilateral precerebral arteries with cerebral infarction		
+ICPC2P	-		C0375282	Occlusion and stenosis of other specified precerebral artery with cerebral infarction		
+ICPC2P	-		C0375284	Occlusion and stenosis of unspecified precerebral artery with cerebral infarction		
+ICPC2P	-		C0375286	Cerebral thrombosis with cerebral infarction		
+ICPC2P	-		C0375288	cerebral embolism with cerebral infarction		
+ICPC2P	-		C0375291	Cerebral artery occlusion, unspecified with cerebral infarction		
+ICPC2P	-		C0393953	Anterior Cerebral Circulation Infarction		
+ICPC2P	-		C0393954	Total anterior cerebral circulation infarction		
+ICPC2P	-		C0393955	Partial anterior cerebral circulation infarction		
+ICPC2P	-		C0393956	Posterior cerebral circulation infarction		
+ICPC2P	-		C0455714	Occipital cerebral infarction		
+ICPC2P	-		C0472369	Hemorrhagic cerebral infarction		
+ICPC2P	-		C0472370	Anterior cerebral circulation hemorrhagic infarction		
+ICPC2P	-		C0472371	Posterior cerebral circulation hemorrhagic infarction		
+ICPC2P	-		C0585629	Left sided cerebral infarction		
+ICPC2P	-		C0585630	Right sided cerebral infarction		
+ICPC2P	-		C1392253	Cerebral infarction due to stenosis of precerebral artery		
+ICPC2P	-		C1446220	Infarction of basal ganglia		
+ICPC2P	-		C1960659	Infarction of medulla oblongata		
+ICPC2P	-		C2349462	Persistent migraine aura without cerebral infarction, with intractable migraine, so stated, without mention of status migrainosus		
+ICPC2P	-		C2349463	Persistent migraine aura without cerebral infarction, without mention of intractable migraine with status migrainosus		
+ICPC2P	-		C2349468	Persistent migraine aura with cerebral infarction, with intractable migraine, so stated, without mention of status migrainosus		
+ICPC2P	-		C2349469	Persistent migraine aura with cerebral infarction, without mention of intractable migraine with status migrainosus		
+ICPC2P	-		C2349470	Persistent migraine aura with cerebral infarction, with intractable migraine, so stated, with status migrainosus		
+ICPC2P	-		C2584725	Family history of cerebral infarction		
+ICPC2P	-		C2875167	Persistent migraine aura with cerebral infarction, not intractable, with status migrainosus		
+ICPC2P	-		C2875168	Persistent migraine aura with cerebral infarction, not intractable, without status migrainosus		
+ICPC2P	-		C2875169	Persistent migraine aura with cerebral infarction, intractable		
+ICPC2P	-		C2875170	Persistent migraine aura with cerebral infarction, intractable, with status migrainosus		
+ICPC2P	-		C2875171	Persistent migraine aura with cerebral infarction, intractable, without status migrainosus		
+ICPC2P	-		C2882329	Cerebral infarction due to thrombosis of unspecified precerebral artery		
+ICPC2P	-		C2882330	Cerebral infarction due to thrombosis of vertebral artery		
+ICPC2P	-		C2882331	Cerebral infarction due to thrombosis of right vertebral artery		
+ICPC2P	-		C2882332	Cerebral infarction due to thrombosis of left vertebral artery		
+ICPC2P	-		C2882333	Cerebral infarction due to thrombosis of unspecified vertebral artery		
+ICPC2P	-		C2882334	Cerebral infarction due to thrombosis of basilar artery		
+ICPC2P	-		C2882335	Cerebral infarction due to thrombosis of carotid artery		
+ICPC2P	-		C2882336	Cerebral infarction due to thrombosis of right carotid artery		
+ICPC2P	-		C2882337	Cerebral infarction due to thrombosis of left carotid artery		
+ICPC2P	-		C2882338	Cerebral infarction due to thrombosis of unspecified carotid artery		
+ICPC2P	-		C2882339	Cerebral infarction due to thrombosis of other precerebral artery		
+ICPC2P	-		C2882340	Cerebral infarction due to embolism of unspecified precerebral artery		
+ICPC2P	-		C2882341	Cerebral infarction due to embolism of vertebral artery		
+ICPC2P	-		C2882342	Cerebral infarction due to embolism of right vertebral artery		
+ICPC2P	-		C2882343	Cerebral infarction due to embolism of left vertebral artery		
+ICPC2P	-		C2882344	Cerebral infarction due to embolism of unspecified vertebral artery		
+ICPC2P	-		C2882345	Cerebral infarction due to embolism of basilar artery		
+ICPC2P	-		C2882346	Cerebral infarction due to embolism of carotid artery		
+ICPC2P	-		C2882347	Cerebral infarction due to embolism of right carotid artery		
+ICPC2P	-		C2882348	Cerebral infarction due to embolism of left carotid artery		
+ICPC2P	-		C2882349	Cerebral infarction due to embolism of unspecified carotid artery		
+ICPC2P	-		C2882350	Cerebral infarction due to embolism of other precerebral artery		
+ICPC2P	-		C2882351	Cerebral infarction due to unspecified occlusion or stenosis of unspecified precerebral arteries		
+ICPC2P	-		C2882352	Cerebral infarction due to unspecified occlusion or stenosis of vertebral arteries		
+ICPC2P	-		C2882353	Cerebral infarction due to unspecified occlusion or stenosis of right vertebral artery		
+ICPC2P	-		C2882354	Cerebral infarction due to unspecified occlusion or stenosis of left vertebral artery		
+ICPC2P	-		C2882355	Cerebral infarction due to unspecified occlusion or stenosis of unspecified vertebral artery		
+ICPC2P	-		C2882356	Cerebral infarction due to unspecified occlusion or stenosis of basilar artery		
+ICPC2P	-		C2882357	Cerebral infarction due to unspecified occlusion or stenosis of carotid arteries		
+ICPC2P	-		C2882359	Cerebral infarction due to unspecified occlusion or stenosis of left carotid arteries		
+ICPC2P	-		C2882360	Cerebral infarction due to unspecified occlusion or stenosis of unspecified carotid artery		
+ICPC2P	-		C2882362	Cerebral infarction due to thrombosis of unspecified cerebral artery		
+ICPC2P	-		C2882364	Cerebral infarction due to thrombosis of right middle cerebral artery		
+ICPC2P	-		C2882365	Cerebral infarction due to thrombosis of left middle cerebral artery		
+ICPC2P	-		C2882366	Cerebral infarction due to thrombosis of unspecified middle cerebral artery		
+ICPC2P	-		C2882367	Cerebral infarction due to thrombosis of anterior cerebral artery		
+ICPC2P	-		C2882368	Cerebral infarction due to thrombosis of right anterior cerebral artery		
+ICPC2P	-		C2882369	Cerebral infarction due to thrombosis of left anterior cerebral artery		
+ICPC2P	-		C2882370	Cerebral infarction due to thrombosis of unspecified anterior cerebral artery		
+ICPC2P	-		C2882371	Cerebral infarction due to thrombosis of posterior cerebral artery		
+ICPC2P	-		C2882372	Cerebral infarction due to thrombosis of right posterior cerebral artery		
+ICPC2P	-		C2882373	Cerebral infarction due to thrombosis of left posterior cerebral artery		
+ICPC2P	-		C2882374	Cerebral infarction due to thrombosis of unspecified posterior cerebral artery		
+ICPC2P	-		C2882375	Cerebral infarction due to thrombosis of cerebellar artery		
+ICPC2P	-		C2882376	Cerebral infarction due to thrombosis of right cerebellar artery		
+ICPC2P	-		C2882377	Cerebral infarction due to thrombosis of left cerebellar artery		
+ICPC2P	-		C2882378	Cerebral infarction due to thrombosis of unspecified cerebellar artery		
+ICPC2P	-		C2882379	Cerebral infarction due to thrombosis of other cerebral artery		
+ICPC2P	-		C2882380	Cerebral infarction due to embolism of unspecified cerebral artery		
+ICPC2P	-		C2882382	Cerebral infarction due to embolism of right middle cerebral artery		
+ICPC2P	-		C2882383	Cerebral infarction due to embolism of left middle cerebral artery		
+ICPC2P	-		C2882384	Cerebral infarction due to embolism of unspecified middle cerebral artery		
+ICPC2P	-		C2882385	Cerebral infarction due to embolism of anterior cerebral artery		
+ICPC2P	-		C2882386	Cerebral infarction due to embolism of right anterior cerebral artery		
+ICPC2P	-		C2882387	Cerebral infarction due to embolism of left anterior cerebral artery		
+ICPC2P	-		C2882388	Cerebral infarction due to embolism of unspecified anterior cerebral artery		
+ICPC2P	-		C2882389	Cerebral infarction due to embolism of posterior cerebral artery		
+ICPC2P	-		C2882390	Cerebral infarction due to embolism of right posterior cerebral artery		
+ICPC2P	-		C2882391	Cerebral infarction due to embolism of left posterior cerebral artery		
+ICPC2P	-		C2882392	Cerebral infarction due to embolism of unspecified posterior cerebral artery		
+ICPC2P	-		C2882393	Cerebral infarction due to embolism of cerebellar artery		
+ICPC2P	-		C2882394	Cerebral infarction due to embolism of right cerebellar artery		
+ICPC2P	-		C2882395	Cerebral infarction due to embolism of left cerebellar artery		
+ICPC2P	-		C2882396	Cerebral infarction due to embolism of unspecified cerebellar artery		
+ICPC2P	-		C2882397	Cerebral infarction due to embolism of other cerebral artery		
+ICPC2P	-		C2882398	Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebral artery		
+ICPC2P	-		C2882399	Cerebral infarction due to unspecified occlusion or stenosis of middle cerebral artery		
+ICPC2P	-		C2882400	Cerebral infarction due to unspecified occlusion or stenosis of right middle cerebral artery		
+ICPC2P	-		C2882401	Cerebral infarction due to unspecified occlusion or stenosis of left middle cerebral artery		
+ICPC2P	-		C2882402	Cerebral infarction due to unspecified occlusion or stenosis of unspecified middle cerebral artery		
+ICPC2P	-		C2882403	Cerebral infarction due to unspecified occlusion or stenosis of anterior cerebral artery		
+ICPC2P	-		C2882404	Cerebral infarction due to unspecified occlusion or stenosis of right anterior cerebral artery		
+ICPC2P	-		C2882405	Cerebral infarction due to unspecified occlusion or stenosis of left anterior cerebral artery		
+ICPC2P	-		C2882406	Cerebral infarction due to unspecified occlusion or stenosis of unspecified anterior cerebral artery		
+ICPC2P	-		C2882407	Cerebral infarction due to unspecified occlusion or stenosis of posterior cerebral artery		
+ICPC2P	-		C2882408	Cerebral infarction due to unspecified occlusion or stenosis of right posterior cerebral artery		
+ICPC2P	-		C2882409	Cerebral infarction due to unspecified occlusion or stenosis of left posterior cerebral artery		
+ICPC2P	-		C2882410	Cerebral infarction due to unspecified occlusion or stenosis of unspecified posterior cerebral artery		
+ICPC2P	-		C2882411	Cerebral infarction due to unspecified occlusion or stenosis of cerebellar artery		
+ICPC2P	-		C2882412	Cerebral infarction due to unspecified occlusion or stenosis of right cerebellar artery		
+ICPC2P	-		C2882413	Cerebral infarction due to unspecified occlusion or stenosis of left cerebellar artery		
+ICPC2P	-		C2882414	Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebellar artery		
+ICPC2P	-		C2882415	Cerebral infarction due to unspecified occlusion or stenosis of other cerebral artery		
+ICPC2P	-		C2882566	Unspecified sequelae of cerebral infarction		
+ICPC2P	-		C2882567	Cognitive deficits following cerebral infarction		
+ICPC2P	-		C2882568	Speech and language deficits following cerebral infarction		
+ICPC2P	-		C2882569	Aphasia following cerebral infarction		
+ICPC2P	-		C2882570	Dysphasia following cerebral infarction		
+ICPC2P	-		C2882571	Dysarthria following cerebral infarction		
+ICPC2P	-		C2882572	Fluency disorder following cerebral infarction		
+ICPC2P	-		C2882573	Other speech and language deficits following cerebral infarction		
+ICPC2P	-		C2882574	Monoplegia of upper limb following cerebral infarction		
+ICPC2P	-		C2882575	Monoplegia of upper limb following cerebral infarction affecting right dominant side		
+ICPC2P	-		C2882576	Monoplegia of upper limb following cerebral infarction affecting left dominant side		
+ICPC2P	-		C2882577	Monoplegia of upper limb following cerebral infarction affecting right non-dominant side		
+ICPC2P	-		C2882578	Monoplegia of upper limb following cerebral infarction affecting left non-dominant side		
+ICPC2P	-		C2882579	Monoplegia of upper limb following cerebral infarction affecting unspecified side		
+ICPC2P	-		C2882580	Monoplegia of lower limb following cerebral infarction		
+ICPC2P	-		C2882581	Monoplegia of lower limb following cerebral infarction affecting right dominant side		
+ICPC2P	-		C2882582	Monoplegia of lower limb following cerebral infarction affecting left dominant side		
+ICPC2P	-		C2882583	Monoplegia of lower limb following cerebral infarction affecting right non-dominant side		
+ICPC2P	-		C2882584	Monoplegia of lower limb following cerebral infarction affecting left non-dominant side		
+ICPC2P	-		C2882585	Monoplegia of lower limb following cerebral infarction affecting unspecified side		
+ICPC2P	-		C2882586	Hemiplegia and hemiparesis following cerebral infarction		
+ICPC2P	-		C2882587	Hemiplegia and hemiparesis following cerebral infarction affecting right dominant side		
+ICPC2P	-		C2882588	Hemiplegia and hemiparesis following cerebral infarction affecting left dominant side		
+ICPC2P	-		C2882589	Hemiplegia and hemiparesis following cerebral infarction affecting right non-dominant side		
+ICPC2P	-		C2882590	Hemiplegia and hemiparesis following cerebral infarction affecting left non-dominant side		
+ICPC2P	-		C2882591	Hemiplegia and hemiparesis following cerebral infarction affecting unspecified side		
+ICPC2P	-		C2882592	Other paralytic syndrome following cerebral infarction		
+ICPC2P	-		C2882593	Other paralytic syndrome following cerebral infarction affecting right dominant side		
+ICPC2P	-		C2882594	Other paralytic syndrome following cerebral infarction affecting left dominant side		
+ICPC2P	-		C2882595	Other paralytic syndrome following cerebral infarction affecting right non-dominant side		
+ICPC2P	-		C2882596	Other paralytic syndrome following cerebral infarction affecting left non-dominant side		
+ICPC2P	-		C2882597	Other paralytic syndrome following cerebral infarction, bilateral		
+ICPC2P	-		C2882600	Apraxia following cerebral infarction		
+ICPC2P	-		C2882598	Other paralytic syndrome following cerebral infarction affecting unspecified side		
+ICPC2P	-		C2882601	Dysphagia following cerebral infarction		
+ICPC2P	-		C2882602	Facial droop following cerebral infarction		
+ICPC2P	-		C2882603	Facial weakness following cerebral infarction		
+ICPC2P	-		C2882604	Ataxia following cerebral infarction		
+ICPC2P	-		C2882605	Alteration of sensation following cerebral infarction		
+ICPC2P	-		C2882606	Disturbance of vision following cerebral infarction		
+ICPC2P	-		C3264012	Persistent migraine aura with cerebral infarction, with refractory migraine		
+ICPC2P	-		C3264011	Persistent migraine aura with cerebral infarction, without refractory migraine		
+ICPC2P	-		C3536611	Cerebral infarction due to occlusion of basilar artery		
+ICPC2P	-		C3662027	Cerebral infarction due to stenosis of carotid artery		
+ICPC2P	-		C3662063	Cerebral infarction due to carotid artery occlusion		
+ICPC2P	-		C3662066	Behavior disorder as sequela of cerebral infarction		
+ICPC2P	-		C3662091	Sequela of ischemic cerebral infarction		
+ICPC2P	-		C3698306	Cerebral infarction due to vertebral artery occlusion		
+ICPC2P	-		C4038830	Cerebral infarction due to vertebral artery stenosis		
+ICPC2P	-		C4040904	Cerebral infarction due to occlusion of precerebral artery		
+ICPC2P	-		C0375284	Occlusion and stenosis of unspecified precerebral artery with cerebral infarction		
+ICPC2P	-		C0375282	Occlusion and stenosis of other specified precerebral artery with cerebral infarction		
+ICPC2P	-		C0375280	occlusion and stenosis of multiple and bilateral precerebral arteries with cerebral infarction		
+ICPC2P	-		C0375278	Occlusion and stenosis of vertebral artery with cerebral infarction		
+ICPC2P	-		C0375274	Occlusion and stenosis of basilar artery with cerebral infarction		
+ICPC2P	-		C0375276	Occlusion and stenosis of carotid artery with cerebral infarction		
+ICPC2P	-		C0948008	Ischemic stroke		
+ICPC2P	-		C4302206	Perinatal arterial ischemic stroke		
+ICPC2P	-		C3648410	Ischemic stroke without residual deficits		
+ICPC2P	-		C5392097	Cryptogenic Ischemic Stroke		
+ICPC2P	-		C4510771	Cerebral ischemic stroke due to extracranial large artery atherosclerosis		
+ICPC2P	-		C4510772	Cerebral ischemic stroke due to intracranial large artery atherosclerosis		
+ICPC2P	-		C1298680	Occlusive stroke		
+ICPC2P	-		C5545767	Neonatal ischemic stroke		
+ICPC2P	-		C3662053	Ischemic stroke with coma		
+ICPC2P	-		C3662058	Ischemic stroke without coma		
+ICPC2P	-		C4510726	Cerebral ischemic stroke due to stenosis of extracranial large artery		
+ICPC2P	-		C4510727	Cerebral ischemic stroke due to occlusion of extracranial large artery		
+ICPC2P	-		C4510768	Cerebral ischemic stroke due to small artery occlusion		
+RCD2	G665.	Pure motor lacunar syndrome	C0393957	Pure motor lacunar infarction		SEARCH (lacunar syndrome)
+RCD2	G666.	Pure sensory lacunar syndrome	C0393958	Pure sensory lacunar infarction		SEARCH (lacunar syndrome)
+RCD2	Fyu56	[X]Other lacunar syndromes	C0477376	Other lacunar syndromes		SEARCH (lacunar syndrome)
+RCD2	-		C0585229	Multiple lacunar infarcts		
+RCD2	-		C0007785	Cerebral Infarction		
+RCD2	-		C0011263	Multi-infarct dementia		
+RCD2	-		C0342405	Pituitary infarction		
+RCD2	-		C0338530	Infarction of visual cortex		
+RCD2	-		C0455714	Occipital cerebral infarction		
+RCD2	-		C0393953	Anterior Cerebral Circulation Infarction		
+RCD2	-		C2711270	Infarct of cerebrum due to iatrogenic cerebrovascular accident		
+RCD2	-		C0338517	Infarction of optic chiasm		
+RCD2	-		C4302087	Silent cerebral infarct		
+RCD2	-		C0338521	Infarction of optic tract		
+RCD2	-		C0338526	Infarction of optic radiation		
+RCD2	Gyu64	[X]Other cerebral infarction	C0348636	Other cerebral infarction		SEARCH (cerebral infarction)
+RCD2	Gyu6G	[X]Cer inf,un oc/st precer art	C0348647	Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries		SEARCH (cerebral infarction)
+RCD2	Gyu63	[X]Cereb in/uns oc,stn/cereb a	C0348635	Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries		SEARCH (cerebral infarction)
+RCD2	G63y1	Cerebr infct/embol/precere art	C0451673	Cerebral infarction due to embolism of precerebral arteries		SEARCH (cerebral infarction)
+RCD2	G6400	Cerebr infct/throm/cerebrl art	C0451674	Cerebral infarction due to thrombosis of cerebral arteries		SEARCH (cerebral infarction)
+RCD2	G6410	Cerebr infct/embol/cerebrl art	C0451675	Cerebral infarction due to embolism of cerebral arteries		SEARCH (cerebral infarction)
+RCD2	G6760	Cere infct/cere vn thrm,nonpyo	C0451676	Cerebral infarction due to cerebral venous thrombosis, non-pyogenic		SEARCH (cerebral infarction)
+RCD2	G683.	Sequelae/cerebral infarction	C0451677	Sequelae of cerebral infarction		SEARCH (cerebral infarction)
+RCD2	G63y0	Cerebr infct/throm/precere art	C0494609	Cerebral infarct due to thrombosis of precerebral arteries		SEARCH (cerebral infarction)
+RCD2	G64z.	Cerebral infarction NOS	C0521542	Brain Stem Infarctions		SEARCH (cerebral infarction)
+RCD2	-		C1299567	Neonatal stroke		
+RCD2	-		C2349471	persistent migraine aura with cerebral infarction		
+RCD2	-		C2882363	Cerebral infarction due to thrombosis of middle cerebral artery		
+RCD2	-		C2882381	Cerebral infarction due to embolism of middle cerebral artery		
+RCD2	-		C2882599	Other sequelae of cerebral infarction		
+RCD2	-		C0236073	Cerebellar infarction		
+RCD2	-		C0375274	Occlusion and stenosis of basilar artery with cerebral infarction		
+RCD2	-		C0375276	Occlusion and stenosis of carotid artery with cerebral infarction		
+RCD2	-		C0375278	Occlusion and stenosis of vertebral artery with cerebral infarction		
+RCD2	-		C0375280	occlusion and stenosis of multiple and bilateral precerebral arteries with cerebral infarction		
+RCD2	-		C0375282	Occlusion and stenosis of other specified precerebral artery with cerebral infarction		
+RCD2	-		C0375284	Occlusion and stenosis of unspecified precerebral artery with cerebral infarction		
+RCD2	-		C0375286	Cerebral thrombosis with cerebral infarction		
+RCD2	-		C0375288	cerebral embolism with cerebral infarction		
+RCD2	-		C0375291	Cerebral artery occlusion, unspecified with cerebral infarction		
+RCD2	-		C0393953	Anterior Cerebral Circulation Infarction		
+RCD2	-		C0393954	Total anterior cerebral circulation infarction		
+RCD2	-		C0393955	Partial anterior cerebral circulation infarction		
+RCD2	-		C0393956	Posterior cerebral circulation infarction		
+RCD2	-		C0455714	Occipital cerebral infarction		
+RCD2	-		C0472369	Hemorrhagic cerebral infarction		
+RCD2	-		C0472370	Anterior cerebral circulation hemorrhagic infarction		
+RCD2	-		C0472371	Posterior cerebral circulation hemorrhagic infarction		
+RCD2	-		C0585629	Left sided cerebral infarction		
+RCD2	-		C0585630	Right sided cerebral infarction		
+RCD2	-		C1392253	Cerebral infarction due to stenosis of precerebral artery		
+RCD2	-		C1446220	Infarction of basal ganglia		
+RCD2	-		C1960659	Infarction of medulla oblongata		
+RCD2	-		C2349462	Persistent migraine aura without cerebral infarction, with intractable migraine, so stated, without mention of status migrainosus		
+RCD2	-		C2349463	Persistent migraine aura without cerebral infarction, without mention of intractable migraine with status migrainosus		
+RCD2	-		C2349468	Persistent migraine aura with cerebral infarction, with intractable migraine, so stated, without mention of status migrainosus		
+RCD2	-		C2349469	Persistent migraine aura with cerebral infarction, without mention of intractable migraine with status migrainosus		
+RCD2	-		C2349470	Persistent migraine aura with cerebral infarction, with intractable migraine, so stated, with status migrainosus		
+RCD2	-		C2584725	Family history of cerebral infarction		
+RCD2	-		C2875167	Persistent migraine aura with cerebral infarction, not intractable, with status migrainosus		
+RCD2	-		C2875168	Persistent migraine aura with cerebral infarction, not intractable, without status migrainosus		
+RCD2	-		C2875169	Persistent migraine aura with cerebral infarction, intractable		
+RCD2	-		C2875170	Persistent migraine aura with cerebral infarction, intractable, with status migrainosus		
+RCD2	-		C2875171	Persistent migraine aura with cerebral infarction, intractable, without status migrainosus		
+RCD2	-		C2882329	Cerebral infarction due to thrombosis of unspecified precerebral artery		
+RCD2	-		C2882330	Cerebral infarction due to thrombosis of vertebral artery		
+RCD2	-		C2882331	Cerebral infarction due to thrombosis of right vertebral artery		
+RCD2	-		C2882332	Cerebral infarction due to thrombosis of left vertebral artery		
+RCD2	-		C2882333	Cerebral infarction due to thrombosis of unspecified vertebral artery		
+RCD2	-		C2882334	Cerebral infarction due to thrombosis of basilar artery		
+RCD2	-		C2882335	Cerebral infarction due to thrombosis of carotid artery		
+RCD2	-		C2882336	Cerebral infarction due to thrombosis of right carotid artery		
+RCD2	-		C2882337	Cerebral infarction due to thrombosis of left carotid artery		
+RCD2	-		C2882338	Cerebral infarction due to thrombosis of unspecified carotid artery		
+RCD2	-		C2882339	Cerebral infarction due to thrombosis of other precerebral artery		
+RCD2	-		C2882340	Cerebral infarction due to embolism of unspecified precerebral artery		
+RCD2	-		C2882341	Cerebral infarction due to embolism of vertebral artery		
+RCD2	-		C2882342	Cerebral infarction due to embolism of right vertebral artery		
+RCD2	-		C2882343	Cerebral infarction due to embolism of left vertebral artery		
+RCD2	-		C2882344	Cerebral infarction due to embolism of unspecified vertebral artery		
+RCD2	-		C2882345	Cerebral infarction due to embolism of basilar artery		
+RCD2	-		C2882346	Cerebral infarction due to embolism of carotid artery		
+RCD2	-		C2882347	Cerebral infarction due to embolism of right carotid artery		
+RCD2	-		C2882348	Cerebral infarction due to embolism of left carotid artery		
+RCD2	-		C2882349	Cerebral infarction due to embolism of unspecified carotid artery		
+RCD2	-		C2882350	Cerebral infarction due to embolism of other precerebral artery		
+RCD2	-		C2882351	Cerebral infarction due to unspecified occlusion or stenosis of unspecified precerebral arteries		
+RCD2	-		C2882352	Cerebral infarction due to unspecified occlusion or stenosis of vertebral arteries		
+RCD2	-		C2882353	Cerebral infarction due to unspecified occlusion or stenosis of right vertebral artery		
+RCD2	-		C2882354	Cerebral infarction due to unspecified occlusion or stenosis of left vertebral artery		
+RCD2	-		C2882355	Cerebral infarction due to unspecified occlusion or stenosis of unspecified vertebral artery		
+RCD2	-		C2882356	Cerebral infarction due to unspecified occlusion or stenosis of basilar artery		
+RCD2	-		C2882357	Cerebral infarction due to unspecified occlusion or stenosis of carotid arteries		
+RCD2	-		C2882359	Cerebral infarction due to unspecified occlusion or stenosis of left carotid arteries		
+RCD2	-		C2882360	Cerebral infarction due to unspecified occlusion or stenosis of unspecified carotid artery		
+RCD2	-		C2882362	Cerebral infarction due to thrombosis of unspecified cerebral artery		
+RCD2	-		C2882364	Cerebral infarction due to thrombosis of right middle cerebral artery		
+RCD2	-		C2882365	Cerebral infarction due to thrombosis of left middle cerebral artery		
+RCD2	-		C2882366	Cerebral infarction due to thrombosis of unspecified middle cerebral artery		
+RCD2	-		C2882367	Cerebral infarction due to thrombosis of anterior cerebral artery		
+RCD2	-		C2882368	Cerebral infarction due to thrombosis of right anterior cerebral artery		
+RCD2	-		C2882369	Cerebral infarction due to thrombosis of left anterior cerebral artery		
+RCD2	-		C2882370	Cerebral infarction due to thrombosis of unspecified anterior cerebral artery		
+RCD2	-		C2882371	Cerebral infarction due to thrombosis of posterior cerebral artery		
+RCD2	-		C2882372	Cerebral infarction due to thrombosis of right posterior cerebral artery		
+RCD2	-		C2882373	Cerebral infarction due to thrombosis of left posterior cerebral artery		
+RCD2	-		C2882374	Cerebral infarction due to thrombosis of unspecified posterior cerebral artery		
+RCD2	-		C2882375	Cerebral infarction due to thrombosis of cerebellar artery		
+RCD2	-		C2882376	Cerebral infarction due to thrombosis of right cerebellar artery		
+RCD2	-		C2882377	Cerebral infarction due to thrombosis of left cerebellar artery		
+RCD2	-		C2882378	Cerebral infarction due to thrombosis of unspecified cerebellar artery		
+RCD2	-		C2882379	Cerebral infarction due to thrombosis of other cerebral artery		
+RCD2	-		C2882380	Cerebral infarction due to embolism of unspecified cerebral artery		
+RCD2	-		C2882382	Cerebral infarction due to embolism of right middle cerebral artery		
+RCD2	-		C2882383	Cerebral infarction due to embolism of left middle cerebral artery		
+RCD2	-		C2882384	Cerebral infarction due to embolism of unspecified middle cerebral artery		
+RCD2	-		C2882385	Cerebral infarction due to embolism of anterior cerebral artery		
+RCD2	-		C2882386	Cerebral infarction due to embolism of right anterior cerebral artery		
+RCD2	-		C2882387	Cerebral infarction due to embolism of left anterior cerebral artery		
+RCD2	-		C2882388	Cerebral infarction due to embolism of unspecified anterior cerebral artery		
+RCD2	-		C2882389	Cerebral infarction due to embolism of posterior cerebral artery		
+RCD2	-		C2882390	Cerebral infarction due to embolism of right posterior cerebral artery		
+RCD2	-		C2882391	Cerebral infarction due to embolism of left posterior cerebral artery		
+RCD2	-		C2882392	Cerebral infarction due to embolism of unspecified posterior cerebral artery		
+RCD2	-		C2882393	Cerebral infarction due to embolism of cerebellar artery		
+RCD2	-		C2882394	Cerebral infarction due to embolism of right cerebellar artery		
+RCD2	-		C2882395	Cerebral infarction due to embolism of left cerebellar artery		
+RCD2	-		C2882396	Cerebral infarction due to embolism of unspecified cerebellar artery		
+RCD2	-		C2882397	Cerebral infarction due to embolism of other cerebral artery		
+RCD2	-		C2882398	Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebral artery		
+RCD2	-		C2882399	Cerebral infarction due to unspecified occlusion or stenosis of middle cerebral artery		
+RCD2	-		C2882400	Cerebral infarction due to unspecified occlusion or stenosis of right middle cerebral artery		
+RCD2	-		C2882401	Cerebral infarction due to unspecified occlusion or stenosis of left middle cerebral artery		
+RCD2	-		C2882402	Cerebral infarction due to unspecified occlusion or stenosis of unspecified middle cerebral artery		
+RCD2	-		C2882403	Cerebral infarction due to unspecified occlusion or stenosis of anterior cerebral artery		
+RCD2	-		C2882404	Cerebral infarction due to unspecified occlusion or stenosis of right anterior cerebral artery		
+RCD2	-		C2882405	Cerebral infarction due to unspecified occlusion or stenosis of left anterior cerebral artery		
+RCD2	-		C2882406	Cerebral infarction due to unspecified occlusion or stenosis of unspecified anterior cerebral artery		
+RCD2	-		C2882407	Cerebral infarction due to unspecified occlusion or stenosis of posterior cerebral artery		
+RCD2	-		C2882408	Cerebral infarction due to unspecified occlusion or stenosis of right posterior cerebral artery		
+RCD2	-		C2882409	Cerebral infarction due to unspecified occlusion or stenosis of left posterior cerebral artery		
+RCD2	-		C2882410	Cerebral infarction due to unspecified occlusion or stenosis of unspecified posterior cerebral artery		
+RCD2	-		C2882411	Cerebral infarction due to unspecified occlusion or stenosis of cerebellar artery		
+RCD2	-		C2882412	Cerebral infarction due to unspecified occlusion or stenosis of right cerebellar artery		
+RCD2	-		C2882413	Cerebral infarction due to unspecified occlusion or stenosis of left cerebellar artery		
+RCD2	-		C2882414	Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebellar artery		
+RCD2	-		C2882415	Cerebral infarction due to unspecified occlusion or stenosis of other cerebral artery		
+RCD2	-		C2882566	Unspecified sequelae of cerebral infarction		
+RCD2	-		C2882567	Cognitive deficits following cerebral infarction		
+RCD2	-		C2882568	Speech and language deficits following cerebral infarction		
+RCD2	-		C2882569	Aphasia following cerebral infarction		
+RCD2	-		C2882570	Dysphasia following cerebral infarction		
+RCD2	-		C2882571	Dysarthria following cerebral infarction		
+RCD2	-		C2882572	Fluency disorder following cerebral infarction		
+RCD2	-		C2882573	Other speech and language deficits following cerebral infarction		
+RCD2	-		C2882574	Monoplegia of upper limb following cerebral infarction		
+RCD2	-		C2882575	Monoplegia of upper limb following cerebral infarction affecting right dominant side		
+RCD2	-		C2882576	Monoplegia of upper limb following cerebral infarction affecting left dominant side		
+RCD2	-		C2882577	Monoplegia of upper limb following cerebral infarction affecting right non-dominant side		
+RCD2	-		C2882578	Monoplegia of upper limb following cerebral infarction affecting left non-dominant side		
+RCD2	-		C2882579	Monoplegia of upper limb following cerebral infarction affecting unspecified side		
+RCD2	-		C2882580	Monoplegia of lower limb following cerebral infarction		
+RCD2	-		C2882581	Monoplegia of lower limb following cerebral infarction affecting right dominant side		
+RCD2	-		C2882582	Monoplegia of lower limb following cerebral infarction affecting left dominant side		
+RCD2	-		C2882583	Monoplegia of lower limb following cerebral infarction affecting right non-dominant side		
+RCD2	-		C2882584	Monoplegia of lower limb following cerebral infarction affecting left non-dominant side		
+RCD2	-		C2882585	Monoplegia of lower limb following cerebral infarction affecting unspecified side		
+RCD2	-		C2882586	Hemiplegia and hemiparesis following cerebral infarction		
+RCD2	-		C2882587	Hemiplegia and hemiparesis following cerebral infarction affecting right dominant side		
+RCD2	-		C2882588	Hemiplegia and hemiparesis following cerebral infarction affecting left dominant side		
+RCD2	-		C2882589	Hemiplegia and hemiparesis following cerebral infarction affecting right non-dominant side		
+RCD2	-		C2882590	Hemiplegia and hemiparesis following cerebral infarction affecting left non-dominant side		
+RCD2	-		C2882591	Hemiplegia and hemiparesis following cerebral infarction affecting unspecified side		
+RCD2	-		C2882592	Other paralytic syndrome following cerebral infarction		
+RCD2	-		C2882593	Other paralytic syndrome following cerebral infarction affecting right dominant side		
+RCD2	-		C2882594	Other paralytic syndrome following cerebral infarction affecting left dominant side		
+RCD2	-		C2882595	Other paralytic syndrome following cerebral infarction affecting right non-dominant side		
+RCD2	-		C2882596	Other paralytic syndrome following cerebral infarction affecting left non-dominant side		
+RCD2	-		C2882597	Other paralytic syndrome following cerebral infarction, bilateral		
+RCD2	-		C2882600	Apraxia following cerebral infarction		
+RCD2	-		C2882598	Other paralytic syndrome following cerebral infarction affecting unspecified side		
+RCD2	-		C2882601	Dysphagia following cerebral infarction		
+RCD2	-		C2882602	Facial droop following cerebral infarction		
+RCD2	-		C2882603	Facial weakness following cerebral infarction		
+RCD2	-		C2882604	Ataxia following cerebral infarction		
+RCD2	-		C2882605	Alteration of sensation following cerebral infarction		
+RCD2	-		C2882606	Disturbance of vision following cerebral infarction		
+RCD2	-		C3264012	Persistent migraine aura with cerebral infarction, with refractory migraine		
+RCD2	-		C3264011	Persistent migraine aura with cerebral infarction, without refractory migraine		
+RCD2	-		C3536611	Cerebral infarction due to occlusion of basilar artery		
+RCD2	-		C3662027	Cerebral infarction due to stenosis of carotid artery		
+RCD2	-		C3662063	Cerebral infarction due to carotid artery occlusion		
+RCD2	-		C3662066	Behavior disorder as sequela of cerebral infarction		
+RCD2	-		C3662091	Sequela of ischemic cerebral infarction		
+RCD2	-		C3698306	Cerebral infarction due to vertebral artery occlusion		
+RCD2	-		C4038830	Cerebral infarction due to vertebral artery stenosis		
+RCD2	-		C4040904	Cerebral infarction due to occlusion of precerebral artery		
+RCD2	-		C0375284	Occlusion and stenosis of unspecified precerebral artery with cerebral infarction		
+RCD2	-		C0375282	Occlusion and stenosis of other specified precerebral artery with cerebral infarction		
+RCD2	-		C0375280	occlusion and stenosis of multiple and bilateral precerebral arteries with cerebral infarction		
+RCD2	-		C0375278	Occlusion and stenosis of vertebral artery with cerebral infarction		
+RCD2	-		C0375274	Occlusion and stenosis of basilar artery with cerebral infarction		
+RCD2	-		C0375276	Occlusion and stenosis of carotid artery with cerebral infarction		
+RCD2	-		C0948008	Ischemic stroke		
+RCD2	-		C4302206	Perinatal arterial ischemic stroke		
+RCD2	-		C3648410	Ischemic stroke without residual deficits		
+RCD2	-		C5392097	Cryptogenic Ischemic Stroke		
+RCD2	-		C4510771	Cerebral ischemic stroke due to extracranial large artery atherosclerosis		
+RCD2	-		C4510772	Cerebral ischemic stroke due to intracranial large artery atherosclerosis		
+RCD2	-		C1298680	Occlusive stroke		
+RCD2	-		C5545767	Neonatal ischemic stroke		
+RCD2	-		C3662053	Ischemic stroke with coma		
+RCD2	-		C3662058	Ischemic stroke without coma		
+RCD2	-		C4510726	Cerebral ischemic stroke due to stenosis of extracranial large artery		
+RCD2	-		C4510727	Cerebral ischemic stroke due to occlusion of extracranial large artery		
+RCD2	-		C4510768	Cerebral ischemic stroke due to small artery occlusion		
+SCTSPA	230699008	infarto lacunar motor puro	C0393957	Pure motor lacunar infarction		SEARCH (lacunar syndrome)
+SCTSPA	230700009	infarto lacunar sensitivo puro	C0393958	Pure sensory lacunar infarction		SEARCH (lacunar syndrome)
+SCTSPA	194496001	[X]otros síndromes lacunares	C0477376	Other lacunar syndromes		SEARCH (lacunar syndrome)
+SCTSPA	307363008	infartos lagunares múltiples	C0585229	Multiple lacunar infarcts		SEARCH (lacunar syndrome)
+SCTSPA	698970007	infartos lacunares múltiples	C0585229	Multiple lacunar infarcts		SEARCH (lacunar syndrome)
+SCTSPA	266256009	infarto cerebral, SAI	C0007785	Cerebral Infarction		SEARCH (cerebral infarction)
+SCTSPA	432504007	infarto cerebral	C0007785	Cerebral Infarction		SEARCH (cerebral infarction)
+SCTSPA	10349009	Multi-infarct dementia with delirium				DESC (432504007)
+SCTSPA	106021000119105	Multi-infarct dementia due to atherosclerosis				DESC (432504007)
+SCTSPA	1163482004	Hemorrhagic cerebral infarction caused by Aspergillus				DESC (432504007)
+SCTSPA	125081000119106	Cerebral infarction due to occlusion of precerebral artery				DESC (432504007)
+SCTSPA	14070001	Multi-infarct dementia with depression				DESC (432504007)
+SCTSPA	14309005	Anterior choroidal artery syndrome				DESC (432504007)
+SCTSPA	149821000119103	Cerebral infarction due to carotid artery occlusion				DESC (432504007)
+SCTSPA	195185009	Cerebral infarct due to thrombosis of precerebral arteries				DESC (432504007)
+SCTSPA	195186005	Cerebral infarction due to embolism of precerebral arteries				DESC (432504007)
+SCTSPA	195189003	Cerebral infarction due to thrombosis of cerebral arteries				DESC (432504007)
+SCTSPA	195190007	Cerebral infarction due to embolism of cerebral arteries				DESC (432504007)
+SCTSPA	195230003	Cerebral infarction due to cerebral venous thrombosis, non-pyogenic				DESC (432504007)
+SCTSPA	230285003	Vascular dementia of acute onset				DESC (432504007)
+SCTSPA	230287006	Mixed cortical and subcortical vascular dementia				DESC (432504007)
+SCTSPA	230518009	Infarction of optic tract				DESC (432504007)
+SCTSPA	230523009	Infarction of optic radiation				DESC (432504007)
+SCTSPA	230692004	Infarction - precerebral				DESC (432504007)
+SCTSPA	230693009	Anterior cerebral circulation infarction				DESC (432504007)
+SCTSPA	230694003	Total anterior cerebral circulation infarction				DESC (432504007)
+SCTSPA	230695002	Partial anterior cerebral circulation infarction				DESC (432504007)
+SCTSPA	230698000	Lacunar infarction				DESC (432504007)
+SCTSPA	230701008	Pure sensorimotor lacunar infarction				DESC (432504007)
+SCTSPA	230702001	Lacunar ataxic hemiparesis				DESC (432504007)
+SCTSPA	230703006	Dysarthria-clumsy hand syndrome				DESC (432504007)
+SCTSPA	230706003	Hemorrhagic cerebral infarction				DESC (432504007)
+SCTSPA	230707007	Anterior cerebral circulation hemorrhagic infarction				DESC (432504007)
+SCTSPA	230708002	Posterior cerebral circulation hemorrhagic infarction				DESC (432504007)
+SCTSPA	237701005	Pituitary apoplexy				DESC (432504007)
+SCTSPA	25772007	Multi-infarct dementia with delusions				DESC (432504007)
+SCTSPA	276219001	Occipital cerebral infarction				DESC (432504007)
+SCTSPA	292851000119109	Lacunar ataxic hemiparesis of right dominant side				DESC (432504007)
+SCTSPA	292861000119106	Lacunar ataxic hemiparesis of left dominant side				DESC (432504007)
+SCTSPA	293671000119109	Behavioral disturbance due to multi-infarct dementia				DESC (432504007)
+SCTSPA	293811000119100	Cerebral infarction due to vertebral artery stenosis				DESC (432504007)
+SCTSPA	293831000119105	Cerebral infarction due to stenosis of precerebral artery				DESC (432504007)
+SCTSPA	302902003	Infarction of optic chiasm				DESC (432504007)
+SCTSPA	302904002	Infarction of visual cortex				DESC (432504007)
+SCTSPA	307766002	Left sided cerebral infarction				DESC (432504007)
+SCTSPA	307767006	Right sided cerebral infarction				DESC (432504007)
+SCTSPA	330411000119109	Lacunar ataxic hemiparesis of left nondominant side				DESC (432504007)
+SCTSPA	330421000119102	Lacunar ataxic hemiparesis of right nondominant side				DESC (432504007)
+SCTSPA	34181000119102	Cerebral infarction due to occlusion of basilar artery				DESC (432504007)
+SCTSPA	34191000119104	Cerebral infarction due to vertebral artery occlusion				DESC (432504007)
+SCTSPA	384993003	Periventricular hemorrhagic venous infarct				DESC (432504007)
+SCTSPA	413102000	Infarction of basal ganglia				DESC (432504007)
+SCTSPA	426107000	Acute lacunar infarction				DESC (432504007)
+SCTSPA	427296003	Thalamic infarction				DESC (432504007)
+SCTSPA	441526008	Infarct of cerebrum due to iatrogenic cerebrovascular accident				DESC (432504007)
+SCTSPA	56267009	Multi-infarct dementia				DESC (432504007)
+SCTSPA	705128004	Cerebral infarction due to embolism of middle cerebral artery				DESC (432504007)
+SCTSPA	705130002	Cerebral infarction due to thrombosis of middle cerebral artery				DESC (432504007)
+SCTSPA	70936005	Multi-infarct dementia, uncomplicated				DESC (432504007)
+SCTSPA	723082006	Silent cerebral infarct				DESC (432504007)
+SCTSPA	724993002	Cerebral ischemic stroke due to occlusion of extracranial large artery				DESC (432504007)
+SCTSPA	724994008	Cerebral ischemic stroke due to stenosis of extracranial large artery				DESC (432504007)
+SCTSPA	733199002	Multifocal cerebral infarction due to and following procedure on cardiovascular system				DESC (432504007)
+SCTSPA	95830009	Pituitary infarction				DESC (432504007)
+SCTSPA	99451000119105	Cerebral infarction due to stenosis of carotid artery				DESC (432504007)
+SCTSPA	-		C0011263	Multi-infarct dementia		
+SCTSPA	-		C0342405	Pituitary infarction		
+SCTSPA	-		C0338530	Infarction of visual cortex		
+SCTSPA	-		C0455714	Occipital cerebral infarction		
+SCTSPA	-		C0393953	Anterior Cerebral Circulation Infarction		
+SCTSPA	-		C2711270	Infarct of cerebrum due to iatrogenic cerebrovascular accident		
+SCTSPA	-		C0338517	Infarction of optic chiasm		
+SCTSPA	-		C4302087	Silent cerebral infarct		
+SCTSPA	-		C0338521	Infarction of optic tract		
+SCTSPA	-		C0338526	Infarction of optic radiation		
+SCTSPA	195600003	[X]otro infarto cerebral	C0348636	Other cerebral infarction		SEARCH (cerebral infarction)
+SCTSPA	195612004	[X]infarto cerebral debido a obstrucción o estenosis no especificada de las arterias precerebrales	C0348647	Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries		SEARCH (cerebral infarction)
+SCTSPA	195599001	[X]infarto cerebral debido a obstrucción o estenosis no especificada de arterias cerebrales	C0348635	Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries		SEARCH (cerebral infarction)
+SCTSPA	-		C0451673	Cerebral infarction due to embolism of precerebral arteries		
+SCTSPA	-		C0451674	Cerebral infarction due to thrombosis of cerebral arteries		
+SCTSPA	-		C0451675	Cerebral infarction due to embolism of cerebral arteries		
+SCTSPA	-		C0451676	Cerebral infarction due to cerebral venous thrombosis, non-pyogenic		
+SCTSPA	195243003	secuelas de infarto cerebral	C0451677	Sequelae of cerebral infarction		SEARCH (cerebral infarction)
+SCTSPA	16703821000119101	Memory deficit due to and following hemorrhagic cerebrovascular accident				DESC (195243003)
+SCTSPA	23671000119107	Sequela of ischemic cerebral infarction				DESC (195243003)
+SCTSPA	33331000119103	Sequela of lacunar stroke				DESC (195243003)
+SCTSPA	46421000119102	Behavior disorder as sequela of cerebral infarction				DESC (195243003)
+SCTSPA	672511000119101	Dysarthria due to and following hemorrhagic cerebrovascular accident				DESC (195243003)
+SCTSPA	672531000119106	Dysphasia due to and following hemorrhagic cerebrovascular accident				DESC (195243003)
+SCTSPA	672551000119100	Aphasia due to and following hemorrhagic cerebrovascular accident				DESC (195243003)
+SCTSPA	672571000119109	Cognitive deficit due to and following hemorrhagic cerebrovascular accident				DESC (195243003)
+SCTSPA	-		C0494609	Cerebral infarct due to thrombosis of precerebral arteries		
+SCTSPA	230697005	infarto del tronco encefálico, SAI	C0521542	Brain Stem Infarctions		SEARCH (cerebral infarction)
+SCTSPA	95457000	infarto de tronco encefálico	C0521542	Brain Stem Infarctions		SEARCH (cerebral infarction)
+SCTSPA	276220007	Foville syndrome				DESC (95457000)
+SCTSPA	276222004	Top of basilar syndrome				DESC (95457000)
+SCTSPA	426983002	Infarction of medulla oblongata				DESC (95457000)
+SCTSPA	87555007	Claude's syndrome				DESC (95457000)
+SCTSPA	371121002	accidente cerebrovascular neonatal	C1299567	Neonatal stroke		SEARCH (cerebral infarction)
+SCTSPA	1142056004	Neonatal ischemic stroke				DESC (371121002)
+SCTSPA	-		C2349471	persistent migraine aura with cerebral infarction		
+SCTSPA	-		C2882363	Cerebral infarction due to thrombosis of middle cerebral artery		
+SCTSPA	-		C2882381	Cerebral infarction due to embolism of middle cerebral artery		
+SCTSPA	-		C2882599	Other sequelae of cerebral infarction		
+SCTSPA	95460007	infarto cerebeloso	C0236073	Cerebellar infarction		SEARCH (cerebral infarction)
+SCTSPA	78569004	Posterior inferior cerebellar artery syndrome				DESC (95460007)
+SCTSPA	-		C0375274	Occlusion and stenosis of basilar artery with cerebral infarction		
+SCTSPA	-		C0375276	Occlusion and stenosis of carotid artery with cerebral infarction		
+SCTSPA	-		C0375278	Occlusion and stenosis of vertebral artery with cerebral infarction		
+SCTSPA	-		C0375280	occlusion and stenosis of multiple and bilateral precerebral arteries with cerebral infarction		
+SCTSPA	-		C0375282	Occlusion and stenosis of other specified precerebral artery with cerebral infarction		
+SCTSPA	-		C0375284	Occlusion and stenosis of unspecified precerebral artery with cerebral infarction		
+SCTSPA	-		C0375286	Cerebral thrombosis with cerebral infarction		
+SCTSPA	-		C0375288	cerebral embolism with cerebral infarction		
+SCTSPA	-		C0375291	Cerebral artery occlusion, unspecified with cerebral infarction		
+SCTSPA	-		C0393953	Anterior Cerebral Circulation Infarction		
+SCTSPA	-		C0393954	Total anterior cerebral circulation infarction		
+SCTSPA	-		C0393955	Partial anterior cerebral circulation infarction		
+SCTSPA	230696001	infarto de la circulación cerebral posterior	C0393956	Posterior cerebral circulation infarction		SEARCH (cerebral infarction)
+SCTSPA	-		C0455714	Occipital cerebral infarction		
+SCTSPA	-		C0472369	Hemorrhagic cerebral infarction		
+SCTSPA	-		C0472370	Anterior cerebral circulation hemorrhagic infarction		
+SCTSPA	-		C0472371	Posterior cerebral circulation hemorrhagic infarction		
+SCTSPA	-		C0585629	Left sided cerebral infarction		
+SCTSPA	-		C0585630	Right sided cerebral infarction		
+SCTSPA	-		C1392253	Cerebral infarction due to stenosis of precerebral artery		
+SCTSPA	-		C1446220	Infarction of basal ganglia		
+SCTSPA	-		C1960659	Infarction of medulla oblongata		
+SCTSPA	-		C2349462	Persistent migraine aura without cerebral infarction, with intractable migraine, so stated, without mention of status migrainosus		
+SCTSPA	-		C2349463	Persistent migraine aura without cerebral infarction, without mention of intractable migraine with status migrainosus		
+SCTSPA	-		C2349468	Persistent migraine aura with cerebral infarction, with intractable migraine, so stated, without mention of status migrainosus		
+SCTSPA	-		C2349469	Persistent migraine aura with cerebral infarction, without mention of intractable migraine with status migrainosus		
+SCTSPA	-		C2349470	Persistent migraine aura with cerebral infarction, with intractable migraine, so stated, with status migrainosus		
+SCTSPA	440697006	antecedente familiar de infarto cerebral	C2584725	Family history of cerebral infarction		SEARCH (cerebral infarction)
+SCTSPA	10624401000119102	Family history of stroke due to aneurysm				DESC (440697006)
+SCTSPA	-		C2875167	Persistent migraine aura with cerebral infarction, not intractable, with status migrainosus		
+SCTSPA	-		C2875168	Persistent migraine aura with cerebral infarction, not intractable, without status migrainosus		
+SCTSPA	-		C2875169	Persistent migraine aura with cerebral infarction, intractable		
+SCTSPA	-		C2875170	Persistent migraine aura with cerebral infarction, intractable, with status migrainosus		
+SCTSPA	-		C2875171	Persistent migraine aura with cerebral infarction, intractable, without status migrainosus		
+SCTSPA	-		C2882329	Cerebral infarction due to thrombosis of unspecified precerebral artery		
+SCTSPA	-		C2882330	Cerebral infarction due to thrombosis of vertebral artery		
+SCTSPA	-		C2882331	Cerebral infarction due to thrombosis of right vertebral artery		
+SCTSPA	-		C2882332	Cerebral infarction due to thrombosis of left vertebral artery		
+SCTSPA	-		C2882333	Cerebral infarction due to thrombosis of unspecified vertebral artery		
+SCTSPA	-		C2882334	Cerebral infarction due to thrombosis of basilar artery		
+SCTSPA	-		C2882335	Cerebral infarction due to thrombosis of carotid artery		
+SCTSPA	-		C2882336	Cerebral infarction due to thrombosis of right carotid artery		
+SCTSPA	-		C2882337	Cerebral infarction due to thrombosis of left carotid artery		
+SCTSPA	-		C2882338	Cerebral infarction due to thrombosis of unspecified carotid artery		
+SCTSPA	-		C2882339	Cerebral infarction due to thrombosis of other precerebral artery		
+SCTSPA	-		C2882340	Cerebral infarction due to embolism of unspecified precerebral artery		
+SCTSPA	-		C2882341	Cerebral infarction due to embolism of vertebral artery		
+SCTSPA	-		C2882342	Cerebral infarction due to embolism of right vertebral artery		
+SCTSPA	-		C2882343	Cerebral infarction due to embolism of left vertebral artery		
+SCTSPA	-		C2882344	Cerebral infarction due to embolism of unspecified vertebral artery		
+SCTSPA	-		C2882345	Cerebral infarction due to embolism of basilar artery		
+SCTSPA	-		C2882346	Cerebral infarction due to embolism of carotid artery		
+SCTSPA	-		C2882347	Cerebral infarction due to embolism of right carotid artery		
+SCTSPA	-		C2882348	Cerebral infarction due to embolism of left carotid artery		
+SCTSPA	-		C2882349	Cerebral infarction due to embolism of unspecified carotid artery		
+SCTSPA	-		C2882350	Cerebral infarction due to embolism of other precerebral artery		
+SCTSPA	-		C2882351	Cerebral infarction due to unspecified occlusion or stenosis of unspecified precerebral arteries		
+SCTSPA	-		C2882352	Cerebral infarction due to unspecified occlusion or stenosis of vertebral arteries		
+SCTSPA	-		C2882353	Cerebral infarction due to unspecified occlusion or stenosis of right vertebral artery		
+SCTSPA	-		C2882354	Cerebral infarction due to unspecified occlusion or stenosis of left vertebral artery		
+SCTSPA	-		C2882355	Cerebral infarction due to unspecified occlusion or stenosis of unspecified vertebral artery		
+SCTSPA	-		C2882356	Cerebral infarction due to unspecified occlusion or stenosis of basilar artery		
+SCTSPA	-		C2882357	Cerebral infarction due to unspecified occlusion or stenosis of carotid arteries		
+SCTSPA	-		C2882359	Cerebral infarction due to unspecified occlusion or stenosis of left carotid arteries		
+SCTSPA	-		C2882360	Cerebral infarction due to unspecified occlusion or stenosis of unspecified carotid artery		
+SCTSPA	-		C2882362	Cerebral infarction due to thrombosis of unspecified cerebral artery		
+SCTSPA	-		C2882364	Cerebral infarction due to thrombosis of right middle cerebral artery		
+SCTSPA	-		C2882365	Cerebral infarction due to thrombosis of left middle cerebral artery		
+SCTSPA	-		C2882366	Cerebral infarction due to thrombosis of unspecified middle cerebral artery		
+SCTSPA	-		C2882367	Cerebral infarction due to thrombosis of anterior cerebral artery		
+SCTSPA	-		C2882368	Cerebral infarction due to thrombosis of right anterior cerebral artery		
+SCTSPA	-		C2882369	Cerebral infarction due to thrombosis of left anterior cerebral artery		
+SCTSPA	-		C2882370	Cerebral infarction due to thrombosis of unspecified anterior cerebral artery		
+SCTSPA	-		C2882371	Cerebral infarction due to thrombosis of posterior cerebral artery		
+SCTSPA	-		C2882372	Cerebral infarction due to thrombosis of right posterior cerebral artery		
+SCTSPA	-		C2882373	Cerebral infarction due to thrombosis of left posterior cerebral artery		
+SCTSPA	-		C2882374	Cerebral infarction due to thrombosis of unspecified posterior cerebral artery		
+SCTSPA	-		C2882375	Cerebral infarction due to thrombosis of cerebellar artery		
+SCTSPA	-		C2882376	Cerebral infarction due to thrombosis of right cerebellar artery		
+SCTSPA	-		C2882377	Cerebral infarction due to thrombosis of left cerebellar artery		
+SCTSPA	-		C2882378	Cerebral infarction due to thrombosis of unspecified cerebellar artery		
+SCTSPA	-		C2882379	Cerebral infarction due to thrombosis of other cerebral artery		
+SCTSPA	-		C2882380	Cerebral infarction due to embolism of unspecified cerebral artery		
+SCTSPA	-		C2882382	Cerebral infarction due to embolism of right middle cerebral artery		
+SCTSPA	-		C2882383	Cerebral infarction due to embolism of left middle cerebral artery		
+SCTSPA	-		C2882384	Cerebral infarction due to embolism of unspecified middle cerebral artery		
+SCTSPA	-		C2882385	Cerebral infarction due to embolism of anterior cerebral artery		
+SCTSPA	-		C2882386	Cerebral infarction due to embolism of right anterior cerebral artery		
+SCTSPA	-		C2882387	Cerebral infarction due to embolism of left anterior cerebral artery		
+SCTSPA	-		C2882388	Cerebral infarction due to embolism of unspecified anterior cerebral artery		
+SCTSPA	-		C2882389	Cerebral infarction due to embolism of posterior cerebral artery		
+SCTSPA	-		C2882390	Cerebral infarction due to embolism of right posterior cerebral artery		
+SCTSPA	-		C2882391	Cerebral infarction due to embolism of left posterior cerebral artery		
+SCTSPA	-		C2882392	Cerebral infarction due to embolism of unspecified posterior cerebral artery		
+SCTSPA	-		C2882393	Cerebral infarction due to embolism of cerebellar artery		
+SCTSPA	-		C2882394	Cerebral infarction due to embolism of right cerebellar artery		
+SCTSPA	-		C2882395	Cerebral infarction due to embolism of left cerebellar artery		
+SCTSPA	-		C2882396	Cerebral infarction due to embolism of unspecified cerebellar artery		
+SCTSPA	-		C2882397	Cerebral infarction due to embolism of other cerebral artery		
+SCTSPA	-		C2882398	Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebral artery		
+SCTSPA	-		C2882399	Cerebral infarction due to unspecified occlusion or stenosis of middle cerebral artery		
+SCTSPA	-		C2882400	Cerebral infarction due to unspecified occlusion or stenosis of right middle cerebral artery		
+SCTSPA	-		C2882401	Cerebral infarction due to unspecified occlusion or stenosis of left middle cerebral artery		
+SCTSPA	-		C2882402	Cerebral infarction due to unspecified occlusion or stenosis of unspecified middle cerebral artery		
+SCTSPA	-		C2882403	Cerebral infarction due to unspecified occlusion or stenosis of anterior cerebral artery		
+SCTSPA	-		C2882404	Cerebral infarction due to unspecified occlusion or stenosis of right anterior cerebral artery		
+SCTSPA	-		C2882405	Cerebral infarction due to unspecified occlusion or stenosis of left anterior cerebral artery		
+SCTSPA	-		C2882406	Cerebral infarction due to unspecified occlusion or stenosis of unspecified anterior cerebral artery		
+SCTSPA	-		C2882407	Cerebral infarction due to unspecified occlusion or stenosis of posterior cerebral artery		
+SCTSPA	-		C2882408	Cerebral infarction due to unspecified occlusion or stenosis of right posterior cerebral artery		
+SCTSPA	-		C2882409	Cerebral infarction due to unspecified occlusion or stenosis of left posterior cerebral artery		
+SCTSPA	-		C2882410	Cerebral infarction due to unspecified occlusion or stenosis of unspecified posterior cerebral artery		
+SCTSPA	-		C2882411	Cerebral infarction due to unspecified occlusion or stenosis of cerebellar artery		
+SCTSPA	-		C2882412	Cerebral infarction due to unspecified occlusion or stenosis of right cerebellar artery		
+SCTSPA	-		C2882413	Cerebral infarction due to unspecified occlusion or stenosis of left cerebellar artery		
+SCTSPA	-		C2882414	Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebellar artery		
+SCTSPA	-		C2882415	Cerebral infarction due to unspecified occlusion or stenosis of other cerebral artery		
+SCTSPA	-		C2882566	Unspecified sequelae of cerebral infarction		
+SCTSPA	-		C2882567	Cognitive deficits following cerebral infarction		
+SCTSPA	-		C2882568	Speech and language deficits following cerebral infarction		
+SCTSPA	-		C2882569	Aphasia following cerebral infarction		
+SCTSPA	-		C2882570	Dysphasia following cerebral infarction		
+SCTSPA	-		C2882571	Dysarthria following cerebral infarction		
+SCTSPA	-		C2882572	Fluency disorder following cerebral infarction		
+SCTSPA	-		C2882573	Other speech and language deficits following cerebral infarction		
+SCTSPA	-		C2882574	Monoplegia of upper limb following cerebral infarction		
+SCTSPA	-		C2882575	Monoplegia of upper limb following cerebral infarction affecting right dominant side		
+SCTSPA	-		C2882576	Monoplegia of upper limb following cerebral infarction affecting left dominant side		
+SCTSPA	-		C2882577	Monoplegia of upper limb following cerebral infarction affecting right non-dominant side		
+SCTSPA	-		C2882578	Monoplegia of upper limb following cerebral infarction affecting left non-dominant side		
+SCTSPA	-		C2882579	Monoplegia of upper limb following cerebral infarction affecting unspecified side		
+SCTSPA	-		C2882580	Monoplegia of lower limb following cerebral infarction		
+SCTSPA	-		C2882581	Monoplegia of lower limb following cerebral infarction affecting right dominant side		
+SCTSPA	-		C2882582	Monoplegia of lower limb following cerebral infarction affecting left dominant side		
+SCTSPA	-		C2882583	Monoplegia of lower limb following cerebral infarction affecting right non-dominant side		
+SCTSPA	-		C2882584	Monoplegia of lower limb following cerebral infarction affecting left non-dominant side		
+SCTSPA	-		C2882585	Monoplegia of lower limb following cerebral infarction affecting unspecified side		
+SCTSPA	-		C2882586	Hemiplegia and hemiparesis following cerebral infarction		
+SCTSPA	-		C2882587	Hemiplegia and hemiparesis following cerebral infarction affecting right dominant side		
+SCTSPA	-		C2882588	Hemiplegia and hemiparesis following cerebral infarction affecting left dominant side		
+SCTSPA	-		C2882589	Hemiplegia and hemiparesis following cerebral infarction affecting right non-dominant side		
+SCTSPA	-		C2882590	Hemiplegia and hemiparesis following cerebral infarction affecting left non-dominant side		
+SCTSPA	-		C2882591	Hemiplegia and hemiparesis following cerebral infarction affecting unspecified side		
+SCTSPA	-		C2882592	Other paralytic syndrome following cerebral infarction		
+SCTSPA	-		C2882593	Other paralytic syndrome following cerebral infarction affecting right dominant side		
+SCTSPA	-		C2882594	Other paralytic syndrome following cerebral infarction affecting left dominant side		
+SCTSPA	-		C2882595	Other paralytic syndrome following cerebral infarction affecting right non-dominant side		
+SCTSPA	-		C2882596	Other paralytic syndrome following cerebral infarction affecting left non-dominant side		
+SCTSPA	-		C2882597	Other paralytic syndrome following cerebral infarction, bilateral		
+SCTSPA	-		C2882600	Apraxia following cerebral infarction		
+SCTSPA	-		C2882598	Other paralytic syndrome following cerebral infarction affecting unspecified side		
+SCTSPA	-		C2882601	Dysphagia following cerebral infarction		
+SCTSPA	-		C2882602	Facial droop following cerebral infarction		
+SCTSPA	-		C2882603	Facial weakness following cerebral infarction		
+SCTSPA	-		C2882604	Ataxia following cerebral infarction		
+SCTSPA	-		C2882605	Alteration of sensation following cerebral infarction		
+SCTSPA	-		C2882606	Disturbance of vision following cerebral infarction		
+SCTSPA	-		C3264012	Persistent migraine aura with cerebral infarction, with refractory migraine		
+SCTSPA	-		C3264011	Persistent migraine aura with cerebral infarction, without refractory migraine		
+SCTSPA	-		C3536611	Cerebral infarction due to occlusion of basilar artery		
+SCTSPA	-		C3662027	Cerebral infarction due to stenosis of carotid artery		
+SCTSPA	-		C3662063	Cerebral infarction due to carotid artery occlusion		
+SCTSPA	-		C3662066	Behavior disorder as sequela of cerebral infarction		
+SCTSPA	-		C3662091	Sequela of ischemic cerebral infarction		
+SCTSPA	-		C3698306	Cerebral infarction due to vertebral artery occlusion		
+SCTSPA	-		C4038830	Cerebral infarction due to vertebral artery stenosis		
+SCTSPA	-		C4040904	Cerebral infarction due to occlusion of precerebral artery		
+SCTSPA	-		C0375284	Occlusion and stenosis of unspecified precerebral artery with cerebral infarction		
+SCTSPA	-		C0375282	Occlusion and stenosis of other specified precerebral artery with cerebral infarction		
+SCTSPA	-		C0375280	occlusion and stenosis of multiple and bilateral precerebral arteries with cerebral infarction		
+SCTSPA	-		C0375278	Occlusion and stenosis of vertebral artery with cerebral infarction		
+SCTSPA	-		C0375274	Occlusion and stenosis of basilar artery with cerebral infarction		
+SCTSPA	-		C0375276	Occlusion and stenosis of carotid artery with cerebral infarction		
+SCTSPA	422504002	accidente cerebrovascular isquémico	C0948008	Ischemic stroke		CASEDEF
+SCTSPA	1197363004	Pediatric arterial ischemic stroke				DESC (422504002)
+SCTSPA	140911000119109	Ischemic stroke with coma				DESC (422504002)
+SCTSPA	140921000119102	Ischemic stroke without coma				DESC (422504002)
+SCTSPA	16891111000119104	Cryptogenic stroke				DESC (422504002)
+SCTSPA	373606000	Occlusive stroke				DESC (422504002)
+SCTSPA	722929005	Perinatal arterial ischemic stroke of fetus and/or neonate				DESC (422504002)
+SCTSPA	724424009	Cerebral ischemic stroke due to small artery occlusion				DESC (422504002)
+SCTSPA	724425005	Cerebral ischemic stroke due to intracranial large artery atherosclerosis				DESC (422504002)
+SCTSPA	724426006	Cerebral ischemic stroke due to extracranial large artery atherosclerosis				DESC (422504002)
+SCTSPA	725132001	Ischemic stroke without residual deficits				DESC (422504002)
+SCTSPA	-		C4302206	Perinatal arterial ischemic stroke		
+SCTSPA	-		C3648410	Ischemic stroke without residual deficits		
+SCTSPA	-		C5392097	Cryptogenic Ischemic Stroke		
+SCTSPA	-		C4510771	Cerebral ischemic stroke due to extracranial large artery atherosclerosis		
+SCTSPA	-		C4510772	Cerebral ischemic stroke due to intracranial large artery atherosclerosis		
+SCTSPA	-		C1298680	Occlusive stroke		
+SCTSPA	-		C5545767	Neonatal ischemic stroke		
+SCTSPA	-		C3662053	Ischemic stroke with coma		
+SCTSPA	-		C3662058	Ischemic stroke without coma		
+SCTSPA	-		C4510726	Cerebral ischemic stroke due to stenosis of extracranial large artery		
+SCTSPA	-		C4510727	Cerebral ischemic stroke due to occlusion of extracranial large artery		
+SCTSPA	-		C4510768	Cerebral ischemic stroke due to small artery occlusion		

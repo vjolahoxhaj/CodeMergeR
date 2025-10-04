@@ -1,0 +1,882 @@
+Coding system	Code	Code name	Concept	Concept name	Tags	Origin
+ICD10	R29.1	Meningismus	C0025287	Meningism		SEARCH (meningitis)
+ICD10	A87	Viral meningitis	C0025297	Viral meningitis		SEARCH (meningitis)
+ICD10	A87.0	Enteroviral meningitis				DESC (A87)
+ICD10	A87.1	Adenoviral meningitis				DESC (A87)
+ICD10	A87.2	Lymphocytic choriomeningitis				DESC (A87)
+ICD10	A87.8	Other viral meningitis				DESC (A87)
+ICD10	A87.9	Viral meningitis, unspecified				DESC (A87)
+ICD10	-		C0024266	Lymphocytic Choriomeningitis		
+ICD10	G03.9	Meningitis, unspecified	C0025289	Meningitis		SEARCH (meningitis)
+ICD10	G00.9	Bacterial meningitis, unspecified	C0085437	Meningitis, Bacterial		SEARCH (meningitis)
+ICD10	A17.0	Tuberculous meningitis	C0041318	Tuberculosis, Meningeal		SEARCH (meningitis)
+ICD10	B01.0	Varicella meningitis	C0700503	Herpes zoster with meningitis		SEARCH (meningitis)
+ICD10	B02.1	Zoster meningitis	C0700503	Herpes zoster with meningitis		SEARCH (meningitis)
+ICD10	A39.0	Meningococcal meningitis	C0025294	Meningococcal meningitis		SEARCH (meningitis)
+ICD10	-		C0154642	Meningitis due to other specified bacteria		
+ICD10	G03.0	Nonpyogenic meningitis	C0154651	Non-pyogenic meningitis		SEARCH (meningitis)
+ICD10	-		C0348172	Other viral meningitis		
+ICD10	B26.1	Mumps meningitis	C0153092	Mumps meningitis		SEARCH (meningitis)
+ICD10	B00.3	Herpesviral meningitis	C0153045	Herpes simplex meningitis		SEARCH (meningitis)
+ICD10	-		C0154644	Meningitis due to other organisms		
+ICD10	-		C0276430	Enterovirus meningitis		
+ICD10	G00.0	Haemophilus meningitis	C0025292	Meningitis, Haemophilus		SEARCH (meningitis)
+ICD10	G00.1	Pneumococcal meningitis	C0025295	Meningitis, Pneumococcal		SEARCH (meningitis)
+ICD10	-		C0085436	Meningitis, Cryptococcal		
+ICD10	-		C0152488	Salmonella meningitis		
+ICD10	-		C0153166	Syphilitic aseptic meningitis		
+ICD10	B37.5	Candidal meningitis	C0153256	Candidal meningitis		SEARCH (meningitis)
+ICD10	-		C0153225	Gonococcal meningitis		
+ICD10	B38.4	Coccidioidomycosis meningitis	C0153259	Coccidioidal meningitis		SEARCH (meningitis)
+ICD10	G00.2	Streptococcal meningitis	C0154639	Streptococcal meningitis		SEARCH (meningitis)
+ICD10	G00.3	Staphylococcal meningitis	C0154640	Staphylococcal meningitis		SEARCH (meningitis)
+ICD10	G03.1	Chronic meningitis	C0154653	Chronic meningitis		SEARCH (meningitis)
+ICD10	G03.2	Benign recurrent meningitis [Mollaret]	C0220979	Benign multirecurrent endothelioleukocytal meningitis		SEARCH (meningitis)
+ICD10	-		C0276160	Adenoviral meningitis (disorder)		
+ICD10	-		C0276600	HIV infection with aseptic meningitis		
+ICD10	-		C0338388	Echovirus meningitis		
+ICD10	-		C0393434	Meningitis due to Friedlander bacillus		
+ICD10	-		C1704231	Metastatic Malignant Neoplasm to the Leptomeninges		
+ICD10	-		C0025290	Aseptic Meningitis		
+ICD10	-		C0153134	Congenital syphilitic meningitis		
+ICD10	-		C0153232	Leptospiral meningitis		
+ICD10	-		C0154648	Sarcoid meningitis		
+ICD10	-		C0276431	Coxsackie meningitis		
+ICD10	-		C0276674	Meningitis caused by Histoplasma duboisii		
+ICD10	B05.1	Measles complicated by meningitis	C0348980	Measles complicated by meningitis		SEARCH (meningitis)
+ICD10	G00.8	Other bacterial meningitis	C0477333	Other bacterial meningitis		SEARCH (meningitis)
+ICD10	G03.8	Meningitis due to other specified causes	C0477337	Meningitis due to other specified causes		SEARCH (meningitis)
+ICD10	A20.3	Plague meningitis	C0524687	Meningeal Plague		SEARCH (meningitis)
+ICD10	-		C2900504	Meningitis caused by Rubella virus		
+ICD10	-		C0025293	Meningitis, Listeria		
+ICD10	-		C0029843	Other specified viral meningitis		
+ICD10	G02.1	Meningitis in mycoses	C0085438	Meningitis, Fungal		SEARCH (meningitis)
+ICD10	-		C0153263	Histoplasma capsulatum meningitis		
+ICD10	-		C0153271	Histoplasma duboisii meningitis		
+ICD10	-		C0153277	Meningitis histoplasma		
+ICD10	-		C0154641	Meningitis in other bacterial diseases classified elsewhere		
+ICD10	-		C0154652	Eosinophilic meningitis		
+ICD10	-		C0338393	Actinomycotic meningitis		
+ICD10	-		C0338395	Meningitis, Escherichia coli		
+ICD10	-		C0338399	Secondary syphilitic meningitis		
+ICD10	-		C0393437	Klebsiella meningitis		
+ICD10	-		C0419706	Administration of Meningococcus vaccine		
+ICD10	-		C0455509	H/O: meningitis		
+ICD10	G02.0	Meningitis in viral diseases classified elsewhere	C0477334	Meningitis in viral diseases classified elsewhere		SEARCH (meningitis)
+ICD10	G02.8	Meningitis in other specified infectious and parasitic diseases classified elsewhere	C0477336	Meningitis in other specified infectious and parasitic diseases classified elsewhere		SEARCH (meningitis)
+ICD10	-		C0523282	Neisseria Meningitidis antibody assay		
+ICD10	-		C0580979	Requires a meningitis vaccination		
+ICD10	-		C1273097	Meningitis C immunization declined		
+ICD10	-		C0007813	Cerebrospinal meningitis		
+ICD10	-		C0275905	Tuberculosis of cerebral meninges		
+ICD10	-		C0276028	Haemophilus influenzae meningitis		
+ICD10	-		C0338390	Post measles meningitis		
+ICD10	-		C0338392	Meningitis due to typhoid fever		
+ICD10	-		C0338397	Pseudomonas meningitis		
+ICD10	-		C0338398	Late congenital syphilitic meningitis		
+ICD10	-		C0393429	Meningitis due to pertussis		
+ICD10	-		C0393433	Meningitis due to bacillus pyocyaneus		
+ICD10	-		C0393444	Chemical meningitis		
+ICD10	-		C0577778	Aerobacter meningitis		
+ICD10	-		C0589627	Morganella morganii meningitis		
+ICD10	-		C1279229	Meningococcal meningitis with acute meningococcal septicemia		
+ICD10	-		C1279230	Meningococcal meningitis with meningococcal septicemia		
+ICD10	-		C2887054	Meningitis caused by Bacillus anthracis		
+ICD10	-		C2887055	Aseptic leptospiral meningitis		
+ICD10	-		C4305262	Administration of meningitis polysaccharide vaccine		
+ICD10	-		C0220654	Meningeal Carcinomatosis		
+ICD10	-		C0275839	Acute syphilitic meningitis		
+ICD10	-		C0361275	Meningitis vaccine		
+ICD10	-		C0339957	Meningococcal pneumonia		
+ICD10	-		C0338396	Proteus meningitis		
+ICD10	-		C0338394	Meningitis in Lyme disease		
+ICD10	-		C0338387	Coxsackie B viral meningitis		
+ICD10	-		C0338386	Coxsackie A viral meningitis		
+ICD10	-		C0277508	Chronic benign lymphocytic meningitis		
+ICD10	-		C0393436	Staphylococcus epidermidis meningitis		
+ICD10	-		C0393435	Staphylococcus aureus meningitis		
+ICD10	-		C0393439	Parasitic meningitis		
+ICD10	-		C0393440	Granulomatous meningoencephalitis		
+ICD10	-		C0393441	Chronic lymphocytic meningitis		
+ICD10	-		C0393442	Non-infective meningitis		
+ICD10	-		C0393980	Hydrocephalus due to and following meningitis		
+ICD10	-		C0456107	Neonatal meningitis		
+ICD10	A32.1	Listerial meningitis and meningoencephalitis	C0494045	Listerial meningitis and meningoencephalitis		SEARCH (meningitis)
+ICD10	G00	Bacterial meningitis, not elsewhere classified	C0494441	Bacterial meningitis, not elsewhere classified		SEARCH (meningitis)
+ICD10	G03	Meningitis due to other and unspecified causes	C0494444	Meningitis due to other and unspecified causes		SEARCH (meningitis)
+ICD10	-		C0520703	Aseptic meningitis due to drug		
+ICD10	-		C0563237	Meningitis contact		
+ICD10	G01	Meningitis in bacterial diseases classified elsewhere	C0694469	Meningitis in bacterial diseases classified elsewhere		SEARCH (meningitis)
+ICD10	G02	Meningitis in other infectious and parasitic diseases classified elsewhere	C0694470	Meningitis in other infectious and parasitic diseases classified elsewhere		SEARCH (meningitis)
+ICD10	-		C0729584	Infective meningitis		
+ICD10	-		C0854214	Meningitis due to anaerobic bacteria		
+ICD10	-		C0854215	Bacterial meningitis due to Gram-negative bacteria		
+ICD10	-		C0917807	Haemophilus influenzae Meningitis Type B		
+ICD10	-		C0948840	Meningeal Leukemia		
+ICD10	-		C1136211	Neisseria meningitidis, Serogroup A		
+ICD10	-		C1263849	Acute purulent meningitis		
+ICD10	-		C1320475	Nuchal rigidity due to meningitis		
+ICD10	-		C1321406	West Nile meningitis		
+ICD10	-		C1321407	St. Louis meningitis		
+ICD10	-		C1321411	Jamestown Canyon virus meningitis		
+ICD10	-		C1321412	California serogroup viral meningitis		
+ICD10	-		C1321413	La Crosse meningitis		
+ICD10	-		C1321414	Snowshoe hare meningitis		
+ICD10	-		C1321416	Keystone virus meningitis		
+ICD10	-		C1443847	Hemorrhagic meningitis		
+ICD10	-		C1443894	Q fever aseptic meningitis		
+ICD10	-		C1719906	Meningitis caused by Klebsiella aerogenes		
+ICD10	-		C3696960	Posttraumatic meningitis		
+ICD10	-		C3697300	Postoperative aseptic meningitis		
+ICD10	-		C3697592	Postoperative bacterial meningitis		
+ICD10	-		C3697784	Postoperative meningitis		
+ICD10	-		C3697985	Obstructive hydrocephalus due to and following meningitis		
+ICD10	-		C4039039	Meningitis caused by arbovirus infection		
+ICD10	-		C4039274	Meningitis due to infectious mononucleosis		
+ICD10	-		C4040157	Meningitis due to Cytomegaloviral Mononucleosis		
+ICD10	-		C4041356	Meningitis due to Chagas disease		
+ICD10	-		C4075878	Meningitis caused by Histoplasma capsulatum		
+ICD10	-		C4075890	Meningitis caused by Histoplasmosis		
+ICD10	-		C4302344	Non-infective meningitis due to inflammatory disorder		
+ICD10	-		C4302377	Meningitis following procedure		
+ICD10	-		C4302451	Meningitis caused by Human enterovirus 70		
+ICD10	-		C4302452	Meningitis caused by Human enterovirus 71		
+ICD10	-		C4303077	Meningitis caused by Spirochaetes		
+ICD10	G36	Other acute disseminated demyelination	C0494468	Other acute disseminated demyelination	Narrow	ADD (Other acute disseminated demyelination)
+ICD10	G36.0	Neuromyelitis optica [Devic]			Narrow	DESC (G36)
+ICD10	G36.1	Acute and subacute haemorrhagic leukoencephalitis [Hurst]			Narrow	DESC (G36)
+ICD10	G36.8	Other specified acute disseminated demyelination			Narrow	DESC (G36)
+ICD10	G36.9	Acute disseminated demyelination, unspecified			Narrow	DESC (G36)
+ICD10	-		C0014038	Encephalitis	Narrow	
+ICD10	G04	Encephalitis, myelitis and encephalomyelitis	C0014058	Encephalitis, myelitis and encephalomyelitis	Narrow	BROADER (C0014038)
+ICD10	G04.0	Acute disseminated encephalitis			Narrow	DESC (G04)
+ICD10	G04.1	Tropical spastic paraplegia			Narrow	DESC (G04)
+ICD10	G04.2	Bacterial meningoencephalitis and meningomyelitis, not elsewhere classified			Narrow	DESC (G04)
+ICD10	G04.8	Other encephalitis, myelitis and encephalomyelitis			Narrow	DESC (G04)
+ICD10	G04.9	Encephalitis, myelitis and encephalomyelitis, unspecified			Narrow	DESC (G04)
+ICD10	G93.4	Encephalopathy, unspecified	C0085584	Encephalopathies	Possible	BROADER (C0014038)
+ICD10	-		C0025309	Meningoencephalitis	Narrow	
+ICD10	-		C0014058	Encephalitis, myelitis and encephalomyelitis	Narrow	
+ICD10	-		C0014038	Encephalitis	Narrow	
+ICD10	-		C0014058	Encephalitis, myelitis and encephalomyelitis	Narrow	
+ICD10	-		C3536864	Acute disseminated encephalitis	Narrow	
+ICD10	-		C0014059	Encephalomyelitis, Acute Disseminated	Narrow	
+ICD10	-		C0014059	Encephalomyelitis, Acute Disseminated	Narrow	
+ICD10	-		C0025309	Meningoencephalitis	Narrow	
+ICD10	-		C0014070	Encephalomyelitis	Narrow	
+ICD10	-		C0393639	Hashimoto's encephalitis	Narrow	
+ICD10	-		C0497299	Meningitis/encephalitis	Possible	
+ICD10CM	R29.1	Meningismus	C0025287	Meningism		SEARCH (meningitis)
+ICD10CM	A87	Viral meningitis	C0025297	Viral meningitis		SEARCH (meningitis)
+ICD10CM	A87.0	Enteroviral meningitis				DESC (A87)
+ICD10CM	A87.1	Adenoviral meningitis				DESC (A87)
+ICD10CM	A87.2	Lymphocytic choriomeningitis				DESC (A87)
+ICD10CM	A87.8	Other viral meningitis				DESC (A87)
+ICD10CM	A87.9	Viral meningitis, unspecified				DESC (A87)
+ICD10CM	-		C0024266	Lymphocytic Choriomeningitis		
+ICD10CM	G03	meningitis NOS	C0025289	Meningitis		SEARCH (meningitis)
+ICD10CM	G03.0	Nonpyogenic meningitis				DESC (G03)
+ICD10CM	G03.1	Chronic meningitis				DESC (G03)
+ICD10CM	G03.2	Benign recurrent meningitis [Mollaret]				DESC (G03)
+ICD10CM	G03.8	Meningitis due to other specified causes				DESC (G03)
+ICD10CM	G03.9	Meningitis, unspecified				DESC (G03)
+ICD10CM	G00	bacterial meningitis	C0085437	Meningitis, Bacterial		SEARCH (meningitis)
+ICD10CM	G00.0	Hemophilus meningitis				DESC (G00)
+ICD10CM	G00.1	Pneumococcal meningitis				DESC (G00)
+ICD10CM	G00.2	Streptococcal meningitis				DESC (G00)
+ICD10CM	G00.3	Staphylococcal meningitis				DESC (G00)
+ICD10CM	G00.8	Other bacterial meningitis				DESC (G00)
+ICD10CM	G00.9	Bacterial meningitis, unspecified				DESC (G00)
+ICD10CM	A17.0	Tuberculous meningitis	C0041318	Tuberculosis, Meningeal		SEARCH (meningitis)
+ICD10CM	B01.0	Varicella meningitis	C0700503	Herpes zoster with meningitis		SEARCH (meningitis)
+ICD10CM	B02.1	Zoster meningitis	C0700503	Herpes zoster with meningitis		SEARCH (meningitis)
+ICD10CM	A39.0	Meningococcal meningitis	C0025294	Meningococcal meningitis		SEARCH (meningitis)
+ICD10CM	-		C0154642	Meningitis due to other specified bacteria		
+ICD10CM	-		C0154651	Non-pyogenic meningitis		
+ICD10CM	-		C0348172	Other viral meningitis		
+ICD10CM	B26.1	Mumps meningitis	C0153092	Mumps meningitis		SEARCH (meningitis)
+ICD10CM	B00.3	Herpesviral meningitis	C0153045	Herpes simplex meningitis		SEARCH (meningitis)
+ICD10CM	-		C0154644	Meningitis due to other organisms		
+ICD10CM	-		C0276430	Enterovirus meningitis		
+ICD10CM	-		C0025292	Meningitis, Haemophilus		
+ICD10CM	-		C0025295	Meningitis, Pneumococcal		
+ICD10CM	B45.1	Cryptococcal meningitis	C0085436	Meningitis, Cryptococcal		SEARCH (meningitis)
+ICD10CM	A02.21	Salmonella meningitis	C0152488	Salmonella meningitis		SEARCH (meningitis)
+ICD10CM	-		C0153166	Syphilitic aseptic meningitis		
+ICD10CM	B37.5	Candidal meningitis	C0153256	Candidal meningitis		SEARCH (meningitis)
+ICD10CM	A54.81	Gonococcal meningitis	C0153225	Gonococcal meningitis		SEARCH (meningitis)
+ICD10CM	B38.4	Coccidioidomycosis meningitis	C0153259	Coccidioidal meningitis		SEARCH (meningitis)
+ICD10CM	-		C0154639	Streptococcal meningitis		
+ICD10CM	-		C0154640	Staphylococcal meningitis		
+ICD10CM	-		C0154653	Chronic meningitis		
+ICD10CM	-		C0220979	Benign multirecurrent endothelioleukocytal meningitis		
+ICD10CM	-		C0276160	Adenoviral meningitis (disorder)		
+ICD10CM	-		C0276600	HIV infection with aseptic meningitis		
+ICD10CM	-		C0338388	Echovirus meningitis		
+ICD10CM	-		C0393434	Meningitis due to Friedlander bacillus		
+ICD10CM	-		C1704231	Metastatic Malignant Neoplasm to the Leptomeninges		
+ICD10CM	-		C0025290	Aseptic Meningitis		
+ICD10CM	-		C0153134	Congenital syphilitic meningitis		
+ICD10CM	-		C0153232	Leptospiral meningitis		
+ICD10CM	D86.81	Sarcoid meningitis	C0154648	Sarcoid meningitis		SEARCH (meningitis)
+ICD10CM	-		C0276431	Coxsackie meningitis		
+ICD10CM	-		C0276674	Meningitis caused by Histoplasma duboisii		
+ICD10CM	B05.1	Measles complicated by meningitis	C0348980	Measles complicated by meningitis		SEARCH (meningitis)
+ICD10CM	-		C0477333	Other bacterial meningitis		
+ICD10CM	-		C0477337	Meningitis due to other specified causes		
+ICD10CM	A20.3	Plague meningitis	C0524687	Meningeal Plague		SEARCH (meningitis)
+ICD10CM	B06.02	Rubella meningitis	C2900504	Meningitis caused by Rubella virus		SEARCH (meningitis)
+ICD10CM	-		C0025293	Meningitis, Listeria		
+ICD10CM	-		C0029843	Other specified viral meningitis		
+ICD10CM	-		C0085438	Meningitis, Fungal		
+ICD10CM	-		C0153263	Histoplasma capsulatum meningitis		
+ICD10CM	-		C0153271	Histoplasma duboisii meningitis		
+ICD10CM	-		C0153277	Meningitis histoplasma		
+ICD10CM	-		C0154641	Meningitis in other bacterial diseases classified elsewhere		
+ICD10CM	-		C0154652	Eosinophilic meningitis		
+ICD10CM	A42.81	Actinomycotic meningitis	C0338393	Actinomycotic meningitis		SEARCH (meningitis)
+ICD10CM	-		C0338395	Meningitis, Escherichia coli		
+ICD10CM	A51.41	Secondary syphilitic meningitis	C0338399	Secondary syphilitic meningitis		SEARCH (meningitis)
+ICD10CM	-		C0393437	Klebsiella meningitis		
+ICD10CM	-		C0419706	Administration of Meningococcus vaccine		
+ICD10CM	-		C0455509	H/O: meningitis		
+ICD10CM	-		C0477334	Meningitis in viral diseases classified elsewhere		
+ICD10CM	-		C0477336	Meningitis in other specified infectious and parasitic diseases classified elsewhere		
+ICD10CM	-		C0523282	Neisseria Meningitidis antibody assay		
+ICD10CM	-		C0580979	Requires a meningitis vaccination		
+ICD10CM	-		C1273097	Meningitis C immunization declined		
+ICD10CM	-		C0007813	Cerebrospinal meningitis		
+ICD10CM	-		C0275905	Tuberculosis of cerebral meninges		
+ICD10CM	-		C0276028	Haemophilus influenzae meningitis		
+ICD10CM	-		C0338390	Post measles meningitis		
+ICD10CM	-		C0338392	Meningitis due to typhoid fever		
+ICD10CM	-		C0338397	Pseudomonas meningitis		
+ICD10CM	A50.41	Late congenital syphilitic meningitis	C0338398	Late congenital syphilitic meningitis		SEARCH (meningitis)
+ICD10CM	-		C0393429	Meningitis due to pertussis		
+ICD10CM	-		C0393433	Meningitis due to bacillus pyocyaneus		
+ICD10CM	-		C0393444	Chemical meningitis		
+ICD10CM	-		C0577778	Aerobacter meningitis		
+ICD10CM	-		C0589627	Morganella morganii meningitis		
+ICD10CM	-		C1279229	Meningococcal meningitis with acute meningococcal septicemia		
+ICD10CM	-		C1279230	Meningococcal meningitis with meningococcal septicemia		
+ICD10CM	A22.8	Anthrax meningitis	C2887054	Meningitis caused by Bacillus anthracis		SEARCH (meningitis)
+ICD10CM	A27.81	Aseptic meningitis in leptospirosis	C2887055	Aseptic leptospiral meningitis		SEARCH (meningitis)
+ICD10CM	-		C4305262	Administration of meningitis polysaccharide vaccine		
+ICD10CM	-		C0220654	Meningeal Carcinomatosis		
+ICD10CM	-		C0275839	Acute syphilitic meningitis		
+ICD10CM	-		C0361275	Meningitis vaccine		
+ICD10CM	-		C0339957	Meningococcal pneumonia		
+ICD10CM	-		C0338396	Proteus meningitis		
+ICD10CM	-		C0338394	Meningitis in Lyme disease		
+ICD10CM	-		C0338387	Coxsackie B viral meningitis		
+ICD10CM	-		C0338386	Coxsackie A viral meningitis		
+ICD10CM	-		C0277508	Chronic benign lymphocytic meningitis		
+ICD10CM	-		C0393436	Staphylococcus epidermidis meningitis		
+ICD10CM	-		C0393435	Staphylococcus aureus meningitis		
+ICD10CM	-		C0393439	Parasitic meningitis		
+ICD10CM	-		C0393440	Granulomatous meningoencephalitis		
+ICD10CM	-		C0393441	Chronic lymphocytic meningitis		
+ICD10CM	-		C0393442	Non-infective meningitis		
+ICD10CM	-		C0393980	Hydrocephalus due to and following meningitis		
+ICD10CM	-		C0456107	Neonatal meningitis		
+ICD10CM	A32.1	Listerial meningitis and meningoencephalitis	C0494045	Listerial meningitis and meningoencephalitis		SEARCH (meningitis)
+ICD10CM	A32.11	Listerial meningitis				DESC (A32.1)
+ICD10CM	A32.12	Listerial meningoencephalitis				DESC (A32.1)
+ICD10CM	-		C0494441	Bacterial meningitis, not elsewhere classified		
+ICD10CM	-		C0494444	Meningitis due to other and unspecified causes		
+ICD10CM	-		C0520703	Aseptic meningitis due to drug		
+ICD10CM	-		C0563237	Meningitis contact		
+ICD10CM	G01	Meningitis in bacterial diseases classified elsewhere	C0694469	Meningitis in bacterial diseases classified elsewhere		SEARCH (meningitis)
+ICD10CM	G02	Meningitis in other infectious and parasitic diseases classified elsewhere	C0694470	Meningitis in other infectious and parasitic diseases classified elsewhere		SEARCH (meningitis)
+ICD10CM	-		C0729584	Infective meningitis		
+ICD10CM	-		C0854214	Meningitis due to anaerobic bacteria		
+ICD10CM	-		C0854215	Bacterial meningitis due to Gram-negative bacteria		
+ICD10CM	-		C0917807	Haemophilus influenzae Meningitis Type B		
+ICD10CM	-		C0948840	Meningeal Leukemia		
+ICD10CM	-		C1136211	Neisseria meningitidis, Serogroup A		
+ICD10CM	-		C1263849	Acute purulent meningitis		
+ICD10CM	-		C1320475	Nuchal rigidity due to meningitis		
+ICD10CM	-		C1321406	West Nile meningitis		
+ICD10CM	-		C1321407	St. Louis meningitis		
+ICD10CM	-		C1321411	Jamestown Canyon virus meningitis		
+ICD10CM	-		C1321412	California serogroup viral meningitis		
+ICD10CM	-		C1321413	La Crosse meningitis		
+ICD10CM	-		C1321414	Snowshoe hare meningitis		
+ICD10CM	-		C1321416	Keystone virus meningitis		
+ICD10CM	-		C1443847	Hemorrhagic meningitis		
+ICD10CM	-		C1443894	Q fever aseptic meningitis		
+ICD10CM	-		C1719906	Meningitis caused by Klebsiella aerogenes		
+ICD10CM	-		C3696960	Posttraumatic meningitis		
+ICD10CM	-		C3697300	Postoperative aseptic meningitis		
+ICD10CM	-		C3697592	Postoperative bacterial meningitis		
+ICD10CM	-		C3697784	Postoperative meningitis		
+ICD10CM	-		C3697985	Obstructive hydrocephalus due to and following meningitis		
+ICD10CM	-		C4039039	Meningitis caused by arbovirus infection		
+ICD10CM	-		C4039274	Meningitis due to infectious mononucleosis		
+ICD10CM	-		C4040157	Meningitis due to Cytomegaloviral Mononucleosis		
+ICD10CM	-		C4041356	Meningitis due to Chagas disease		
+ICD10CM	-		C4075878	Meningitis caused by Histoplasma capsulatum		
+ICD10CM	-		C4075890	Meningitis caused by Histoplasmosis		
+ICD10CM	-		C4302344	Non-infective meningitis due to inflammatory disorder		
+ICD10CM	-		C4302377	Meningitis following procedure		
+ICD10CM	-		C4302451	Meningitis caused by Human enterovirus 70		
+ICD10CM	-		C4302452	Meningitis caused by Human enterovirus 71		
+ICD10CM	-		C4303077	Meningitis caused by Spirochaetes		
+ICD10CM	G36	Other acute disseminated demyelination	C0494468	Other acute disseminated demyelination	Narrow	ADD (Other acute disseminated demyelination)
+ICD10CM	G36.0	Neuromyelitis optica [Devic]			Narrow	DESC (G36)
+ICD10CM	G36.1	Acute and subacute hemorrhagic leukoencephalitis [Hurst]			Narrow	DESC (G36)
+ICD10CM	G36.8	Other specified acute disseminated demyelination			Narrow	DESC (G36)
+ICD10CM	G36.9	Acute disseminated demyelination, unspecified			Narrow	DESC (G36)
+ICD10CM	-		C0014038	Encephalitis	Narrow	
+ICD10CM	G04	Encephalitis, myelitis and encephalomyelitis	C0014058	Encephalitis, myelitis and encephalomyelitis	Narrow	BROADER (C0014038)
+ICD10CM	G04.0	Acute disseminated encephalitis and encephalomyelitis (ADEM)			Narrow	DESC (G04)
+ICD10CM	G04.00	Acute disseminated encephalitis and encephalomyelitis, unspecified			Narrow	DESC (G04)
+ICD10CM	G04.01	Postinfectious acute disseminated encephalitis and encephalomyelitis (postinfectious ADEM)			Narrow	DESC (G04)
+ICD10CM	G04.02	Postimmunization acute disseminated encephalitis, myelitis and encephalomyelitis			Narrow	DESC (G04)
+ICD10CM	G04.1	Tropical spastic paraplegia			Narrow	DESC (G04)
+ICD10CM	G04.2	Bacterial meningoencephalitis and meningomyelitis, not elsewhere classified			Narrow	DESC (G04)
+ICD10CM	G04.3	Acute necrotizing hemorrhagic encephalopathy			Narrow	DESC (G04)
+ICD10CM	G04.30	Acute necrotizing hemorrhagic encephalopathy, unspecified			Narrow	DESC (G04)
+ICD10CM	G04.31	Postinfectious acute necrotizing hemorrhagic encephalopathy			Narrow	DESC (G04)
+ICD10CM	G04.32	Postimmunization acute necrotizing hemorrhagic encephalopathy			Narrow	DESC (G04)
+ICD10CM	G04.39	Other acute necrotizing hemorrhagic encephalopathy			Narrow	DESC (G04)
+ICD10CM	G04.8	Other encephalitis, myelitis and encephalomyelitis			Narrow	DESC (G04)
+ICD10CM	G04.81	Other encephalitis and encephalomyelitis			Narrow	DESC (G04)
+ICD10CM	G04.82	Acute flaccid myelitis			Narrow	DESC (G04)
+ICD10CM	G04.89	Other myelitis			Narrow	DESC (G04)
+ICD10CM	G04.9	Encephalitis, myelitis and encephalomyelitis, unspecified			Narrow	DESC (G04)
+ICD10CM	G04.90	Encephalitis and encephalomyelitis, unspecified			Narrow	DESC (G04)
+ICD10CM	G04.91	Myelitis, unspecified			Narrow	DESC (G04)
+ICD10CM	G93.40	Encephalopathy, unspecified	C0085584	Encephalopathies	Possible	BROADER (C0014038)
+ICD10CM	A69.22	Meningoencephalitis	C0025309	Meningoencephalitis	Narrow	CASEDEF
+ICD10CM	-		C0014058	Encephalitis, myelitis and encephalomyelitis	Narrow	
+ICD10CM	-		C0014038	Encephalitis	Narrow	
+ICD10CM	-		C0014058	Encephalitis, myelitis and encephalomyelitis	Narrow	
+ICD10CM	-		C3536864	Acute disseminated encephalitis	Narrow	
+ICD10CM	-		C0014059	Encephalomyelitis, Acute Disseminated	Narrow	
+ICD10CM	-		C0014059	Encephalomyelitis, Acute Disseminated	Narrow	
+ICD10CM	-		C0025309	Meningoencephalitis	Narrow	
+ICD10CM	-		C0014070	Encephalomyelitis	Narrow	
+ICD10CM	-		C0393639	Hashimoto's encephalitis	Narrow	
+ICD10CM	-		C0497299	Meningitis/encephalitis	Possible	
+ICD9CM	781.6	Meningismus	C0025287	Meningism		SEARCH (meningitis)
+ICD9CM	047.9	Unspecified viral meningitis	C0025297	Viral meningitis		SEARCH (meningitis)
+ICD9CM	-		C0024266	Lymphocytic Choriomeningitis		
+ICD9CM	322	Meningitis of unspecified cause	C0025289	Meningitis		SEARCH (meningitis)
+ICD9CM	322.0	Nonpyogenic meningitis				DESC (322)
+ICD9CM	322.1	Eosinophilic meningitis				DESC (322)
+ICD9CM	322.2	Chronic meningitis				DESC (322)
+ICD9CM	322.9	Meningitis, unspecified				DESC (322)
+ICD9CM	320	Bacterial meningitis	C0085437	Meningitis, Bacterial		SEARCH (meningitis)
+ICD9CM	320.0	Hemophilus meningitis				DESC (320)
+ICD9CM	320.1	Pneumococcal meningitis				DESC (320)
+ICD9CM	320.2	Streptococcal meningitis				DESC (320)
+ICD9CM	320.3	Staphylococcal meningitis				DESC (320)
+ICD9CM	320.7	Meningitis in other bacterial diseases classified elsewhere				DESC (320)
+ICD9CM	320.8	Meningitis due to other specified bacteria				DESC (320)
+ICD9CM	320.81	Anaerobic meningitis				DESC (320)
+ICD9CM	320.82	Meningitis due to gram-negative bacteria, not elsewhere classified				DESC (320)
+ICD9CM	320.89	Meningitis due to other specified bacteria				DESC (320)
+ICD9CM	320.9	Meningitis due to unspecified bacterium				DESC (320)
+ICD9CM	013.0	Tuberculous meningitis	C0041318	Tuberculosis, Meningeal		SEARCH (meningitis)
+ICD9CM	013.00	Tuberculous meningitis, unspecified				DESC (013.0)
+ICD9CM	013.01	Tuberculous meningitis, bacteriological or histological examination not done				DESC (013.0)
+ICD9CM	013.02	Tuberculous meningitis, bacteriological or histological examination unknown (at present)				DESC (013.0)
+ICD9CM	013.03	Tuberculous meningitis, tubercle bacilli found (in sputum) by microscopy				DESC (013.0)
+ICD9CM	013.04	Tuberculous meningitis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture				DESC (013.0)
+ICD9CM	013.05	Tuberculous meningitis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically				DESC (013.0)
+ICD9CM	013.06	Tuberculous meningitis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]				DESC (013.0)
+ICD9CM	053.0	Herpes zoster with meningitis	C0700503	Herpes zoster with meningitis		SEARCH (meningitis)
+ICD9CM	036.0	Meningococcal meningitis	C0025294	Meningococcal meningitis		SEARCH (meningitis)
+ICD9CM	-		C0154642	Meningitis due to other specified bacteria		
+ICD9CM	-		C0154651	Non-pyogenic meningitis		
+ICD9CM	-		C0348172	Other viral meningitis		
+ICD9CM	072.1	Mumps meningitis	C0153092	Mumps meningitis		SEARCH (meningitis)
+ICD9CM	054.72	Herpes simplex meningitis	C0153045	Herpes simplex meningitis		SEARCH (meningitis)
+ICD9CM	321	Meningitis due to other organisms	C0154644	Meningitis due to other organisms		SEARCH (meningitis)
+ICD9CM	321.0	Cryptococcal meningitis				DESC (321)
+ICD9CM	321.1	Meningitis in other fungal diseases				DESC (321)
+ICD9CM	321.2	Meningitis due to viruses not elsewhere classified				DESC (321)
+ICD9CM	321.3	Meningitis due to trypanosomiasis				DESC (321)
+ICD9CM	321.4	Meningitis in sarcoidosis				DESC (321)
+ICD9CM	321.8	Meningitis due to other nonbacterial organisms classified elsewhere				DESC (321)
+ICD9CM	047	Meningitis due to enterovirus	C0276430	Enterovirus meningitis		SEARCH (meningitis)
+ICD9CM	047.0	Meningitis due to coxsackie virus				DESC (047)
+ICD9CM	047.1	Meningitis due to echo virus				DESC (047)
+ICD9CM	047.8	Other specified viral meningitis				DESC (047)
+ICD9CM	-		C0025292	Meningitis, Haemophilus		
+ICD9CM	-		C0025295	Meningitis, Pneumococcal		
+ICD9CM	-		C0085436	Meningitis, Cryptococcal		
+ICD9CM	003.21	Salmonella meningitis	C0152488	Salmonella meningitis		SEARCH (meningitis)
+ICD9CM	094.2	Syphilitic meningitis	C0153166	Syphilitic aseptic meningitis		SEARCH (meningitis)
+ICD9CM	112.83	Candidal meningitis	C0153256	Candidal meningitis		SEARCH (meningitis)
+ICD9CM	098.82	Gonococcal meningitis	C0153225	Gonococcal meningitis		SEARCH (meningitis)
+ICD9CM	114.2	Coccidioidal meningitis	C0153259	Coccidioidal meningitis		SEARCH (meningitis)
+ICD9CM	-		C0154639	Streptococcal meningitis		
+ICD9CM	-		C0154640	Staphylococcal meningitis		
+ICD9CM	-		C0154653	Chronic meningitis		
+ICD9CM	-		C0220979	Benign multirecurrent endothelioleukocytal meningitis		
+ICD9CM	-		C0276160	Adenoviral meningitis (disorder)		
+ICD9CM	-		C0276600	HIV infection with aseptic meningitis		
+ICD9CM	-		C0338388	Echovirus meningitis		
+ICD9CM	-		C0393434	Meningitis due to Friedlander bacillus		
+ICD9CM	-		C1704231	Metastatic Malignant Neoplasm to the Leptomeninges		
+ICD9CM	-		C0025290	Aseptic Meningitis		
+ICD9CM	090.42	Congenital syphilitic meningitis	C0153134	Congenital syphilitic meningitis		SEARCH (meningitis)
+ICD9CM	100.81	Leptospiral meningitis (aseptic)	C0153232	Leptospiral meningitis		SEARCH (meningitis)
+ICD9CM	-		C0154648	Sarcoid meningitis		
+ICD9CM	-		C0276431	Coxsackie meningitis		
+ICD9CM	-		C0276674	Meningitis caused by Histoplasma duboisii		
+ICD9CM	-		C0348980	Measles complicated by meningitis		
+ICD9CM	-		C0477333	Other bacterial meningitis		
+ICD9CM	-		C0477337	Meningitis due to other specified causes		
+ICD9CM	-		C0524687	Meningeal Plague		
+ICD9CM	-		C2900504	Meningitis caused by Rubella virus		
+ICD9CM	-		C0025293	Meningitis, Listeria		
+ICD9CM	-		C0029843	Other specified viral meningitis		
+ICD9CM	-		C0085438	Meningitis, Fungal		
+ICD9CM	115.01	Infection by Histoplasma capsulatum, meningitis	C0153263	Histoplasma capsulatum meningitis		SEARCH (meningitis)
+ICD9CM	115.11	Infection by Histoplasma duboisii, meningitis	C0153271	Histoplasma duboisii meningitis		SEARCH (meningitis)
+ICD9CM	115.91	Histoplasmosis, unspecified, meningitis	C0153277	Meningitis histoplasma		SEARCH (meningitis)
+ICD9CM	-		C0154641	Meningitis in other bacterial diseases classified elsewhere		
+ICD9CM	-		C0154652	Eosinophilic meningitis		
+ICD9CM	-		C0338393	Actinomycotic meningitis		
+ICD9CM	-		C0338395	Meningitis, Escherichia coli		
+ICD9CM	-		C0338399	Secondary syphilitic meningitis		
+ICD9CM	-		C0393437	Klebsiella meningitis		
+ICD9CM	-		C0419706	Administration of Meningococcus vaccine		
+ICD9CM	-		C0455509	H/O: meningitis		
+ICD9CM	-		C0477334	Meningitis in viral diseases classified elsewhere		
+ICD9CM	-		C0477336	Meningitis in other specified infectious and parasitic diseases classified elsewhere		
+ICD9CM	-		C0523282	Neisseria Meningitidis antibody assay		
+ICD9CM	-		C0580979	Requires a meningitis vaccination		
+ICD9CM	-		C1273097	Meningitis C immunization declined		
+ICD9CM	-		C0007813	Cerebrospinal meningitis		
+ICD9CM	-		C0275905	Tuberculosis of cerebral meninges		
+ICD9CM	-		C0276028	Haemophilus influenzae meningitis		
+ICD9CM	-		C0338390	Post measles meningitis		
+ICD9CM	-		C0338392	Meningitis due to typhoid fever		
+ICD9CM	-		C0338397	Pseudomonas meningitis		
+ICD9CM	-		C0338398	Late congenital syphilitic meningitis		
+ICD9CM	-		C0393429	Meningitis due to pertussis		
+ICD9CM	-		C0393433	Meningitis due to bacillus pyocyaneus		
+ICD9CM	-		C0393444	Chemical meningitis		
+ICD9CM	-		C0577778	Aerobacter meningitis		
+ICD9CM	-		C0589627	Morganella morganii meningitis		
+ICD9CM	-		C1279229	Meningococcal meningitis with acute meningococcal septicemia		
+ICD9CM	-		C1279230	Meningococcal meningitis with meningococcal septicemia		
+ICD9CM	-		C2887054	Meningitis caused by Bacillus anthracis		
+ICD9CM	-		C2887055	Aseptic leptospiral meningitis		
+ICD9CM	-		C4305262	Administration of meningitis polysaccharide vaccine		
+ICD9CM	-		C0220654	Meningeal Carcinomatosis		
+ICD9CM	-		C0275839	Acute syphilitic meningitis		
+ICD9CM	-		C0361275	Meningitis vaccine		
+ICD9CM	-		C0339957	Meningococcal pneumonia		
+ICD9CM	-		C0338396	Proteus meningitis		
+ICD9CM	-		C0338394	Meningitis in Lyme disease		
+ICD9CM	-		C0338387	Coxsackie B viral meningitis		
+ICD9CM	-		C0338386	Coxsackie A viral meningitis		
+ICD9CM	-		C0277508	Chronic benign lymphocytic meningitis		
+ICD9CM	-		C0393436	Staphylococcus epidermidis meningitis		
+ICD9CM	-		C0393435	Staphylococcus aureus meningitis		
+ICD9CM	-		C0393439	Parasitic meningitis		
+ICD9CM	-		C0393440	Granulomatous meningoencephalitis		
+ICD9CM	-		C0393441	Chronic lymphocytic meningitis		
+ICD9CM	-		C0393442	Non-infective meningitis		
+ICD9CM	-		C0393980	Hydrocephalus due to and following meningitis		
+ICD9CM	-		C0456107	Neonatal meningitis		
+ICD9CM	-		C0494045	Listerial meningitis and meningoencephalitis		
+ICD9CM	-		C0494441	Bacterial meningitis, not elsewhere classified		
+ICD9CM	-		C0494444	Meningitis due to other and unspecified causes		
+ICD9CM	-		C0520703	Aseptic meningitis due to drug		
+ICD9CM	-		C0563237	Meningitis contact		
+ICD9CM	-		C0694469	Meningitis in bacterial diseases classified elsewhere		
+ICD9CM	-		C0694470	Meningitis in other infectious and parasitic diseases classified elsewhere		
+ICD9CM	-		C0729584	Infective meningitis		
+ICD9CM	-		C0854214	Meningitis due to anaerobic bacteria		
+ICD9CM	-		C0854215	Bacterial meningitis due to Gram-negative bacteria		
+ICD9CM	-		C0917807	Haemophilus influenzae Meningitis Type B		
+ICD9CM	-		C0948840	Meningeal Leukemia		
+ICD9CM	-		C1136211	Neisseria meningitidis, Serogroup A		
+ICD9CM	-		C1263849	Acute purulent meningitis		
+ICD9CM	-		C1320475	Nuchal rigidity due to meningitis		
+ICD9CM	-		C1321406	West Nile meningitis		
+ICD9CM	-		C1321407	St. Louis meningitis		
+ICD9CM	-		C1321411	Jamestown Canyon virus meningitis		
+ICD9CM	-		C1321412	California serogroup viral meningitis		
+ICD9CM	-		C1321413	La Crosse meningitis		
+ICD9CM	-		C1321414	Snowshoe hare meningitis		
+ICD9CM	-		C1321416	Keystone virus meningitis		
+ICD9CM	-		C1443847	Hemorrhagic meningitis		
+ICD9CM	-		C1443894	Q fever aseptic meningitis		
+ICD9CM	-		C1719906	Meningitis caused by Klebsiella aerogenes		
+ICD9CM	-		C3696960	Posttraumatic meningitis		
+ICD9CM	-		C3697300	Postoperative aseptic meningitis		
+ICD9CM	-		C3697592	Postoperative bacterial meningitis		
+ICD9CM	-		C3697784	Postoperative meningitis		
+ICD9CM	-		C3697985	Obstructive hydrocephalus due to and following meningitis		
+ICD9CM	-		C4039039	Meningitis caused by arbovirus infection		
+ICD9CM	-		C4039274	Meningitis due to infectious mononucleosis		
+ICD9CM	-		C4040157	Meningitis due to Cytomegaloviral Mononucleosis		
+ICD9CM	-		C4041356	Meningitis due to Chagas disease		
+ICD9CM	-		C4075878	Meningitis caused by Histoplasma capsulatum		
+ICD9CM	-		C4075890	Meningitis caused by Histoplasmosis		
+ICD9CM	-		C4302344	Non-infective meningitis due to inflammatory disorder		
+ICD9CM	-		C4302377	Meningitis following procedure		
+ICD9CM	-		C4302451	Meningitis caused by Human enterovirus 70		
+ICD9CM	-		C4302452	Meningitis caused by Human enterovirus 71		
+ICD9CM	-		C4303077	Meningitis caused by Spirochaetes		
+ICD9CM	-		C0494468	Other acute disseminated demyelination	Narrow	
+ICD9CM	-		C0014038	Encephalitis	Narrow	
+ICD9CM	323	Encephalitis, myelitis, and encephalomyelitis	C0014058	Encephalitis, myelitis and encephalomyelitis	Narrow	BROADER (C0014038)
+ICD9CM	323.0	Encephalitis, myelitis, and encephalomyelitis in viral diseases classified elsewhere			Narrow	DESC (323)
+ICD9CM	323.01	Encephalitis and encephalomyelitis in viral diseases classified elsewhere			Narrow	DESC (323)
+ICD9CM	323.02	Myelitis in viral diseases classified elsewhere			Narrow	DESC (323)
+ICD9CM	323.1	Encephalitis, myelitis, and encephalomyelitis in rickettsial diseases classified elsewhere			Narrow	DESC (323)
+ICD9CM	323.2	Encephalitis, myelitis, and encephalomyelitis in protozoal diseases classified elsewhere			Narrow	DESC (323)
+ICD9CM	323.4	Other encephalitis, myelitis, and encephalomyelitis due to other infections classified elsewhere			Narrow	DESC (323)
+ICD9CM	323.41	Other encephalitis and encephalomyelitis due to other infections classified elsewhere			Narrow	DESC (323)
+ICD9CM	323.42	Other myelitis due to other infections classified elsewhere			Narrow	DESC (323)
+ICD9CM	323.5	Encephalitis, myelitis, and encephalomyelitis following immunization procedures			Narrow	DESC (323)
+ICD9CM	323.51	Encephalitis and encephalomyelitis following immunization procedures			Narrow	DESC (323)
+ICD9CM	323.52	Myelitis following immunization procedures			Narrow	DESC (323)
+ICD9CM	323.6	Postinfectious encephalitis, myelitis, and encephalomyelitis			Narrow	DESC (323)
+ICD9CM	323.61	Infectious acute disseminated encephalomyelitis (ADEM)			Narrow	DESC (323)
+ICD9CM	323.62	Other postinfectious encephalitis and encephalomyelitis			Narrow	DESC (323)
+ICD9CM	323.63	Postinfectious myelitis			Narrow	DESC (323)
+ICD9CM	323.7	Toxic encephalitis, myelitis, and encephalomyelitis			Narrow	DESC (323)
+ICD9CM	323.71	Toxic encephalitis and encephalomyelitis			Narrow	DESC (323)
+ICD9CM	323.72	Toxic myelitis			Narrow	DESC (323)
+ICD9CM	323.8	Other causes of encephalitis, myelitis, and encephalomyelitis			Narrow	DESC (323)
+ICD9CM	323.81	Other causes of encephalitis and encephalomyelitis			Narrow	DESC (323)
+ICD9CM	323.82	Other causes of myelitis			Narrow	DESC (323)
+ICD9CM	323.9	Unspecified causes of encephalitis, myelitis, and encephalomyelitis			Narrow	DESC (323)
+ICD9CM	348.3	Encephalopathy, not elsewhere classified	C0085584	Encephalopathies	Possible	BROADER (C0014038)
+ICD9CM	348.30	Encephalopathy, unspecified			Possible	DESC (348.3)
+ICD9CM	348.31	Metabolic encephalopathy			Possible	DESC (348.3)
+ICD9CM	348.39	Other encephalopathy			Possible	DESC (348.3)
+ICD9CM	-		C0025309	Meningoencephalitis	Narrow	
+ICD9CM	-		C0014058	Encephalitis, myelitis and encephalomyelitis	Narrow	
+ICD9CM	-		C0014038	Encephalitis	Narrow	
+ICD9CM	-		C0014058	Encephalitis, myelitis and encephalomyelitis	Narrow	
+ICD9CM	-		C3536864	Acute disseminated encephalitis	Narrow	
+ICD9CM	-		C0014059	Encephalomyelitis, Acute Disseminated	Narrow	
+ICD9CM	-		C0014059	Encephalomyelitis, Acute Disseminated	Narrow	
+ICD9CM	-		C0025309	Meningoencephalitis	Narrow	
+ICD9CM	-		C0014070	Encephalomyelitis	Narrow	
+ICD9CM	-		C0393639	Hashimoto's encephalitis	Narrow	
+ICD9CM	-		C0497299	Meningitis/encephalitis	Possible	
+ICPC	-		C0025287	Meningism		
+ICPC	-		C0025297	Viral meningitis		
+ICPC	-		C0024266	Lymphocytic Choriomeningitis		
+ICPC	-		C0025289	Meningitis		
+ICPC	-		C0085437	Meningitis, Bacterial		
+ICPC	-		C0041318	Tuberculosis, Meningeal		
+ICPC	-		C0700503	Herpes zoster with meningitis		
+ICPC	-		C0025294	Meningococcal meningitis		
+ICPC	-		C0154642	Meningitis due to other specified bacteria		
+ICPC	-		C0154651	Non-pyogenic meningitis		
+ICPC	-		C0348172	Other viral meningitis		
+ICPC	-		C0153092	Mumps meningitis		
+ICPC	-		C0153045	Herpes simplex meningitis		
+ICPC	-		C0154644	Meningitis due to other organisms		
+ICPC	-		C0276430	Enterovirus meningitis		
+ICPC	-		C0025292	Meningitis, Haemophilus		
+ICPC	-		C0025295	Meningitis, Pneumococcal		
+ICPC	-		C0085436	Meningitis, Cryptococcal		
+ICPC	-		C0152488	Salmonella meningitis		
+ICPC	-		C0153166	Syphilitic aseptic meningitis		
+ICPC	-		C0153256	Candidal meningitis		
+ICPC	-		C0153225	Gonococcal meningitis		
+ICPC	-		C0153259	Coccidioidal meningitis		
+ICPC	-		C0154639	Streptococcal meningitis		
+ICPC	-		C0154640	Staphylococcal meningitis		
+ICPC	-		C0154653	Chronic meningitis		
+ICPC	-		C0220979	Benign multirecurrent endothelioleukocytal meningitis		
+ICPC	-		C0276160	Adenoviral meningitis (disorder)		
+ICPC	-		C0276600	HIV infection with aseptic meningitis		
+ICPC	-		C0338388	Echovirus meningitis		
+ICPC	-		C0393434	Meningitis due to Friedlander bacillus		
+ICPC	-		C1704231	Metastatic Malignant Neoplasm to the Leptomeninges		
+ICPC	-		C0025290	Aseptic Meningitis		
+ICPC	-		C0153134	Congenital syphilitic meningitis		
+ICPC	-		C0153232	Leptospiral meningitis		
+ICPC	-		C0154648	Sarcoid meningitis		
+ICPC	-		C0276431	Coxsackie meningitis		
+ICPC	-		C0276674	Meningitis caused by Histoplasma duboisii		
+ICPC	-		C0348980	Measles complicated by meningitis		
+ICPC	-		C0477333	Other bacterial meningitis		
+ICPC	-		C0477337	Meningitis due to other specified causes		
+ICPC	-		C0524687	Meningeal Plague		
+ICPC	-		C2900504	Meningitis caused by Rubella virus		
+ICPC	-		C0025293	Meningitis, Listeria		
+ICPC	-		C0029843	Other specified viral meningitis		
+ICPC	-		C0085438	Meningitis, Fungal		
+ICPC	-		C0153263	Histoplasma capsulatum meningitis		
+ICPC	-		C0153271	Histoplasma duboisii meningitis		
+ICPC	-		C0153277	Meningitis histoplasma		
+ICPC	-		C0154641	Meningitis in other bacterial diseases classified elsewhere		
+ICPC	-		C0154652	Eosinophilic meningitis		
+ICPC	-		C0338393	Actinomycotic meningitis		
+ICPC	-		C0338395	Meningitis, Escherichia coli		
+ICPC	-		C0338399	Secondary syphilitic meningitis		
+ICPC	-		C0393437	Klebsiella meningitis		
+ICPC	-		C0419706	Administration of Meningococcus vaccine		
+ICPC	-		C0455509	H/O: meningitis		
+ICPC	-		C0477334	Meningitis in viral diseases classified elsewhere		
+ICPC	-		C0477336	Meningitis in other specified infectious and parasitic diseases classified elsewhere		
+ICPC	-		C0523282	Neisseria Meningitidis antibody assay		
+ICPC	-		C0580979	Requires a meningitis vaccination		
+ICPC	-		C1273097	Meningitis C immunization declined		
+ICPC	-		C0007813	Cerebrospinal meningitis		
+ICPC	-		C0275905	Tuberculosis of cerebral meninges		
+ICPC	-		C0276028	Haemophilus influenzae meningitis		
+ICPC	-		C0338390	Post measles meningitis		
+ICPC	-		C0338392	Meningitis due to typhoid fever		
+ICPC	-		C0338397	Pseudomonas meningitis		
+ICPC	-		C0338398	Late congenital syphilitic meningitis		
+ICPC	-		C0393429	Meningitis due to pertussis		
+ICPC	-		C0393433	Meningitis due to bacillus pyocyaneus		
+ICPC	-		C0393444	Chemical meningitis		
+ICPC	-		C0577778	Aerobacter meningitis		
+ICPC	-		C0589627	Morganella morganii meningitis		
+ICPC	-		C1279229	Meningococcal meningitis with acute meningococcal septicemia		
+ICPC	-		C1279230	Meningococcal meningitis with meningococcal septicemia		
+ICPC	-		C2887054	Meningitis caused by Bacillus anthracis		
+ICPC	-		C2887055	Aseptic leptospiral meningitis		
+ICPC	-		C4305262	Administration of meningitis polysaccharide vaccine		
+ICPC	-		C0220654	Meningeal Carcinomatosis		
+ICPC	-		C0275839	Acute syphilitic meningitis		
+ICPC	-		C0361275	Meningitis vaccine		
+ICPC	-		C0339957	Meningococcal pneumonia		
+ICPC	-		C0338396	Proteus meningitis		
+ICPC	-		C0338394	Meningitis in Lyme disease		
+ICPC	-		C0338387	Coxsackie B viral meningitis		
+ICPC	-		C0338386	Coxsackie A viral meningitis		
+ICPC	-		C0277508	Chronic benign lymphocytic meningitis		
+ICPC	-		C0393436	Staphylococcus epidermidis meningitis		
+ICPC	-		C0393435	Staphylococcus aureus meningitis		
+ICPC	-		C0393439	Parasitic meningitis		
+ICPC	-		C0393440	Granulomatous meningoencephalitis		
+ICPC	-		C0393441	Chronic lymphocytic meningitis		
+ICPC	-		C0393442	Non-infective meningitis		
+ICPC	-		C0393980	Hydrocephalus due to and following meningitis		
+ICPC	-		C0456107	Neonatal meningitis		
+ICPC	-		C0494045	Listerial meningitis and meningoencephalitis		
+ICPC	-		C0494441	Bacterial meningitis, not elsewhere classified		
+ICPC	-		C0494444	Meningitis due to other and unspecified causes		
+ICPC	-		C0520703	Aseptic meningitis due to drug		
+ICPC	-		C0563237	Meningitis contact		
+ICPC	-		C0694469	Meningitis in bacterial diseases classified elsewhere		
+ICPC	-		C0694470	Meningitis in other infectious and parasitic diseases classified elsewhere		
+ICPC	-		C0729584	Infective meningitis		
+ICPC	-		C0854214	Meningitis due to anaerobic bacteria		
+ICPC	-		C0854215	Bacterial meningitis due to Gram-negative bacteria		
+ICPC	-		C0917807	Haemophilus influenzae Meningitis Type B		
+ICPC	-		C0948840	Meningeal Leukemia		
+ICPC	-		C1136211	Neisseria meningitidis, Serogroup A		
+ICPC	-		C1263849	Acute purulent meningitis		
+ICPC	-		C1320475	Nuchal rigidity due to meningitis		
+ICPC	-		C1321406	West Nile meningitis		
+ICPC	-		C1321407	St. Louis meningitis		
+ICPC	-		C1321411	Jamestown Canyon virus meningitis		
+ICPC	-		C1321412	California serogroup viral meningitis		
+ICPC	-		C1321413	La Crosse meningitis		
+ICPC	-		C1321414	Snowshoe hare meningitis		
+ICPC	-		C1321416	Keystone virus meningitis		
+ICPC	-		C1443847	Hemorrhagic meningitis		
+ICPC	-		C1443894	Q fever aseptic meningitis		
+ICPC	-		C1719906	Meningitis caused by Klebsiella aerogenes		
+ICPC	-		C3696960	Posttraumatic meningitis		
+ICPC	-		C3697300	Postoperative aseptic meningitis		
+ICPC	-		C3697592	Postoperative bacterial meningitis		
+ICPC	-		C3697784	Postoperative meningitis		
+ICPC	-		C3697985	Obstructive hydrocephalus due to and following meningitis		
+ICPC	-		C4039039	Meningitis caused by arbovirus infection		
+ICPC	-		C4039274	Meningitis due to infectious mononucleosis		
+ICPC	-		C4040157	Meningitis due to Cytomegaloviral Mononucleosis		
+ICPC	-		C4041356	Meningitis due to Chagas disease		
+ICPC	-		C4075878	Meningitis caused by Histoplasma capsulatum		
+ICPC	-		C4075890	Meningitis caused by Histoplasmosis		
+ICPC	-		C4302344	Non-infective meningitis due to inflammatory disorder		
+ICPC	-		C4302377	Meningitis following procedure		
+ICPC	-		C4302451	Meningitis caused by Human enterovirus 70		
+ICPC	-		C4302452	Meningitis caused by Human enterovirus 71		
+ICPC	-		C4303077	Meningitis caused by Spirochaetes		
+ICPC	-		C0494468	Other acute disseminated demyelination	Narrow	
+ICPC	-		C0014038	Encephalitis	Narrow	
+ICPC	-		C0014058	Encephalitis, myelitis and encephalomyelitis	Narrow	
+ICPC	-		C0085584	Encephalopathies	Possible	
+ICPC	-		C0025309	Meningoencephalitis	Narrow	
+ICPC	-		C0014058	Encephalitis, myelitis and encephalomyelitis	Narrow	
+ICPC	-		C0014038	Encephalitis	Narrow	
+ICPC	-		C0014058	Encephalitis, myelitis and encephalomyelitis	Narrow	
+ICPC	-		C3536864	Acute disseminated encephalitis	Narrow	
+ICPC	-		C0014059	Encephalomyelitis, Acute Disseminated	Narrow	
+ICPC	-		C0014059	Encephalomyelitis, Acute Disseminated	Narrow	
+ICPC	-		C0025309	Meningoencephalitis	Narrow	
+ICPC	-		C0014070	Encephalomyelitis	Narrow	
+ICPC	-		C0393639	Hashimoto's encephalitis	Narrow	
+ICPC	N71	Meningitis/encephalitis	C0497299	Meningitis/encephalitis	Possible	BROADER (C1386136)
+RCD2	R016.	[D]Meningismus	C0025287	Meningism		SEARCH (meningitis)
+RCD2	R0160	[D]Dupre's syndrome	C0025287	Meningism		SEARCH (meningitis)
+RCD2	R0161	[D]Meningism NOS	C0025287	Meningism		SEARCH (meningitis)
+RCD2	R016z	[D]Meningismus NOS	C0025287	Meningism		SEARCH (meningitis)
+RCD2	Ayu8D	[X]Viral meningitis,unspecifd	C0025297	Viral meningitis		SEARCH (meningitis)
+RCD2	A4z0.	Lymphocytic choriomeningitis	C0024266	Lymphocytic Choriomeningitis		SEARCH (meningitis)
+RCD2	F02..	Meningitis - unspecified cause	C0025289	Meningitis		SEARCH (meningitis)
+RCD2	F02z.	Unspecified meningitis	C0025289	Meningitis		SEARCH (meningitis)
+RCD2	F00..	Bacterial meningitis	C0085437	Meningitis, Bacterial		SEARCH (meningitis)
+RCD2	F00z.	Bacterial meningitis NOS	C0085437	Meningitis, Bacterial		SEARCH (meningitis)
+RCD2	A130z	Tuberculous meningitis NOS	C0041318	Tuberculosis, Meningeal		SEARCH (meningitis)
+RCD2	F004.	Meningitis - tuberculous	C0041318	Tuberculosis, Meningeal		SEARCH (meningitis)
+RCD2	F0112	Meningitis-herpes zoster virus	C0700503	Herpes zoster with meningitis		SEARCH (meningitis)
+RCD2	F005.	Meningitis - meningococcal	C0025294	Meningococcal meningitis		SEARCH (meningitis)
+RCD2	F00y.	Other specif bact. meningitis	C0154642	Meningitis due to other specified bacteria		SEARCH (meningitis)
+RCD2	F00yz	Other spec.bact.meningitis NOS	C0154642	Meningitis due to other specified bacteria		SEARCH (meningitis)
+RCD2	F020.	Nonpyogenic meningitis	C0154651	Non-pyogenic meningitis		SEARCH (meningitis)
+RCD2	Ayu8C	[X]Other viral meningitis	C0348172	Other viral meningitis		SEARCH (meningitis)
+RCD2	F011y	Other viral meningitis	C0348172	Other viral meningitis		SEARCH (meningitis)
+RCD2	F0114	Meningitis-mumps virus	C0153092	Mumps meningitis		SEARCH (meningitis)
+RCD2	F0113	Meningitis-herpes simplex vir.	C0153045	Herpes simplex meningitis		SEARCH (meningitis)
+RCD2	F01..	Meningitis - other organisms	C0154644	Meningitis due to other organisms		SEARCH (meningitis)
+RCD2	F01z.	Meningitis due to organism NOS	C0154644	Meningitis due to other organisms		SEARCH (meningitis)
+RCD2	A42..	Meningitis due to enterovirus	C0276430	Enterovirus meningitis		SEARCH (meningitis)
+RCD2	F000.	Haemophilus meningitis	C0025292	Meningitis, Haemophilus		SEARCH (meningitis)
+RCD2	F001.	Pneumococcal meningitis	C0025295	Meningitis, Pneumococcal		SEARCH (meningitis)
+RCD2	F0100	Meningitis - cryptococcal	C0085436	Meningitis, Cryptococcal		SEARCH (meningitis)
+RCD2	F0073	Meningitis - salmonella	C0152488	Salmonella meningitis		SEARCH (meningitis)
+RCD2	-		C0153166	Syphilitic aseptic meningitis		
+RCD2	AB2y2	Candidal meningitis	C0153256	Candidal meningitis		SEARCH (meningitis)
+RCD2	F0070	Meningitis - gonococcal	C0153225	Gonococcal meningitis		SEARCH (meningitis)
+RCD2	AB32.	Coccidioidal meningitis	C0153259	Coccidioidal meningitis		SEARCH (meningitis)
+RCD2	F002.	Streptococcal meningitis	C0154639	Streptococcal meningitis		SEARCH (meningitis)
+RCD2	F003.	Staphylococcal meningitis	C0154640	Staphylococcal meningitis		SEARCH (meningitis)
+RCD2	F022.	Chronic meningitis	C0154653	Chronic meningitis		SEARCH (meningitis)
+RCD2	F024.	Benign recurrent meningitis	C0220979	Benign multirecurrent endothelioleukocytal meningitis		SEARCH (meningitis)
+RCD2	A4z1.	Adenoviral meningitis	C0276160	Adenoviral meningitis (disorder)		SEARCH (meningitis)
+RCD2	-		C0276600	HIV infection with aseptic meningitis		
+RCD2	F0111	Meningitis - ECHO virus	C0338388	Echovirus meningitis		SEARCH (meningitis)
+RCD2	F00y3	Meningitis-Friedlander bacill.	C0393434	Meningitis due to Friedlander bacillus		SEARCH (meningitis)
+RCD2	F00y4	Meningitis-Klebsiella pneumon.	C0393434	Meningitis due to Friedlander bacillus		SEARCH (meningitis)
+RCD2	-		C1704231	Metastatic Malignant Neoplasm to the Leptomeninges		
+RCD2	-		C0025290	Aseptic Meningitis		
+RCD2	F0074	Meningitis - congen. syphilis	C0153134	Congenital syphilitic meningitis		SEARCH (meningitis)
+RCD2	AA0y0	Leptospiral meningitis	C0153232	Leptospiral meningitis		SEARCH (meningitis)
+RCD2	F013.	Meningitis - sarcoidosis	C0154648	Sarcoid meningitis		SEARCH (meningitis)
+RCD2	F0110	Meningitis - coxsackie virus	C0276431	Coxsackie meningitis		SEARCH (meningitis)
+RCD2	-		C0276674	Meningitis caused by Histoplasma duboisii		
+RCD2	A553.	Measles complic by meningitis	C0348980	Measles complicated by meningitis		SEARCH (meningitis)
+RCD2	Fyu00	[X]Other bacterial meningitis	C0477333	Other bacterial meningitis		SEARCH (meningitis)
+RCD2	Fyu04	[X]Meningitis/oth specf causes	C0477337	Meningitis due to other specified causes		SEARCH (meningitis)
+RCD2	A206.	Plague meningitis	C0524687	Meningeal Plague		SEARCH (meningitis)
+RCD2	-		C2900504	Meningitis caused by Rubella virus		
+RCD2	F0071	Meningitis - listeriosis	C0025293	Meningitis, Listeria		SEARCH (meningitis)
+RCD2	A42y.	Other specif. viral meningitis	C0029843	Other specified viral meningitis		SEARCH (meningitis)
+RCD2	F010.	Meningitis - fungal	C0085438	Meningitis, Fungal		SEARCH (meningitis)
+RCD2	AB401	Histop. capsulatum +meningitis	C0153263	Histoplasma capsulatum meningitis		SEARCH (meningitis)
+RCD2	AB411	Histop. duboisii + meningitis	C0153271	Histoplasma duboisii meningitis		SEARCH (meningitis)
+RCD2	AB4z1	Histoplasmosis with meningitis	C0153277	Meningitis histoplasma		SEARCH (meningitis)
+RCD2	F007.	Meningitis in other bact. EC	C0154641	Meningitis in other bacterial diseases classified elsewhere		SEARCH (meningitis)
+RCD2	F021.	Eosinophilic meningitis	C0154652	Eosinophilic meningitis		SEARCH (meningitis)
+RCD2	F0077	Meningitis - actinomycosis	C0338393	Actinomycotic meningitis		SEARCH (meningitis)
+RCD2	F00y2	Meningitis-escherichia coli	C0338395	Meningitis, Escherichia coli		SEARCH (meningitis)
+RCD2	F0075	Meningitis-secondary syphilis	C0338399	Secondary syphilitic meningitis		SEARCH (meningitis)
+RCD2	-		C0393437	Klebsiella meningitis		
+RCD2	6571.	Meningitis vaccination	C0419706	Administration of Meningococcus vaccine		SEARCH (meningitis)
+RCD2	1471.	H/O: meningitis	C0455509	H/O: meningitis		SEARCH (meningitis)
+RCD2	Fyu01	[X]Meningitis in viral dis CE	C0477334	Meningitis in viral diseases classified elsewhere		SEARCH (meningitis)
+RCD2	Fyu03	[X]Meningts/o sp inf+para d CE	C0477336	Meningitis in other specified infectious and parasitic diseases classified elsewhere		SEARCH (meningitis)
+RCD2	-		C0523282	Neisseria Meningitidis antibody assay		
+RCD2	65W7.	Requires meningitis vaccine	C0580979	Requires a meningitis vaccination		SEARCH (meningitis)
+RCD2	-		C1273097	Meningitis C immunization declined		
+RCD2	-		C0007813	Cerebrospinal meningitis		
+RCD2	A1300	TB of cerebral meninges	C0275905	Tuberculosis of cerebral meninges		SEARCH (meningitis)
+RCD2	-		C0276028	Haemophilus influenzae meningitis		
+RCD2	-		C0338390	Post measles meningitis		
+RCD2	F0076	Meningitis - typhoid fever	C0338392	Meningitis due to typhoid fever		SEARCH (meningitis)
+RCD2	F00y6	Meningitis-pseudomonas	C0338397	Pseudomonas meningitis		SEARCH (meningitis)
+RCD2	-		C0338398	Late congenital syphilitic meningitis		
+RCD2	F0078	Meningitis - pertussis	C0393429	Meningitis due to pertussis		SEARCH (meningitis)
+RCD2	F00y1	Meningitis-bacillus pyocyaneus	C0393433	Meningitis due to bacillus pyocyaneus		SEARCH (meningitis)
+RCD2	F2924	Chemical meningitis	C0393444	Chemical meningitis		SEARCH (meningitis)
+RCD2	F00y0	Meningitis-aerobact.aerogenes	C0577778	Aerobacter meningitis		SEARCH (meningitis)
+RCD2	F00y5	Meningitis-proteus morganii	C0589627	Morganella morganii meningitis		SEARCH (meningitis)
+RCD2	-		C1279229	Meningococcal meningitis with acute meningococcal septicemia		
+RCD2	-		C1279230	Meningococcal meningitis with meningococcal septicemia		
+RCD2	-		C2887054	Meningitis caused by Bacillus anthracis		
+RCD2	-		C2887055	Aseptic leptospiral meningitis		
+RCD2	-		C4305262	Administration of meningitis polysaccharide vaccine		
+RCD2	-		C0220654	Meningeal Carcinomatosis		
+RCD2	-		C0275839	Acute syphilitic meningitis		
+RCD2	-		C0361275	Meningitis vaccine		
+RCD2	-		C0339957	Meningococcal pneumonia		
+RCD2	-		C0338396	Proteus meningitis		
+RCD2	-		C0338394	Meningitis in Lyme disease		
+RCD2	-		C0338387	Coxsackie B viral meningitis		
+RCD2	-		C0338386	Coxsackie A viral meningitis		
+RCD2	-		C0277508	Chronic benign lymphocytic meningitis		
+RCD2	-		C0393436	Staphylococcus epidermidis meningitis		
+RCD2	-		C0393435	Staphylococcus aureus meningitis		
+RCD2	-		C0393439	Parasitic meningitis		
+RCD2	-		C0393440	Granulomatous meningoencephalitis		
+RCD2	-		C0393441	Chronic lymphocytic meningitis		
+RCD2	-		C0393442	Non-infective meningitis		
+RCD2	-		C0393980	Hydrocephalus due to and following meningitis		
+RCD2	-		C0456107	Neonatal meningitis		
+RCD2	-		C0494045	Listerial meningitis and meningoencephalitis		
+RCD2	-		C0494441	Bacterial meningitis, not elsewhere classified		
+RCD2	-		C0494444	Meningitis due to other and unspecified causes		
+RCD2	-		C0520703	Aseptic meningitis due to drug		
+RCD2	-		C0563237	Meningitis contact		
+RCD2	-		C0694469	Meningitis in bacterial diseases classified elsewhere		
+RCD2	-		C0694470	Meningitis in other infectious and parasitic diseases classified elsewhere		
+RCD2	-		C0729584	Infective meningitis		
+RCD2	-		C0854214	Meningitis due to anaerobic bacteria		
+RCD2	-		C0854215	Bacterial meningitis due to Gram-negative bacteria		
+RCD2	-		C0917807	Haemophilus influenzae Meningitis Type B		
+RCD2	-		C0948840	Meningeal Leukemia		
+RCD2	-		C1136211	Neisseria meningitidis, Serogroup A		
+RCD2	-		C1263849	Acute purulent meningitis		
+RCD2	-		C1320475	Nuchal rigidity due to meningitis		
+RCD2	-		C1321406	West Nile meningitis		
+RCD2	-		C1321407	St. Louis meningitis		
+RCD2	-		C1321411	Jamestown Canyon virus meningitis		
+RCD2	-		C1321412	California serogroup viral meningitis		
+RCD2	-		C1321413	La Crosse meningitis		
+RCD2	-		C1321414	Snowshoe hare meningitis		
+RCD2	-		C1321416	Keystone virus meningitis		
+RCD2	-		C1443847	Hemorrhagic meningitis		
+RCD2	-		C1443894	Q fever aseptic meningitis		
+RCD2	-		C1719906	Meningitis caused by Klebsiella aerogenes		
+RCD2	-		C3696960	Posttraumatic meningitis		
+RCD2	-		C3697300	Postoperative aseptic meningitis		
+RCD2	-		C3697592	Postoperative bacterial meningitis		
+RCD2	-		C3697784	Postoperative meningitis		
+RCD2	-		C3697985	Obstructive hydrocephalus due to and following meningitis		
+RCD2	-		C4039039	Meningitis caused by arbovirus infection		
+RCD2	-		C4039274	Meningitis due to infectious mononucleosis		
+RCD2	-		C4040157	Meningitis due to Cytomegaloviral Mononucleosis		
+RCD2	-		C4041356	Meningitis due to Chagas disease		
+RCD2	-		C4075878	Meningitis caused by Histoplasma capsulatum		
+RCD2	-		C4075890	Meningitis caused by Histoplasmosis		
+RCD2	-		C4302344	Non-infective meningitis due to inflammatory disorder		
+RCD2	-		C4302377	Meningitis following procedure		
+RCD2	-		C4302451	Meningitis caused by Human enterovirus 70		
+RCD2	-		C4302452	Meningitis caused by Human enterovirus 71		
+RCD2	-		C4303077	Meningitis caused by Spirochaetes		
+RCD2	-		C0494468	Other acute disseminated demyelination	Narrow	
+RCD2	-		C0014038	Encephalitis	Narrow	
+RCD2	-		C0014058	Encephalitis, myelitis and encephalomyelitis	Narrow	
+RCD2	F283.	Encephalopathy unspecified	C0085584	Encephalopathies	Possible	BROADER (C0014038)
+RCD2	-		C0025309	Meningoencephalitis	Narrow	
+RCD2	-		C0014058	Encephalitis, myelitis and encephalomyelitis	Narrow	
+RCD2	-		C0014038	Encephalitis	Narrow	
+RCD2	-		C0014058	Encephalitis, myelitis and encephalomyelitis	Narrow	
+RCD2	-		C3536864	Acute disseminated encephalitis	Narrow	
+RCD2	-		C0014059	Encephalomyelitis, Acute Disseminated	Narrow	
+RCD2	-		C0014059	Encephalomyelitis, Acute Disseminated	Narrow	
+RCD2	-		C0025309	Meningoencephalitis	Narrow	
+RCD2	F03y.	Other causes of encephalitis	C0014070	Encephalomyelitis	Narrow	NARROWER (C0014038)
+RCD2	-		C0393639	Hashimoto's encephalitis	Narrow	
+RCD2	-		C0497299	Meningitis/encephalitis	Possible	

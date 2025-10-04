@@ -1,0 +1,367 @@
+Coding system	Code	Code name	Concept	Concept name	Tags	Origin
+ICD10	-		C0007784	Cerebral hemisphere hemorrhage		
+ICD10	-		C0265085	Cortical hemorrhage		
+ICD10	-		C0472377	Basal Ganglia Hemorrhage		
+ICD10	I61	Intracerebral haemorrhage	C2937358	Cerebral Hemorrhage		NARROWER (C0007784)
+ICD10	I61.0	Intracerebral haemorrhage in hemisphere, subcortical				DESC (I61)
+ICD10	I61.1	Intracerebral haemorrhage in hemisphere, cortical				DESC (I61)
+ICD10	I61.2	Intracerebral haemorrhage in hemisphere, unspecified				DESC (I61)
+ICD10	I61.3	Intracerebral haemorrhage in brain stem				DESC (I61)
+ICD10	I61.4	Intracerebral haemorrhage in cerebellum				DESC (I61)
+ICD10	I61.5	Intracerebral haemorrhage, intraventricular				DESC (I61)
+ICD10	I61.6	Intracerebral haemorrhage, multiple localized				DESC (I61)
+ICD10	I61.8	Other intracerebral haemorrhage				DESC (I61)
+ICD10	I61.9	Intracerebral haemorrhage, unspecified				DESC (I61)
+ICD10	-		C0265086	Internal capsule hemorrhage		
+ICD10	-		C0472372	External capsule hemorrhage		
+ICD10	-		C0472374	Lobar cerebral hemorrhage		
+ICD10	-		C3839237	Deep hemispheric cerebral hemorrhage		
+ICD10	-		C4543111	Spontaneous hemorrhage of cerebral hemisphere		
+ICD10	-		C0265087	Subcortical hemorrhage		
+ICD10	-		C0349440	Subarachnoid hemorrhage from posterior cerebral artery aneurysm		
+ICD10	-		C0349436	Subarachnoid hemorrhage from anterior cerebral artery aneurysm		
+ICD10	-		C0472373	Massive supratentorial cerebral hemorrhage		
+ICD10	-		C3839237	Deep hemispheric cerebral hemorrhage		
+ICD10	-		C4040138	Spontaneous cerebral hemorrhage with compression of brain		
+ICD10	-		C4543110	Spontaneous hemorrhage of deep cerebral hemisphere		
+ICD10	-		C4543111	Spontaneous hemorrhage of cerebral hemisphere		
+ICD10	-		C5230186	Cerebral ischemic stroke due to subarachnoid hemorrhage		
+ICD10	-		C2882294	Nontraumatic subarachnoid hemorrhage from unspecified middle cerebral artery		
+ICD10	-		C2882295	Nontraumatic subarachnoid hemorrhage from right middle cerebral artery		
+ICD10	-		C2882296	Nontraumatic subarachnoid hemorrhage from left middle cerebral artery		
+ICD10	-		C2882313	Subarachnoid hemorrhage (nontraumatic) from cerebral artery NOS		
+ICD10	-		C2882318	Cerebral lobe hemorrhage (nontraumatic)		
+ICD10	-		C2882293	Nontraumatic subarachnoid hemorrhage from middle cerebral artery		
+ICD10	-		C4520254	Apraxia due to and following spontaneous intracerebral hemorrhage		
+ICD10	-		C4543191	Dysarthria due to and following hemorrhagic cerebrovascular accident		
+ICD10	-		C4543192	Cognitive deficit due to and following hemorrhagic cerebrovascular accident		
+ICD10	-		C4543197	Dysphasia due to and following hemorrhagic cerebrovascular accident		
+ICD10	-		C4543594	Speech and language deficit as sequela of hemorrhagic cerebrovascular accident		
+ICD10	-		C5229721	Memory deficit due to and following hemorrhagic cerebrovascular accident		
+ICD10	-		C0553692	Brain hemorrhage		
+ICD10	-		C0265082	Hemorrhage of medulla oblongata		
+ICD10	-		C0149854	Cerebellar hemorrhage		
+ICD10	-		C0475526	Intracerebral hemorrhage, intraventricular		
+ICD10	-		C0475527	Intracerebral hemorrhage, multiple localized		
+ICD10	-		C0265088	Intrapontine hemorrhage		
+ICD10	-		C0265085	Cortical hemorrhage		
+ICD10	-		C0265086	Internal capsule hemorrhage		
+ICD10	I60.2	Subarachnoid haemorrhage from anterior communicating artery	C0349441	Subarachnoid hemorrhage from anterior communicating artery aneurysm		NARROWER (C0553692)
+ICD10	I60.3	Subarachnoid haemorrhage from posterior communicating artery	C0349442	Subarachnoid hemorrhage from posterior communicating artery aneurysm		NARROWER (C0553692)
+ICD10	-		C0494602	Intracerebral hemorrhage in hemisphere, subcortical		
+ICD10	-		C0494605	Intracerebral hemorrhage in cerebellum		
+ICD10	-		C0265084	Cerebromeningeal hemorrhage		
+ICD10	-		C0265087	Subcortical hemorrhage		
+ICD10	-		C0265083	Pars basalis hemorrhage		
+ICD10CM	-		C0007784	Cerebral hemisphere hemorrhage		
+ICD10CM	-		C0265085	Cortical hemorrhage		
+ICD10CM	-		C0472377	Basal Ganglia Hemorrhage		
+ICD10CM	-		C2937358	Cerebral Hemorrhage		
+ICD10CM	-		C0265086	Internal capsule hemorrhage		
+ICD10CM	-		C0472372	External capsule hemorrhage		
+ICD10CM	-		C0472374	Lobar cerebral hemorrhage		
+ICD10CM	-		C3839237	Deep hemispheric cerebral hemorrhage		
+ICD10CM	-		C4543111	Spontaneous hemorrhage of cerebral hemisphere		
+ICD10CM	-		C0265087	Subcortical hemorrhage		
+ICD10CM	-		C0349440	Subarachnoid hemorrhage from posterior cerebral artery aneurysm		
+ICD10CM	-		C0349436	Subarachnoid hemorrhage from anterior cerebral artery aneurysm		
+ICD10CM	-		C0472373	Massive supratentorial cerebral hemorrhage		
+ICD10CM	-		C3839237	Deep hemispheric cerebral hemorrhage		
+ICD10CM	-		C4040138	Spontaneous cerebral hemorrhage with compression of brain		
+ICD10CM	-		C4543110	Spontaneous hemorrhage of deep cerebral hemisphere		
+ICD10CM	-		C4543111	Spontaneous hemorrhage of cerebral hemisphere		
+ICD10CM	-		C5230186	Cerebral ischemic stroke due to subarachnoid hemorrhage		
+ICD10CM	I60.10	Nontraumatic subarachnoid hemorrhage from unspecified middle cerebral artery	C2882294	Nontraumatic subarachnoid hemorrhage from unspecified middle cerebral artery		SEARCH (cerebral hemorrhage)
+ICD10CM	I60.11	Nontraumatic subarachnoid hemorrhage from right middle cerebral artery	C2882295	Nontraumatic subarachnoid hemorrhage from right middle cerebral artery		SEARCH (cerebral hemorrhage)
+ICD10CM	I60.12	Nontraumatic subarachnoid hemorrhage from left middle cerebral artery	C2882296	Nontraumatic subarachnoid hemorrhage from left middle cerebral artery		SEARCH (cerebral hemorrhage)
+ICD10CM	I60.7	Subarachnoid hemorrhage (nontraumatic) from cerebral artery NOS	C2882313	Subarachnoid hemorrhage (nontraumatic) from cerebral artery NOS		SEARCH (cerebral hemorrhage)
+ICD10CM	I61.1	Cerebral lobe hemorrhage (nontraumatic)	C2882318	Cerebral lobe hemorrhage (nontraumatic)		SEARCH (cerebral hemorrhage)
+ICD10CM	I60.1	Nontraumatic subarachnoid hemorrhage from middle cerebral artery	C2882293	Nontraumatic subarachnoid hemorrhage from middle cerebral artery		SEARCH (cerebral hemorrhage)
+ICD10CM	-		C4520254	Apraxia due to and following spontaneous intracerebral hemorrhage		
+ICD10CM	-		C4543191	Dysarthria due to and following hemorrhagic cerebrovascular accident		
+ICD10CM	-		C4543192	Cognitive deficit due to and following hemorrhagic cerebrovascular accident		
+ICD10CM	-		C4543197	Dysphasia due to and following hemorrhagic cerebrovascular accident		
+ICD10CM	-		C4543594	Speech and language deficit as sequela of hemorrhagic cerebrovascular accident		
+ICD10CM	-		C5229721	Memory deficit due to and following hemorrhagic cerebrovascular accident		
+ICD10CM	-		C0553692	Brain hemorrhage		
+ICD10CM	-		C0265082	Hemorrhage of medulla oblongata		
+ICD10CM	-		C0149854	Cerebellar hemorrhage		
+ICD10CM	-		C0475526	Intracerebral hemorrhage, intraventricular		
+ICD10CM	-		C0475527	Intracerebral hemorrhage, multiple localized		
+ICD10CM	-		C0265088	Intrapontine hemorrhage		
+ICD10CM	-		C0265085	Cortical hemorrhage		
+ICD10CM	-		C0265086	Internal capsule hemorrhage		
+ICD10CM	-		C0349441	Subarachnoid hemorrhage from anterior communicating artery aneurysm		
+ICD10CM	-		C0349442	Subarachnoid hemorrhage from posterior communicating artery aneurysm		
+ICD10CM	-		C0494602	Intracerebral hemorrhage in hemisphere, subcortical		
+ICD10CM	-		C0494605	Intracerebral hemorrhage in cerebellum		
+ICD10CM	-		C0265084	Cerebromeningeal hemorrhage		
+ICD10CM	-		C0265087	Subcortical hemorrhage		
+ICD10CM	-		C0265083	Pars basalis hemorrhage		
+ICD9CM	-		C0007784	Cerebral hemisphere hemorrhage		
+ICD9CM	-		C0265085	Cortical hemorrhage		
+ICD9CM	-		C0472377	Basal Ganglia Hemorrhage		
+ICD9CM	431	Intracerebral hemorrhage	C2937358	Cerebral Hemorrhage		NARROWER (C0007784)
+ICD9CM	-		C0265086	Internal capsule hemorrhage		
+ICD9CM	-		C0472372	External capsule hemorrhage		
+ICD9CM	-		C0472374	Lobar cerebral hemorrhage		
+ICD9CM	-		C3839237	Deep hemispheric cerebral hemorrhage		
+ICD9CM	-		C4543111	Spontaneous hemorrhage of cerebral hemisphere		
+ICD9CM	-		C0265087	Subcortical hemorrhage		
+ICD9CM	-		C0349440	Subarachnoid hemorrhage from posterior cerebral artery aneurysm		
+ICD9CM	-		C0349436	Subarachnoid hemorrhage from anterior cerebral artery aneurysm		
+ICD9CM	-		C0472373	Massive supratentorial cerebral hemorrhage		
+ICD9CM	-		C3839237	Deep hemispheric cerebral hemorrhage		
+ICD9CM	-		C4040138	Spontaneous cerebral hemorrhage with compression of brain		
+ICD9CM	-		C4543110	Spontaneous hemorrhage of deep cerebral hemisphere		
+ICD9CM	-		C4543111	Spontaneous hemorrhage of cerebral hemisphere		
+ICD9CM	-		C5230186	Cerebral ischemic stroke due to subarachnoid hemorrhage		
+ICD9CM	-		C2882294	Nontraumatic subarachnoid hemorrhage from unspecified middle cerebral artery		
+ICD9CM	-		C2882295	Nontraumatic subarachnoid hemorrhage from right middle cerebral artery		
+ICD9CM	-		C2882296	Nontraumatic subarachnoid hemorrhage from left middle cerebral artery		
+ICD9CM	-		C2882313	Subarachnoid hemorrhage (nontraumatic) from cerebral artery NOS		
+ICD9CM	-		C2882318	Cerebral lobe hemorrhage (nontraumatic)		
+ICD9CM	-		C2882293	Nontraumatic subarachnoid hemorrhage from middle cerebral artery		
+ICD9CM	-		C4520254	Apraxia due to and following spontaneous intracerebral hemorrhage		
+ICD9CM	-		C4543191	Dysarthria due to and following hemorrhagic cerebrovascular accident		
+ICD9CM	-		C4543192	Cognitive deficit due to and following hemorrhagic cerebrovascular accident		
+ICD9CM	-		C4543197	Dysphasia due to and following hemorrhagic cerebrovascular accident		
+ICD9CM	-		C4543594	Speech and language deficit as sequela of hemorrhagic cerebrovascular accident		
+ICD9CM	-		C5229721	Memory deficit due to and following hemorrhagic cerebrovascular accident		
+ICD9CM	-		C0553692	Brain hemorrhage		
+ICD9CM	-		C0265082	Hemorrhage of medulla oblongata		
+ICD9CM	-		C0149854	Cerebellar hemorrhage		
+ICD9CM	-		C0475526	Intracerebral hemorrhage, intraventricular		
+ICD9CM	-		C0475527	Intracerebral hemorrhage, multiple localized		
+ICD9CM	-		C0265088	Intrapontine hemorrhage		
+ICD9CM	-		C0265085	Cortical hemorrhage		
+ICD9CM	-		C0265086	Internal capsule hemorrhage		
+ICD9CM	-		C0349441	Subarachnoid hemorrhage from anterior communicating artery aneurysm		
+ICD9CM	-		C0349442	Subarachnoid hemorrhage from posterior communicating artery aneurysm		
+ICD9CM	-		C0494602	Intracerebral hemorrhage in hemisphere, subcortical		
+ICD9CM	-		C0494605	Intracerebral hemorrhage in cerebellum		
+ICD9CM	-		C0265084	Cerebromeningeal hemorrhage		
+ICD9CM	-		C0265087	Subcortical hemorrhage		
+ICD9CM	-		C0265083	Pars basalis hemorrhage		
+ICPC2P	-		C0007784	Cerebral hemisphere hemorrhage		
+ICPC2P	-		C0265085	Cortical hemorrhage		
+ICPC2P	-		C0472377	Basal Ganglia Hemorrhage		
+ICPC2P	K90006	Haemorrhage;cerebral	C2937358	Cerebral Hemorrhage		NARROWER (C0007784)
+ICPC2P	K90013	Rupture;blood vessel;brain	C2937358	Cerebral Hemorrhage		NARROWER (C0007784)
+ICPC2P	-		C0265086	Internal capsule hemorrhage		
+ICPC2P	-		C0472372	External capsule hemorrhage		
+ICPC2P	-		C0472374	Lobar cerebral hemorrhage		
+ICPC2P	-		C3839237	Deep hemispheric cerebral hemorrhage		
+ICPC2P	-		C4543111	Spontaneous hemorrhage of cerebral hemisphere		
+ICPC2P	-		C0265087	Subcortical hemorrhage		
+ICPC2P	-		C0349440	Subarachnoid hemorrhage from posterior cerebral artery aneurysm		
+ICPC2P	-		C0349436	Subarachnoid hemorrhage from anterior cerebral artery aneurysm		
+ICPC2P	-		C0472373	Massive supratentorial cerebral hemorrhage		
+ICPC2P	-		C3839237	Deep hemispheric cerebral hemorrhage		
+ICPC2P	-		C4040138	Spontaneous cerebral hemorrhage with compression of brain		
+ICPC2P	-		C4543110	Spontaneous hemorrhage of deep cerebral hemisphere		
+ICPC2P	-		C4543111	Spontaneous hemorrhage of cerebral hemisphere		
+ICPC2P	-		C5230186	Cerebral ischemic stroke due to subarachnoid hemorrhage		
+ICPC2P	-		C2882294	Nontraumatic subarachnoid hemorrhage from unspecified middle cerebral artery		
+ICPC2P	-		C2882295	Nontraumatic subarachnoid hemorrhage from right middle cerebral artery		
+ICPC2P	-		C2882296	Nontraumatic subarachnoid hemorrhage from left middle cerebral artery		
+ICPC2P	-		C2882313	Subarachnoid hemorrhage (nontraumatic) from cerebral artery NOS		
+ICPC2P	-		C2882318	Cerebral lobe hemorrhage (nontraumatic)		
+ICPC2P	-		C2882293	Nontraumatic subarachnoid hemorrhage from middle cerebral artery		
+ICPC2P	-		C4520254	Apraxia due to and following spontaneous intracerebral hemorrhage		
+ICPC2P	-		C4543191	Dysarthria due to and following hemorrhagic cerebrovascular accident		
+ICPC2P	-		C4543192	Cognitive deficit due to and following hemorrhagic cerebrovascular accident		
+ICPC2P	-		C4543197	Dysphasia due to and following hemorrhagic cerebrovascular accident		
+ICPC2P	-		C4543594	Speech and language deficit as sequela of hemorrhagic cerebrovascular accident		
+ICPC2P	-		C5229721	Memory deficit due to and following hemorrhagic cerebrovascular accident		
+ICPC2P	-		C0553692	Brain hemorrhage		
+ICPC2P	-		C0265082	Hemorrhage of medulla oblongata		
+ICPC2P	-		C0149854	Cerebellar hemorrhage		
+ICPC2P	-		C0475526	Intracerebral hemorrhage, intraventricular		
+ICPC2P	-		C0475527	Intracerebral hemorrhage, multiple localized		
+ICPC2P	-		C0265088	Intrapontine hemorrhage		
+ICPC2P	-		C0265085	Cortical hemorrhage		
+ICPC2P	-		C0265086	Internal capsule hemorrhage		
+ICPC2P	-		C0349441	Subarachnoid hemorrhage from anterior communicating artery aneurysm		
+ICPC2P	-		C0349442	Subarachnoid hemorrhage from posterior communicating artery aneurysm		
+ICPC2P	-		C0494602	Intracerebral hemorrhage in hemisphere, subcortical		
+ICPC2P	-		C0494605	Intracerebral hemorrhage in cerebellum		
+ICPC2P	-		C0265084	Cerebromeningeal hemorrhage		
+ICPC2P	-		C0265087	Subcortical hemorrhage		
+ICPC2P	-		C0265083	Pars basalis hemorrhage		
+RCD2	-		C0007784	Cerebral hemisphere hemorrhage		
+RCD2	G610.	Cortical haemorrhage	C0265085	Cortical hemorrhage		NARROWER (C0007784)
+RCD2	G612.	Basal nucleus haemorrhage	C0472377	Basal Ganglia Hemorrhage		NARROWER (C0007784)
+RCD2	G61z.	Intracerebral haemorrhage NOS	C2937358	Cerebral Hemorrhage		NARROWER (C0007784)
+RCD2	G611.	Internal capsule haemorrhage	C0265086	Internal capsule hemorrhage		NARROWER (C0007784)
+RCD2	G616.	External capsule haemorrhage	C0472372	External capsule hemorrhage		NARROWER (C0007784)
+RCD2	G619.	Lobar cerebral haemorrhage	C0472374	Lobar cerebral hemorrhage		NARROWER (C0007784)
+RCD2	-		C3839237	Deep hemispheric cerebral hemorrhage		
+RCD2	-		C4543111	Spontaneous hemorrhage of cerebral hemisphere		
+RCD2	-		C0265087	Subcortical hemorrhage		
+RCD2	-		C0349440	Subarachnoid hemorrhage from posterior cerebral artery aneurysm		
+RCD2	-		C0349436	Subarachnoid hemorrhage from anterior cerebral artery aneurysm		
+RCD2	-		C0472373	Massive supratentorial cerebral hemorrhage		
+RCD2	-		C3839237	Deep hemispheric cerebral hemorrhage		
+RCD2	-		C4040138	Spontaneous cerebral hemorrhage with compression of brain		
+RCD2	-		C4543110	Spontaneous hemorrhage of deep cerebral hemisphere		
+RCD2	-		C4543111	Spontaneous hemorrhage of cerebral hemisphere		
+RCD2	-		C5230186	Cerebral ischemic stroke due to subarachnoid hemorrhage		
+RCD2	-		C2882294	Nontraumatic subarachnoid hemorrhage from unspecified middle cerebral artery		
+RCD2	-		C2882295	Nontraumatic subarachnoid hemorrhage from right middle cerebral artery		
+RCD2	-		C2882296	Nontraumatic subarachnoid hemorrhage from left middle cerebral artery		
+RCD2	-		C2882313	Subarachnoid hemorrhage (nontraumatic) from cerebral artery NOS		
+RCD2	-		C2882318	Cerebral lobe hemorrhage (nontraumatic)		
+RCD2	-		C2882293	Nontraumatic subarachnoid hemorrhage from middle cerebral artery		
+RCD2	-		C4520254	Apraxia due to and following spontaneous intracerebral hemorrhage		
+RCD2	-		C4543191	Dysarthria due to and following hemorrhagic cerebrovascular accident		
+RCD2	-		C4543192	Cognitive deficit due to and following hemorrhagic cerebrovascular accident		
+RCD2	-		C4543197	Dysphasia due to and following hemorrhagic cerebrovascular accident		
+RCD2	-		C4543594	Speech and language deficit as sequela of hemorrhagic cerebrovascular accident		
+RCD2	-		C5229721	Memory deficit due to and following hemorrhagic cerebrovascular accident		
+RCD2	-		C0553692	Brain hemorrhage		
+RCD2	G615.	Bulbar haemorrhage	C0265082	Hemorrhage of medulla oblongata		NARROWER (C0553692)
+RCD2	G613.	Cerebellar haemorrhage	C0149854	Cerebellar hemorrhage		NARROWER (C0553692)
+RCD2	G617.	Intrcereb haem,intraventriculr	C0475526	Intracerebral hemorrhage, intraventricular		NARROWER (C0553692)
+RCD2	G618.	Intracerebrl haem,multip local	C0475527	Intracerebral hemorrhage, multiple localized		NARROWER (C0553692)
+RCD2	G614.	Pontine haemorrhage	C0265088	Intrapontine hemorrhage		NARROWER (C0553692)
+RCD2	-		C0265085	Cortical hemorrhage		
+RCD2	-		C0265086	Internal capsule hemorrhage		
+RCD2	-		C0349441	Subarachnoid hemorrhage from anterior communicating artery aneurysm		
+RCD2	-		C0349442	Subarachnoid hemorrhage from posterior communicating artery aneurysm		
+RCD2	-		C0494602	Intracerebral hemorrhage in hemisphere, subcortical		
+RCD2	-		C0494605	Intracerebral hemorrhage in cerebellum		
+RCD2	-		C0265084	Cerebromeningeal hemorrhage		
+RCD2	-		C0265087	Subcortical hemorrhage		
+RCD2	-		C0265083	Pars basalis hemorrhage		
+SCTSPA	73020009	hemorragia de hemisferio cerebral	C0007784	Cerebral hemisphere hemorrhage		SEARCH (cerebral hemorrhage)
+SCTSPA	195165005	Basal ganglia hemorrhage				DESC (73020009)
+SCTSPA	195167002	External capsule hemorrhage				DESC (73020009)
+SCTSPA	20908003	Subcortical hemorrhage				DESC (73020009)
+SCTSPA	230710000	Lobar cerebral hemorrhage				DESC (73020009)
+SCTSPA	262692002	Burst lobe of brain				DESC (73020009)
+SCTSPA	291511000119103	Spontaneous hemorrhage of deep cerebral hemisphere				DESC (73020009)
+SCTSPA	291521000119105	Spontaneous hemorrhage of cortical intracerebral hemisphere				DESC (73020009)
+SCTSPA	291531000119108	Spontaneous hemorrhage of cerebral hemisphere				DESC (73020009)
+SCTSPA	451037005	Hemorrhage in globus pallidus				DESC (73020009)
+SCTSPA	451038000	Hemorrhage in caudate nucleus				DESC (73020009)
+SCTSPA	451039008	Hemorrhage in putamen				DESC (73020009)
+SCTSPA	49422009	Cortical hemorrhage				DESC (73020009)
+SCTSPA	52201006	Internal capsule hemorrhage				DESC (73020009)
+SCTSPA	703156006	Deep hemispheric cerebral hemorrhage				DESC (73020009)
+SCTSPA	722630003	Traumatic hemorrhage of cerebral white matter				DESC (73020009)
+SCTSPA	72986009	Acute hemorrhagic leukoencephalitis				DESC (73020009)
+SCTSPA	737232003	Traumatic hemorrhage of basal ganglia				DESC (73020009)
+SCTSPA	-		C0265085	Cortical hemorrhage		
+SCTSPA	-		C0472377	Basal Ganglia Hemorrhage		
+SCTSPA	1508000	hematoma intracerebral	C2937358	Cerebral Hemorrhage		NARROWER (C0007784)
+SCTSPA	155394003	Cerebral haemorrhage NOS	C2937358	Cerebral Hemorrhage		NARROWER (C0007784)
+SCTSPA	195173001	hemorragia intracerebral, SAI	C2937358	Cerebral Hemorrhage		NARROWER (C0007784)
+SCTSPA	266313001	hemorragia cerebral, SAI	C2937358	Cerebral Hemorrhage		NARROWER (C0007784)
+SCTSPA	274100004	hemorragia cerebral	C2937358	Cerebral Hemorrhage		NARROWER (C0007784)
+SCTSPA	140881000119109	Spontaneous cerebral hemorrhage with compression of brain				DESC (274100004)
+SCTSPA	142851000119103	Spontaneous cerebellar hemorrhage				DESC (274100004)
+SCTSPA	143521000119103	Nontraumatic intraparenchymal cerebral hemorrhage				DESC (274100004)
+SCTSPA	15984951000119108	Neonatal spontaneous cerebellar hemorrhage				DESC (274100004)
+SCTSPA	15985031000119102	Neonatal non-traumatic intraventricular hemorrhage				DESC (274100004)
+SCTSPA	195168007	Intracerebral hemorrhage, intraventricular				DESC (274100004)
+SCTSPA	195169004	Intracerebral hemorrhage, multiple localized				DESC (274100004)
+SCTSPA	206188000	Subdural and cerebral hemorrhage due to birth trauma				DESC (274100004)
+SCTSPA	206194008	Cerebral hematoma in fetus or newborn				DESC (274100004)
+SCTSPA	206196005	Cerebral hemorrhage due to birth injury				DESC (274100004)
+SCTSPA	206395003	Intraventricular (nontraumatic) hemorrhage, grade 1, of fetus and newborn				DESC (274100004)
+SCTSPA	206396002	Intraventricular (nontraumatic) hemorrhage, grade 2, of fetus and newborn				DESC (274100004)
+SCTSPA	206397006	Intraventricular (nontraumatic) hemorrhage, grade 3, of fetus and newborn				DESC (274100004)
+SCTSPA	206398001	Intraventricular hemorrhage due to birth injury				DESC (274100004)
+SCTSPA	206419007	Cerebellar (nontraumatic) and posterior fossa hemorrhage of fetus and newborn				DESC (274100004)
+SCTSPA	230709005	Massive supratentorial cerebral hemorrhage				DESC (274100004)
+SCTSPA	230711001	Thalamic hemorrhage				DESC (274100004)
+SCTSPA	230712008	Lacunar hemorrhage				DESC (274100004)
+SCTSPA	23276006	Ventricular hemorrhage				DESC (274100004)
+SCTSPA	237702003	Pituitary hemorrhage				DESC (274100004)
+SCTSPA	240313004	Intracerebral hemorrhage in fetus or newborn				DESC (274100004)
+SCTSPA	261808007	Neonatal cerebral hemorrhage				DESC (274100004)
+SCTSPA	276648002	Intraventricular hemorrhage of prematurity				DESC (274100004)
+SCTSPA	276650005	Perinatal subependymal hemorrhage				DESC (274100004)
+SCTSPA	276651009	Perinatal subependymal hemorrhage with intraventricular extension				DESC (274100004)
+SCTSPA	276652002	Perinatal subependymal hemorrhage with intraventricular and intracerebral extension				DESC (274100004)
+SCTSPA	276722003	Intracerebellar and posterior fossa hemorrhage				DESC (274100004)
+SCTSPA	28318001	Pars basalis hemorrhage				DESC (274100004)
+SCTSPA	288276001	Fetal cerebral hemorrhage				DESC (274100004)
+SCTSPA	291541000119104	Spontaneous hemorrhage of brain stem				DESC (274100004)
+SCTSPA	291571000119106	Spontaneous cerebral hemorrhage				DESC (274100004)
+SCTSPA	291665000	Postpartum intrapituitary hemorrhage				DESC (274100004)
+SCTSPA	301764006	Hematoma of brain				DESC (274100004)
+SCTSPA	301765007	Cerebellar hematoma				DESC (274100004)
+SCTSPA	32728005	Hemorrhage due to ruptured congenital cerebral aneurysm				DESC (274100004)
+SCTSPA	38453000	Cerebral hemorrhage due to intrapartum anoxia or hypoxia				DESC (274100004)
+SCTSPA	42429001	Cerebromeningeal hemorrhage				DESC (274100004)
+SCTSPA	425957003	Non-traumatic intracerebral ventricular hemorrhage				DESC (274100004)
+SCTSPA	428241007	Intraventricular hemorrhage of fetus				DESC (274100004)
+SCTSPA	431266005	Intraparenchymal hematoma of brain				DESC (274100004)
+SCTSPA	449020009	Intraparenchymal hemorrhage of brain				DESC (274100004)
+SCTSPA	450418003	Cerebral hemorrhage following injury				DESC (274100004)
+SCTSPA	45639009	Hereditary cerebral amyloid angiopathy, Icelandic type				DESC (274100004)
+SCTSPA	70611002	Perinatal intraventricular hemorrhage				DESC (274100004)
+SCTSPA	722575008	Traumatic hemorrhage of cerebellum due to birth trauma				DESC (274100004)
+SCTSPA	722580004	Fetal or neonatal intraventricular non-traumatic hemorrhage grade 4				DESC (274100004)
+SCTSPA	722581000	Fetal or neonatal non-traumatic intraventricular hemorrhage				DESC (274100004)
+SCTSPA	722582007	Fetal or neonatal intracerebral non-traumatic hemorrhage				DESC (274100004)
+SCTSPA	722615007	Focal hemorrhagic contusion of cerebrum				DESC (274100004)
+SCTSPA	722619001	Focal traumatic hemorrhage of cerebellum				DESC (274100004)
+SCTSPA	722620007	Focal traumatic hematoma of cerebellum				DESC (274100004)
+SCTSPA	722623009	Focal traumatic hemorrhage of brainstem				DESC (274100004)
+SCTSPA	722624003	Focal traumatic hematoma of brainstem				DESC (274100004)
+SCTSPA	722631004	Traumatic hemorrhage of cerebellum				DESC (274100004)
+SCTSPA	722632006	Traumatic hemorrhage of brainstem				DESC (274100004)
+SCTSPA	722633001	Multiple traumatic hemorrhages of brain tissue				DESC (274100004)
+SCTSPA	722703002	Traumatic intraventricular hemorrhage				DESC (274100004)
+SCTSPA	723138000	Primary traumatic hemorrhage of brainstem				DESC (274100004)
+SCTSPA	723139008	Secondary traumatic hemorrhage of brainstem				DESC (274100004)
+SCTSPA	732923001	Hemorrhage of medulla oblongata				DESC (274100004)
+SCTSPA	737231005	Traumatic hemorrhage of thalamus				DESC (274100004)
+SCTSPA	75038005	Cerebellar hemorrhage				DESC (274100004)
+SCTSPA	7713009	Intrapontine hemorrhage				DESC (274100004)
+SCTSPA	95454007	Brain stem hemorrhage				DESC (274100004)
+SCTSPA	-		C0265086	Internal capsule hemorrhage		
+SCTSPA	-		C0472372	External capsule hemorrhage		
+SCTSPA	-		C0472374	Lobar cerebral hemorrhage		
+SCTSPA	-		C3839237	Deep hemispheric cerebral hemorrhage		
+SCTSPA	-		C4543111	Spontaneous hemorrhage of cerebral hemisphere		
+SCTSPA	-		C0265087	Subcortical hemorrhage		
+SCTSPA	276281008	hemorragia subaracnoidea proveniente de aneurisma de la arteria cerebral posterior	C0349440	Subarachnoid hemorrhage from posterior cerebral artery aneurysm		SEARCH (cerebral hemorrhage)
+SCTSPA	276278003	hemorragia subaracnoidea proveniente de aneurisma de arteria cerebral anterior	C0349436	Subarachnoid hemorrhage from anterior cerebral artery aneurysm		SEARCH (cerebral hemorrhage)
+SCTSPA	-		C0472373	Massive supratentorial cerebral hemorrhage		
+SCTSPA	-		C3839237	Deep hemispheric cerebral hemorrhage		
+SCTSPA	-		C4040138	Spontaneous cerebral hemorrhage with compression of brain		
+SCTSPA	-		C4543110	Spontaneous hemorrhage of deep cerebral hemisphere		
+SCTSPA	-		C4543111	Spontaneous hemorrhage of cerebral hemisphere		
+SCTSPA	788884002	accidente cerebrovascular isquémico debido a hemorragia subaracnoidea	C5230186	Cerebral ischemic stroke due to subarachnoid hemorrhage		SEARCH (cerebral hemorrhage)
+SCTSPA	-		C2882294	Nontraumatic subarachnoid hemorrhage from unspecified middle cerebral artery		
+SCTSPA	-		C2882295	Nontraumatic subarachnoid hemorrhage from right middle cerebral artery		
+SCTSPA	-		C2882296	Nontraumatic subarachnoid hemorrhage from left middle cerebral artery		
+SCTSPA	-		C2882313	Subarachnoid hemorrhage (nontraumatic) from cerebral artery NOS		
+SCTSPA	-		C2882318	Cerebral lobe hemorrhage (nontraumatic)		
+SCTSPA	-		C2882293	Nontraumatic subarachnoid hemorrhage from middle cerebral artery		
+SCTSPA	-		C4520254	Apraxia due to and following spontaneous intracerebral hemorrhage		
+SCTSPA	672511000119101	disartria debida a accidente cerebrovascular hemorrágico y posterior a él	C4543191	Dysarthria due to and following hemorrhagic cerebrovascular accident		SEARCH (hemorrhagic stroke)
+SCTSPA	672571000119109	déficit cognitivo debido a accidente cerebrovascular hemorrágico y posterior a él	C4543192	Cognitive deficit due to and following hemorrhagic cerebrovascular accident		SEARCH (hemorrhagic stroke)
+SCTSPA	672531000119106	disfasia debida a accidente cerebrovascular hemorrágico y posterior a él	C4543197	Dysphasia due to and following hemorrhagic cerebrovascular accident		SEARCH (hemorrhagic stroke)
+SCTSPA	674391000119106	déficit del habla y del lenguaje debido a accidente cerebrovascular hemorrágico y posterior a él	C4543594	Speech and language deficit as sequela of hemorrhagic cerebrovascular accident		SEARCH (hemorrhagic stroke)
+SCTSPA	16703821000119101	déficit de memoria debido a accidente cerebrovascular hemorrágico y posterior a él	C5229721	Memory deficit due to and following hemorrhagic cerebrovascular accident		SEARCH (hemorrhagic stroke)
+SCTSPA	128610004	hemorragia cerebral	C0553692	Brain hemorrhage		CASEDEF
+SCTSPA	195166006	hemorragia del bulbo raquídeo [dup]	C0265082	Hemorrhage of medulla oblongata		NARROWER (C0553692)
+SCTSPA	28837001	hemorragia bulbar	C0265082	Hemorrhage of medulla oblongata		NARROWER (C0553692)
+SCTSPA	-		C0149854	Cerebellar hemorrhage		
+SCTSPA	-		C0475526	Intracerebral hemorrhage, intraventricular		
+SCTSPA	-		C0475527	Intracerebral hemorrhage, multiple localized		
+SCTSPA	-		C0265088	Intrapontine hemorrhage		
+SCTSPA	-		C0265085	Cortical hemorrhage		
+SCTSPA	-		C0265086	Internal capsule hemorrhage		
+SCTSPA	276282001	hemorragia subaracnoidea proveniente de aneurisma de la arteria comunicante anterior	C0349441	Subarachnoid hemorrhage from anterior communicating artery aneurysm		NARROWER (C0553692)
+SCTSPA	276283006	hemorragia subaracnoidea proveniente de aneurisma de la arteria comunicante posterior	C0349442	Subarachnoid hemorrhage from posterior communicating artery aneurysm		NARROWER (C0553692)
+SCTSPA	-		C0494602	Intracerebral hemorrhage in hemisphere, subcortical		
+SCTSPA	-		C0494605	Intracerebral hemorrhage in cerebellum		
+SCTSPA	-		C0265084	Cerebromeningeal hemorrhage		
+SCTSPA	-		C0265087	Subcortical hemorrhage		
+SCTSPA	-		C0265083	Pars basalis hemorrhage		

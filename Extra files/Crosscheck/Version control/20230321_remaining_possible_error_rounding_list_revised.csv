@@ -1,0 +1,180 @@
+coding_system,correct_code,code,code_name,concept,concept_name,tags,Corrected by,Date
+MEDCODEID,11989831000006100,1.19898310000061E+16,Adverse reaction to Insulin Lispro (Sanofi),,,narrow,,
+MEDCODEID,11989911000006100,1.19899110000061E+16,Adverse reaction to Insulin Soluble Porcine,,,narrow,,
+SCTSPA,15712841000119100,1.57128410001191E+16,Acute ST segment elevation myocardial infarction of posterolateral wall (disorder),,,narrow,Carlos Durán,22.03.23
+SCTSPA,15713161000119100,1.57131610001191E+16,Acute ST segment elevation myocardial infarction of septum (disorder),,,narrow,Carlos Durán,22.03.23
+SCTSPA,10675991000119100,1.06759910001191E+16,Acute severe exacerbation of mild persistent allergic asthma co-occurrent with allergic rhinitis (disorder),,,narrow,Carlos Durán,22.03.23
+SCTSPA,10675991000119100,1.06759910001191E+16,Acute severe exacerbation of mild persistent allergic asthma co-occurrent with allergic rhinitis (disorder),,,narrow,Carlos Durán,22.03.23
+SCTSPA,10755041000119100,1.07550410001191E+16,Alcohol dependence in childbirth (disorder),,,narrow,Carlos Durán,22.03.23
+SCTSPA,15649821000119100,1.56498210001191E+16,Aneurysm of artery of right upper limb (disorder),,,narrow,Carlos Durán,22.03.23
+SCTSPA,15648201000119100,1.56482010001191E+16,Aneurysm of intracranial portion of right internal carotid artery (disorder),,,narrow,Carlos Durán,22.03.23
+SCTSPA,15649741000119100,1.56497410001191E+16,Aneurysm of right brachial artery (disorder),,,narrow,Carlos Durán,22.03.23
+SCTSPA,15648861000119100,1.56488610001191E+16,Aneurysm of right subclavian artery (disorder),,,narrow,Carlos Durán,22.03.23
+SCTSPA,189486241000119100,1.8948624100011901E+17,Asymptomatic Severe acute respiratory syndrome coronavirus 2 infection (finding),,,narrow,Miriam Sturkenboom,22.03.23
+SCTSPA,189486241000119100,1.8948624100011901E+17,Asymptomatic Severe acute respiratory syndrome coronavirus 2 infection (finding),,,narrow,Miriam Sturkenboom,22.03.23
+SCTSPA,189486241000119100,1.8948624100011901E+17,Asymptomatic Severe acute respiratory syndrome coronavirus 2 infection (finding),,,narrow,Miriam Sturkenboom,22.03.23
+SCTSPA,15863931000119108,1.58639310001191E+16,Bilateral Duane-s syndrome of eyes,,,possible,Miriam Sturkenboom,22.03.23
+SCTSPA,10943471000119107,1.09434710001191E+16,Contusion of left cerebrum,,,possible,Carlos Durán,22.03.23
+SCTSPA,10943311000119108,1.09433110001191E+16,Contusion of right cerebrum,,,possible,Carlos Durán,22.03.23
+SCTSPA,16236701000119107,1.62367010001191E+16,Delirium due to drug withdrawal,,,possible,Carlos Durán,22.03.23
+SCTSPA,16236661000119100,1.62366610001191E+16,Delirium due to methamphetamine intoxication,,,possible,Carlos Durán,22.03.23
+SCTSPA,16279021000119106,1.62790210001191E+16,Delirium due to opioid withdrawal,,,possible,Carlos Durán,22.03.23
+SCTSPA,15710641000119100,1.57106410001191E+16,Dissection of bilateral vertebral arteries (disorder),,,narrow,Carlos Durán,22.03.23
+SCTSPA,16288341000119100,1.62883410001191E+16,Dissection of left femoral artery (disorder),,,narrow,Carlos Durán,22.03.23
+SCTSPA,16260551000119106,1.62605510001191E+16,Dysphasia due to and following cerebrovascular accident,,,possible,Carlos Durán,22.03.23
+SCTSPA,15985831000119107,1.59858310001191E+16,Dystonia of left hand,,,possible,Carlos Durán,22.03.23
+SCTSPA,404684003,1.59857910001191E+16,Dystonia of right hand,,,possible,Miriam Sturkenboom,22.03.23
+SCTSPA,10752641000119102,1.07526410001191E+16,Eclampsia with pre-existing hypertension in childbirth,,,possible,Miriam Sturkenboom,22.03.23
+SCTSPA,1240561000000108,1240561000000100,Encephalopathy due to COVID-19,,,possible,Miriam Sturkenboom,22.03.23
+SCTSPA,10677711000119101,1.06777110001191E+16,Encephalopathy due to Influenza A virus,,,possible,Miriam Sturkenboom,22.03.23
+SCTSPA,1082511000119102,1082511000119100,Hepatic coma due to acute hepatic failure,,,possible,Miriam Sturkenboom,22.03.23
+SCTSPA,1082621000119108,1082621000119100,Hepatic coma due to alcoholic liver failure,,,possible,Miriam Sturkenboom,22.03.23
+SCTSPA,1085091000119108,1085091000119100,Hepatic coma due to chronic hepatic failure,,,possible,Miriam Sturkenboom,22.03.23
+SCTSPA,1092691000119109,1092691000119100,Hepatic coma due to subacute liver failure,,,possible,Miriam Sturkenboom,22.03.23
+SCTSPA,10754921000119106,1.07549210001191E+16,Hyperthyroidism in childbirth,,,possible,Miriam Sturkenboom,22.03.23
+SCTSPA,10754921000119106,1.07549210001191E+16,Hyperthyroidism in childbirth,,,possible,Miriam Sturkenboom,22.03.23
+SCTSPA,15863451000119107,1.58634510001191E+16,Lipoma of brain,,,possible,Miriam Sturkenboom,22.03.23
+SCTSPA,16703661000119105,1.67036610001191E+16,Memory deficit due to and following cerebrovascular accident,,,possible,Miriam Sturkenboom,22.03.23
+SCTSPA,16703661000119105,1.67035510001191E+16,Memory deficit due to and following cerebrovascular disease,,,possible,Miriam Sturkenboom,22.03.23
+SCTSPA,16703711000119100,1.67037110001191E+16,Memory deficit due to and following embolic cerebrovascular accident,,,possible,Miriam Sturkenboom,22.03.23
+SCTSPA,16703761000119102,1.67037610001191E+16,Memory deficit due to and following ischemic cerebrovascular accident,,,possible,Miriam Sturkenboom,22.03.23
+SCTSPA,16462851000119106,1.64628510001191E+16,Myalgia caused by statin,,,possible,Miriam Sturkenboom,22.03.23
+SCTSPA,16462851000119106,1.64628510001191E+16,Myalgia caused by statin,,,possible,Miriam Sturkenboom,22.03.23
+SCTSPA,12367511000119101,1.23675110001191E+16,Paraplegia as sequela of cerebrovascular accident,,,possible,Miriam Sturkenboom,22.03.23
+SCTSPA,16845341000119105,1.68453410001191E+16,Primary glioblastoma multiforme of brainstem,,,possible,Miriam Sturkenboom,22.03.23
+SCTSPA,16845301000119108,1.68453010001191E+16,Primary glioblastoma multiforme of cerebellum,,,possible,Miriam Sturkenboom,22.03.23
+SCTSPA,15921731000119106,1.59217310001191E+16,Psychotic disorder caused by methamphetamine,,,possible,Miriam Sturkenboom,22.03.23
+SCTSPA,15629411000119106,1.56294110001191E+16,Subependymoma of brain,,,possible,Miriam Sturkenboom,22.03.23
+SCTSPA,16276361000119109,1.62763610001191E+16,Vascular dementia without behavioral disturbance,,,possible,Miriam Sturkenboom,22.03.23
+SCTSPA,762005171000119101,7.6200517100011904E+17,accidente cerebrovascular agudo debido a isquemia,C5392833,Acute Ischemic Stroke,narrow,Miriam Sturkenboom,22.03.23
+SCTSPA,16661971000119104,1.66619710001191E+16,accidente cerebrovascular debido a estenosis bilateral de arterias carÃ³tidas,C5192372,Cerebrovascular accident due to stenosis of bilateral carotid arteries,narrow,Miriam Sturkenboom,22.03.23
+SCTSPA,16661931000119102,1.66619310001191E+16,accidente cerebrovascular debido a estenosis bilateral de arterias vertebrales,C5229707,Cerebrovascular accident due to stenosis of bilateral vertebral arteries,narrow,Miriam Sturkenboom,22.03.23
+SCTSPA,292661000119105,1.60269510001191E+16,accidente cerebrovascular debido a estenosis de arteria carÃ³tida derecha,C4273984,Cerebrovascular accident due to right carotid artery stenosis,narrow,Miriam Sturkenboom,22.03.23
+SCTSPA,16026991000119107,1.60269910001191E+16,accidente cerebrovascular debido a estenosis de arteria carÃ³tida izquierda,C4273982,Cerebrovascular accident due to left carotid artery stenosis,narrow,Miriam Sturkenboom,22.03.23
+SCTSPA,16023911000119108,1.60241110001191E+16,accidente cerebrovascular debido a oclusiÃ³n de arteria carÃ³tida izquierda,C4543237,Cerebrovascular accident due to occlusion of left carotid artery,narrow,Miriam Sturkenboom,22.03.23
+SCTSPA,16024111000119109,1.60241510001191E+16,accidente cerebrovascular debido a oclusiÃ³n de arteria cerebelosa izquierda,C4543230,Cerebrovascular accident due to occlusion of left cerebellar artery,narrow,Miriam Sturkenboom,22.03.23
+SCTSPA,655081461000119101,6.5508146100011904E+17,accidente cerebrovascular debido a oclusiÃ³n de arteria cerebral anterior derecha,C4520264,Cerebrovascular accident due to occlusion of right anterior cerebral artery,narrow,Miriam Sturkenboom,22.03.23
+SCTSPA,16000511000119103,1.60005110001191E+16,accidente cerebrovascular debido a oclusiÃ³n de arteria cerebral media izquierda,C4543238,Cerebrovascular accident due to occlusion of left middle cerebral artery,narrow,Miriam Sturkenboom,22.03.23
+SCTSPA,16000391000119104,1.60003910001191E+16,accidente cerebrovascular debido a oclusiÃ³n de arteria cerebral posterior derecha,C4543236,Cerebrovascular accident due to occlusion of right posterior cerebral artery,narrow,Miriam Sturkenboom,22.03.23
+SCTSPA,16000351000119109,1.60003510001191E+16,accidente cerebrovascular debido a oclusiÃ³n de arteria cerebral posterior izquierda,C4543240,Cerebrovascular accident due to occlusion of left posterior cerebral artery,narrow,Miriam Sturkenboom,22.03.23
+SCTSPA,16024031000119100,1.60240310001191E+16,accidente cerebrovascular debido a oclusiÃ³n de arteria pontina derecha,C4543235,Cerebrovascular accident due to occlusion of right pontine artery,narrow,Miriam Sturkenboom,22.03.23
+SCTSPA,16023991000119104,1.60239910001191E+16,accidente cerebrovascular debido a oclusiÃ³n de arteria pontina izquierda,C4543232,Cerebrovascular accident due to occlusion of left pontine artery,narrow,Miriam Sturkenboom,22.03.23
+SCTSPA,1091881000119100,1091881000119100,acÃºfeno objetivo del oÃ­do derecho (hallazgo),,,possible,Miriam Sturkenboom,22.03.23
+SCTSPA,1089631000119100,1089631000119100,acÃºfenos subjetivo del oÃ­do izquierdo (hallazgo),,,possible,Miriam Sturkenboom,22.03.23
+SCTSPA,1074031000119100,1074031000119100,artritis gotosa de dedo gordo del pie izquierdo,C4509768,Gouty arthritis of left great toe,narrow,Miriam Sturkenboom,22.03.23
+SCTSPA,10629191000119100,1.06291910001191E+16,bronquiolitis causada por virus influenza,,,narrow,Miriam Sturkenboom,22.03.23
+SCTSPA,1090991000119100,1090991000119100,condrodermatitis nodular helicoidal de la oreja derecha (trastorno),,,narrow,Miriam Sturkenboom,22.03.23
+SCTSPA,15988671000119100,1.59886710001191E+16,conjuntivitis alÃ©rgica perenne de ambos ojos,,,narrow,Miriam Sturkenboom,22.03.23
+SCTSPA,15918221000119100,1.59182210001191E+16,fractura de cresta alveolar de lado izquierdo de maxilar superior- no expuesta (trastorno),,,narrow,Miriam Sturkenboom,22.03.23
+SCTSPA,10926761000119100,1.09267610001191E+16,fractura de diÃ¡fisis de primer metacarpiano de la mano izquierda- no expuesta (trastorno),,,narrow,Miriam Sturkenboom,22.03.23
+SCTSPA,15918341000119100,1.59183410001191E+16,fractura expuesta de cresta alveolar de lado derecho del maxilar superior (trastorno),,,narrow,Miriam Sturkenboom,22.03.23
+SCTSPA,10835571000119102,1.08355710001191E+16,hemorragia preparto debida a coagulaciÃ³n intravascular diseminada,C3873495,Antepartum hemorrhage due to disseminated intravascular coagulation,narrow,Miriam Sturkenboom,22.03.23
+SCTSPA,16098491000119109,1.60984910001191E+16,hepatitis autoinmunitaria crÃ³nica,C0241910,Autoimmune Chronic Hepatitis,narrow,Miriam Sturkenboom,22.03.23
+SCTSPA,189486241000119100,1.8948624100011901E+17,infecciÃ³n asintomÃ¡tica por coronavirus 2 del sÃ­ndrome respiratorio agudo severo (hallazgo),,,narrow,Miriam Sturkenboom,22.03.23
+SCTSPA,1240541000000107,1240541000000100,infecciÃ³nÂ delÂ tractoÂ respiratorioÂ superiorÂ causadaÂ porÂ coronavirusÂ 2Â delÂ sÃ­ndromeÂ respiratorioÂ agudoÂ severo,,,narrow,Miriam Sturkenboom,22.03.23
+SCTSPA,882784691000119100,8.8278469100011904E+17,neumonÃ­a causada por coronavirus 2 del sÃ­ndrome respiratorio agudo severo (trastorno),,,narrow,Miriam Sturkenboom,22.03.23
+SCTSPA,1077551000119106,1077551000119100,osteomielitis crÃ³nica de fÃ©mur derecho,,,narrow,Miriam Sturkenboom,22.03.23
+SCTSPA,1077561000119108,1077561000119100,osteomielitis crÃ³nica de fÃ©mur izquierdo,,,narrow,Miriam Sturkenboom,22.03.23
+SCTSPA,1077821000119100,1077821000119100,osteomielitis de pie derecho,C4509911,Osteomyelitis of right foot,narrow,Miriam Sturkenboom,22.03.23
+SCTSPA,1091631000119100,1091631000119100,otitis externa maligna del conducto auditivo externo derecho (trastorno),,,narrow,Miriam Sturkenboom,22.03.23
+SCTSPA,1240521000000100,1240521000000100,otitis media debida a enfermedad causada por coronavirus 2 del sÃ­ndrome respiratorio agudo severo (trastorno),,,narrow,Miriam Sturkenboom,22.03.23
+SCTSPA,1240521000000100,1240521000000100,otitis media debida a enfermedad causada por coronavirus 2 del sÃ­ndrome respiratorio agudo severo (trastorno),,,narrow,Miriam Sturkenboom,22.03.23
+SCTSPA,1091101000119100,1091101000119100,otitis no infecciosa crÃ³nica externa del conducto auditivo externo derecho (trastorno),,,narrow,Miriam Sturkenboom,22.03.23
+SCTSPA,1083291000119100,1083291000119100,pericondritis crÃ³nica de ambos oÃ­dos externos (trastorno),,,narrow,Miriam Sturkenboom,22.03.23
+SCTSPA,1083731000119105,1091471000119100,pericondritis de oÃ­do externo derecho,C4750537,Perichondritis of right external ear,narrow,Miriam Sturkenboom,22.03.23
+SCTSPA,15967181000119108,1.59671810001191E+16,sÃ­ndrome de robo de la subclavia de arteria subclavia derecha,C4543614,Subclavian steal syndrome of right subclavian artery,possible,Miriam Sturkenboom,22.03.23
+SCTSPA,16064651000119108,1.60646510001191E+16,trastorno debido a sÃ­ndrome de Guillain BarrÃ© y posterior a Ã©l,C2875308,Sequela of Guillain Barre syndrome,narrow,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,840533007,2807490000000000,2019 Novel Coronavirus,,,narrow,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,840533007,2808670000000000,2019 Novel Coronavirus,,,narrow,Carlos Durán,23.03.23
+SNOMEDCT_US,840533007,2808920000000000,2019 Novel Coronavirus,,,narrow,Carlos Durán,23.03.23
+SNOMEDCT_US,840533007,2833750000000000,2019 Novel Coronavirus,,,narrow,Carlos Durán,23.03.23
+SNOMEDCT_US,897034005,2808080000000000,2019 nCOv positive,,,narrow,Carlos Durán,23.03.23
+SNOMEDCT_US,897034005,2832020000000000,2019 nCOv positive,,,narrow,Carlos Durán,23.03.23
+SNOMEDCT_US,897034005,2837990000000000,2019 nCOv positive,,,narrow,Carlos Durán,23.03.23
+SNOMEDCT_US,897034005,2808080000000000,2019 nCOv positive,,,narrow,Carlos Durán,23.03.23
+SNOMEDCT_US,897034005,2832020000000000,2019 nCOv positive,,,narrow,Carlos Durán,23.03.23
+SNOMEDCT_US,897034005,2837990000000000,2019 nCOv positive,,,narrow,Carlos Durán,23.03.23
+SNOMEDCT_US,1240581000000104,2808080000000000,2019-nCoV (novel coronavirus) detected,,,narrow,Carlos Durán,23.03.23
+SNOMEDCT_US,871562009,2837990000000000,2019-nCoV (novel coronavirus) detection result positive at the limit of detection,,,narrow,Carlos Durán,23.03.23
+SNOMEDCT_US,871562009,2837990000000000,2019-nCoV (novel coronavirus) detection result positive at the limit of detection,,,narrow,Carlos Durán,23.03.23
+SNOMEDCT_US,871562009,2828070000000000,2019-nCoV (novel coronavirus) qualitative existence in specimen,,,narrow,Carlos Durán,23.03.23
+SNOMEDCT_US,871562009,2828070000000000,2019-nCoV (novel coronavirus) qualitative existence in specimen,,,narrow,Carlos Durán,23.03.23
+SNOMEDCT_US,871555000,2837120000000000,2019-nCoV (novel coronavirus) ribonucleic acid detected,,,narrow,Carlos Durán,23.03.23
+SNOMEDCT_US,871555000,2837120000000000,2019-nCoV (novel coronavirus) ribonucleic acid detected,,,narrow,Carlos Durán,23.03.23
+SNOMEDCT_US,1119302008,2839410000000000,Acute COVID-19 infection,,,narrow,Carlos Durán,23.03.23
+SNOMEDCT_US,1119302008,2839410000000000,Acute COVID-19 infection,,,narrow,Carlos Durán,23.03.23
+SNOMEDCT_US,1119302008,2839410000000000,Acute COVID-19 infection,,,narrow,Carlos Durán,23.03.23
+SNOMEDCT_US,15712841000119100,1.57128410001191E+16,Acute ST segment elevation myocardial infarction of posterolateral wall (disorder),,,narrow,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,15713161000119100,1.57131610001191E+16,Acute ST segment elevation myocardial infarction of septum (disorder),,,narrow,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,138389411000119105,2838060000000000,Acute bronchitis caused by 2019-nCoV (novel coronavirus),,,narrow,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,138389411000119105,2838060000000000,Acute bronchitis caused by 2019-nCoV (novel coronavirus),,,narrow,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,870590002,2838140000000000,Acute hypoxemic respiratory failure due to disease caused by 2019-nCoV (novel coronavirus),,,narrow,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,870590002,2838140000000000,Acute hypoxemic respiratory failure due to disease caused by 2019-nCoV (novel coronavirus),,,narrow,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,10755041000119100,1.07550410001191E+16,Alcohol dependence in childbirth (disorder),,,narrow,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,15649821000119100,1.56498210001191E+16,Aneurysm of artery of right upper limb (disorder),,,narrow,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,15648201000119100,1.56482010001191E+16,Aneurysm of intracranial portion of right internal carotid artery (disorder),,,narrow,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,15649741000119100,1.56497410001191E+16,Aneurysm of right brachial artery (disorder),,,narrow,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,15648861000119100,1.56488610001191E+16,Aneurysm of right subclavian artery (disorder),,,narrow,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,189486241000119100,2838080000000000,Asymptomatic 2019-nCoV (novel coronavirus) infection,,,narrow,Carlos Durán,23.03.23
+SNOMEDCT_US,189486241000119100,2838080000000000,Asymptomatic 2019-nCoV (novel coronavirus) infection,,,narrow,Carlos Durán,23.03.23
+SNOMEDCT_US,15863931000119108,1.58639310001191E+16,Bilateral Duane-s syndrome of eyes,,,possible,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,1089101000119100,1089101000119100,Cholesteatoma of left middle ear (disorder),,,possible,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,16098491000119109,1.60984910001191E+16,Chronic autoimmune hepatitis,C0241910,Autoimmune Chronic Hepatitis,narrow,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,10943471000119107,1.09434710001191E+16,Contusion of left cerebrum,,,possible,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,10943311000119108,1.09433110001191E+16,Contusion of right cerebrum,,,possible,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,25820001000004100,2.58200010000041E+16,Deep venous thrombosis of left upper extremity,,,narrow,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,16236701000119107,1.62367010001191E+16,Delirium due to drug withdrawal,,,possible,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,16236661000119100,1.62366610001191E+16,Delirium due to methamphetamine intoxication,,,possible,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,16279021000119106,1.62790210001191E+16,Delirium due to opioid withdrawal,,,possible,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,16238181000119101,1.62381810001191E+16,Depressive disorder caused by amphetamine,,,possible,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,16238221000119109,1.62382210001191E+16,Depressive disorder caused by methamphetamine,,,possible,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,1083581000119100,1083581000119100,Disorder of bilateral tympanic membranes (disorder),,,possible,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,15710641000119100,1.57106410001191E+16,Dissection of bilateral vertebral arteries (disorder),,,narrow,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,16288341000119100,1.62883410001191E+16,Dissection of left femoral artery (disorder),,,narrow,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,16260551000119106,1.62605510001191E+16,Dysphasia due to and following cerebrovascular accident,,,possible,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,15985831000119107,1.59858310001191E+16,Dystonia of left hand,,,possible,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,15985791000119101,1.59857910001191E+16,Dystonia of right hand,,,possible,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,10752641000119102,1.07526410001191E+16,Eclampsia with pre-existing hypertension in childbirth,,,possible,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,10677711000119101,1.06777110001191E+16,Encephalopathy due to Influenza A virus,,,possible,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,63088003,1086701000000100,Extrinsic asthma with status asthmaticus,,,narrow,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,15953381000119105,1.59533810001191E+16,Fissure of left nipple during lactation,,,narrow,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,1084151000119100,1084151000119100,Hearing loss of bilateral ears caused by noise (disorder),,,possible,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,1084151000119100,1089221000119100,Hearing loss of left ear caused by noise (disorder),,,possible,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,1082511000119102,1082511000119100,Hepatic coma due to acute hepatic failure,,,possible,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,1082621000119108,1082621000119100,Hepatic coma due to alcoholic liver failure,,,possible,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,1085091000119108,1085091000119100,Hepatic coma due to chronic hepatic failure,,,possible,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,1092691000119109,1092691000119100,Hepatic coma due to subacute liver failure,,,possible,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,10754921000119106,1.07549210001191E+16,Hyperthyroidism in childbirth,,,possible,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,10754921000119106,1.07549210001191E+16,Hyperthyroidism in childbirth,,,possible,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,86981007,1083871000119100,Infective otitis externa of bilateral ears,C4281053,Infective otitis externa of bilateral ears,narrow,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,12428000,1086711000000100,Intrinsic asthma with status asthmaticus,,,narrow,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,15863451000119107,1.58634510001191E+16,Lipoma of brain,,,possible,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,16703661000119105,1.67036610001191E+16,Memory deficit due to and following cerebrovascular accident,,,possible,Carlos Durán,22.03.23
+SNOMEDCT_US,16703551000119107,1.67035510001191E+16,Memory deficit due to and following cerebrovascular disease,,,possible,Carlos Durán,22.03.23
+SNOMEDCT_US,16703711000119100,1.67037110001191E+16,Memory deficit due to and following embolic cerebrovascular accident,,,possible,Carlos Durán,22.03.23
+SNOMEDCT_US,16703821000119101,1.67038210001191E+16,Memory deficit due to and following hemorrhagic cerebrovascular accident,C5229721,Memory deficit due to and following hemorrhagic cerebrovascular accident,possible,Carlos Durán,22.03.23
+SNOMEDCT_US,16703761000119102,1.67037610001191E+16,Memory deficit due to and following ischemic cerebrovascular accident,,,possible,Carlos Durán,22.03.23
+SNOMEDCT_US,12398361000119105,1.23983610001191E+16,Mental disorder caused by methamphetamine,,,possible,Carlos Durán,22.03.23
+SNOMEDCT_US,12398321000119100,1.23983210001191E+16,Mood disorder caused by methamphetamine,,,possible,Carlos Durán,22.03.23
+SNOMEDCT_US,16089691000119102,1.60896910001191E+16,Multiple liveborn in hospital by vaginal delivery,,,narrow,Carlos Durán,22.03.23
+SNOMEDCT_US,16462851000119106,1.64628510001191E+16,Myalgia caused by statin,,,possible,Carlos Durán,22.03.23
+SNOMEDCT_US,16462851000119106,1.64628510001191E+16,Myalgia caused by statin,,,possible,Carlos Durán,22.03.23
+SNOMEDCT_US,16716281000119108,1.67162810001191E+16,Neonatal jaundice due to ABO incompatibility,,,narrow,Carlos Durán,22.03.23
+SNOMEDCT_US,10750411000119102,1.07504110001191E+16,Nonpurulent mastitis associated with lactation,C2909522,Nonpurulent mastitis associated with lactation,narrow,Carlos Durán,22.03.23
+SNOMEDCT_US,1077821000119100,1077821000119100,Osteomyelitis of right foot,C4509911,Osteomyelitis of right foot,narrow,Carlos Durán,22.03.23
+SNOMEDCT_US,,1.59170110001191E+16,Pain of right shoulder joint,C0241040,Pain of right shoulder joint,possible,Carlos Durán,22.03.23
+SNOMEDCT_US,12367511000119101,1.23675110001191E+16,Paraplegia as sequela of cerebrovascular accident,,,possible,Carlos Durán,22.03.23
+SNOMEDCT_US,1091471000119100,1091471000119100,Perichondritis of right external ear,C4750537,Perichondritis of right external ear,narrow,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,16845341000119105,1.68453410001191E+16,Primary glioblastoma multiforme of brainstem,,,possible,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,16845301000119108,1.68453010001191E+16,Primary glioblastoma multiforme of cerebellum,,,possible,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,15921731000119106,1.59217310001191E+16,Psychotic disorder caused by methamphetamine,,,possible,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,16064651000119108,1.60646510001191E+16,Sequela of Guillain Barre syndrome,C2875308,Sequela of Guillain Barre syndrome,narrow,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,16275741000119100,1.62757410001191E+16,Severe pediatric obstructive sleep apnea (disorder),,,narrow,Miriam Sturkenboom,22.03.23
+SNOMEDCT_US,11312081000119100,1.13120810001191E+16,Stress fracture of occipito atlanto axial vertebra,C3874393,Stress fracture of occipito atlanto axial vertebra,narrow,Carlos Durán,22.03.23
+SNOMEDCT_US,15629411000119106,1.56294110001191E+16,Subependymoma of brain,,,possible,Carlos Durán,22.03.23
+SNOMEDCT_US,16011911000119100,1.60119110001191E+16,Thrombophlebitis of left popliteal vein (disorder),,,narrow,Carlos Durán,22.03.23
+SNOMEDCT_US,15968821000119100,1.59688210001191E+16,Thrombophlebitis of right iliac vein (disorder),,,narrow,Carlos Durán,22.03.23
+SNOMEDCT_US,16006071000119100,1.60060710001191E+16,Thrombophlebitis of vein of left upper limb (disorder),,,narrow,Carlos Durán,22.03.23
+SNOMEDCT_US,16089571000119102,1.60895710001191E+16,Triplet liveborn in hospital by cesarean section,,,narrow,Carlos Durán,22.03.23
+SNOMEDCT_US,16276361000119109,1.62763610001191E+16,Vascular dementia without behavioral disturbance,,,possible,Carlos Durán,22.03.23
+SNOMEDCT_US,1084691000119100,1084691000119100,Vestibular neuronitis of bilateral inner ears (disorder),,,narrow,Carlos Durán,22.03.23

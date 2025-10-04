@@ -1,0 +1,545 @@
+Coding system	Code	Code name	Concept	Concept name	Tags	Origin
+ICD10	-		C2887870	Diverticulitis of small intestine without perforation or abscess without bleeding	Narrow	
+ICD10	-		C2887865	Diverticulitis of small intestine with perforation and abscess	Narrow	
+ICD10	-		C0012813	Diverticulitis	Narrow	
+ICD10	-		C0268847	Diverticulitis of bladder	Narrow	
+ICD10	-		C0012814	Colonic Diverticulitis	Narrow	
+ICD10	-		C0544793	Hemorrhagic diverticulitis	Narrow	
+ICD10	-		C0349774	Diverticulitis of gastrointestinal tract	Narrow	
+ICD10	-		C4039748	Abscess of jejunum co-occurrent and due to diverticulitis	Narrow	
+ICD10	-		C0267497	Meckel's diverticulitis	Narrow	
+ICD10	-		C0264293	Pharyngeal diverticulitis	Narrow	
+ICD10	-		C0544794	Perforated diverticulitis	Narrow	
+ICD10	-		C4038984	Perforation of small intestine due to diverticulitis	Narrow	
+ICD10	-		C0544792	Obstructive diverticulitis	Narrow	
+ICD10	-		C4041411	Abscess of sigmoid colon co-occurrent and due to diverticulitis	Narrow	
+ICD10	-		C4750433	Abscess of cecum co-occurrent and due to diverticulitis	Narrow	
+ICD10	-		C0156167	Diverticulitis of colon (without mention of haemorrhage)	Narrow	
+ICD10	-		C0917875	Esophageal diverticulosis	Narrow	
+ICD10	-		C0012814	Colonic Diverticulitis	Narrow	
+ICD10	-		C0267497	Meckel's diverticulitis	Narrow	
+ICD10	-		C0544792	Obstructive diverticulitis	Narrow	
+ICD10	-		C1510475	Diverticulosis	Possible	
+ICD10	K57	Diverticular disease of intestine	C4317009	Diverticular Diseases	Possible	NARROWER (C1510475)
+ICD10	K57.0	Diverticular disease of small intestine with perforation and abscess			Possible	DESC (K57)
+ICD10	K57.1	Diverticular disease of small intestine without perforation or abscess			Possible	DESC (K57)
+ICD10	K57.2	Diverticular disease of large intestine with perforation and abscess			Possible	DESC (K57)
+ICD10	K57.3	Diverticular disease of large intestine without perforation or abscess			Possible	DESC (K57)
+ICD10	K57.4	Diverticular disease of both small and large intestine with perforation and abscess			Possible	DESC (K57)
+ICD10	K57.5	Diverticular disease of both small and large intestine without perforation or abscess			Possible	DESC (K57)
+ICD10	K57.8	Diverticular disease of intestine, part unspecified, with perforation and abscess			Possible	DESC (K57)
+ICD10	K57.9	Diverticular disease of intestine, part unspecified, without perforation or abscess			Possible	DESC (K57)
+ICD10	-		C0267498	Diverticulosis of small intestine	Possible	
+ICD10	-		C0341354	Diverticular disease of large intestine	Possible	
+ICD10	-		C0012819	Diverticular disease of colon	Possible	
+ICD10	-		C0012817	Diverticulum	Possible	
+ICD10	-		C0012811	Colon diverticulum anatomic structure	Possible	
+ICD10	-		C3648489	diverticulosis of intestine, without perforation or abscess, with hemorrhage	Possible	
+ICD10	-		C0837257	Diverticulosis of both small and large intestine without perforation or abscess, with hemorrhage	Possible	
+ICD10CM	K57.12	Diverticulitis of small intestine without perforation or abscess without bleeding	C2887870	Diverticulitis of small intestine without perforation or abscess without bleeding	Narrow	ADD (Diverticulitis of small intestine without perforation or abscess without bleeding)
+ICD10CM	K57.0	Diverticulitis of small intestine with perforation and abscess	C2887865	Diverticulitis of small intestine with perforation and abscess	Narrow	BROADER (C2887866)
+ICD10CM	K57.00	Diverticulitis of small intestine with perforation and abscess without bleeding			Narrow	DESC (K57.0)
+ICD10CM	K57.01	Diverticulitis of small intestine with perforation and abscess with bleeding			Narrow	DESC (K57.0)
+ICD10CM	-		C0012813	Diverticulitis	Narrow	
+ICD10CM	-		C0268847	Diverticulitis of bladder	Narrow	
+ICD10CM	-		C0012814	Colonic Diverticulitis	Narrow	
+ICD10CM	-		C0544793	Hemorrhagic diverticulitis	Narrow	
+ICD10CM	-		C0349774	Diverticulitis of gastrointestinal tract	Narrow	
+ICD10CM	-		C4039748	Abscess of jejunum co-occurrent and due to diverticulitis	Narrow	
+ICD10CM	-		C0267497	Meckel's diverticulitis	Narrow	
+ICD10CM	-		C0264293	Pharyngeal diverticulitis	Narrow	
+ICD10CM	-		C0544794	Perforated diverticulitis	Narrow	
+ICD10CM	-		C4038984	Perforation of small intestine due to diverticulitis	Narrow	
+ICD10CM	-		C0544792	Obstructive diverticulitis	Narrow	
+ICD10CM	-		C4041411	Abscess of sigmoid colon co-occurrent and due to diverticulitis	Narrow	
+ICD10CM	-		C4750433	Abscess of cecum co-occurrent and due to diverticulitis	Narrow	
+ICD10CM	-		C0156167	Diverticulitis of colon (without mention of haemorrhage)	Narrow	
+ICD10CM	-		C0917875	Esophageal diverticulosis	Narrow	
+ICD10CM	-		C0012814	Colonic Diverticulitis	Narrow	
+ICD10CM	-		C0267497	Meckel's diverticulitis	Narrow	
+ICD10CM	-		C0544792	Obstructive diverticulitis	Narrow	
+ICD10CM	-		C1510475	Diverticulosis	Possible	
+ICD10CM	K57	Diverticular disease of intestine	C4317009	Diverticular Diseases	Possible	NARROWER (C1510475)
+ICD10CM	K57.0	Diverticulitis of small intestine with perforation and abscess			Possible	DESC (K57)
+ICD10CM	K57.00	Diverticulitis of small intestine with perforation and abscess without bleeding			Possible	DESC (K57)
+ICD10CM	K57.01	Diverticulitis of small intestine with perforation and abscess with bleeding			Possible	DESC (K57)
+ICD10CM	K57.1	Diverticular disease of small intestine without perforation or abscess			Possible	DESC (K57)
+ICD10CM	K57.10	Diverticulosis of small intestine without perforation or abscess without bleeding			Possible	DESC (K57)
+ICD10CM	K57.11	Diverticulosis of small intestine without perforation or abscess with bleeding			Possible	DESC (K57)
+ICD10CM	K57.12	Diverticulitis of small intestine without perforation or abscess without bleeding			Possible	DESC (K57)
+ICD10CM	K57.13	Diverticulitis of small intestine without perforation or abscess with bleeding			Possible	DESC (K57)
+ICD10CM	K57.2	Diverticulitis of large intestine with perforation and abscess			Possible	DESC (K57)
+ICD10CM	K57.20	Diverticulitis of large intestine with perforation and abscess without bleeding			Possible	DESC (K57)
+ICD10CM	K57.21	Diverticulitis of large intestine with perforation and abscess with bleeding			Possible	DESC (K57)
+ICD10CM	K57.3	Diverticular disease of large intestine without perforation or abscess			Possible	DESC (K57)
+ICD10CM	K57.30	Diverticulosis of large intestine without perforation or abscess without bleeding			Possible	DESC (K57)
+ICD10CM	K57.31	Diverticulosis of large intestine without perforation or abscess with bleeding			Possible	DESC (K57)
+ICD10CM	K57.32	Diverticulitis of large intestine without perforation or abscess without bleeding			Possible	DESC (K57)
+ICD10CM	K57.33	Diverticulitis of large intestine without perforation or abscess with bleeding			Possible	DESC (K57)
+ICD10CM	K57.4	Diverticulitis of both small and large intestine with perforation and abscess			Possible	DESC (K57)
+ICD10CM	K57.40	Diverticulitis of both small and large intestine with perforation and abscess without bleeding			Possible	DESC (K57)
+ICD10CM	K57.41	Diverticulitis of both small and large intestine with perforation and abscess with bleeding			Possible	DESC (K57)
+ICD10CM	K57.5	Diverticular disease of both small and large intestine without perforation or abscess			Possible	DESC (K57)
+ICD10CM	K57.50	Diverticulosis of both small and large intestine without perforation or abscess without bleeding			Possible	DESC (K57)
+ICD10CM	K57.51	Diverticulosis of both small and large intestine without perforation or abscess with bleeding			Possible	DESC (K57)
+ICD10CM	K57.52	Diverticulitis of both small and large intestine without perforation or abscess without bleeding			Possible	DESC (K57)
+ICD10CM	K57.53	Diverticulitis of both small and large intestine without perforation or abscess with bleeding			Possible	DESC (K57)
+ICD10CM	K57.8	Diverticulitis of intestine, part unspecified, with perforation and abscess			Possible	DESC (K57)
+ICD10CM	K57.80	Diverticulitis of intestine, part unspecified, with perforation and abscess without bleeding			Possible	DESC (K57)
+ICD10CM	K57.81	Diverticulitis of intestine, part unspecified, with perforation and abscess with bleeding			Possible	DESC (K57)
+ICD10CM	K57.9	Diverticular disease of intestine, part unspecified, without perforation or abscess			Possible	DESC (K57)
+ICD10CM	K57.90	Diverticulosis of intestine, part unspecified, without perforation or abscess without bleeding			Possible	DESC (K57)
+ICD10CM	K57.91	Diverticulosis of intestine, part unspecified, without perforation or abscess with bleeding			Possible	DESC (K57)
+ICD10CM	K57.92	Diverticulitis of intestine, part unspecified, without perforation or abscess without bleeding			Possible	DESC (K57)
+ICD10CM	K57.93	Diverticulitis of intestine, part unspecified, without perforation or abscess with bleeding			Possible	DESC (K57)
+ICD10CM	-		C0267498	Diverticulosis of small intestine	Possible	
+ICD10CM	-		C0341354	Diverticular disease of large intestine	Possible	
+ICD10CM	-		C0012819	Diverticular disease of colon	Possible	
+ICD10CM	-		C0012817	Diverticulum	Possible	
+ICD10CM	-		C0012811	Colon diverticulum anatomic structure	Possible	
+ICD10CM	-		C3648489	diverticulosis of intestine, without perforation or abscess, with hemorrhage	Possible	
+ICD10CM	-		C0837257	Diverticulosis of both small and large intestine without perforation or abscess, with hemorrhage	Possible	
+ICD9CM	-		C2887870	Diverticulitis of small intestine without perforation or abscess without bleeding	Narrow	
+ICD9CM	-		C2887865	Diverticulitis of small intestine with perforation and abscess	Narrow	
+ICD9CM	-		C0012813	Diverticulitis	Narrow	
+ICD9CM	-		C0268847	Diverticulitis of bladder	Narrow	
+ICD9CM	-		C0012814	Colonic Diverticulitis	Narrow	
+ICD9CM	562.13	Diverticulitis of colon with hemorrhage	C0544793	Hemorrhagic diverticulitis	Narrow	NARROWER (C0012813)
+ICD9CM	-		C0349774	Diverticulitis of gastrointestinal tract	Narrow	
+ICD9CM	-		C4039748	Abscess of jejunum co-occurrent and due to diverticulitis	Narrow	
+ICD9CM	-		C0267497	Meckel's diverticulitis	Narrow	
+ICD9CM	-		C0264293	Pharyngeal diverticulitis	Narrow	
+ICD9CM	-		C0544794	Perforated diverticulitis	Narrow	
+ICD9CM	-		C4038984	Perforation of small intestine due to diverticulitis	Narrow	
+ICD9CM	-		C0544792	Obstructive diverticulitis	Narrow	
+ICD9CM	-		C4041411	Abscess of sigmoid colon co-occurrent and due to diverticulitis	Narrow	
+ICD9CM	-		C4750433	Abscess of cecum co-occurrent and due to diverticulitis	Narrow	
+ICD9CM	562.11	Diverticulitis of colon (without mention of hemorrhage)	C0156167	Diverticulitis of colon (without mention of haemorrhage)	Narrow	NARROWER (C0012813)
+ICD9CM	-		C0917875	Esophageal diverticulosis	Narrow	
+ICD9CM	-		C0012814	Colonic Diverticulitis	Narrow	
+ICD9CM	-		C0267497	Meckel's diverticulitis	Narrow	
+ICD9CM	-		C0544792	Obstructive diverticulitis	Narrow	
+ICD9CM	562	Diverticula of intestine	C1510475	Diverticulosis	Possible	CASEDEF
+ICD9CM	562.0	Diverticula of small intestine			Possible	DESC (562)
+ICD9CM	562.00	Diverticulosis of small intestine (without mention of hemorrhage)			Possible	DESC (562)
+ICD9CM	562.01	Diverticulitis of small intestine (without mention of hemorrhage)			Possible	DESC (562)
+ICD9CM	562.02	Diverticulosis of small intestine with hemorrhage			Possible	DESC (562)
+ICD9CM	562.03	Diverticulitis of small intestine with hemorrhage			Possible	DESC (562)
+ICD9CM	562.1	Diverticula of colon			Possible	DESC (562)
+ICD9CM	562.10	Diverticulosis of colon (without mention of hemorrhage)			Possible	DESC (562)
+ICD9CM	562.11	Diverticulitis of colon (without mention of hemorrhage)			Possible	DESC (562)
+ICD9CM	562.12	Diverticulosis of colon with hemorrhage			Possible	DESC (562)
+ICD9CM	562.13	Diverticulitis of colon with hemorrhage			Possible	DESC (562)
+ICD9CM	-		C4317009	Diverticular Diseases	Possible	
+ICD9CM	-		C0267498	Diverticulosis of small intestine	Possible	
+ICD9CM	-		C0341354	Diverticular disease of large intestine	Possible	
+ICD9CM	-		C0012819	Diverticular disease of colon	Possible	
+ICD9CM	-		C0012817	Diverticulum	Possible	
+ICD9CM	-		C0012811	Colon diverticulum anatomic structure	Possible	
+ICD9CM	-		C3648489	diverticulosis of intestine, without perforation or abscess, with hemorrhage	Possible	
+ICD9CM	-		C0837257	Diverticulosis of both small and large intestine without perforation or abscess, with hemorrhage	Possible	
+ICPC	-		C2887870	Diverticulitis of small intestine without perforation or abscess without bleeding	Narrow	
+ICPC	-		C2887865	Diverticulitis of small intestine with perforation and abscess	Narrow	
+ICPC	-		C0012813	Diverticulitis	Narrow	
+ICPC	-		C0268847	Diverticulitis of bladder	Narrow	
+ICPC	-		C0012814	Colonic Diverticulitis	Narrow	
+ICPC	-		C0544793	Hemorrhagic diverticulitis	Narrow	
+ICPC	-		C0349774	Diverticulitis of gastrointestinal tract	Narrow	
+ICPC	-		C4039748	Abscess of jejunum co-occurrent and due to diverticulitis	Narrow	
+ICPC	-		C0267497	Meckel's diverticulitis	Narrow	
+ICPC	-		C0264293	Pharyngeal diverticulitis	Narrow	
+ICPC	-		C0544794	Perforated diverticulitis	Narrow	
+ICPC	-		C4038984	Perforation of small intestine due to diverticulitis	Narrow	
+ICPC	-		C0544792	Obstructive diverticulitis	Narrow	
+ICPC	-		C4041411	Abscess of sigmoid colon co-occurrent and due to diverticulitis	Narrow	
+ICPC	-		C4750433	Abscess of cecum co-occurrent and due to diverticulitis	Narrow	
+ICPC	-		C0156167	Diverticulitis of colon (without mention of haemorrhage)	Narrow	
+ICPC	-		C0917875	Esophageal diverticulosis	Narrow	
+ICPC	-		C0012814	Colonic Diverticulitis	Narrow	
+ICPC	-		C0267497	Meckel's diverticulitis	Narrow	
+ICPC	-		C0544792	Obstructive diverticulitis	Narrow	
+ICPC	-		C1510475	Diverticulosis	Possible	
+ICPC	D92	Diverticular disease	C4317009	Diverticular Diseases	Possible	NARROWER (C1510475)
+ICPC	-		C0267498	Diverticulosis of small intestine	Possible	
+ICPC	-		C0341354	Diverticular disease of large intestine	Possible	
+ICPC	-		C0012819	Diverticular disease of colon	Possible	
+ICPC	-		C0012817	Diverticulum	Possible	
+ICPC	-		C0012811	Colon diverticulum anatomic structure	Possible	
+ICPC	-		C3648489	diverticulosis of intestine, without perforation or abscess, with hemorrhage	Possible	
+ICPC	-		C0837257	Diverticulosis of both small and large intestine without perforation or abscess, with hemorrhage	Possible	
+ICPC2P	-		C2887870	Diverticulitis of small intestine without perforation or abscess without bleeding	Narrow	
+ICPC2P	-		C2887865	Diverticulitis of small intestine with perforation and abscess	Narrow	
+ICPC2P	-		C0012813	Diverticulitis	Narrow	
+ICPC2P	U99019	Diverticulitis;bladder	C0268847	Diverticulitis of bladder	Narrow	NARROWER (C0012813)
+ICPC2P	-		C0012814	Colonic Diverticulitis	Narrow	
+ICPC2P	-		C0544793	Hemorrhagic diverticulitis	Narrow	
+ICPC2P	-		C0349774	Diverticulitis of gastrointestinal tract	Narrow	
+ICPC2P	-		C4039748	Abscess of jejunum co-occurrent and due to diverticulitis	Narrow	
+ICPC2P	-		C0267497	Meckel's diverticulitis	Narrow	
+ICPC2P	-		C0264293	Pharyngeal diverticulitis	Narrow	
+ICPC2P	-		C0544794	Perforated diverticulitis	Narrow	
+ICPC2P	-		C4038984	Perforation of small intestine due to diverticulitis	Narrow	
+ICPC2P	-		C0544792	Obstructive diverticulitis	Narrow	
+ICPC2P	-		C4041411	Abscess of sigmoid colon co-occurrent and due to diverticulitis	Narrow	
+ICPC2P	-		C4750433	Abscess of cecum co-occurrent and due to diverticulitis	Narrow	
+ICPC2P	-		C0156167	Diverticulitis of colon (without mention of haemorrhage)	Narrow	
+ICPC2P	D84010	Diverticulosis;oesophagus	C0917875	Esophageal diverticulosis	Narrow	NARROWER (C0012813)
+ICPC2P	-		C0012814	Colonic Diverticulitis	Narrow	
+ICPC2P	-		C0267497	Meckel's diverticulitis	Narrow	
+ICPC2P	-		C0544792	Obstructive diverticulitis	Narrow	
+ICPC2P	-		C1510475	Diverticulosis	Possible	
+ICPC2P	D92001	Disease;diverticular;intestine	C4317009	Diverticular Diseases	Possible	NARROWER (C1510475)
+ICPC2P	-		C0267498	Diverticulosis of small intestine	Possible	
+ICPC2P	-		C0341354	Diverticular disease of large intestine	Possible	
+ICPC2P	-		C0012819	Diverticular disease of colon	Possible	
+ICPC2P	D92003	Diverticulum	C0012817	Diverticulum	Possible	NARROWER (C1510475)
+ICPC2P	-		C0012811	Colon diverticulum anatomic structure	Possible	
+ICPC2P	-		C3648489	diverticulosis of intestine, without perforation or abscess, with hemorrhage	Possible	
+ICPC2P	-		C0837257	Diverticulosis of both small and large intestine without perforation or abscess, with hemorrhage	Possible	
+MTHICD9	-		C2887870	Diverticulitis of small intestine without perforation or abscess without bleeding	Narrow	
+MTHICD9	-		C2887865	Diverticulitis of small intestine with perforation and abscess	Narrow	
+MTHICD9	562.11	Diverticulitis NOS	C0012813	Diverticulitis	Narrow	CASEDEF
+MTHICD9	596.3	Diverticulitis of bladder	C0268847	Diverticulitis of bladder	Narrow	NARROWER (C0012813)
+MTHICD9	-		C0012814	Colonic Diverticulitis	Narrow	
+MTHICD9	-		C0544793	Hemorrhagic diverticulitis	Narrow	
+MTHICD9	-		C0349774	Diverticulitis of gastrointestinal tract	Narrow	
+MTHICD9	-		C4039748	Abscess of jejunum co-occurrent and due to diverticulitis	Narrow	
+MTHICD9	-		C0267497	Meckel's diverticulitis	Narrow	
+MTHICD9	-		C0264293	Pharyngeal diverticulitis	Narrow	
+MTHICD9	-		C0544794	Perforated diverticulitis	Narrow	
+MTHICD9	-		C4038984	Perforation of small intestine due to diverticulitis	Narrow	
+MTHICD9	-		C0544792	Obstructive diverticulitis	Narrow	
+MTHICD9	-		C4041411	Abscess of sigmoid colon co-occurrent and due to diverticulitis	Narrow	
+MTHICD9	-		C4750433	Abscess of cecum co-occurrent and due to diverticulitis	Narrow	
+MTHICD9	-		C0156167	Diverticulitis of colon (without mention of haemorrhage)	Narrow	
+MTHICD9	-		C0917875	Esophageal diverticulosis	Narrow	
+MTHICD9	-		C0012814	Colonic Diverticulitis	Narrow	
+MTHICD9	-		C0267497	Meckel's diverticulitis	Narrow	
+MTHICD9	-		C0544792	Obstructive diverticulitis	Narrow	
+MTHICD9	-		C1510475	Diverticulosis	Possible	
+MTHICD9	-		C4317009	Diverticular Diseases	Possible	
+MTHICD9	562.00	Diverticulosis of small intestine	C0267498	Diverticulosis of small intestine	Possible	NARROWER (C1510475)
+MTHICD9	-		C0341354	Diverticular disease of large intestine	Possible	
+MTHICD9	562.10	Diverticulosis of colon	C0012819	Diverticular disease of colon	Possible	NARROWER (C1510475)
+MTHICD9	-		C0012817	Diverticulum	Possible	
+MTHICD9	-		C0012811	Colon diverticulum anatomic structure	Possible	
+MTHICD9	-		C3648489	diverticulosis of intestine, without perforation or abscess, with hemorrhage	Possible	
+MTHICD9	-		C0837257	Diverticulosis of both small and large intestine without perforation or abscess, with hemorrhage	Possible	
+SCTSPA	-		C2887870	Diverticulitis of small intestine without perforation or abscess without bleeding	Narrow	
+SCTSPA	733150001	diverticulitis de intestino delgado con perforación y absceso	C2887865	Diverticulitis of small intestine with perforation and abscess	Narrow	BROADER (C2887866)
+SCTSPA	18126004	diverticulitis	C0012813	Diverticulitis	Narrow	CASEDEF
+SCTSPA	110429003	Perforated diverticulitis			Narrow	DESC (18126004)
+SCTSPA	123628000	Obstructive diverticulitis			Narrow	DESC (18126004)
+SCTSPA	123629008	Hemorrhagic diverticulitis			Narrow	DESC (18126004)
+SCTSPA	197102009	diverticulitis no especificada	C0012813	Diverticulitis	Narrow	CASEDEF
+SCTSPA	197103004	diverticulitis, SAI	C0012813	Diverticulitis	Narrow	CASEDEF
+SCTSPA	307496006	diverticulitis	C0012813	Diverticulitis	Narrow	CASEDEF
+SCTSPA	1086111000119105	Abscess of cecum co-occurrent and due to diverticulitis			Narrow	DESC (307496006)
+SCTSPA	1086151000119106	Perforation of cecum due to diverticulitis			Narrow	DESC (307496006)
+SCTSPA	1086191000119101	Abscess of duodenum co-occurrent and due to diverticulitis			Narrow	DESC (307496006)
+SCTSPA	1086231000119105	Perforation of duodenum due to diverticulitis			Narrow	DESC (307496006)
+SCTSPA	1086241000119101	Abscess of ileum co-occurrent and due to diverticulitis			Narrow	DESC (307496006)
+SCTSPA	1086281000119106	Perforation of ileum due to diverticulitis			Narrow	DESC (307496006)
+SCTSPA	1086291000119109	Abscess of jejunum co-occurrent and due to diverticulitis			Narrow	DESC (307496006)
+SCTSPA	1086331000119103	Diverticulitis of jejunum with perforation			Narrow	DESC (307496006)
+SCTSPA	1086341000119107	Abscess of sigmoid colon co-occurrent and due to diverticulitis			Narrow	DESC (307496006)
+SCTSPA	1086381000119102	Perforation of sigmoid colon due to diverticulitis			Narrow	DESC (307496006)
+SCTSPA	1086441000119100	Diverticulitis of small and large intestine with perforation			Narrow	DESC (307496006)
+SCTSPA	1086461000119101	Hemorrhage of small intestine due to diverticulitis			Narrow	DESC (307496006)
+SCTSPA	1086481000119105	Perforation of small intestine co-occurrent with hemorrhage due to diverticulitis			Narrow	DESC (307496006)
+SCTSPA	1086491000119108	Perforation of small intestine due to diverticulitis			Narrow	DESC (307496006)
+SCTSPA	1086541000119104	Perforation of intestine due to diverticulitis of gastrointestinal tract			Narrow	DESC (307496006)
+SCTSPA	111358007	Diverticulitis of jejunum			Narrow	DESC (307496006)
+SCTSPA	111359004	Diverticulitis of colon			Narrow	DESC (307496006)
+SCTSPA	1162590005	Diverticulitis of ascending colon			Narrow	DESC (307496006)
+SCTSPA	1172640002	Diverticulitis of descending colon			Narrow	DESC (307496006)
+SCTSPA	1197699002	Stenosis of small intestine due to diverticulitis			Narrow	DESC (307496006)
+SCTSPA	2091005	Pharyngeal diverticulitis			Narrow	DESC (307496006)
+SCTSPA	271366000	Diverticulitis of gastrointestinal tract			Narrow	DESC (307496006)
+SCTSPA	275410008	Infected diverticulum of bladder			Narrow	DESC (307496006)
+SCTSPA	33838003	Diverticulitis of duodenum			Narrow	DESC (307496006)
+SCTSPA	427910000	Diverticulitis of sigmoid colon			Narrow	DESC (307496006)
+SCTSPA	430347001	Diverticulitis of cecum			Narrow	DESC (307496006)
+SCTSPA	430876009	Diverticulitis of rectosigmoid			Narrow	DESC (307496006)
+SCTSPA	430877000	Diverticulitis of rectum			Narrow	DESC (307496006)
+SCTSPA	445162006	Bleeding Meckel's diverticulitis			Narrow	DESC (307496006)
+SCTSPA	4494009	Diverticulitis of large intestine			Narrow	DESC (307496006)
+SCTSPA	48241004	Meckel's diverticulitis			Narrow	DESC (307496006)
+SCTSPA	56165008	Diverticulitis of small intestine			Narrow	DESC (307496006)
+SCTSPA	65332001	Diverticulitis of bladder			Narrow	DESC (307496006)
+SCTSPA	67153004	Diverticulitis of ileum			Narrow	DESC (307496006)
+SCTSPA	721646008	Congenital diverticulitis of small intestine			Narrow	DESC (307496006)
+SCTSPA	722845008	Diverticulitis of small intestine with complication			Narrow	DESC (307496006)
+SCTSPA	722846009	Diverticulitis of small intestine without complication			Narrow	DESC (307496006)
+SCTSPA	722855007	Perforation and abscess of large intestine co-occurrent and due to diverticulitis			Narrow	DESC (307496006)
+SCTSPA	733159000	Diverticulitis of large intestine with complication			Narrow	DESC (307496006)
+SCTSPA	733160005	Diverticulitis of large intestine without complication			Narrow	DESC (307496006)
+SCTSPA	735593008	Diverticulitis of intestine			Narrow	DESC (307496006)
+SCTSPA	76953007	Diverticulitis of colon with perforation			Narrow	DESC (307496006)
+SCTSPA	-		C0268847	Diverticulitis of bladder	Narrow	
+SCTSPA	-		C0012814	Colonic Diverticulitis	Narrow	
+SCTSPA	-		C0544793	Hemorrhagic diverticulitis	Narrow	
+SCTSPA	-		C0349774	Diverticulitis of gastrointestinal tract	Narrow	
+SCTSPA	-		C4039748	Abscess of jejunum co-occurrent and due to diverticulitis	Narrow	
+SCTSPA	-		C0267497	Meckel's diverticulitis	Narrow	
+SCTSPA	-		C0264293	Pharyngeal diverticulitis	Narrow	
+SCTSPA	-		C0544794	Perforated diverticulitis	Narrow	
+SCTSPA	-		C4038984	Perforation of small intestine due to diverticulitis	Narrow	
+SCTSPA	-		C0544792	Obstructive diverticulitis	Narrow	
+SCTSPA	-		C4041411	Abscess of sigmoid colon co-occurrent and due to diverticulitis	Narrow	
+SCTSPA	-		C4750433	Abscess of cecum co-occurrent and due to diverticulitis	Narrow	
+SCTSPA	-		C0156167	Diverticulitis of colon (without mention of haemorrhage)	Narrow	
+SCTSPA	-		C0917875	Esophageal diverticulosis	Narrow	
+SCTSPA	-		C0012814	Colonic Diverticulitis	Narrow	
+SCTSPA	-		C0267497	Meckel's diverticulitis	Narrow	
+SCTSPA	-		C0544792	Obstructive diverticulitis	Narrow	
+SCTSPA	155781003	Diverticulosis NOS	C1510475	Diverticulosis	Possible	CASEDEF
+SCTSPA	197094004	diverticulosis, SAI	C1510475	Diverticulosis	Possible	CASEDEF
+SCTSPA	197116004	divertículos intestinales, SAI	C1510475	Diverticulosis	Possible	CASEDEF
+SCTSPA	271365001	trastorno diverticular de intestino	C1510475	Diverticulosis	Possible	CASEDEF
+SCTSPA	31113003	diverticulosis	C1510475	Diverticulosis	Possible	CASEDEF
+SCTSPA	110429003	Perforated diverticulitis			Possible	DESC (31113003)
+SCTSPA	123628000	Obstructive diverticulitis			Possible	DESC (31113003)
+SCTSPA	123629008	Hemorrhagic diverticulitis			Possible	DESC (31113003)
+SCTSPA	125284007	Single diverticulum			Possible	DESC (31113003)
+SCTSPA	125285008	Multiple diverticula			Possible	DESC (31113003)
+SCTSPA	127962001	Meckel's diverticulum			Possible	DESC (31113003)
+SCTSPA	18126004	Diverticulitis			Possible	DESC (31113003)
+SCTSPA	20464009	Perforated diverticulum			Possible	DESC (31113003)
+SCTSPA	2570008	Traction diverticulum			Possible	DESC (31113003)
+SCTSPA	36731009	Sacculation			Possible	DESC (31113003)
+SCTSPA	394000	Abnormal trabeculation			Possible	DESC (31113003)
+SCTSPA	441901008	Inverted diverticulum			Possible	DESC (31113003)
+SCTSPA	48513004	Pulsion diverticulum			Possible	DESC (31113003)
+SCTSPA	75791009	False diverticulum			Possible	DESC (31113003)
+SCTSPA	82037003	Congenital diverticulum			Possible	DESC (31113003)
+SCTSPA	63532004	divertículos de intestino	C1510475	Diverticulosis	Possible	CASEDEF
+SCTSPA	1086551000119102	Hemorrhage of cecum due to diverticulosis			Possible	DESC (63532004)
+SCTSPA	1086561000119100	Hemorrhage with diverticulosis of duodenum			Possible	DESC (63532004)
+SCTSPA	1086571000119106	Hemorrhage with diverticulosis of ileum			Possible	DESC (63532004)
+SCTSPA	1086581000119109	Hemorrhage of jejunum with diverticulosis			Possible	DESC (63532004)
+SCTSPA	1086591000119107	Diverticulosis of sigmoid colon with hemorrhage			Possible	DESC (63532004)
+SCTSPA	1086601000119100	Intestinal hemorrhage with diverticulosis			Possible	DESC (63532004)
+SCTSPA	111357002	Diverticulosis of jejunum without diverticulitis			Possible	DESC (63532004)
+SCTSPA	190191000119107	Hemorrhage of colon due to diverticulosis			Possible	DESC (63532004)
+SCTSPA	197083003	Diverticulosis of duodenum			Possible	DESC (63532004)
+SCTSPA	197084009	Diverticulosis of jejunum			Possible	DESC (63532004)
+SCTSPA	197085005	Diverticulosis of ileum			Possible	DESC (63532004)
+SCTSPA	197091007	Diverticular disease of both small and large intestine without perforation or abscess			Possible	DESC (63532004)
+SCTSPA	197092000	Hemorrhage of large intestine with diverticular disease of large intestine			Possible	DESC (63532004)
+SCTSPA	197112002	Perforation and abscess with diverticular disease of small and large intestine			Possible	DESC (63532004)
+SCTSPA	235774002	Abscess with diverticular disease of colon			Possible	DESC (63532004)
+SCTSPA	235776000	Diverticular disease of right side of colon			Possible	DESC (63532004)
+SCTSPA	253792003	Congenital diverticulosis			Possible	DESC (63532004)
+SCTSPA	271959005	Simple diverticular disease of large intestine			Possible	DESC (63532004)
+SCTSPA	271960000	Complicated diverticular disease of large intestine			Possible	DESC (63532004)
+SCTSPA	284535003	Diverticular disease of left side of colon			Possible	DESC (63532004)
+SCTSPA	397881000	Diverticular disease			Possible	DESC (63532004)
+SCTSPA	398050005	Diverticular disease of colon			Possible	DESC (63532004)
+SCTSPA	398157006	Diverticular disease of large intestine			Possible	DESC (63532004)
+SCTSPA	398311004	Diverticulosis of colon without diverticulitis			Possible	DESC (63532004)
+SCTSPA	40271000119102	Hemorrhage of small intestine with diverticulosis			Possible	DESC (63532004)
+SCTSPA	425698008	Diverticulosis of cecum			Possible	DESC (63532004)
+SCTSPA	429430001	Diverticulosis of sigmoid colon			Possible	DESC (63532004)
+SCTSPA	432862004	Diverticulosis of rectosigmoid			Possible	DESC (63532004)
+SCTSPA	433184006	Diverticulosis of rectum			Possible	DESC (63532004)
+SCTSPA	45568004	Diverticulosis of large intestine without diverticulitis			Possible	DESC (63532004)
+SCTSPA	48169002	Perforation with diverticular disease of colon			Possible	DESC (63532004)
+SCTSPA	5211000119107	Abscess of intestine co-occurrent and due to diverticular disease			Possible	DESC (63532004)
+SCTSPA	721647004	Congenital diverticulosis of small intestine			Possible	DESC (63532004)
+SCTSPA	721654005	Diverticular disease of small and large intestine			Possible	DESC (63532004)
+SCTSPA	724538004	Diverticulosis of large intestine			Possible	DESC (63532004)
+SCTSPA	733657002	Diverticulosis of colon			Possible	DESC (63532004)
+SCTSPA	8114009	Diverticulosis of small intestine			Possible	DESC (63532004)
+SCTSPA	82090004	Diverticulosis of duodenum without diverticulitis			Possible	DESC (63532004)
+SCTSPA	860750004	Diverticular disease of small intestine			Possible	DESC (63532004)
+SCTSPA	9815002	Diverticulosis of ileum without diverticulitis			Possible	DESC (63532004)
+SCTSPA	735594002	diverticulosis de intestino	C1510475	Diverticulosis	Possible	CASEDEF
+SCTSPA	197093005	diverticulosis no especificada	C4317009	Diverticular Diseases	Possible	NARROWER (C1510475)
+SCTSPA	197086006	diverticulosis del intestino delgado, no especificada	C0267498	Diverticulosis of small intestine	Possible	NARROWER (C1510475)
+SCTSPA	197087002	diverticulosis del intestino delgado, SAI	C0267498	Diverticulosis of small intestine	Possible	NARROWER (C1510475)
+SCTSPA	197089004	diverticulosis del intestino grueso, no especificada	C0341354	Diverticular disease of large intestine	Possible	NARROWER (C1510475)
+SCTSPA	197090008	diverticulosis del intestino grueso, SAI	C0341354	Diverticular disease of large intestine	Possible	NARROWER (C1510475)
+SCTSPA	68047000	diverticulosis de colon	C0012819	Diverticular disease of colon	Possible	NARROWER (C1510475)
+SCTSPA	-		C0012817	Diverticulum	Possible	
+SCTSPA	-		C0012811	Colon diverticulum anatomic structure	Possible	
+SCTSPA	-		C3648489	diverticulosis of intestine, without perforation or abscess, with hemorrhage	Possible	
+SCTSPA	-		C0837257	Diverticulosis of both small and large intestine without perforation or abscess, with hemorrhage	Possible	
+SNOMEDCT_US	-		C2887870	Diverticulitis of small intestine without perforation or abscess without bleeding	Narrow	
+SNOMEDCT_US	733150001	Diverticulitis of small intestine with perforation and abscess	C2887865	Diverticulitis of small intestine with perforation and abscess	Narrow	BROADER (C2887866)
+SNOMEDCT_US	155779000	Diverticulitis	C0012813	Diverticulitis	Narrow	CASEDEF
+SNOMEDCT_US	18126004	Diverticulitis	C0012813	Diverticulitis	Narrow	CASEDEF
+SNOMEDCT_US	110429003	Perforated diverticulitis			Narrow	DESC (18126004)
+SNOMEDCT_US	123628000	Obstructive diverticulitis			Narrow	DESC (18126004)
+SNOMEDCT_US	123629008	Hemorrhagic diverticulitis			Narrow	DESC (18126004)
+SNOMEDCT_US	197095003	Diverticulitis	C0012813	Diverticulitis	Narrow	CASEDEF
+SNOMEDCT_US	197102009	Diverticulitis unspecified	C0012813	Diverticulitis	Narrow	CASEDEF
+SNOMEDCT_US	197103004	Diverticulitis NOS	C0012813	Diverticulitis	Narrow	CASEDEF
+SNOMEDCT_US	307496006	Diverticulitis	C0012813	Diverticulitis	Narrow	CASEDEF
+SNOMEDCT_US	1086111000119105	Abscess of cecum co-occurrent and due to diverticulitis			Narrow	DESC (307496006)
+SNOMEDCT_US	1086151000119106	Perforation of cecum due to diverticulitis			Narrow	DESC (307496006)
+SNOMEDCT_US	1086191000119101	Abscess of duodenum co-occurrent and due to diverticulitis			Narrow	DESC (307496006)
+SNOMEDCT_US	1086231000119105	Perforation of duodenum due to diverticulitis			Narrow	DESC (307496006)
+SNOMEDCT_US	1086241000119101	Abscess of ileum co-occurrent and due to diverticulitis			Narrow	DESC (307496006)
+SNOMEDCT_US	1086281000119106	Perforation of ileum due to diverticulitis			Narrow	DESC (307496006)
+SNOMEDCT_US	1086291000119109	Abscess of jejunum co-occurrent and due to diverticulitis			Narrow	DESC (307496006)
+SNOMEDCT_US	1086331000119103	Diverticulitis of jejunum with perforation			Narrow	DESC (307496006)
+SNOMEDCT_US	1086341000119107	Abscess of sigmoid colon co-occurrent and due to diverticulitis			Narrow	DESC (307496006)
+SNOMEDCT_US	1086381000119102	Perforation of sigmoid colon due to diverticulitis			Narrow	DESC (307496006)
+SNOMEDCT_US	1086441000119100	Diverticulitis of small and large intestine with perforation			Narrow	DESC (307496006)
+SNOMEDCT_US	1086461000119101	Hemorrhage of small intestine due to diverticulitis			Narrow	DESC (307496006)
+SNOMEDCT_US	1086481000119105	Perforation of small intestine co-occurrent with hemorrhage due to diverticulitis			Narrow	DESC (307496006)
+SNOMEDCT_US	1086491000119108	Perforation of small intestine due to diverticulitis			Narrow	DESC (307496006)
+SNOMEDCT_US	1086541000119104	Perforation of intestine due to diverticulitis of gastrointestinal tract			Narrow	DESC (307496006)
+SNOMEDCT_US	111358007	Diverticulitis of jejunum			Narrow	DESC (307496006)
+SNOMEDCT_US	111359004	Diverticulitis of colon			Narrow	DESC (307496006)
+SNOMEDCT_US	1162590005	Diverticulitis of ascending colon			Narrow	DESC (307496006)
+SNOMEDCT_US	1172640002	Diverticulitis of descending colon			Narrow	DESC (307496006)
+SNOMEDCT_US	1197699002	Stenosis of small intestine due to diverticulitis			Narrow	DESC (307496006)
+SNOMEDCT_US	2091005	Pharyngeal diverticulitis			Narrow	DESC (307496006)
+SNOMEDCT_US	271366000	Diverticulitis of gastrointestinal tract			Narrow	DESC (307496006)
+SNOMEDCT_US	275410008	Infected diverticulum of bladder			Narrow	DESC (307496006)
+SNOMEDCT_US	33838003	Diverticulitis of duodenum			Narrow	DESC (307496006)
+SNOMEDCT_US	427910000	Diverticulitis of sigmoid colon			Narrow	DESC (307496006)
+SNOMEDCT_US	430347001	Diverticulitis of cecum			Narrow	DESC (307496006)
+SNOMEDCT_US	430876009	Diverticulitis of rectosigmoid			Narrow	DESC (307496006)
+SNOMEDCT_US	430877000	Diverticulitis of rectum			Narrow	DESC (307496006)
+SNOMEDCT_US	445162006	Bleeding Meckel's diverticulitis			Narrow	DESC (307496006)
+SNOMEDCT_US	4494009	Diverticulitis of large intestine			Narrow	DESC (307496006)
+SNOMEDCT_US	48241004	Meckel's diverticulitis			Narrow	DESC (307496006)
+SNOMEDCT_US	56165008	Diverticulitis of small intestine			Narrow	DESC (307496006)
+SNOMEDCT_US	65332001	Diverticulitis of bladder			Narrow	DESC (307496006)
+SNOMEDCT_US	67153004	Diverticulitis of ileum			Narrow	DESC (307496006)
+SNOMEDCT_US	721646008	Congenital diverticulitis of small intestine			Narrow	DESC (307496006)
+SNOMEDCT_US	722845008	Diverticulitis of small intestine with complication			Narrow	DESC (307496006)
+SNOMEDCT_US	722846009	Diverticulitis of small intestine without complication			Narrow	DESC (307496006)
+SNOMEDCT_US	722855007	Perforation and abscess of large intestine co-occurrent and due to diverticulitis			Narrow	DESC (307496006)
+SNOMEDCT_US	733159000	Diverticulitis of large intestine with complication			Narrow	DESC (307496006)
+SNOMEDCT_US	733160005	Diverticulitis of large intestine without complication			Narrow	DESC (307496006)
+SNOMEDCT_US	735593008	Diverticulitis of intestine			Narrow	DESC (307496006)
+SNOMEDCT_US	76953007	Diverticulitis of colon with perforation			Narrow	DESC (307496006)
+SNOMEDCT_US	-		C0268847	Diverticulitis of bladder	Narrow	
+SNOMEDCT_US	-		C0012814	Colonic Diverticulitis	Narrow	
+SNOMEDCT_US	-		C0544793	Hemorrhagic diverticulitis	Narrow	
+SNOMEDCT_US	-		C0349774	Diverticulitis of gastrointestinal tract	Narrow	
+SNOMEDCT_US	-		C4039748	Abscess of jejunum co-occurrent and due to diverticulitis	Narrow	
+SNOMEDCT_US	-		C0267497	Meckel's diverticulitis	Narrow	
+SNOMEDCT_US	-		C0264293	Pharyngeal diverticulitis	Narrow	
+SNOMEDCT_US	-		C0544794	Perforated diverticulitis	Narrow	
+SNOMEDCT_US	-		C4038984	Perforation of small intestine due to diverticulitis	Narrow	
+SNOMEDCT_US	-		C0544792	Obstructive diverticulitis	Narrow	
+SNOMEDCT_US	-		C4041411	Abscess of sigmoid colon co-occurrent and due to diverticulitis	Narrow	
+SNOMEDCT_US	-		C4750433	Abscess of cecum co-occurrent and due to diverticulitis	Narrow	
+SNOMEDCT_US	-		C0156167	Diverticulitis of colon (without mention of haemorrhage)	Narrow	
+SNOMEDCT_US	-		C0917875	Esophageal diverticulosis	Narrow	
+SNOMEDCT_US	-		C0012814	Colonic Diverticulitis	Narrow	
+SNOMEDCT_US	-		C0267497	Meckel's diverticulitis	Narrow	
+SNOMEDCT_US	-		C0544792	Obstructive diverticulitis	Narrow	
+SNOMEDCT_US	155781003	Diverticulosis NOS	C1510475	Diverticulosis	Possible	CASEDEF
+SNOMEDCT_US	197094004	Diverticulosis NOS	C1510475	Diverticulosis	Possible	CASEDEF
+SNOMEDCT_US	197116004	Diverticula of the intestine NOS	C1510475	Diverticulosis	Possible	CASEDEF
+SNOMEDCT_US	271365001	Diverticular disorder of intestine	C1510475	Diverticulosis	Possible	CASEDEF
+SNOMEDCT_US	31113003	Diverticulosis	C1510475	Diverticulosis	Possible	CASEDEF
+SNOMEDCT_US	110429003	Perforated diverticulitis			Possible	DESC (31113003)
+SNOMEDCT_US	123628000	Obstructive diverticulitis			Possible	DESC (31113003)
+SNOMEDCT_US	123629008	Hemorrhagic diverticulitis			Possible	DESC (31113003)
+SNOMEDCT_US	125284007	Single diverticulum			Possible	DESC (31113003)
+SNOMEDCT_US	125285008	Multiple diverticula			Possible	DESC (31113003)
+SNOMEDCT_US	127962001	Meckel's diverticulum			Possible	DESC (31113003)
+SNOMEDCT_US	18126004	Diverticulitis			Possible	DESC (31113003)
+SNOMEDCT_US	20464009	Perforated diverticulum			Possible	DESC (31113003)
+SNOMEDCT_US	2570008	Traction diverticulum			Possible	DESC (31113003)
+SNOMEDCT_US	36731009	Sacculation			Possible	DESC (31113003)
+SNOMEDCT_US	394000	Abnormal trabeculation			Possible	DESC (31113003)
+SNOMEDCT_US	441901008	Inverted diverticulum			Possible	DESC (31113003)
+SNOMEDCT_US	48513004	Pulsion diverticulum			Possible	DESC (31113003)
+SNOMEDCT_US	75791009	False diverticulum			Possible	DESC (31113003)
+SNOMEDCT_US	82037003	Congenital diverticulum			Possible	DESC (31113003)
+SNOMEDCT_US	63532004	Diverticula of intestine	C1510475	Diverticulosis	Possible	CASEDEF
+SNOMEDCT_US	1086551000119102	Hemorrhage of cecum due to diverticulosis			Possible	DESC (63532004)
+SNOMEDCT_US	1086561000119100	Hemorrhage with diverticulosis of duodenum			Possible	DESC (63532004)
+SNOMEDCT_US	1086571000119106	Hemorrhage with diverticulosis of ileum			Possible	DESC (63532004)
+SNOMEDCT_US	1086581000119109	Hemorrhage of jejunum with diverticulosis			Possible	DESC (63532004)
+SNOMEDCT_US	1086591000119107	Diverticulosis of sigmoid colon with hemorrhage			Possible	DESC (63532004)
+SNOMEDCT_US	1086601000119100	Intestinal hemorrhage with diverticulosis			Possible	DESC (63532004)
+SNOMEDCT_US	111357002	Diverticulosis of jejunum without diverticulitis			Possible	DESC (63532004)
+SNOMEDCT_US	190191000119107	Hemorrhage of colon due to diverticulosis			Possible	DESC (63532004)
+SNOMEDCT_US	197083003	Diverticulosis of duodenum			Possible	DESC (63532004)
+SNOMEDCT_US	197084009	Diverticulosis of jejunum			Possible	DESC (63532004)
+SNOMEDCT_US	197085005	Diverticulosis of ileum			Possible	DESC (63532004)
+SNOMEDCT_US	197091007	Diverticular disease of both small and large intestine without perforation or abscess			Possible	DESC (63532004)
+SNOMEDCT_US	197092000	Hemorrhage of large intestine with diverticular disease of large intestine			Possible	DESC (63532004)
+SNOMEDCT_US	197112002	Perforation and abscess with diverticular disease of small and large intestine			Possible	DESC (63532004)
+SNOMEDCT_US	235774002	Abscess with diverticular disease of colon			Possible	DESC (63532004)
+SNOMEDCT_US	235776000	Diverticular disease of right side of colon			Possible	DESC (63532004)
+SNOMEDCT_US	253792003	Congenital diverticulosis			Possible	DESC (63532004)
+SNOMEDCT_US	271959005	Simple diverticular disease of large intestine			Possible	DESC (63532004)
+SNOMEDCT_US	271960000	Complicated diverticular disease of large intestine			Possible	DESC (63532004)
+SNOMEDCT_US	284535003	Diverticular disease of left side of colon			Possible	DESC (63532004)
+SNOMEDCT_US	397881000	Diverticular disease			Possible	DESC (63532004)
+SNOMEDCT_US	398050005	Diverticular disease of colon			Possible	DESC (63532004)
+SNOMEDCT_US	398157006	Diverticular disease of large intestine			Possible	DESC (63532004)
+SNOMEDCT_US	398311004	Diverticulosis of colon without diverticulitis			Possible	DESC (63532004)
+SNOMEDCT_US	40271000119102	Hemorrhage of small intestine with diverticulosis			Possible	DESC (63532004)
+SNOMEDCT_US	425698008	Diverticulosis of cecum			Possible	DESC (63532004)
+SNOMEDCT_US	429430001	Diverticulosis of sigmoid colon			Possible	DESC (63532004)
+SNOMEDCT_US	432862004	Diverticulosis of rectosigmoid			Possible	DESC (63532004)
+SNOMEDCT_US	433184006	Diverticulosis of rectum			Possible	DESC (63532004)
+SNOMEDCT_US	45568004	Diverticulosis of large intestine without diverticulitis			Possible	DESC (63532004)
+SNOMEDCT_US	48169002	Perforation with diverticular disease of colon			Possible	DESC (63532004)
+SNOMEDCT_US	5211000119107	Abscess of intestine co-occurrent and due to diverticular disease			Possible	DESC (63532004)
+SNOMEDCT_US	721647004	Congenital diverticulosis of small intestine			Possible	DESC (63532004)
+SNOMEDCT_US	721654005	Diverticular disease of small and large intestine			Possible	DESC (63532004)
+SNOMEDCT_US	724538004	Diverticulosis of large intestine			Possible	DESC (63532004)
+SNOMEDCT_US	733657002	Diverticulosis of colon			Possible	DESC (63532004)
+SNOMEDCT_US	8114009	Diverticulosis of small intestine			Possible	DESC (63532004)
+SNOMEDCT_US	82090004	Diverticulosis of duodenum without diverticulitis			Possible	DESC (63532004)
+SNOMEDCT_US	860750004	Diverticular disease of small intestine			Possible	DESC (63532004)
+SNOMEDCT_US	9815002	Diverticulosis of ileum without diverticulitis			Possible	DESC (63532004)
+SNOMEDCT_US	735594002	Asymptomatic diverticulosis of intestine	C1510475	Diverticulosis	Possible	CASEDEF
+SNOMEDCT_US	155778008	Diverticular disease	C4317009	Diverticular Diseases	Possible	NARROWER (C1510475)
+SNOMEDCT_US	155780002	Diverticular disease	C4317009	Diverticular Diseases	Possible	NARROWER (C1510475)
+SNOMEDCT_US	197081001	Diverticula of intestine	C4317009	Diverticular Diseases	Possible	NARROWER (C1510475)
+SNOMEDCT_US	197082008	Diverticular disorder of intestine	C4317009	Diverticular Diseases	Possible	NARROWER (C1510475)
+SNOMEDCT_US	197093005	Diverticulosis unspecified	C4317009	Diverticular Diseases	Possible	NARROWER (C1510475)
+SNOMEDCT_US	235772003	Diverticular disease	C4317009	Diverticular Diseases	Possible	NARROWER (C1510475)
+SNOMEDCT_US	68047000	DD - Diverticular disease	C4317009	Diverticular Diseases	Possible	NARROWER (C1510475)
+SNOMEDCT_US	197086006	Diverticulosis of the small intestine unspecified	C0267498	Diverticulosis of small intestine	Possible	NARROWER (C1510475)
+SNOMEDCT_US	197087002	Diverticulosis of the small intestine NOS	C0267498	Diverticulosis of small intestine	Possible	NARROWER (C1510475)
+SNOMEDCT_US	197089004	Diverticulosis of the large intestine unspecified	C0341354	Diverticular disease of large intestine	Possible	NARROWER (C1510475)
+SNOMEDCT_US	197090008	Diverticulosis of the large intestine NOS	C0341354	Diverticular disease of large intestine	Possible	NARROWER (C1510475)
+SNOMEDCT_US	-		C0012819	Diverticular disease of colon	Possible	
+SNOMEDCT_US	-		C0012817	Diverticulum	Possible	
+SNOMEDCT_US	-		C0012811	Colon diverticulum anatomic structure	Possible	
+SNOMEDCT_US	-		C3648489	diverticulosis of intestine, without perforation or abscess, with hemorrhage	Possible	
+SNOMEDCT_US	-		C0837257	Diverticulosis of both small and large intestine without perforation or abscess, with hemorrhage	Possible	
+ICD10/CM	K57.12	Diverticulitis of small intestine without perforation or abscess without bleeding	C2887870	Diverticulitis of small intestine without perforation or abscess without bleeding	Narrow	ADD (Diverticulitis of small intestine without perforation or abscess without bleeding)
+ICD10/CM	K57.0	Diverticulitis of small intestine with perforation and abscess	C2887865	Diverticulitis of small intestine with perforation and abscess	Narrow	BROADER (C2887866)
+ICD10/CM	-		C0012813	Diverticulitis	Narrow	
+ICD10/CM	-		C0268847	Diverticulitis of bladder	Narrow	
+ICD10/CM	-		C0012814	Colonic Diverticulitis	Narrow	
+ICD10/CM	-		C0544793	Hemorrhagic diverticulitis	Narrow	
+ICD10/CM	-		C0349774	Diverticulitis of gastrointestinal tract	Narrow	
+ICD10/CM	-		C4039748	Abscess of jejunum co-occurrent and due to diverticulitis	Narrow	
+ICD10/CM	-		C0267497	Meckel's diverticulitis	Narrow	
+ICD10/CM	-		C0264293	Pharyngeal diverticulitis	Narrow	
+ICD10/CM	-		C0544794	Perforated diverticulitis	Narrow	
+ICD10/CM	-		C4038984	Perforation of small intestine due to diverticulitis	Narrow	
+ICD10/CM	-		C0544792	Obstructive diverticulitis	Narrow	
+ICD10/CM	-		C4041411	Abscess of sigmoid colon co-occurrent and due to diverticulitis	Narrow	
+ICD10/CM	-		C4750433	Abscess of cecum co-occurrent and due to diverticulitis	Narrow	
+ICD10/CM	-		C0156167	Diverticulitis of colon (without mention of haemorrhage)	Narrow	
+ICD10/CM	-		C0917875	Esophageal diverticulosis	Narrow	
+ICD10/CM	-		C0012814	Colonic Diverticulitis	Narrow	
+ICD10/CM	-		C0267497	Meckel's diverticulitis	Narrow	
+ICD10/CM	-		C0544792	Obstructive diverticulitis	Narrow	
+ICD10/CM	-		C1510475	Diverticulosis	Possible	
+ICD10/CM	K57	Diverticular disease of intestine	C4317009	Diverticular Diseases	Possible	NARROWER (C1510475)
+ICD10/CM	K57.90	Diverticular disease of intestine NOS	C4317009	Diverticular Diseases	Possible	NARROWER (C1510475)
+ICD10/CM	-		C0267498	Diverticulosis of small intestine	Possible	
+ICD10/CM	-		C0341354	Diverticular disease of large intestine	Possible	
+ICD10/CM	K57.30	Diverticular disease of colon NOS	C0012819	Diverticular disease of colon	Possible	NARROWER (C1510475)
+ICD10/CM	-		C0012817	Diverticulum	Possible	
+ICD10/CM	-		C0012811	Colon diverticulum anatomic structure	Possible	
+ICD10/CM	-		C3648489	diverticulosis of intestine, without perforation or abscess, with hemorrhage	Possible	
+ICD10/CM	-		C0837257	Diverticulosis of both small and large intestine without perforation or abscess, with hemorrhage	Possible	

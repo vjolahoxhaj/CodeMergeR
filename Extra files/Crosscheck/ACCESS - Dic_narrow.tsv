@@ -1,0 +1,345 @@
+Coding system	Code	Code name	Concept	Concept name	Tags	Origin
+ICD10CM	D65	Disseminated intravascular coagulation [defibrination syndrome]	C0012739	Disseminated Intravascular Coagulation	Narrow	CASEDEF
+ICD10CM	-		C0311369	Fibrinolytic purpura	Narrow	
+ICD10CM	O46.02	Antepartum hemorrhage w disseminated intravasc coagulation	C2909116	Antepartum hemorrhage with disseminated intravascular coagulation	Narrow	NARROWER (C0012739)
+ICD10CM	O46.021	Antepartum hemorrhage with disseminated intravascular coagulation, first trimester			Narrow	DESC (O46.02)
+ICD10CM	O46.022	Antepartum hemorrhage with disseminated intravascular coagulation, second trimester			Narrow	DESC (O46.02)
+ICD10CM	O46.023	Antepartum hemorrhage with disseminated intravascular coagulation, third trimester			Narrow	DESC (O46.02)
+ICD10CM	O46.029	Antepartum hemorrhage with disseminated intravascular coagulation, unspecified trimester			Narrow	DESC (O46.02)
+ICD10CM	-		C3873539	Disseminated intravascular coagulation due to placental abruption	Narrow	
+ICD10CM	-		C0269559	Failed attempted termination of pregnancy with defibrination syndrome	Narrow	
+ICD10CM	-		C0269304	Defibrination syndrome following molar AND/OR ectopic pregnancy	Narrow	
+ICD10CM	-		C0269350	Unspecified abortion with defibrination syndrome	Narrow	
+ICD10CM	-		C3662206	Induced termination of pregnancy complicated by defibrination syndrome	Narrow	
+ICD10CM	-		C0269401	Miscarriage with defibrination syndrome	Narrow	
+ICD10CM	D69.2	Purpura NOS	C0034150	Purpura	Narrow	NARROWER (C0012739)
+ICD10CM	P60	Disseminated intravascular coagulation of newborn	C0158992	Disseminated intravascular coagulation in newborn	Narrow	NARROWER (C0012739)
+ICD10CM	-		C0085650	Purpura Fulminans	Narrow	
+ICD9CM	286.6	Defibrination syndrome	C0012739	Disseminated Intravascular Coagulation	Narrow	CASEDEF
+ICD9CM	-		C0311369	Fibrinolytic purpura	Narrow	
+ICD9CM	-		C2909116	Antepartum hemorrhage with disseminated intravascular coagulation	Narrow	
+ICD9CM	-		C3873539	Disseminated intravascular coagulation due to placental abruption	Narrow	
+ICD9CM	-		C0269559	Failed attempted termination of pregnancy with defibrination syndrome	Narrow	
+ICD9CM	-		C0269304	Defibrination syndrome following molar AND/OR ectopic pregnancy	Narrow	
+ICD9CM	-		C0269350	Unspecified abortion with defibrination syndrome	Narrow	
+ICD9CM	-		C3662206	Induced termination of pregnancy complicated by defibrination syndrome	Narrow	
+ICD9CM	-		C0269401	Miscarriage with defibrination syndrome	Narrow	
+ICD9CM	-		C0034150	Purpura	Narrow	
+ICD9CM	776.2	Disseminated intravascular coagulation in newborn	C0158992	Disseminated intravascular coagulation in newborn	Narrow	NARROWER (C0012739)
+ICD9CM	-		C0085650	Purpura Fulminans	Narrow	
+ICPC	-		C0012739	Disseminated Intravascular Coagulation	Narrow	
+ICPC	-		C0311369	Fibrinolytic purpura	Narrow	
+ICPC	-		C2909116	Antepartum hemorrhage with disseminated intravascular coagulation	Narrow	
+ICPC	-		C3873539	Disseminated intravascular coagulation due to placental abruption	Narrow	
+ICPC	-		C0269559	Failed attempted termination of pregnancy with defibrination syndrome	Narrow	
+ICPC	-		C0269304	Defibrination syndrome following molar AND/OR ectopic pregnancy	Narrow	
+ICPC	-		C0269350	Unspecified abortion with defibrination syndrome	Narrow	
+ICPC	-		C3662206	Induced termination of pregnancy complicated by defibrination syndrome	Narrow	
+ICPC	-		C0269401	Miscarriage with defibrination syndrome	Narrow	
+ICPC	-		C0034150	Purpura	Narrow	
+ICPC	-		C0158992	Disseminated intravascular coagulation in newborn	Narrow	
+ICPC	-		C0085650	Purpura Fulminans	Narrow	
+ICPC2P	B83017	Disseminated intravascul coag	C0012739	Disseminated Intravascular Coagulation	Narrow	CASEDEF
+ICPC2P	B83007	Purpura;fibrinolytic	C0311369	Fibrinolytic purpura	Narrow	NARROWER (C0012739)
+ICPC2P	-		C2909116	Antepartum hemorrhage with disseminated intravascular coagulation	Narrow	
+ICPC2P	-		C3873539	Disseminated intravascular coagulation due to placental abruption	Narrow	
+ICPC2P	-		C0269559	Failed attempted termination of pregnancy with defibrination syndrome	Narrow	
+ICPC2P	-		C0269304	Defibrination syndrome following molar AND/OR ectopic pregnancy	Narrow	
+ICPC2P	-		C0269350	Unspecified abortion with defibrination syndrome	Narrow	
+ICPC2P	-		C3662206	Induced termination of pregnancy complicated by defibrination syndrome	Narrow	
+ICPC2P	-		C0269401	Miscarriage with defibrination syndrome	Narrow	
+ICPC2P	B83009	Purpura	C0034150	Purpura	Narrow	NARROWER (C0012739)
+ICPC2P	-		C0158992	Disseminated intravascular coagulation in newborn	Narrow	
+ICPC2P	-		C0085650	Purpura Fulminans	Narrow	
+RCD	D306.	Disseminated intravascular coagulation	C0012739	Disseminated Intravascular Coagulation	Narrow	CASEDEF
+RCD	-		C0311369	Fibrinolytic purpura	Narrow	
+RCD	-		C2909116	Antepartum hemorrhage with disseminated intravascular coagulation	Narrow	
+RCD	-		C3873539	Disseminated intravascular coagulation due to placental abruption	Narrow	
+RCD	-		C0269559	Failed attempted termination of pregnancy with defibrination syndrome	Narrow	
+RCD	-		C0269304	Defibrination syndrome following molar AND/OR ectopic pregnancy	Narrow	
+RCD	-		C0269350	Unspecified abortion with defibrination syndrome	Narrow	
+RCD	-		C3662206	Induced termination of pregnancy complicated by defibrination syndrome	Narrow	
+RCD	-		C0269401	Miscarriage with defibrination syndrome	Narrow	
+RCD	X75uf	Purpura	C0034150	Purpura	Narrow	NARROWER (C0012739)
+RCD	C3300	Waldenstrom's hypergammaglobulinaemic purpura			Narrow	DESC (X75uf)
+RCD	C3301	Benign primary hypergammaglobulinaemic purpura			Narrow	DESC (X75uf)
+RCD	C3320	Cryoglobulinaemic purpura			Narrow	DESC (X75uf)
+RCD	D1111	Microangiopathic haemolytic anaemia			Narrow	DESC (X75uf)
+RCD	D1113	Haemolytic uraemic syndrome			Narrow	DESC (X75uf)
+RCD	D310.	Allergic purpura			Narrow	DESC (X75uf)
+RCD	D3100	Henoch-Schonlein purpura			Narrow	DESC (X75uf)
+RCD	D310z	Allergic purpura NOS			Narrow	DESC (X75uf)
+RCD	D3120	Senile purpura			Narrow	DESC (X75uf)
+RCD	D312z	Non-thrombocytopenic purpura NOS			Narrow	DESC (X75uf)
+RCD	D3133	[X]Essential thrombocytopenia NOS			Narrow	DESC (X75uf)
+RCD	D313y	Other specified primary thrombocytopenia			Narrow	DESC (X75uf)
+RCD	Dyu31	[X]Other non-thrombocytopenic purpura			Narrow	DESC (X75uf)
+RCD	G752z	Hypersensitivity angiitis NOS			Narrow	DESC (X75uf)
+RCD	G756.	Thrombotic thrombocytopenic purpura			Narrow	DESC (X75uf)
+RCD	G756z	Thrombotic microangiopathy NOS			Narrow	DESC (X75uf)
+RCD	M2y01	Majocchi's disease			Narrow	DESC (X75uf)
+RCD	X20FG	Hereditary thrombocytopenia NEC			Narrow	DESC (X75uf)
+RCD	X20FI	Metabolic thrombocytopenic purpura			Narrow	DESC (X75uf)
+RCD	X20FJ	Immune thrombocytopenic purpura			Narrow	DESC (X75uf)
+RCD	X20FK	Autoimmune thrombocytopenic purpura			Narrow	DESC (X75uf)
+RCD	X20FL	Neonatal isoimmune thrombocytopenia			Narrow	DESC (X75uf)
+RCD	X20FM	Alloimmune neonatal thrombocytopenia			Narrow	DESC (X75uf)
+RCD	X20FN	Non-thrombocytopenic purpura			Narrow	DESC (X75uf)
+RCD	X20FO	Primary non-thrombocytopenic purpura			Narrow	DESC (X75uf)
+RCD	X20FP	Secondary non-thrombocytopenic purpura			Narrow	DESC (X75uf)
+RCD	X20FQ	Metabolic purpura			Narrow	DESC (X75uf)
+RCD	X20FR	Purpura fulminans			Narrow	DESC (X75uf)
+RCD	X20FS	Mechanical purpura			Narrow	DESC (X75uf)
+RCD	X20FT	Embolic purpura			Narrow	DESC (X75uf)
+RCD	X20FU	Painful bruising syndrome			Narrow	DESC (X75uf)
+RCD	X20FV	Localised oral purpura			Narrow	DESC (X75uf)
+RCD	X50Ad	Livedoid vasculitis			Narrow	DESC (X75uf)
+RCD	X50B3	Vascular purpura			Narrow	DESC (X75uf)
+RCD	X50B4	Capillaritis			Narrow	DESC (X75uf)
+RCD	X50B5	Idiopathic capillaritis			Narrow	DESC (X75uf)
+RCD	X50B6	Schambergs disease			Narrow	DESC (X75uf)
+RCD	X50B7	Itching purpura			Narrow	DESC (X75uf)
+RCD	X50B8	Pigmented purpuric lichenoid dermatosis of Gougerot and Blum			Narrow	DESC (X75uf)
+RCD	X50B9	Lichen aureus			Narrow	DESC (X75uf)
+RCD	X50BA	Familial pigmented purpuric eruption			Narrow	DESC (X75uf)
+RCD	X50BB	Gravitational purpura			Narrow	DESC (X75uf)
+RCD	X50BC	Primary cutaneous vasculitis			Narrow	DESC (X75uf)
+RCD	X50BE	Erythema elevatum diutinum			Narrow	DESC (X75uf)
+RCD	X50BF	Granuloma faciale			Narrow	DESC (X75uf)
+RCD	X50BG	Gougerot-Ruiter purpura			Narrow	DESC (X75uf)
+RCD	X50BI	Secondary cutaneous vasculitis			Narrow	DESC (X75uf)
+RCD	X705x	Hypocomplementaemic urticarial vasculitis			Narrow	DESC (X75uf)
+RCD	X7060	Post-infective Henoch-Schonlein purpura			Narrow	DESC (X75uf)
+RCD	X78Tp	Extracellular cholesterosis			Narrow	DESC (X75uf)
+RCD	XE0VV	Leucocytoclastic vasculitis			Narrow	DESC (X75uf)
+RCD	XE144	Other non-thrombocytopenic purpura			Narrow	DESC (X75uf)
+RCD	XE146	Idiopathic thrombocytopenic purpura			Narrow	DESC (X75uf)
+RCD	XE147	Congenital thrombocytopenic purpura			Narrow	DESC (X75uf)
+RCD	XE148	Primary thrombocytopenia NOS			Narrow	DESC (X75uf)
+RCD	XE2rp	Post-transfusion thrombocytopenic purpura			Narrow	DESC (X75uf)
+RCD	XM190	[EDTA] Haemolytic uraemic syndrome including Moschcowitz syndrome associated with renal failure			Narrow	DESC (X75uf)
+RCD	XM1PY	Gardner-Diamond syndrome			Narrow	DESC (X75uf)
+RCD	Xa0WQ	Purpura simplex			Narrow	DESC (X75uf)
+RCD	Xa9Ay	Thrombocytopenic purpura			Narrow	DESC (X75uf)
+RCD	XaB48	Thrombocytopenia due to massive blood transfusion			Narrow	DESC (X75uf)
+RCD	Q452.	Newborn disseminated intravascular coagulation	C0158992	Disseminated intravascular coagulation in newborn	Narrow	NARROWER (C0012739)
+RCD	-		C0085650	Purpura Fulminans	Narrow	
+RCD2	D306.	Defibrination syndrome	C0012739	Disseminated Intravascular Coagulation	Narrow	CASEDEF
+RCD2	-		C0311369	Fibrinolytic purpura	Narrow	
+RCD2	-		C2909116	Antepartum hemorrhage with disseminated intravascular coagulation	Narrow	
+RCD2	-		C3873539	Disseminated intravascular coagulation due to placental abruption	Narrow	
+RCD2	-		C0269559	Failed attempted termination of pregnancy with defibrination syndrome	Narrow	
+RCD2	-		C0269304	Defibrination syndrome following molar AND/OR ectopic pregnancy	Narrow	
+RCD2	-		C0269350	Unspecified abortion with defibrination syndrome	Narrow	
+RCD2	-		C3662206	Induced termination of pregnancy complicated by defibrination syndrome	Narrow	
+RCD2	-		C0269401	Miscarriage with defibrination syndrome	Narrow	
+RCD2	D3121	Purpura	C0034150	Purpura	Narrow	NARROWER (C0012739)
+RCD2	Q452.	Newborn dissem.intravasc.coag.	C0158992	Disseminated intravascular coagulation in newborn	Narrow	NARROWER (C0012739)
+RCD2	-		C0085650	Purpura Fulminans	Narrow	
+SCTSPA	67406007	coagulación intravascular diseminada	C0012739	Disseminated Intravascular Coagulation	Narrow	CASEDEF
+SCTSPA	1177197005	Antepartum hemorrhage with disseminated intravascular coagulation			Narrow	DESC (67406007)
+SCTSPA	13507004	Purpura fulminans			Narrow	DESC (67406007)
+SCTSPA	34417008	Disseminated intravascular coagulation in newborn			Narrow	DESC (67406007)
+SCTSPA	34478009	Failed attempted termination of pregnancy with defibrination syndrome			Narrow	DESC (67406007)
+SCTSPA	39191000119103	Disseminated intravascular coagulation due to placental abruption			Narrow	DESC (67406007)
+SCTSPA	402851000	Neonatal purpura fulminans (homozygous protein C deficiency)			Narrow	DESC (67406007)
+SCTSPA	50770000	Miscarriage with defibrination syndrome			Narrow	DESC (67406007)
+SCTSPA	609462000	Induced termination of pregnancy complicated by defibrination syndrome			Narrow	DESC (67406007)
+SCTSPA	61810006	Illegal termination of pregnancy with defibrination syndrome			Narrow	DESC (67406007)
+SCTSPA	62698000	Defibrination syndrome following molar AND/OR ectopic pregnancy			Narrow	DESC (67406007)
+SCTSPA	6647006	Legal termination of pregnancy with defibrination syndrome			Narrow	DESC (67406007)
+SCTSPA	725157006	Acquired purpura fulminans			Narrow	DESC (67406007)
+SCTSPA	-		C0311369	Fibrinolytic purpura	Narrow	
+SCTSPA	-		C2909116	Antepartum hemorrhage with disseminated intravascular coagulation	Narrow	
+SCTSPA	-		C3873539	Disseminated intravascular coagulation due to placental abruption	Narrow	
+SCTSPA	-		C0269559	Failed attempted termination of pregnancy with defibrination syndrome	Narrow	
+SCTSPA	-		C0269304	Defibrination syndrome following molar AND/OR ectopic pregnancy	Narrow	
+SCTSPA	35509007	aborto con síndrome de desfibrinación	C0269350	Unspecified abortion with defibrination syndrome	Narrow	NARROWER (C0012739)
+SCTSPA	-		C3662206	Induced termination of pregnancy complicated by defibrination syndrome	Narrow	
+SCTSPA	-		C0269401	Miscarriage with defibrination syndrome	Narrow	
+SCTSPA	118653003	enfermedad purpúrica	C0034150	Purpura	Narrow	NARROWER (C0012739)
+SCTSPA	12393003	púrpura	C0034150	Purpura	Narrow	NARROWER (C0012739)
+SCTSPA	387778001	enfermedad purpúrica	C0034150	Purpura	Narrow	NARROWER (C0012739)
+SCTSPA	10278007	Factitious purpura			Narrow	DESC (387778001)
+SCTSPA	111199007	Purpura pigmentosa chronica			Narrow	DESC (387778001)
+SCTSPA	1179363003	Maternal perinatal purpura			Narrow	DESC (387778001)
+SCTSPA	1179364009	Fetal purpura			Narrow	DESC (387778001)
+SCTSPA	13172003	Chronic idiopathic thrombocytopenic purpura			Narrow	DESC (387778001)
+SCTSPA	190809001	Waldenstrom's hypergammaglobulinemic purpura			Narrow	DESC (387778001)
+SCTSPA	190810006	Benign primary hypergammaglobulinemic purpura			Narrow	DESC (387778001)
+SCTSPA	190814002	Cryoglobulinemic purpura			Narrow	DESC (387778001)
+SCTSPA	20343006	Pigmented purpuric lichenoid dermatitis of Gougerot and Blum			Narrow	DESC (387778001)
+SCTSPA	21112004	Vascular hemostatic disease			Narrow	DESC (387778001)
+SCTSPA	234493006	Non-thrombocytopenic purpura			Narrow	DESC (387778001)
+SCTSPA	234494000	Primary non-thrombocytopenic purpura			Narrow	DESC (387778001)
+SCTSPA	234495004	Secondary non-thrombocytopenic purpura			Narrow	DESC (387778001)
+SCTSPA	234496003	Metabolic purpura			Narrow	DESC (387778001)
+SCTSPA	234497007	Embolic purpura			Narrow	DESC (387778001)
+SCTSPA	238781005	Itching purpura			Narrow	DESC (387778001)
+SCTSPA	238783008	Familial pigmented purpuric eruption			Narrow	DESC (387778001)
+SCTSPA	238787009	Secondary cutaneous vasculitis			Narrow	DESC (387778001)
+SCTSPA	267535004	Congenital thrombocytopenic purpura			Narrow	DESC (387778001)
+SCTSPA	275446004	Gardner-Diamond syndrome			Narrow	DESC (387778001)
+SCTSPA	277791008	Purpura simplex			Narrow	DESC (387778001)
+SCTSPA	284078000	Purpuric rash			Narrow	DESC (387778001)
+SCTSPA	302873008	Thrombocytopenic purpura			Narrow	DESC (387778001)
+SCTSPA	33183004	Post infectious thrombocytopenic purpura			Narrow	DESC (387778001)
+SCTSPA	361209006	Dermite ocre of Favre			Narrow	DESC (387778001)
+SCTSPA	361210001	Stasis purpura			Narrow	DESC (387778001)
+SCTSPA	373420004	Upshaw-Schulman syndrome			Narrow	DESC (387778001)
+SCTSPA	402589000	Contact purpura			Narrow	DESC (387778001)
+SCTSPA	402653004	Thrombocytopenic purpura due to defective platelet production			Narrow	DESC (387778001)
+SCTSPA	402654005	Thrombocytopenic purpura due to platelet consumption			Narrow	DESC (387778001)
+SCTSPA	402848007	Clothing purpura			Narrow	DESC (387778001)
+SCTSPA	402849004	Purpura due to increased intravascular pressure			Narrow	DESC (387778001)
+SCTSPA	402850004	Purpura due to prolonged vomiting and/or coughing			Narrow	DESC (387778001)
+SCTSPA	402852007	Hyperglobulinemic purpura			Narrow	DESC (387778001)
+SCTSPA	402853002	Cryofibrinogenemic purpura			Narrow	DESC (387778001)
+SCTSPA	402854008	Dysproteinemic purpura			Narrow	DESC (387778001)
+SCTSPA	403393000	Stellate pseudoscar in senile purpura			Narrow	DESC (387778001)
+SCTSPA	41486008	Eczematid-like purpura of Doucas and Kapetanakis			Narrow	DESC (387778001)
+SCTSPA	417626001	Thrombocytopenic purpura associated with metabolic disorder			Narrow	DESC (387778001)
+SCTSPA	438476003	Autoimmune thrombotic thrombocytopenic purpura			Narrow	DESC (387778001)
+SCTSPA	439007008	Acquired thrombotic thrombocytopenic purpura			Narrow	DESC (387778001)
+SCTSPA	441322009	Drug induced thrombotic thrombocytopenic purpura			Narrow	DESC (387778001)
+SCTSPA	53751009	Senile purpura			Narrow	DESC (387778001)
+SCTSPA	56231002	Purpura annularis telangiectodes of Majocchi			Narrow	DESC (387778001)
+SCTSPA	7014009	Mechanical purpura			Narrow	DESC (387778001)
+SCTSPA	7226007	Infection-associated purpura			Narrow	DESC (387778001)
+SCTSPA	723011009	Acute purpuric eruption of skin			Narrow	DESC (387778001)
+SCTSPA	724854007	Purpura of skin and or skin-associated mucous membrane co-occurrent and due to coagulation disorder			Narrow	DESC (387778001)
+SCTSPA	724855008	Purpura of skin caused by mechanical force			Narrow	DESC (387778001)
+SCTSPA	73162004	Posttransfusion purpura			Narrow	DESC (387778001)
+SCTSPA	737243006	Purpura of skin co-occurrent and due to vascular fragility			Narrow	DESC (387778001)
+SCTSPA	78129009	Thrombotic thrombocytopenic purpura			Narrow	DESC (387778001)
+SCTSPA	81500003	Steroid purpura			Narrow	DESC (387778001)
+SCTSPA	91304009	Capillary fragility abnormality			Narrow	DESC (387778001)
+SCTSPA	423902002	púrpura	C0034150	Purpura	Narrow	NARROWER (C0012739)
+SCTSPA	109957002	Drug-induced purpura			Narrow	DESC (423902002)
+SCTSPA	289487000	Purpura of vulva			Narrow	DESC (423902002)
+SCTSPA	289862004	Purpura of female perineum			Narrow	DESC (423902002)
+SCTSPA	403614002	Purpura due to drug-induced coagulation abnormality			Narrow	DESC (423902002)
+SCTSPA	403615001	Purpura due to drug-induced capillary damage			Narrow	DESC (423902002)
+SCTSPA	43484003	Cutaneous plague			Narrow	DESC (423902002)
+SCTSPA	829988004	Purpura of mouth region			Narrow	DESC (423902002)
+SCTSPA	8554002	Brazilian purpuric fever			Narrow	DESC (423902002)
+SCTSPA	-		C0158992	Disseminated intravascular coagulation in newborn	Narrow	
+SCTSPA	-		C0085650	Purpura Fulminans	Narrow	
+SNOMEDCT_US	267563002	Dissemin. intravascular coag.	C0012739	Disseminated Intravascular Coagulation	Narrow	CASEDEF
+SNOMEDCT_US	67406007	Disseminated intravascular coagulation	C0012739	Disseminated Intravascular Coagulation	Narrow	CASEDEF
+SNOMEDCT_US	1177197005	Antepartum hemorrhage with disseminated intravascular coagulation			Narrow	DESC (67406007)
+SNOMEDCT_US	13507004	Purpura fulminans			Narrow	DESC (67406007)
+SNOMEDCT_US	34417008	Disseminated intravascular coagulation in newborn			Narrow	DESC (67406007)
+SNOMEDCT_US	34478009	Failed attempted termination of pregnancy with defibrination syndrome			Narrow	DESC (67406007)
+SNOMEDCT_US	39191000119103	Disseminated intravascular coagulation due to placental abruption			Narrow	DESC (67406007)
+SNOMEDCT_US	402851000	Neonatal purpura fulminans (homozygous protein C deficiency)			Narrow	DESC (67406007)
+SNOMEDCT_US	50770000	Miscarriage with defibrination syndrome			Narrow	DESC (67406007)
+SNOMEDCT_US	609462000	Induced termination of pregnancy complicated by defibrination syndrome			Narrow	DESC (67406007)
+SNOMEDCT_US	61810006	Illegal termination of pregnancy with defibrination syndrome			Narrow	DESC (67406007)
+SNOMEDCT_US	62698000	Defibrination syndrome following molar AND/OR ectopic pregnancy			Narrow	DESC (67406007)
+SNOMEDCT_US	6647006	Legal termination of pregnancy with defibrination syndrome			Narrow	DESC (67406007)
+SNOMEDCT_US	725157006	Acquired purpura fulminans			Narrow	DESC (67406007)
+SNOMEDCT_US	-		C0311369	Fibrinolytic purpura	Narrow	
+SNOMEDCT_US	-		C2909116	Antepartum hemorrhage with disseminated intravascular coagulation	Narrow	
+SNOMEDCT_US	-		C3873539	Disseminated intravascular coagulation due to placental abruption	Narrow	
+SNOMEDCT_US	-		C0269559	Failed attempted termination of pregnancy with defibrination syndrome	Narrow	
+SNOMEDCT_US	-		C0269304	Defibrination syndrome following molar AND/OR ectopic pregnancy	Narrow	
+SNOMEDCT_US	35509007	Abortion with defibrination syndrome	C0269350	Unspecified abortion with defibrination syndrome	Narrow	NARROWER (C0012739)
+SNOMEDCT_US	-		C3662206	Induced termination of pregnancy complicated by defibrination syndrome	Narrow	
+SNOMEDCT_US	-		C0269401	Miscarriage with defibrination syndrome	Narrow	
+SNOMEDCT_US	118653003	Disorder characterised by purpura	C0034150	Purpura	Narrow	NARROWER (C0012739)
+SNOMEDCT_US	12393003	Purpura	C0034150	Purpura	Narrow	NARROWER (C0012739)
+SNOMEDCT_US	154822006	Purpura	C0034150	Purpura	Narrow	NARROWER (C0012739)
+SNOMEDCT_US	191313005	Purpura	C0034150	Purpura	Narrow	NARROWER (C0012739)
+SNOMEDCT_US	246989006	Purpura	C0034150	Purpura	Narrow	NARROWER (C0012739)
+SNOMEDCT_US	267564008	Purpura	C0034150	Purpura	Narrow	NARROWER (C0012739)
+SNOMEDCT_US	387778001	Purpuric disorder	C0034150	Purpura	Narrow	NARROWER (C0012739)
+SNOMEDCT_US	10278007	Factitious purpura			Narrow	DESC (387778001)
+SNOMEDCT_US	111199007	Purpura pigmentosa chronica			Narrow	DESC (387778001)
+SNOMEDCT_US	1179363003	Maternal perinatal purpura			Narrow	DESC (387778001)
+SNOMEDCT_US	1179364009	Fetal purpura			Narrow	DESC (387778001)
+SNOMEDCT_US	13172003	Chronic idiopathic thrombocytopenic purpura			Narrow	DESC (387778001)
+SNOMEDCT_US	190809001	Waldenstrom's hypergammaglobulinemic purpura			Narrow	DESC (387778001)
+SNOMEDCT_US	190810006	Benign primary hypergammaglobulinemic purpura			Narrow	DESC (387778001)
+SNOMEDCT_US	190814002	Cryoglobulinemic purpura			Narrow	DESC (387778001)
+SNOMEDCT_US	20343006	Pigmented purpuric lichenoid dermatitis of Gougerot and Blum			Narrow	DESC (387778001)
+SNOMEDCT_US	21112004	Vascular hemostatic disease			Narrow	DESC (387778001)
+SNOMEDCT_US	234493006	Non-thrombocytopenic purpura			Narrow	DESC (387778001)
+SNOMEDCT_US	234494000	Primary non-thrombocytopenic purpura			Narrow	DESC (387778001)
+SNOMEDCT_US	234495004	Secondary non-thrombocytopenic purpura			Narrow	DESC (387778001)
+SNOMEDCT_US	234496003	Metabolic purpura			Narrow	DESC (387778001)
+SNOMEDCT_US	234497007	Embolic purpura			Narrow	DESC (387778001)
+SNOMEDCT_US	238781005	Itching purpura			Narrow	DESC (387778001)
+SNOMEDCT_US	238783008	Familial pigmented purpuric eruption			Narrow	DESC (387778001)
+SNOMEDCT_US	238787009	Secondary cutaneous vasculitis			Narrow	DESC (387778001)
+SNOMEDCT_US	267535004	Congenital thrombocytopenic purpura			Narrow	DESC (387778001)
+SNOMEDCT_US	275446004	Gardner-Diamond syndrome			Narrow	DESC (387778001)
+SNOMEDCT_US	277791008	Purpura simplex			Narrow	DESC (387778001)
+SNOMEDCT_US	284078000	Purpuric rash			Narrow	DESC (387778001)
+SNOMEDCT_US	302873008	Thrombocytopenic purpura			Narrow	DESC (387778001)
+SNOMEDCT_US	33183004	Post infectious thrombocytopenic purpura			Narrow	DESC (387778001)
+SNOMEDCT_US	361209006	Dermite ocre of Favre			Narrow	DESC (387778001)
+SNOMEDCT_US	361210001	Stasis purpura			Narrow	DESC (387778001)
+SNOMEDCT_US	373420004	Upshaw-Schulman syndrome			Narrow	DESC (387778001)
+SNOMEDCT_US	402589000	Contact purpura			Narrow	DESC (387778001)
+SNOMEDCT_US	402653004	Thrombocytopenic purpura due to defective platelet production			Narrow	DESC (387778001)
+SNOMEDCT_US	402654005	Thrombocytopenic purpura due to platelet consumption			Narrow	DESC (387778001)
+SNOMEDCT_US	402848007	Clothing purpura			Narrow	DESC (387778001)
+SNOMEDCT_US	402849004	Purpura due to increased intravascular pressure			Narrow	DESC (387778001)
+SNOMEDCT_US	402850004	Purpura due to prolonged vomiting and/or coughing			Narrow	DESC (387778001)
+SNOMEDCT_US	402852007	Hyperglobulinemic purpura			Narrow	DESC (387778001)
+SNOMEDCT_US	402853002	Cryofibrinogenemic purpura			Narrow	DESC (387778001)
+SNOMEDCT_US	402854008	Dysproteinemic purpura			Narrow	DESC (387778001)
+SNOMEDCT_US	403393000	Stellate pseudoscar in senile purpura			Narrow	DESC (387778001)
+SNOMEDCT_US	41486008	Eczematid-like purpura of Doucas and Kapetanakis			Narrow	DESC (387778001)
+SNOMEDCT_US	417626001	Thrombocytopenic purpura associated with metabolic disorder			Narrow	DESC (387778001)
+SNOMEDCT_US	438476003	Autoimmune thrombotic thrombocytopenic purpura			Narrow	DESC (387778001)
+SNOMEDCT_US	439007008	Acquired thrombotic thrombocytopenic purpura			Narrow	DESC (387778001)
+SNOMEDCT_US	441322009	Drug induced thrombotic thrombocytopenic purpura			Narrow	DESC (387778001)
+SNOMEDCT_US	53751009	Senile purpura			Narrow	DESC (387778001)
+SNOMEDCT_US	56231002	Purpura annularis telangiectodes of Majocchi			Narrow	DESC (387778001)
+SNOMEDCT_US	7014009	Mechanical purpura			Narrow	DESC (387778001)
+SNOMEDCT_US	7226007	Infection-associated purpura			Narrow	DESC (387778001)
+SNOMEDCT_US	723011009	Acute purpuric eruption of skin			Narrow	DESC (387778001)
+SNOMEDCT_US	724854007	Purpura of skin and or skin-associated mucous membrane co-occurrent and due to coagulation disorder			Narrow	DESC (387778001)
+SNOMEDCT_US	724855008	Purpura of skin caused by mechanical force			Narrow	DESC (387778001)
+SNOMEDCT_US	73162004	Posttransfusion purpura			Narrow	DESC (387778001)
+SNOMEDCT_US	737243006	Purpura of skin co-occurrent and due to vascular fragility			Narrow	DESC (387778001)
+SNOMEDCT_US	78129009	Thrombotic thrombocytopenic purpura			Narrow	DESC (387778001)
+SNOMEDCT_US	81500003	Steroid purpura			Narrow	DESC (387778001)
+SNOMEDCT_US	91304009	Capillary fragility abnormality			Narrow	DESC (387778001)
+SNOMEDCT_US	423902002	Purpura	C0034150	Purpura	Narrow	NARROWER (C0012739)
+SNOMEDCT_US	109957002	Drug-induced purpura			Narrow	DESC (423902002)
+SNOMEDCT_US	289487000	Purpura of vulva			Narrow	DESC (423902002)
+SNOMEDCT_US	289862004	Purpura of female perineum			Narrow	DESC (423902002)
+SNOMEDCT_US	403614002	Purpura due to drug-induced coagulation abnormality			Narrow	DESC (423902002)
+SNOMEDCT_US	403615001	Purpura due to drug-induced capillary damage			Narrow	DESC (423902002)
+SNOMEDCT_US	43484003	Cutaneous plague			Narrow	DESC (423902002)
+SNOMEDCT_US	829988004	Purpura of mouth region			Narrow	DESC (423902002)
+SNOMEDCT_US	8554002	Brazilian purpuric fever			Narrow	DESC (423902002)
+SNOMEDCT_US	-		C0158992	Disseminated intravascular coagulation in newborn	Narrow	
+SNOMEDCT_US	-		C0085650	Purpura Fulminans	Narrow	
+ICD10/CM	D65	Disseminated intravascular coagulation [defibrination syndrome]	C0012739	Disseminated Intravascular Coagulation	Narrow	CASEDEF
+ICD10/CM	-		C0311369	Fibrinolytic purpura	Narrow	
+ICD10/CM	O46.02	Antepartum hemorrhage w disseminated intravasc coagulation	C2909116	Antepartum hemorrhage with disseminated intravascular coagulation	Narrow	NARROWER (C0012739)
+ICD10/CM	-		C3873539	Disseminated intravascular coagulation due to placental abruption	Narrow	
+ICD10/CM	-		C0269559	Failed attempted termination of pregnancy with defibrination syndrome	Narrow	
+ICD10/CM	-		C0269304	Defibrination syndrome following molar AND/OR ectopic pregnancy	Narrow	
+ICD10/CM	-		C0269350	Unspecified abortion with defibrination syndrome	Narrow	
+ICD10/CM	-		C3662206	Induced termination of pregnancy complicated by defibrination syndrome	Narrow	
+ICD10/CM	-		C0269401	Miscarriage with defibrination syndrome	Narrow	
+ICD10/CM	D69.2	Purpura NOS	C0034150	Purpura	Narrow	NARROWER (C0012739)
+ICD10/CM	P60	Disseminated intravascular coagulation of fetus and newborn	C0158992	Disseminated intravascular coagulation in newborn	Narrow	NARROWER (C0012739)
+ICD10/CM	-		C0085650	Purpura Fulminans	Narrow	
+ICD10	D65	Disseminated intravascular coagulation [defibrination syndrome]	C0012739	Disseminated Intravascular Coagulation	Narrow	CASEDEF
+ICD10	-		C0311369	Fibrinolytic purpura	Narrow	
+ICD10	-		C2909116	Antepartum hemorrhage with disseminated intravascular coagulation	Narrow	
+ICD10	-		C3873539	Disseminated intravascular coagulation due to placental abruption	Narrow	
+ICD10	-		C0269559	Failed attempted termination of pregnancy with defibrination syndrome	Narrow	
+ICD10	-		C0269304	Defibrination syndrome following molar AND/OR ectopic pregnancy	Narrow	
+ICD10	-		C0269350	Unspecified abortion with defibrination syndrome	Narrow	
+ICD10	-		C3662206	Induced termination of pregnancy complicated by defibrination syndrome	Narrow	
+ICD10	-		C0269401	Miscarriage with defibrination syndrome	Narrow	
+ICD10	-		C0034150	Purpura	Narrow	
+ICD10	P60	Disseminated intravascular coagulation of fetus and newborn	C0158992	Disseminated intravascular coagulation in newborn	Narrow	NARROWER (C0012739)
+ICD10	-		C0085650	Purpura Fulminans	Narrow	

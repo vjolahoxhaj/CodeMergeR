@@ -1,0 +1,356 @@
+Coding system	Code	Code name	Concept	Concept name	Tags	Origin
+ICD10	G70.0	Myasthenia gravis	C0026896	Myasthenia Gravis	narrow	CASEDEF
+ICD10	G73.1	Eaton-Lambert syndrome	C0022972	Lambert-Eaton Myasthenic Syndrome	Possible	NARROWER (C0026896)
+ICD10	-		C0270942	Myasthenic crisis	narrow	
+ICD10	P94.0	Transient neonatal myasthenia gravis	C0495465	Myasthenia Gravis, Neonatal, Transient	narrow	NARROWER (C0026896)
+ICD10	G73.3	Myasthenic syndromes in other diseases classified elsewhere	C0477408	Myasthenic syndromes in other diseases classified elsewhere	Possible	NARROWER (C0026896)
+ICD10	G70.2	Congenital and developmental myasthenia	C0451670	Congenital and developmental myasthenia	Possible	NARROWER (C0026896)
+ICD10	-		C0158982	Neonatal Myasthenia Gravis	narrow	
+ICD10	-		C1260409	myasthenia gravis without acute exacerbation	narrow	
+ICD10	-		C0270941	Myasthenia gravis, adult form	narrow	
+ICD10	-		C0393945	Myasthenia gravis associated with thymoma	narrow	
+ICD10	-		C0393942	Juvenile or adult myasthenia gravis	narrow	
+ICD10	-		C0393929	Familial infantile myasthenia	Possible	
+ICD10	-		C0270940	Myasthenia gravis, juvenile form	narrow	
+ICD10	-		C0751340	Myasthenia Gravis, Ocular	narrow	
+ICD10	-		C0477407	[X]Other myasthenic syndromes in neoplastic disease classified elsewhere	Possible	
+ICD10	-		C0393928	Genetically determined myasthenia	Possible	
+ICD10	-		C0477406	[X]Myasthenic syndromes in endocrine diseases classified elsewhere	Possible	
+ICD10	-		C0472367	Generalized myasthenia	Possible	
+ICD10	-		C0393941	Persistent neonatal myasthenia gravis	narrow	
+ICD10	-		C3662045	Myasthenia gravis with exacerbation	narrow	
+ICD10	-		C4749335	Rippling muscle disease with myasthenia gravis	narrow	
+ICD10	-		C3662076	Myasthenia gravis without exacerbation	narrow	
+ICD10	-		C0270944	Neonatal myasthenia	narrow	
+ICD10	-		C1846838	Myasthenia Gravis with Thymus Hyperplasia	narrow	
+ICD10	-		C0751339	Myasthenia Gravis, Generalized	narrow	
+ICD10	-		C1834635	Myasthenia, Limb-Girdle, Autoimmune	Possible	
+ICD10	-		C4761103	Muscle-Specific Receptor Tyrosine Kinase Myasthenia Gravis	narrow	
+ICD10	-		C0752087	Myasthenia Gravis, Autoimmune, Experimental	narrow	
+ICD10	-		C0393942	Juvenile or adult myasthenia gravis	narrow	
+ICD10	G73	Disorders of myoneural junction and muscle in diseases classified elsewhere	C0694478	disorder of myoneural junction and muscle in diseases classified elsewhere	Possible	CASEDEF
+ICD10	G73.0	Myasthenic syndromes in endocrine diseases			Possible	DESC (G73)
+ICD10	G73.2	Other myasthenic syndromes in neoplastic disease			Possible	DESC (G73)
+ICD10	G73.4	Myopathy in infectious and parasitic diseases classified elsewhere			Possible	DESC (G73)
+ICD10	G73.5	Myopathy in endocrine diseases			Possible	DESC (G73)
+ICD10	G73.6	Myopathy in metabolic diseases			Possible	DESC (G73)
+ICD10	G73.7	Myopathy in other diseases classified elsewhere			Possible	DESC (G73)
+ICD10	-		C0022972	Lambert-Eaton Myasthenic Syndrome	Possible	
+ICD10	-		C0477408	Myasthenic syndromes in other diseases classified elsewhere	Possible	
+ICD10	-		C0494506	Other myasthenic syndromes in neoplastic disease	Possible	
+ICD10	-		C0494505	Myasthenic syndromes in endocrine diseases	Possible	
+ICD10	-		C0751340	Myasthenia Gravis, Ocular	narrow	
+ICD10	-		C1532671	Ocular myasthenia with strabismus	Possible	
+ICD10	-		C1260409	myasthenia gravis without acute exacerbation	narrow	
+ICD10	-		C1532671	Ocular myasthenia with strabismus	Possible	
+ICD10CM	G70.0	Myasthenia gravis	C0026896	Myasthenia Gravis	narrow	CASEDEF
+ICD10CM	G70.00	Myasthenia gravis without (acute) exacerbation			narrow	DESC (G70.0)
+ICD10CM	G70.01	Myasthenia gravis with (acute) exacerbation			narrow	DESC (G70.0)
+ICD10CM	G70.80	Lambert-Eaton syndrome NOS	C0022972	Lambert-Eaton Myasthenic Syndrome	Possible	NARROWER (C0026896)
+ICD10CM	-		C0270942	Myasthenic crisis	narrow	
+ICD10CM	P94.0	Transient neonatal myasthenia gravis	C0495465	Myasthenia Gravis, Neonatal, Transient	narrow	NARROWER (C0026896)
+ICD10CM	G73.3	Myasthenic syndromes in other diseases classified elsewhere	C0477408	Myasthenic syndromes in other diseases classified elsewhere	Possible	NARROWER (C0026896)
+ICD10CM	G70.2	Congenital and developmental myasthenia	C0451670	Congenital and developmental myasthenia	Possible	NARROWER (C0026896)
+ICD10CM	-		C0158982	Neonatal Myasthenia Gravis	narrow	
+ICD10CM	-		C1260409	myasthenia gravis without acute exacerbation	narrow	
+ICD10CM	-		C0270941	Myasthenia gravis, adult form	narrow	
+ICD10CM	-		C0393945	Myasthenia gravis associated with thymoma	narrow	
+ICD10CM	-		C0393942	Juvenile or adult myasthenia gravis	narrow	
+ICD10CM	-		C0393929	Familial infantile myasthenia	Possible	
+ICD10CM	-		C0270940	Myasthenia gravis, juvenile form	narrow	
+ICD10CM	-		C0751340	Myasthenia Gravis, Ocular	narrow	
+ICD10CM	-		C0477407	[X]Other myasthenic syndromes in neoplastic disease classified elsewhere	Possible	
+ICD10CM	-		C0393928	Genetically determined myasthenia	Possible	
+ICD10CM	-		C0477406	[X]Myasthenic syndromes in endocrine diseases classified elsewhere	Possible	
+ICD10CM	-		C0472367	Generalized myasthenia	Possible	
+ICD10CM	-		C0393941	Persistent neonatal myasthenia gravis	narrow	
+ICD10CM	-		C3662045	Myasthenia gravis with exacerbation	narrow	
+ICD10CM	-		C4749335	Rippling muscle disease with myasthenia gravis	narrow	
+ICD10CM	-		C3662076	Myasthenia gravis without exacerbation	narrow	
+ICD10CM	-		C0270944	Neonatal myasthenia	narrow	
+ICD10CM	-		C1846838	Myasthenia Gravis with Thymus Hyperplasia	narrow	
+ICD10CM	-		C0751339	Myasthenia Gravis, Generalized	narrow	
+ICD10CM	-		C1834635	Myasthenia, Limb-Girdle, Autoimmune	Possible	
+ICD10CM	-		C4761103	Muscle-Specific Receptor Tyrosine Kinase Myasthenia Gravis	narrow	
+ICD10CM	-		C0752087	Myasthenia Gravis, Autoimmune, Experimental	narrow	
+ICD10CM	-		C0393942	Juvenile or adult myasthenia gravis	narrow	
+ICD10CM	G73	Disorders of myoneural junction and muscle in diseases classified elsewhere	C0694478	disorder of myoneural junction and muscle in diseases classified elsewhere	Possible	CASEDEF
+ICD10CM	G73.1	Lambert-Eaton syndrome in neoplastic disease			Possible	DESC (G73)
+ICD10CM	G73.7	Myopathy in diseases classified elsewhere			Possible	DESC (G73)
+ICD10CM	-		C0022972	Lambert-Eaton Myasthenic Syndrome	Possible	
+ICD10CM	-		C0477408	Myasthenic syndromes in other diseases classified elsewhere	Possible	
+ICD10CM	-		C0494506	Other myasthenic syndromes in neoplastic disease	Possible	
+ICD10CM	-		C0494505	Myasthenic syndromes in endocrine diseases	Possible	
+ICD10CM	-		C0751340	Myasthenia Gravis, Ocular	narrow	
+ICD10CM	-		C1532671	Ocular myasthenia with strabismus	Possible	
+ICD10CM	-		C1260409	myasthenia gravis without acute exacerbation	narrow	
+ICD10CM	-		C1532671	Ocular myasthenia with strabismus	Possible	
+ICD9CM	358.0	Myasthenia gravis	C0026896	Myasthenia Gravis	narrow	CASEDEF
+ICD9CM	358.00	Myasthenia gravis without (acute) exacerbation			narrow	DESC (358.0)
+ICD9CM	358.01	Myasthenia gravis with (acute) exacerbation			narrow	DESC (358.0)
+ICD9CM	358.3	Lambert-Eaton syndrome	C0022972	Lambert-Eaton Myasthenic Syndrome	Possible	NARROWER (C0026896)
+ICD9CM	358.30	Lambert-Eaton syndrome, unspecified			Possible	DESC (358.3)
+ICD9CM	358.31	Lambert-Eaton syndrome in neoplastic disease			Possible	DESC (358.3)
+ICD9CM	358.39	Lambert-Eaton syndrome in other diseases classified elsewhere			Possible	DESC (358.3)
+ICD9CM	-		C0270942	Myasthenic crisis	narrow	
+ICD9CM	-		C0495465	Myasthenia Gravis, Neonatal, Transient	narrow	
+ICD9CM	-		C0477408	Myasthenic syndromes in other diseases classified elsewhere	Possible	
+ICD9CM	-		C0451670	Congenital and developmental myasthenia	Possible	
+ICD9CM	775.2	Neonatal myasthenia gravis	C0158982	Neonatal Myasthenia Gravis	narrow	NARROWER (C0026896)
+ICD9CM	-		C1260409	myasthenia gravis without acute exacerbation	narrow	
+ICD9CM	-		C0270941	Myasthenia gravis, adult form	narrow	
+ICD9CM	-		C0393945	Myasthenia gravis associated with thymoma	narrow	
+ICD9CM	-		C0393942	Juvenile or adult myasthenia gravis	narrow	
+ICD9CM	-		C0393929	Familial infantile myasthenia	Possible	
+ICD9CM	-		C0270940	Myasthenia gravis, juvenile form	narrow	
+ICD9CM	-		C0751340	Myasthenia Gravis, Ocular	narrow	
+ICD9CM	-		C0477407	[X]Other myasthenic syndromes in neoplastic disease classified elsewhere	Possible	
+ICD9CM	-		C0393928	Genetically determined myasthenia	Possible	
+ICD9CM	-		C0477406	[X]Myasthenic syndromes in endocrine diseases classified elsewhere	Possible	
+ICD9CM	-		C0472367	Generalized myasthenia	Possible	
+ICD9CM	-		C0393941	Persistent neonatal myasthenia gravis	narrow	
+ICD9CM	-		C3662045	Myasthenia gravis with exacerbation	narrow	
+ICD9CM	-		C4749335	Rippling muscle disease with myasthenia gravis	narrow	
+ICD9CM	-		C3662076	Myasthenia gravis without exacerbation	narrow	
+ICD9CM	-		C0270944	Neonatal myasthenia	narrow	
+ICD9CM	-		C1846838	Myasthenia Gravis with Thymus Hyperplasia	narrow	
+ICD9CM	-		C0751339	Myasthenia Gravis, Generalized	narrow	
+ICD9CM	-		C1834635	Myasthenia, Limb-Girdle, Autoimmune	Possible	
+ICD9CM	-		C4761103	Muscle-Specific Receptor Tyrosine Kinase Myasthenia Gravis	narrow	
+ICD9CM	-		C0752087	Myasthenia Gravis, Autoimmune, Experimental	narrow	
+ICD9CM	-		C0393942	Juvenile or adult myasthenia gravis	narrow	
+ICD9CM	-		C0694478	disorder of myoneural junction and muscle in diseases classified elsewhere	Possible	
+ICD9CM	-		C0022972	Lambert-Eaton Myasthenic Syndrome	Possible	
+ICD9CM	-		C0477408	Myasthenic syndromes in other diseases classified elsewhere	Possible	
+ICD9CM	-		C0494506	Other myasthenic syndromes in neoplastic disease	Possible	
+ICD9CM	-		C0494505	Myasthenic syndromes in endocrine diseases	Possible	
+ICD9CM	-		C0751340	Myasthenia Gravis, Ocular	narrow	
+ICD9CM	-		C1532671	Ocular myasthenia with strabismus	Possible	
+ICD9CM	-		C1260409	myasthenia gravis without acute exacerbation	narrow	
+ICD9CM	-		C1532671	Ocular myasthenia with strabismus	Possible	
+ICPC	-		C0026896	Myasthenia Gravis	narrow	
+ICPC	-		C0022972	Lambert-Eaton Myasthenic Syndrome	Possible	
+ICPC	-		C0270942	Myasthenic crisis	narrow	
+ICPC	-		C0495465	Myasthenia Gravis, Neonatal, Transient	narrow	
+ICPC	-		C0477408	Myasthenic syndromes in other diseases classified elsewhere	Possible	
+ICPC	-		C0451670	Congenital and developmental myasthenia	Possible	
+ICPC	-		C0158982	Neonatal Myasthenia Gravis	narrow	
+ICPC	-		C1260409	myasthenia gravis without acute exacerbation	narrow	
+ICPC	-		C0270941	Myasthenia gravis, adult form	narrow	
+ICPC	-		C0393945	Myasthenia gravis associated with thymoma	narrow	
+ICPC	-		C0393942	Juvenile or adult myasthenia gravis	narrow	
+ICPC	-		C0393929	Familial infantile myasthenia	Possible	
+ICPC	-		C0270940	Myasthenia gravis, juvenile form	narrow	
+ICPC	-		C0751340	Myasthenia Gravis, Ocular	narrow	
+ICPC	-		C0477407	[X]Other myasthenic syndromes in neoplastic disease classified elsewhere	Possible	
+ICPC	-		C0393928	Genetically determined myasthenia	Possible	
+ICPC	-		C0477406	[X]Myasthenic syndromes in endocrine diseases classified elsewhere	Possible	
+ICPC	-		C0472367	Generalized myasthenia	Possible	
+ICPC	-		C0393941	Persistent neonatal myasthenia gravis	narrow	
+ICPC	-		C3662045	Myasthenia gravis with exacerbation	narrow	
+ICPC	-		C4749335	Rippling muscle disease with myasthenia gravis	narrow	
+ICPC	-		C3662076	Myasthenia gravis without exacerbation	narrow	
+ICPC	-		C0270944	Neonatal myasthenia	narrow	
+ICPC	-		C1846838	Myasthenia Gravis with Thymus Hyperplasia	narrow	
+ICPC	-		C0751339	Myasthenia Gravis, Generalized	narrow	
+ICPC	-		C1834635	Myasthenia, Limb-Girdle, Autoimmune	Possible	
+ICPC	-		C4761103	Muscle-Specific Receptor Tyrosine Kinase Myasthenia Gravis	narrow	
+ICPC	-		C0752087	Myasthenia Gravis, Autoimmune, Experimental	narrow	
+ICPC	-		C0393942	Juvenile or adult myasthenia gravis	narrow	
+ICPC	-		C0694478	disorder of myoneural junction and muscle in diseases classified elsewhere	Possible	
+ICPC	-		C0022972	Lambert-Eaton Myasthenic Syndrome	Possible	
+ICPC	-		C0477408	Myasthenic syndromes in other diseases classified elsewhere	Possible	
+ICPC	-		C0494506	Other myasthenic syndromes in neoplastic disease	Possible	
+ICPC	-		C0494505	Myasthenic syndromes in endocrine diseases	Possible	
+ICPC	-		C0751340	Myasthenia Gravis, Ocular	narrow	
+ICPC	-		C1532671	Ocular myasthenia with strabismus	Possible	
+ICPC	-		C1260409	myasthenia gravis without acute exacerbation	narrow	
+ICPC	-		C1532671	Ocular myasthenia with strabismus	Possible	
+ICPC2EENG	-		C0026896	Myasthenia Gravis	narrow	
+ICPC2EENG	-		C0022972	Lambert-Eaton Myasthenic Syndrome	Possible	
+ICPC2EENG	-		C0270942	Myasthenic crisis	narrow	
+ICPC2EENG	-		C0495465	Myasthenia Gravis, Neonatal, Transient	narrow	
+ICPC2EENG	-		C0477408	Myasthenic syndromes in other diseases classified elsewhere	Possible	
+ICPC2EENG	-		C0451670	Congenital and developmental myasthenia	Possible	
+ICPC2EENG	-		C0158982	Neonatal Myasthenia Gravis	narrow	
+ICPC2EENG	-		C1260409	myasthenia gravis without acute exacerbation	narrow	
+ICPC2EENG	-		C0270941	Myasthenia gravis, adult form	narrow	
+ICPC2EENG	-		C0393945	Myasthenia gravis associated with thymoma	narrow	
+ICPC2EENG	-		C0393942	Juvenile or adult myasthenia gravis	narrow	
+ICPC2EENG	-		C0393929	Familial infantile myasthenia	Possible	
+ICPC2EENG	-		C0270940	Myasthenia gravis, juvenile form	narrow	
+ICPC2EENG	-		C0751340	Myasthenia Gravis, Ocular	narrow	
+ICPC2EENG	-		C0477407	[X]Other myasthenic syndromes in neoplastic disease classified elsewhere	Possible	
+ICPC2EENG	-		C0393928	Genetically determined myasthenia	Possible	
+ICPC2EENG	-		C0477406	[X]Myasthenic syndromes in endocrine diseases classified elsewhere	Possible	
+ICPC2EENG	-		C0472367	Generalized myasthenia	Possible	
+ICPC2EENG	-		C0393941	Persistent neonatal myasthenia gravis	narrow	
+ICPC2EENG	-		C3662045	Myasthenia gravis with exacerbation	narrow	
+ICPC2EENG	-		C4749335	Rippling muscle disease with myasthenia gravis	narrow	
+ICPC2EENG	-		C3662076	Myasthenia gravis without exacerbation	narrow	
+ICPC2EENG	-		C0270944	Neonatal myasthenia	narrow	
+ICPC2EENG	-		C1846838	Myasthenia Gravis with Thymus Hyperplasia	narrow	
+ICPC2EENG	-		C0751339	Myasthenia Gravis, Generalized	narrow	
+ICPC2EENG	-		C1834635	Myasthenia, Limb-Girdle, Autoimmune	Possible	
+ICPC2EENG	-		C4761103	Muscle-Specific Receptor Tyrosine Kinase Myasthenia Gravis	narrow	
+ICPC2EENG	-		C0752087	Myasthenia Gravis, Autoimmune, Experimental	narrow	
+ICPC2EENG	-		C0393942	Juvenile or adult myasthenia gravis	narrow	
+ICPC2EENG	-		C0694478	disorder of myoneural junction and muscle in diseases classified elsewhere	Possible	
+ICPC2EENG	-		C0022972	Lambert-Eaton Myasthenic Syndrome	Possible	
+ICPC2EENG	-		C0477408	Myasthenic syndromes in other diseases classified elsewhere	Possible	
+ICPC2EENG	-		C0494506	Other myasthenic syndromes in neoplastic disease	Possible	
+ICPC2EENG	-		C0494505	Myasthenic syndromes in endocrine diseases	Possible	
+ICPC2EENG	-		C0751340	Myasthenia Gravis, Ocular	narrow	
+ICPC2EENG	-		C1532671	Ocular myasthenia with strabismus	Possible	
+ICPC2EENG	-		C1260409	myasthenia gravis without acute exacerbation	narrow	
+ICPC2EENG	-		C1532671	Ocular myasthenia with strabismus	Possible	
+SCTSPA	193208002	miastenia gravis, SAI	C0026896	Myasthenia Gravis	narrow	CASEDEF
+SCTSPA	91637004	miastenia gravis	C0026896	Myasthenia Gravis	narrow	CASEDEF
+SCTSPA	16415791000119104	Myasthenia gravis in remission			narrow	DESC (91637004)
+SCTSPA	193206003	Persistent neonatal myasthenia gravis			narrow	DESC (91637004)
+SCTSPA	193207007	Juvenile or adult myasthenia gravis			narrow	DESC (91637004)
+SCTSPA	230669004	Genetically determined myasthenia			narrow	DESC (91637004)
+SCTSPA	230670003	Familial infantile myasthenia			narrow	DESC (91637004)
+SCTSPA	230671004	Acetylcholine resynthesis deficiency			narrow	DESC (91637004)
+SCTSPA	230672006	Congenital myasthenic syndrome			narrow	DESC (91637004)
+SCTSPA	230673001	Congenital end-plate acetylcholine receptor deficiency			narrow	DESC (91637004)
+SCTSPA	230674007	Pseudomyopathic myasthenia			narrow	DESC (91637004)
+SCTSPA	230676009	Putative defect in acetylcholine synthesis or packaging			narrow	DESC (91637004)
+SCTSPA	230677000	Congenital end-plate acetylcholinesterase deficiency			narrow	DESC (91637004)
+SCTSPA	230678005	Decrease of motor end-plate potential amplitude without acetylcholine receptor deficiency			narrow	DESC (91637004)
+SCTSPA	230679002	Abnormality of synaptic vesicles			narrow	DESC (91637004)
+SCTSPA	230683002	Transient neonatal myasthenia gravis			narrow	DESC (91637004)
+SCTSPA	230684008	Ocular myasthenia			narrow	DESC (91637004)
+SCTSPA	230685009	Myasthenia gravis associated with thymoma			narrow	DESC (91637004)
+SCTSPA	230686005	Generalized myasthenia			narrow	DESC (91637004)
+SCTSPA	31839002	Myasthenia gravis, adult form			narrow	DESC (91637004)
+SCTSPA	414927004	Ocular myasthenia with strabismus			narrow	DESC (91637004)
+SCTSPA	55051001	Myasthenia gravis, juvenile form			narrow	DESC (91637004)
+SCTSPA	770596007	Rippling muscle disease with myasthenia gravis			narrow	DESC (91637004)
+SCTSPA	77461000119109	Myasthenia gravis with exacerbation			narrow	DESC (91637004)
+SCTSPA	77471000119103	Myasthenia gravis without exacerbation			narrow	DESC (91637004)
+SCTSPA	80976008	Myasthenic crisis			narrow	DESC (91637004)
+SCTSPA	82178003	Neonatal myasthenia gravis			narrow	DESC (91637004)
+SCTSPA	56989000	síndrome de Eaton - Lambert	C0022972	Lambert-Eaton Myasthenic Syndrome	Possible	NARROWER (C0026896)
+SCTSPA	292991000119106	Eaton Lambert syndrome without underlying malignancy			Possible	DESC (56989000)
+SCTSPA	608874000	Eaton Lambert syndrome with underlying malignancy			Possible	DESC (56989000)
+SCTSPA	-		C0270942	Myasthenic crisis	narrow	
+SCTSPA	-		C0495465	Myasthenia Gravis, Neonatal, Transient	narrow	
+SCTSPA	194537005	[X]síndromes miasténicos en otras enfermedades clasificadas en otra parte	C0477408	Myasthenic syndromes in other diseases classified elsewhere	Possible	NARROWER (C0026896)
+SCTSPA	193216006	miastenia congénita y del desarrollo	C0451670	Congenital and developmental myasthenia	Possible	NARROWER (C0026896)
+SCTSPA	-		C0158982	Neonatal Myasthenia Gravis	narrow	
+SCTSPA	-		C1260409	myasthenia gravis without acute exacerbation	narrow	
+SCTSPA	-		C0270941	Myasthenia gravis, adult form	narrow	
+SCTSPA	-		C0393945	Myasthenia gravis associated with thymoma	narrow	
+SCTSPA	-		C0393942	Juvenile or adult myasthenia gravis	narrow	
+SCTSPA	230670003	miastenia familiar infantil	C0393929	Familial infantile myasthenia	Possible	NARROWER (C0026896)
+SCTSPA	-		C0270940	Myasthenia gravis, juvenile form	narrow	
+SCTSPA	-		C0751340	Myasthenia Gravis, Ocular	narrow	
+SCTSPA	194536001	[X]otros síndromes miasténicos en enfermedad neoplásica clasificados en otra parte	C0477407	[X]Other myasthenic syndromes in neoplastic disease classified elsewhere	Possible	NARROWER (C0026896)
+SCTSPA	230669004	miastenia determinada genéticamente	C0393928	Genetically determined myasthenia	Possible	NARROWER (C0026896)
+SCTSPA	230671004	Acetylcholine resynthesis deficiency			Possible	DESC (230669004)
+SCTSPA	230672006	Congenital myasthenic syndrome			Possible	DESC (230669004)
+SCTSPA	230673001	Congenital end-plate acetylcholine receptor deficiency			Possible	DESC (230669004)
+SCTSPA	230674007	Pseudomyopathic myasthenia			Possible	DESC (230669004)
+SCTSPA	230676009	Putative defect in acetylcholine synthesis or packaging			Possible	DESC (230669004)
+SCTSPA	230677000	Congenital end-plate acetylcholinesterase deficiency			Possible	DESC (230669004)
+SCTSPA	230678005	Decrease of motor end-plate potential amplitude without acetylcholine receptor deficiency			Possible	DESC (230669004)
+SCTSPA	230679002	Abnormality of synaptic vesicles			Possible	DESC (230669004)
+SCTSPA	194535002	[X]síndromes miasténicos en enfermedades endocrinas clasificadas en otra parte	C0477406	[X]Myasthenic syndromes in endocrine diseases classified elsewhere	Possible	NARROWER (C0026896)
+SCTSPA	230686005	miastenia generalizada	C0472367	Generalized myasthenia	Possible	NARROWER (C0026896)
+SCTSPA	-		C0393941	Persistent neonatal myasthenia gravis	narrow	
+SCTSPA	-		C3662045	Myasthenia gravis with exacerbation	narrow	
+SCTSPA	-		C4749335	Rippling muscle disease with myasthenia gravis	narrow	
+SCTSPA	-		C3662076	Myasthenia gravis without exacerbation	narrow	
+SCTSPA	91213008	miastenia neonatal	C0270944	Neonatal myasthenia	narrow	NARROWER (C0026896)
+SCTSPA	-		C1846838	Myasthenia Gravis with Thymus Hyperplasia	narrow	
+SCTSPA	-		C0751339	Myasthenia Gravis, Generalized	narrow	
+SCTSPA	-		C1834635	Myasthenia, Limb-Girdle, Autoimmune	Possible	
+SCTSPA	-		C4761103	Muscle-Specific Receptor Tyrosine Kinase Myasthenia Gravis	narrow	
+SCTSPA	-		C0752087	Myasthenia Gravis, Autoimmune, Experimental	narrow	
+SCTSPA	-		C0393942	Juvenile or adult myasthenia gravis	narrow	
+SCTSPA	-		C0694478	disorder of myoneural junction and muscle in diseases classified elsewhere	Possible	
+SCTSPA	-		C0022972	Lambert-Eaton Myasthenic Syndrome	Possible	
+SCTSPA	-		C0477408	Myasthenic syndromes in other diseases classified elsewhere	Possible	
+SCTSPA	-		C0494506	Other myasthenic syndromes in neoplastic disease	Possible	
+SCTSPA	-		C0494505	Myasthenic syndromes in endocrine diseases	Possible	
+SCTSPA	-		C0751340	Myasthenia Gravis, Ocular	narrow	
+SCTSPA	414927004	miastenia ocular con estrabismo	C1532671	Ocular myasthenia with strabismus	Possible	NARROWER (C0751340)
+SCTSPA	-		C1260409	myasthenia gravis without acute exacerbation	narrow	
+SCTSPA	-		C1532671	Ocular myasthenia with strabismus	Possible	
+SNOMEDCT_US	155092009	Myasthenia gravis	C0026896	Myasthenia Gravis	narrow	CASEDEF
+SNOMEDCT_US	193208002	Myasthenia gravis NOS	C0026896	Myasthenia Gravis	narrow	CASEDEF
+SNOMEDCT_US	91637004	Myasthenia gravis	C0026896	Myasthenia Gravis	narrow	CASEDEF
+SNOMEDCT_US	16415791000119104	Myasthenia gravis in remission			narrow	DESC (91637004)
+SNOMEDCT_US	193206003	Persistent neonatal myasthenia gravis			narrow	DESC (91637004)
+SNOMEDCT_US	193207007	Juvenile or adult myasthenia gravis			narrow	DESC (91637004)
+SNOMEDCT_US	230669004	Genetically determined myasthenia			narrow	DESC (91637004)
+SNOMEDCT_US	230670003	Familial infantile myasthenia			narrow	DESC (91637004)
+SNOMEDCT_US	230671004	Acetylcholine resynthesis deficiency			narrow	DESC (91637004)
+SNOMEDCT_US	230672006	Congenital myasthenic syndrome			narrow	DESC (91637004)
+SNOMEDCT_US	230673001	Congenital end-plate acetylcholine receptor deficiency			narrow	DESC (91637004)
+SNOMEDCT_US	230674007	Pseudomyopathic myasthenia			narrow	DESC (91637004)
+SNOMEDCT_US	230676009	Putative defect in acetylcholine synthesis or packaging			narrow	DESC (91637004)
+SNOMEDCT_US	230677000	Congenital end-plate acetylcholinesterase deficiency			narrow	DESC (91637004)
+SNOMEDCT_US	230678005	Decrease of motor end-plate potential amplitude without acetylcholine receptor deficiency			narrow	DESC (91637004)
+SNOMEDCT_US	230679002	Abnormality of synaptic vesicles			narrow	DESC (91637004)
+SNOMEDCT_US	230683002	Transient neonatal myasthenia gravis			narrow	DESC (91637004)
+SNOMEDCT_US	230684008	Ocular myasthenia			narrow	DESC (91637004)
+SNOMEDCT_US	230685009	Myasthenia gravis associated with thymoma			narrow	DESC (91637004)
+SNOMEDCT_US	230686005	Generalized myasthenia			narrow	DESC (91637004)
+SNOMEDCT_US	31839002	Myasthenia gravis, adult form			narrow	DESC (91637004)
+SNOMEDCT_US	414927004	Ocular myasthenia with strabismus			narrow	DESC (91637004)
+SNOMEDCT_US	55051001	Myasthenia gravis, juvenile form			narrow	DESC (91637004)
+SNOMEDCT_US	770596007	Rippling muscle disease with myasthenia gravis			narrow	DESC (91637004)
+SNOMEDCT_US	77461000119109	Myasthenia gravis with exacerbation			narrow	DESC (91637004)
+SNOMEDCT_US	77471000119103	Myasthenia gravis without exacerbation			narrow	DESC (91637004)
+SNOMEDCT_US	80976008	Myasthenic crisis			narrow	DESC (91637004)
+SNOMEDCT_US	82178003	Neonatal myasthenia gravis			narrow	DESC (91637004)
+SNOMEDCT_US	230688006	Eaton Lambert myasthenic syndrome	C0022972	Lambert-Eaton Myasthenic Syndrome	Possible	NARROWER (C0026896)
+SNOMEDCT_US	56989000	Eaton-Lambert syndrome	C0022972	Lambert-Eaton Myasthenic Syndrome	Possible	NARROWER (C0026896)
+SNOMEDCT_US	292991000119106	Eaton Lambert syndrome without underlying malignancy			Possible	DESC (56989000)
+SNOMEDCT_US	608874000	Eaton Lambert syndrome with underlying malignancy			Possible	DESC (56989000)
+SNOMEDCT_US	-		C0270942	Myasthenic crisis	narrow	
+SNOMEDCT_US	-		C0495465	Myasthenia Gravis, Neonatal, Transient	narrow	
+SNOMEDCT_US	194537005	[X]Myasthenic syndromes in other diseases classified elsewhere	C0477408	Myasthenic syndromes in other diseases classified elsewhere	Possible	NARROWER (C0026896)
+SNOMEDCT_US	193216006	Congenital and developmental myasthenia	C0451670	Congenital and developmental myasthenia	Possible	NARROWER (C0026896)
+SNOMEDCT_US	-		C0158982	Neonatal Myasthenia Gravis	narrow	
+SNOMEDCT_US	-		C1260409	myasthenia gravis without acute exacerbation	narrow	
+SNOMEDCT_US	-		C0270941	Myasthenia gravis, adult form	narrow	
+SNOMEDCT_US	-		C0393945	Myasthenia gravis associated with thymoma	narrow	
+SNOMEDCT_US	-		C0393942	Juvenile or adult myasthenia gravis	narrow	
+SNOMEDCT_US	230670003	Familial infantile myasthenia	C0393929	Familial infantile myasthenia	Possible	NARROWER (C0026896)
+SNOMEDCT_US	-		C0270940	Myasthenia gravis, juvenile form	narrow	
+SNOMEDCT_US	-		C0751340	Myasthenia Gravis, Ocular	narrow	
+SNOMEDCT_US	194536001	[X]Other myasthenic syndromes in neoplastic disease classified elsewhere	C0477407	[X]Other myasthenic syndromes in neoplastic disease classified elsewhere	Possible	NARROWER (C0026896)
+SNOMEDCT_US	230669004	Genetically determined myasthenia	C0393928	Genetically determined myasthenia	Possible	NARROWER (C0026896)
+SNOMEDCT_US	230671004	Acetylcholine resynthesis deficiency			Possible	DESC (230669004)
+SNOMEDCT_US	230672006	Congenital myasthenic syndrome			Possible	DESC (230669004)
+SNOMEDCT_US	230673001	Congenital end-plate acetylcholine receptor deficiency			Possible	DESC (230669004)
+SNOMEDCT_US	230674007	Pseudomyopathic myasthenia			Possible	DESC (230669004)
+SNOMEDCT_US	230676009	Putative defect in acetylcholine synthesis or packaging			Possible	DESC (230669004)
+SNOMEDCT_US	230677000	Congenital end-plate acetylcholinesterase deficiency			Possible	DESC (230669004)
+SNOMEDCT_US	230678005	Decrease of motor end-plate potential amplitude without acetylcholine receptor deficiency			Possible	DESC (230669004)
+SNOMEDCT_US	230679002	Abnormality of synaptic vesicles			Possible	DESC (230669004)
+SNOMEDCT_US	194535002	[X]Myasthenic syndromes in endocrine diseases classified elsewhere	C0477406	[X]Myasthenic syndromes in endocrine diseases classified elsewhere	Possible	NARROWER (C0026896)
+SNOMEDCT_US	230686005	Generalized myasthenia	C0472367	Generalized myasthenia	Possible	NARROWER (C0026896)
+SNOMEDCT_US	-		C0393941	Persistent neonatal myasthenia gravis	narrow	
+SNOMEDCT_US	-		C3662045	Myasthenia gravis with exacerbation	narrow	
+SNOMEDCT_US	-		C4749335	Rippling muscle disease with myasthenia gravis	narrow	
+SNOMEDCT_US	-		C3662076	Myasthenia gravis without exacerbation	narrow	
+SNOMEDCT_US	91213008	Neonatal myasthenia	C0270944	Neonatal myasthenia	narrow	NARROWER (C0026896)
+SNOMEDCT_US	-		C1846838	Myasthenia Gravis with Thymus Hyperplasia	narrow	
+SNOMEDCT_US	-		C0751339	Myasthenia Gravis, Generalized	narrow	
+SNOMEDCT_US	-		C1834635	Myasthenia, Limb-Girdle, Autoimmune	Possible	
+SNOMEDCT_US	-		C4761103	Muscle-Specific Receptor Tyrosine Kinase Myasthenia Gravis	narrow	
+SNOMEDCT_US	-		C0752087	Myasthenia Gravis, Autoimmune, Experimental	narrow	
+SNOMEDCT_US	-		C0393942	Juvenile or adult myasthenia gravis	narrow	
+SNOMEDCT_US	-		C0694478	disorder of myoneural junction and muscle in diseases classified elsewhere	Possible	
+SNOMEDCT_US	-		C0022972	Lambert-Eaton Myasthenic Syndrome	Possible	
+SNOMEDCT_US	-		C0477408	Myasthenic syndromes in other diseases classified elsewhere	Possible	
+SNOMEDCT_US	-		C0494506	Other myasthenic syndromes in neoplastic disease	Possible	
+SNOMEDCT_US	-		C0494505	Myasthenic syndromes in endocrine diseases	Possible	
+SNOMEDCT_US	-		C0751340	Myasthenia Gravis, Ocular	narrow	
+SNOMEDCT_US	414927004	Ocular myasthenia with strabismus	C1532671	Ocular myasthenia with strabismus	Possible	NARROWER (C0751340)
+SNOMEDCT_US	-		C1260409	myasthenia gravis without acute exacerbation	narrow	
+SNOMEDCT_US	-		C1532671	Ocular myasthenia with strabismus	Possible	

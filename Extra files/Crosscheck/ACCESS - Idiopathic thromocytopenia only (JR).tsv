@@ -1,0 +1,556 @@
+Coding system	Code	Code name	Concept	Concept name	Tags	Origin
+ICD10	-		C0242584	Autoimmune thrombocytopenia	narrow	
+ICD10	-		C0272292	Acute idiopathic thrombocytopenic purpura	narrow	
+ICD10	D69.3	Idiopathic thrombocytopenic purpura	C0398650	Immune thrombocytopenic purpura	narrow	BROADER (C0272292)
+ICD10	-		C0398650	Immune thrombocytopenic purpura	narrow	
+ICD10	D69.6	Thrombocytopenia, unspecified	C0040034	Thrombocytopenia		BROADER (C0398650)
+ICD10	-		C0242584	Autoimmune thrombocytopenia	narrow	
+ICD10	-		C0857305	Thrombocytopenic purpura	narrow	
+ICD10	-		C0677060	essential thrombocytopenia		
+ICD10	-		C0272126	Evans syndrome	narrow	
+ICD10	-		C2584778	Thrombotic thrombocytopenic purpura, acquired	narrow	
+ICD10	-		C0376362	Purpura Hemorrhagica	narrow	
+ICD10	-		C0272292	acute idiopathic thrombocytopenic purpura	narrow	
+ICD10	-		C0272293	Chronic idiopathic thrombocytopenic purpura	narrow	
+ICD10	-		C3853779	Neonatal Alloimmune Thrombocytopenia	narrow	
+ICD10	-		C0857305	Thrombocytopenic purpura	narrow	
+ICD10	-		C1304406	Thrombocytopenic purpura due to platelet consumption	possible	
+ICD10	-		C1534876	Thrombocytopenic purp.	narrow	
+ICD10	-		C1571920	(Purpura/hemorrhagic condition) or (purpura) or (thrombocytopenic purpura)	narrow	
+ICD10	-		C2584777	Autoimmune thrombotic thrombocytopenic purpura	narrow	
+ICD10	-		C2584778	Thrombotic thrombocytopenic purpura, acquired	narrow	
+ICD10CM	-		C0242584	Autoimmune thrombocytopenia	narrow	
+ICD10CM	-		C0272292	Acute idiopathic thrombocytopenic purpura	narrow	
+ICD10CM	D69.3	Immune thrombocytopenic purpura	C0398650	Immune thrombocytopenic purpura	narrow	BROADER (C0272292)
+ICD10CM	-		C0398650	Immune thrombocytopenic purpura	narrow	
+ICD10CM	D69.6	Thrombocytopenia, unspecified	C0040034	Thrombocytopenia		BROADER (C0398650)
+ICD10CM	-		C0242584	Autoimmune thrombocytopenia	narrow	
+ICD10CM	-		C0857305	Thrombocytopenic purpura	narrow	
+ICD10CM	-		C0677060	essential thrombocytopenia		
+ICD10CM	D69.41	Evans syndrome	C0272126	Evans syndrome	narrow	NARROWER (C0398650)
+ICD10CM	-		C2584778	Thrombotic thrombocytopenic purpura, acquired	narrow	
+ICD10CM	-		C0376362	Purpura Hemorrhagica	narrow	
+ICD10CM	-		C0272292	acute idiopathic thrombocytopenic purpura	narrow	
+ICD10CM	-		C0272293	Chronic idiopathic thrombocytopenic purpura	narrow	
+ICD10CM	-		C3853779	Neonatal Alloimmune Thrombocytopenia	narrow	
+ICD10CM	-		C0857305	Thrombocytopenic purpura	narrow	
+ICD10CM	-		C1304406	Thrombocytopenic purpura due to platelet consumption	possible	
+ICD10CM	-		C1534876	Thrombocytopenic purp.	narrow	
+ICD10CM	-		C1571920	(Purpura/hemorrhagic condition) or (purpura) or (thrombocytopenic purpura)	narrow	
+ICD10CM	-		C2584777	Autoimmune thrombotic thrombocytopenic purpura	narrow	
+ICD10CM	-		C2584778	Thrombotic thrombocytopenic purpura, acquired	narrow	
+ICD9CM	-		C0242584	Autoimmune thrombocytopenia	narrow	
+ICD9CM	-		C0272292	Acute idiopathic thrombocytopenic purpura	narrow	
+ICD9CM	287.31	Immune thrombocytopenic purpura	C0398650	Immune thrombocytopenic purpura	narrow	BROADER (C0272292)
+ICD9CM	-		C0398650	Immune thrombocytopenic purpura	narrow	
+ICD9CM	287.5	Thrombocytopenia, unspecified	C0040034	Thrombocytopenia		BROADER (C0398650)
+ICD9CM	-		C0242584	Autoimmune thrombocytopenia	narrow	
+ICD9CM	-		C0857305	Thrombocytopenic purpura	narrow	
+ICD9CM	-		C0677060	essential thrombocytopenia		
+ICD9CM	287.32	Evans' syndrome	C0272126	Evans syndrome	narrow	NARROWER (C0398650)
+ICD9CM	-		C2584778	Thrombotic thrombocytopenic purpura, acquired	narrow	
+ICD9CM	-		C0376362	Purpura Hemorrhagica	narrow	
+ICD9CM	-		C0272292	acute idiopathic thrombocytopenic purpura	narrow	
+ICD9CM	-		C0272293	Chronic idiopathic thrombocytopenic purpura	narrow	
+ICD9CM	-		C3853779	Neonatal Alloimmune Thrombocytopenia	narrow	
+ICD9CM	-		C0857305	Thrombocytopenic purpura	narrow	
+ICD9CM	-		C1304406	Thrombocytopenic purpura due to platelet consumption	possible	
+ICD9CM	-		C1534876	Thrombocytopenic purp.	narrow	
+ICD9CM	-		C1571920	(Purpura/hemorrhagic condition) or (purpura) or (thrombocytopenic purpura)	narrow	
+ICD9CM	-		C2584777	Autoimmune thrombotic thrombocytopenic purpura	narrow	
+ICD9CM	-		C2584778	Thrombotic thrombocytopenic purpura, acquired	narrow	
+ICPC2P	-		C0242584	Autoimmune thrombocytopenia	narrow	
+ICPC2P	-		C0272292	Acute idiopathic thrombocytopenic purpura	narrow	
+ICPC2P	B83006	Idiopath Thrombocytopenic Purp	C0398650	Immune thrombocytopenic purpura	narrow	BROADER (C0272292)
+ICPC2P	-		C0398650	Immune thrombocytopenic purpura	narrow	
+ICPC2P	B83012	Thrombocytopaenia	C0040034	Thrombocytopenia		BROADER (C0398650)
+ICPC2P	-		C0242584	Autoimmune thrombocytopenia	narrow	
+ICPC2P	-		C0857305	Thrombocytopenic purpura	narrow	
+ICPC2P	-		C0677060	essential thrombocytopenia		
+ICPC2P	-		C0272126	Evans syndrome	narrow	
+ICPC2P	-		C2584778	Thrombotic thrombocytopenic purpura, acquired	narrow	
+ICPC2P	-		C0376362	Purpura Hemorrhagica	narrow	
+ICPC2P	-		C0272292	acute idiopathic thrombocytopenic purpura	narrow	
+ICPC2P	-		C0272293	Chronic idiopathic thrombocytopenic purpura	narrow	
+ICPC2P	-		C3853779	Neonatal Alloimmune Thrombocytopenia	narrow	
+ICPC2P	-		C0857305	Thrombocytopenic purpura	narrow	
+ICPC2P	-		C1304406	Thrombocytopenic purpura due to platelet consumption	possible	
+ICPC2P	-		C1534876	Thrombocytopenic purp.	narrow	
+ICPC2P	-		C1571920	(Purpura/hemorrhagic condition) or (purpura) or (thrombocytopenic purpura)	narrow	
+ICPC2P	-		C2584777	Autoimmune thrombotic thrombocytopenic purpura	narrow	
+ICPC2P	-		C2584778	Thrombotic thrombocytopenic purpura, acquired	narrow	
+MTHICD9	-		C0242584	Autoimmune thrombocytopenia	narrow	
+MTHICD9	-		C0272292	Acute idiopathic thrombocytopenic purpura	narrow	
+MTHICD9	287.31	Idiopathic thrombocytopenic purpura	C0398650	Immune thrombocytopenic purpura	narrow	BROADER (C0272292)
+MTHICD9	-		C0398650	Immune thrombocytopenic purpura	narrow	
+MTHICD9	-		C0040034	Thrombocytopenia		
+MTHICD9	-		C0242584	Autoimmune thrombocytopenia	narrow	
+MTHICD9	-		C0857305	Thrombocytopenic purpura	narrow	
+MTHICD9	-		C0677060	essential thrombocytopenia		
+MTHICD9	-		C0272126	Evans syndrome	narrow	
+MTHICD9	-		C2584778	Thrombotic thrombocytopenic purpura, acquired	narrow	
+MTHICD9	-		C0376362	Purpura Hemorrhagica	narrow	
+MTHICD9	-		C0272292	acute idiopathic thrombocytopenic purpura	narrow	
+MTHICD9	-		C0272293	Chronic idiopathic thrombocytopenic purpura	narrow	
+MTHICD9	-		C3853779	Neonatal Alloimmune Thrombocytopenia	narrow	
+MTHICD9	-		C0857305	Thrombocytopenic purpura	narrow	
+MTHICD9	-		C1304406	Thrombocytopenic purpura due to platelet consumption	possible	
+MTHICD9	-		C1534876	Thrombocytopenic purp.	narrow	
+MTHICD9	-		C1571920	(Purpura/hemorrhagic condition) or (purpura) or (thrombocytopenic purpura)	narrow	
+MTHICD9	-		C2584777	Autoimmune thrombotic thrombocytopenic purpura	narrow	
+MTHICD9	-		C2584778	Thrombotic thrombocytopenic purpura, acquired	narrow	
+RCD2	-		C0242584	Autoimmune thrombocytopenia	narrow	
+RCD2	-		C0272292	Acute idiopathic thrombocytopenic purpura	narrow	
+RCD2	-		C0398650	Immune thrombocytopenic purpura	narrow	
+RCD2	-		C0398650	Immune thrombocytopenic purpura	narrow	
+RCD2	D315.	Thrombocytopenia NOS	C0040034	Thrombocytopenia		BROADER (C0398650)
+RCD2	-		C0242584	Autoimmune thrombocytopenia	narrow	
+RCD2	-		C0857305	Thrombocytopenic purpura	narrow	
+RCD2	D3133	[X]Essent thrombocytopenia NOS	C0677060	essential thrombocytopenia		NARROWER (C0398650)
+RCD2	D313z	Primary thrombocytopenia NOS	C0677060	essential thrombocytopenia		NARROWER (C0398650)
+RCD2	-		C0272126	Evans syndrome	narrow	
+RCD2	-		C2584778	Thrombotic thrombocytopenic purpura, acquired	narrow	
+RCD2	-		C0376362	Purpura Hemorrhagica	narrow	
+RCD2	-		C0272292	acute idiopathic thrombocytopenic purpura	narrow	
+RCD2	-		C0272293	Chronic idiopathic thrombocytopenic purpura	narrow	
+RCD2	Q451y	Trans.neonat.thrombocytop. OS	C3853779	Neonatal Alloimmune Thrombocytopenia	narrow	NARROWER (C0398650)
+RCD2	-		C0857305	Thrombocytopenic purpura	narrow	
+RCD2	-		C1304406	Thrombocytopenic purpura due to platelet consumption	possible	
+RCD2	-		C1534876	Thrombocytopenic purp.	narrow	
+RCD2	-		C1571920	(Purpura/hemorrhagic condition) or (purpura) or (thrombocytopenic purpura)	narrow	
+RCD2	-		C2584777	Autoimmune thrombotic thrombocytopenic purpura	narrow	
+RCD2	-		C2584778	Thrombotic thrombocytopenic purpura, acquired	narrow	
+SCTSPA	128091003	trombocitopenia autoinmunitaria	C0242584	Autoimmune thrombocytopenia	narrow	CASEDEF
+SCTSPA	111588002	Heparin-induced thrombocytopenia with thrombosis			narrow	DESC (128091003)
+SCTSPA	1156746003	Vaccine-induced prothrombotic immune thrombocytopenia			narrow	DESC (128091003)
+SCTSPA	128092005	Secondary autoimmune thrombocytopenia			narrow	DESC (128091003)
+SCTSPA	13172003	Chronic idiopathic thrombocytopenic purpura			narrow	DESC (128091003)
+SCTSPA	19307009	Drug-induced immune thrombocytopenia			narrow	DESC (128091003)
+SCTSPA	73397007	Heparin-induced thrombocytopenia			narrow	DESC (128091003)
+SCTSPA	75331009	Evans syndrome			narrow	DESC (128091003)
+SCTSPA	28505005	púrpura trombocitopénica idiopática aguda	C0272292	Acute idiopathic thrombocytopenic purpura	narrow	CASEDEF
+SCTSPA	234490009	púrpura trombocitopénica autoinmune	C0398650	Immune thrombocytopenic purpura	narrow	BROADER (C0272292)
+SCTSPA	32273002	púrpura trombocitopénica idiopática	C0398650	Immune thrombocytopenic purpura	narrow	BROADER (C0272292)
+SCTSPA	-		C0398650	Immune thrombocytopenic purpura	narrow	
+SCTSPA	154827000	Thrombocytopenia NOS	C0040034	Thrombocytopenia		BROADER (C0398650)
+SCTSPA	191326009	plaquetopenia, SAI	C0040034	Thrombocytopenia		BROADER (C0398650)
+SCTSPA	302215000	trastorno trombocitopénico	C0040034	Thrombocytopenia		BROADER (C0398650)
+SCTSPA	10752381000119101	Fetal thrombocytopenia				DESC (302215000)
+SCTSPA	111588002	Heparin-induced thrombocytopenia with thrombosis				DESC (302215000)
+SCTSPA	1156746003	Vaccine-induced prothrombotic immune thrombocytopenia				DESC (302215000)
+SCTSPA	1156838007	X-linked thrombocytopenia with normal platelets				DESC (302215000)
+SCTSPA	1172604004	DIAPH1-related sensorineural hearing loss-thrombocytopenia syndrome				DESC (302215000)
+SCTSPA	1172685001	Macrothrombocytopenia, lymphedema, developmental delay, facial dysmorphism, camptodactyly syndrome				DESC (302215000)
+SCTSPA	1172699002	Hereditary thrombocytopenia with early-onset myelofibrosis				DESC (302215000)
+SCTSPA	1187252002	Autosomal dominant thrombocytopenia with platelet secretion defect				DESC (302215000)
+SCTSPA	1187614006	Severe autosomal recessive macrothrombocytopenia				DESC (302215000)
+SCTSPA	1187615007	TAFRO syndrome				DESC (302215000)
+SCTSPA	118791000119106	Aplastic anemia caused by antineoplastic agent				DESC (302215000)
+SCTSPA	1208617001	Congenital autosomal recessive small-platelet thrombocytopenia				DESC (302215000)
+SCTSPA	1208725005	Multifocal lymphangioendotheliomatosis, thrombocytopenia syndrome				DESC (302215000)
+SCTSPA	127034005	Pancytopenia				DESC (302215000)
+SCTSPA	128090002	Benign gestational thrombocytopenia				DESC (302215000)
+SCTSPA	128091003	Primary ITP (immune thrombocytopenia)				DESC (302215000)
+SCTSPA	128092005	Secondary autoimmune thrombocytopenia				DESC (302215000)
+SCTSPA	128093000	Alloimmune thrombocytopenia				DESC (302215000)
+SCTSPA	128094006	Alloimmune platelet transfusion refractoriness				DESC (302215000)
+SCTSPA	13172003	Chronic idiopathic thrombocytopenic purpura				DESC (302215000)
+SCTSPA	14024008	Humoral immunologic aplastic anemia				DESC (302215000)
+SCTSPA	154826009	Secondary thrombocytopenia				DESC (302215000)
+SCTSPA	16623961000119100	Pancytopenia caused by immunosuppressant				DESC (302215000)
+SCTSPA	183005	Autoimmune pancytopenia				DESC (302215000)
+SCTSPA	191244003	Aplastic anemia due to chronic disease				DESC (302215000)
+SCTSPA	191246001	Aplastic anemia due to infection				DESC (302215000)
+SCTSPA	191247005	Aplastic anemia due to radiation				DESC (302215000)
+SCTSPA	191248000	Aplastic anemia due to toxic cause				DESC (302215000)
+SCTSPA	191256002	Idiopathic aplastic anemia				DESC (302215000)
+SCTSPA	191322006	Thrombocytopenia due to drugs				DESC (302215000)
+SCTSPA	191323001	Thrombocytopenia due to extracorporeal circulation of blood				DESC (302215000)
+SCTSPA	19307009	Drug-induced immune thrombocytopenia				DESC (302215000)
+SCTSPA	206510008	Transient neonatal thrombocytopenia due to exchange transfusion				DESC (302215000)
+SCTSPA	206511007	Transient neonatal thrombocytopenia due to idiopathic maternal thrombocytopenia				DESC (302215000)
+SCTSPA	206512000	Transient neonatal thrombocytopenia due to isoimmunization				DESC (302215000)
+SCTSPA	23205009	Transient neonatal thrombocytopenia				DESC (302215000)
+SCTSPA	234367000	Pancytopenia with pancreatitis				DESC (302215000)
+SCTSPA	234482009	Amegakaryocytic thrombocytopenia				DESC (302215000)
+SCTSPA	234483004	Megakaryocytic thrombocytopenia				DESC (302215000)
+SCTSPA	234484005	May-Hegglin anomaly				DESC (302215000)
+SCTSPA	234485006	Epstein syndrome				DESC (302215000)
+SCTSPA	234486007	Montreal platelet syndrome				DESC (302215000)
+SCTSPA	234487003	Mediterranean thrombocytopenia				DESC (302215000)
+SCTSPA	240305000	Neonatal alloimmune thrombocytopenia				DESC (302215000)
+SCTSPA	240486003	Parvoviral aplastic crisis				DESC (302215000)
+SCTSPA	267524009	Constitutional aplastic anemia with malformation				DESC (302215000)
+SCTSPA	267527002	Aplastic anemia due to drugs				DESC (302215000)
+SCTSPA	267534000	Primary thrombocytopenia				DESC (302215000)
+SCTSPA	267535004	Congenital thrombocytopenic purpura				DESC (302215000)
+SCTSPA	273986001	Perinatal thrombocytopenia				DESC (302215000)
+SCTSPA	276575001	Autoimmune neonatal thrombocytopenia				DESC (302215000)
+SCTSPA	2897005	Immune thrombocytopenia				DESC (302215000)
+SCTSPA	28975000	Constitutional aplastic anemia				DESC (302215000)
+SCTSPA	30182008	Thrombocytopenia due to extracorporeal circulation				DESC (302215000)
+SCTSPA	302873008	Thrombocytopenic purpura				DESC (302215000)
+SCTSPA	30575002	Fanconi's anemia				DESC (302215000)
+SCTSPA	306058006	Aplastic anemia				DESC (302215000)
+SCTSPA	307342006	Thrombocytopenia due to massive blood transfusion				DESC (302215000)
+SCTSPA	323079008	Thrombocytopenia due to sequestration				DESC (302215000)
+SCTSPA	328301000119102	Pancytopenia due to antineoplastic chemotherapy				DESC (302215000)
+SCTSPA	328371000119107	Pancytopenia caused by antithyroid drug				DESC (302215000)
+SCTSPA	328381000119105	Pancytopenia caused by anticonvulsant				DESC (302215000)
+SCTSPA	33183004	Post infectious thrombocytopenic purpura				DESC (302215000)
+SCTSPA	34395002	Thrombocytopenia due to hypothermia				DESC (302215000)
+SCTSPA	359531004	Amegakaryocytic thrombocytopenia with congenital malformation				DESC (302215000)
+SCTSPA	359536009	Megakaryocytic aplasia				DESC (302215000)
+SCTSPA	36070007	Wiskott-Aldrich syndrome				DESC (302215000)
+SCTSPA	371074009	Radiation thrombocytopenia				DESC (302215000)
+SCTSPA	371106008	Idiopathic maternal thrombocytopenia				DESC (302215000)
+SCTSPA	373420004	Upshaw-Schulman syndrome				DESC (302215000)
+SCTSPA	37492005	Sex-linked thrombocytopenia				DESC (302215000)
+SCTSPA	38970002	Doan-Wright syndrome				DESC (302215000)
+SCTSPA	402653004	Thrombocytopenic purpura due to defective platelet production				DESC (302215000)
+SCTSPA	402654005	Thrombocytopenic purpura due to platelet consumption				DESC (302215000)
+SCTSPA	403837005	Wiskott-Aldrich autosomal dominant variant syndrome				DESC (302215000)
+SCTSPA	413565006	Aplastic anemia associated with metabolic alteration				DESC (302215000)
+SCTSPA	413566007	Aplastic anemia associated with pancreatitis				DESC (302215000)
+SCTSPA	413567003	Aplastic anemia associated with pregnancy				DESC (302215000)
+SCTSPA	416902009	Uremic thrombocytopenia				DESC (302215000)
+SCTSPA	417626001	Thrombocytopenic purpura associated with metabolic disorder				DESC (302215000)
+SCTSPA	421102007	Aplastic anemia with AIDS (acquired immunodeficiency syndrome)				DESC (302215000)
+SCTSPA	421766003	Thrombocytopenia with AIDS (acquired immunodeficiency syndrome)				DESC (302215000)
+SCTSPA	438476003	Autoimmune thrombotic thrombocytopenic purpura				DESC (302215000)
+SCTSPA	438492008	Hereditary thrombocytopenic disorder				DESC (302215000)
+SCTSPA	43858000	Secondary aplastic anemia				DESC (302215000)
+SCTSPA	439007008	Acquired thrombotic thrombocytopenic purpura				DESC (302215000)
+SCTSPA	441134009	Congenital dysmegakaryopoietic thrombocytopenia, Paris Trousseau type				DESC (302215000)
+SCTSPA	441322009	Drug induced thrombotic thrombocytopenic purpura				DESC (302215000)
+SCTSPA	46760003	Estren-Dameshek anemia				DESC (302215000)
+SCTSPA	48788004	Cyclic thrombocytopenia				DESC (302215000)
+SCTSPA	49886003	Thrombocytopenia due to blood loss				DESC (302215000)
+SCTSPA	50220002	Cellular immunologic aplastic anemia				DESC (302215000)
+SCTSPA	51624005	Dilutional thrombocytopenia				DESC (302215000)
+SCTSPA	54569005	Bernard Soulier syndrome				DESC (302215000)
+SCTSPA	55907008	Acquired aplastic anemia				DESC (302215000)
+SCTSPA	5876000	Acquired pancytopenia				DESC (302215000)
+SCTSPA	60628003	Mediterranean macrothrombocytopenia				DESC (302215000)
+SCTSPA	61744005	Neonatal thrombocytopenia due to idiopathic maternal thrombocytopenia				DESC (302215000)
+SCTSPA	63444004	Thrombocytopenia due to hypersplenism				DESC (302215000)
+SCTSPA	699208000	Thrombocytopenia due to alcohol				DESC (302215000)
+SCTSPA	711407000	Thrombocytopathy, asplenia and miosis				DESC (302215000)
+SCTSPA	712922002	MYH9 related disease				DESC (302215000)
+SCTSPA	713388002	GATA binding protein 1 related thrombocytopenia with dyserythropoiesis				DESC (302215000)
+SCTSPA	713508003	Aplastic anemia co-occurrent with human immunodeficiency virus infection				DESC (302215000)
+SCTSPA	716336002	Congenital amegakaryocytic thrombocytopenia				DESC (302215000)
+SCTSPA	717769007	MYH9 macrothrombocytopenia syndrome				DESC (302215000)
+SCTSPA	719019000	WT limb blood syndrome				DESC (302215000)
+SCTSPA	719021005	DK phocomelia syndrome				DESC (302215000)
+SCTSPA	720521008	Autosomal dominant macrothrombocytopenia				DESC (302215000)
+SCTSPA	721304007	Refractory thrombocytopenia				DESC (302215000)
+SCTSPA	721882001	Radioulnar synostosis with amegakaryocytic thrombocytopenia syndrome				DESC (302215000)
+SCTSPA	722401001	Severe fever with thrombocytopenia syndrome virus				DESC (302215000)
+SCTSPA	722475006	X-linked congenital dyserythropoietic anemia with thrombocytopenia				DESC (302215000)
+SCTSPA	723512008	Revesz syndrome				DESC (302215000)
+SCTSPA	724637001	Isolated thrombocytopenia				DESC (302215000)
+SCTSPA	73162004	Posttransfusion purpura				DESC (302215000)
+SCTSPA	733096007	Thyrocerebrorenal syndrome				DESC (302215000)
+SCTSPA	73397007	Heparin-induced thrombocytopenia				DESC (302215000)
+SCTSPA	736024007	Pancytopenia caused by medication				DESC (302215000)
+SCTSPA	737221003	Congenital thrombocytopenia				DESC (302215000)
+SCTSPA	74576004	Acquired thrombocytopenia				DESC (302215000)
+SCTSPA	75331009	Evans syndrome				DESC (302215000)
+SCTSPA	768556005	Ataxia pancytopenia syndrome				DESC (302215000)
+SCTSPA	77084001	Immunologic aplastic anemia				DESC (302215000)
+SCTSPA	771075004	Macrothrombocytopenia with mitral valve insufficiency				DESC (302215000)
+SCTSPA	774071007	Pancytopenia with developmental delay syndrome				DESC (302215000)
+SCTSPA	78129009	Thrombotic thrombocytopenic purpura				DESC (302215000)
+SCTSPA	783142006	Pancytopenia due to IKZF1 mutations				DESC (302215000)
+SCTSPA	783194008	Bleeding diathesis due to thromboxane synthesis deficiency				DESC (302215000)
+SCTSPA	783251006	Hereditary thrombocytopenia with normal platelets				DESC (302215000)
+SCTSPA	783255002	Hereditary isolated aplastic anemia				DESC (302215000)
+SCTSPA	78345002	Thrombocytopenia due to diminished platelet production				DESC (302215000)
+SCTSPA	789660001	Atypical hemolytic uremic syndrome				DESC (302215000)
+SCTSPA	82190001	Thrombocytopenia due to defective platelet production				DESC (302215000)
+SCTSPA	82835005	Neonatal thrombocytopenia				DESC (302215000)
+SCTSPA	85589009	Radial aplasia-thrombocytopenia syndrome				DESC (302215000)
+SCTSPA	866152006	Thrombocytopenia due to COVID-19				DESC (302215000)
+SCTSPA	86635005	Kasabach-Merritt syndrome				DESC (302215000)
+SCTSPA	87902006	Thrombocytopenia due to non-immune destruction				DESC (302215000)
+SCTSPA	89962000	Neonatal thrombocytopenia due to exchange transfusion				DESC (302215000)
+SCTSPA	95605009	HELLP syndrome				DESC (302215000)
+SCTSPA	97571000119109	Thrombocytopenia co-occurrent and due to alcoholism				DESC (302215000)
+SCTSPA	415116008	trombocitopenia	C0040034	Thrombocytopenia		BROADER (C0398650)
+SCTSPA	111407006	Hemolytic uremic syndrome				DESC (415116008)
+SCTSPA	36568005	Hemolytic uremic syndrome of childhood				DESC (415116008)
+SCTSPA	373421000	Diarrhea-associated hemolytic uremic syndrome				DESC (415116008)
+SCTSPA	373422007	Diarrhea-negative hemolytic uremic syndrome				DESC (415116008)
+SCTSPA	441458001	Platelet count below reference range at birth				DESC (415116008)
+SCTSPA	444976001	Congenital hemolytic uremic syndrome				DESC (415116008)
+SCTSPA	721119004	Pseudothrombocytopenia				DESC (415116008)
+SCTSPA	722721004	Familial hemolytic uremic syndrome				DESC (415116008)
+SCTSPA	78209002	Hemolytic uremic syndrome, adult type				DESC (415116008)
+SCTSPA	70786006	trombocitopenia	C0040034	Thrombocytopenia		BROADER (C0398650)
+SCTSPA	-		C0242584	Autoimmune thrombocytopenia	narrow	
+SCTSPA	302873008	púrpura trombocitopénica	C0857305	Thrombocytopenic purpura	narrow	BROADER (C0398650)
+SCTSPA	33183004	Post infectious thrombocytopenic purpura			narrow	DESC (302873008)
+SCTSPA	373420004	Upshaw-Schulman syndrome			narrow	DESC (302873008)
+SCTSPA	402653004	Thrombocytopenic purpura due to defective platelet production			narrow	DESC (302873008)
+SCTSPA	402654005	Thrombocytopenic purpura due to platelet consumption			narrow	DESC (302873008)
+SCTSPA	417626001	Thrombocytopenic purpura associated with metabolic disorder			narrow	DESC (302873008)
+SCTSPA	438476003	Autoimmune thrombotic thrombocytopenic purpura			narrow	DESC (302873008)
+SCTSPA	439007008	Acquired thrombotic thrombocytopenic purpura			narrow	DESC (302873008)
+SCTSPA	441322009	Drug induced thrombotic thrombocytopenic purpura			narrow	DESC (302873008)
+SCTSPA	73162004	Posttransfusion purpura			narrow	DESC (302873008)
+SCTSPA	78129009	Thrombotic thrombocytopenic purpura			narrow	DESC (302873008)
+SCTSPA	191318001	trombocitemia esencial, SAI	C0677060	essential thrombocytopenia		NARROWER (C0398650)
+SCTSPA	234481002	trombocitopenia esencial, SAI	C0677060	essential thrombocytopenia		NARROWER (C0398650)
+SCTSPA	-		C0272126	Evans syndrome	narrow	
+SCTSPA	-		C2584778	Thrombotic thrombocytopenic purpura, acquired	narrow	
+SCTSPA	-		C0376362	Purpura Hemorrhagica	narrow	
+SCTSPA	-		C0272292	acute idiopathic thrombocytopenic purpura	narrow	
+SCTSPA	-		C0272293	Chronic idiopathic thrombocytopenic purpura	narrow	
+SCTSPA	13292000	TPAN	C3853779	Neonatal Alloimmune Thrombocytopenia	narrow	NARROWER (C0398650)
+SCTSPA	230245009	trombocitopenia neonatal aloinmune	C3853779	Neonatal Alloimmune Thrombocytopenia	narrow	NARROWER (C0398650)
+SCTSPA	234491008	trombocitopenia neonatal isoinmune	C3853779	Neonatal Alloimmune Thrombocytopenia	narrow	NARROWER (C0398650)
+SCTSPA	234492001	trombocitopenia aloinmunitaria neonatal	C3853779	Neonatal Alloimmune Thrombocytopenia	narrow	NARROWER (C0398650)
+SCTSPA	240305000	trombocitopenia aloinmunitaria neonatal	C3853779	Neonatal Alloimmune Thrombocytopenia	narrow	NARROWER (C0398650)
+SCTSPA	276574002	trombocitopenia neonatal isoinmune	C3853779	Neonatal Alloimmune Thrombocytopenia	narrow	NARROWER (C0398650)
+SCTSPA	-		C0857305	Thrombocytopenic purpura	narrow	
+SCTSPA	402654005	púrpura trombocitopénica por consumo de plaquetas	C1304406	Thrombocytopenic purpura due to platelet consumption	possible	CASEDEF
+SCTSPA	-		C1534876	Thrombocytopenic purp.	narrow	
+SCTSPA	-		C1571920	(Purpura/hemorrhagic condition) or (purpura) or (thrombocytopenic purpura)	narrow	
+SCTSPA	-		C2584777	Autoimmune thrombotic thrombocytopenic purpura	narrow	
+SCTSPA	-		C2584778	Thrombotic thrombocytopenic purpura, acquired	narrow	
+SNOMEDCT_US	128091003	Autoimmune thrombocytopenia	C0242584	Autoimmune thrombocytopenia	narrow	CASEDEF
+SNOMEDCT_US	111588002	Heparin-induced thrombocytopenia with thrombosis			narrow	DESC (128091003)
+SNOMEDCT_US	1156746003	Vaccine-induced prothrombotic immune thrombocytopenia			narrow	DESC (128091003)
+SNOMEDCT_US	128092005	Secondary autoimmune thrombocytopenia			narrow	DESC (128091003)
+SNOMEDCT_US	13172003	Chronic idiopathic thrombocytopenic purpura			narrow	DESC (128091003)
+SNOMEDCT_US	19307009	Drug-induced immune thrombocytopenia			narrow	DESC (128091003)
+SNOMEDCT_US	73397007	Heparin-induced thrombocytopenia			narrow	DESC (128091003)
+SNOMEDCT_US	75331009	Evans syndrome			narrow	DESC (128091003)
+SNOMEDCT_US	142969008	Auto-immune thrombocytopenia	C0242584	Autoimmune thrombocytopenia	narrow	CASEDEF
+SNOMEDCT_US	165556002	Auto-immune thrombocytopenia	C0242584	Autoimmune thrombocytopenia	narrow	CASEDEF
+SNOMEDCT_US	275758003	Autoimmune thrombocytopenia	C0242584	Autoimmune thrombocytopenia	narrow	CASEDEF
+SNOMEDCT_US	2897005	Auto-immune thrombocytopenia	C0242584	Autoimmune thrombocytopenia	narrow	CASEDEF
+SNOMEDCT_US	128093000	Alloimmune thrombocytopenia			narrow	DESC (2897005)
+SNOMEDCT_US	128094006	Alloimmune platelet transfusion refractoriness			narrow	DESC (2897005)
+SNOMEDCT_US	28505005	Acute idiopathic thrombocytopenic purpura	C0272292	Acute idiopathic thrombocytopenic purpura	narrow	CASEDEF
+SNOMEDCT_US	154825008	Ideopath thrombocytopenic pur	C0398650	Immune thrombocytopenic purpura	narrow	BROADER (C0272292)
+SNOMEDCT_US	191315003	Idiopathic purpura	C0398650	Immune thrombocytopenic purpura	narrow	BROADER (C0272292)
+SNOMEDCT_US	191316002	Idiopathic purpura	C0398650	Immune thrombocytopenic purpura	narrow	BROADER (C0272292)
+SNOMEDCT_US	234490009	Immune thrombocytopenic purpura	C0398650	Immune thrombocytopenic purpura	narrow	BROADER (C0272292)
+SNOMEDCT_US	267567001	Ideopath thrombocytopenic pur	C0398650	Immune thrombocytopenic purpura	narrow	BROADER (C0272292)
+SNOMEDCT_US	32273002	Idiopathic thrombocytopenic purpura	C0398650	Immune thrombocytopenic purpura	narrow	BROADER (C0272292)
+SNOMEDCT_US	-		C0398650	Immune thrombocytopenic purpura	narrow	
+SNOMEDCT_US	142969008	Thrombocytopenia	C0040034	Thrombocytopenia		BROADER (C0398650)
+SNOMEDCT_US	154827000	Thrombocytopenia NOS	C0040034	Thrombocytopenia		BROADER (C0398650)
+SNOMEDCT_US	165556002	Thrombocytopenia	C0040034	Thrombocytopenia		BROADER (C0398650)
+SNOMEDCT_US	191326009	Thrombocytopenia NOS	C0040034	Thrombocytopenia		BROADER (C0398650)
+SNOMEDCT_US	302215000	Thrombocytopenic disorder	C0040034	Thrombocytopenia		BROADER (C0398650)
+SNOMEDCT_US	10752381000119101	Fetal thrombocytopenia				DESC (302215000)
+SNOMEDCT_US	111588002	Heparin-induced thrombocytopenia with thrombosis				DESC (302215000)
+SNOMEDCT_US	1156746003	Vaccine-induced prothrombotic immune thrombocytopenia				DESC (302215000)
+SNOMEDCT_US	1156838007	X-linked thrombocytopenia with normal platelets				DESC (302215000)
+SNOMEDCT_US	1172604004	DIAPH1-related sensorineural hearing loss-thrombocytopenia syndrome				DESC (302215000)
+SNOMEDCT_US	1172685001	Macrothrombocytopenia, lymphedema, developmental delay, facial dysmorphism, camptodactyly syndrome				DESC (302215000)
+SNOMEDCT_US	1172699002	Hereditary thrombocytopenia with early-onset myelofibrosis				DESC (302215000)
+SNOMEDCT_US	1187252002	Autosomal dominant thrombocytopenia with platelet secretion defect				DESC (302215000)
+SNOMEDCT_US	1187614006	Severe autosomal recessive macrothrombocytopenia				DESC (302215000)
+SNOMEDCT_US	1187615007	TAFRO syndrome				DESC (302215000)
+SNOMEDCT_US	118791000119106	Aplastic anemia caused by antineoplastic agent				DESC (302215000)
+SNOMEDCT_US	1208617001	Congenital autosomal recessive small-platelet thrombocytopenia				DESC (302215000)
+SNOMEDCT_US	1208725005	Multifocal lymphangioendotheliomatosis, thrombocytopenia syndrome				DESC (302215000)
+SNOMEDCT_US	127034005	Pancytopenia				DESC (302215000)
+SNOMEDCT_US	128090002	Benign gestational thrombocytopenia				DESC (302215000)
+SNOMEDCT_US	128091003	Primary ITP (immune thrombocytopenia)				DESC (302215000)
+SNOMEDCT_US	128092005	Secondary autoimmune thrombocytopenia				DESC (302215000)
+SNOMEDCT_US	128093000	Alloimmune thrombocytopenia				DESC (302215000)
+SNOMEDCT_US	128094006	Alloimmune platelet transfusion refractoriness				DESC (302215000)
+SNOMEDCT_US	13172003	Chronic idiopathic thrombocytopenic purpura				DESC (302215000)
+SNOMEDCT_US	14024008	Humoral immunologic aplastic anemia				DESC (302215000)
+SNOMEDCT_US	154826009	Secondary thrombocytopenia				DESC (302215000)
+SNOMEDCT_US	16623961000119100	Pancytopenia caused by immunosuppressant				DESC (302215000)
+SNOMEDCT_US	183005	Autoimmune pancytopenia				DESC (302215000)
+SNOMEDCT_US	191244003	Aplastic anemia due to chronic disease				DESC (302215000)
+SNOMEDCT_US	191246001	Aplastic anemia due to infection				DESC (302215000)
+SNOMEDCT_US	191247005	Aplastic anemia due to radiation				DESC (302215000)
+SNOMEDCT_US	191248000	Aplastic anemia due to toxic cause				DESC (302215000)
+SNOMEDCT_US	191256002	Idiopathic aplastic anemia				DESC (302215000)
+SNOMEDCT_US	191322006	Thrombocytopenia due to drugs				DESC (302215000)
+SNOMEDCT_US	191323001	Thrombocytopenia due to extracorporeal circulation of blood				DESC (302215000)
+SNOMEDCT_US	19307009	Drug-induced immune thrombocytopenia				DESC (302215000)
+SNOMEDCT_US	206510008	Transient neonatal thrombocytopenia due to exchange transfusion				DESC (302215000)
+SNOMEDCT_US	206511007	Transient neonatal thrombocytopenia due to idiopathic maternal thrombocytopenia				DESC (302215000)
+SNOMEDCT_US	206512000	Transient neonatal thrombocytopenia due to isoimmunization				DESC (302215000)
+SNOMEDCT_US	23205009	Transient neonatal thrombocytopenia				DESC (302215000)
+SNOMEDCT_US	234367000	Pancytopenia with pancreatitis				DESC (302215000)
+SNOMEDCT_US	234482009	Amegakaryocytic thrombocytopenia				DESC (302215000)
+SNOMEDCT_US	234483004	Megakaryocytic thrombocytopenia				DESC (302215000)
+SNOMEDCT_US	234484005	May-Hegglin anomaly				DESC (302215000)
+SNOMEDCT_US	234485006	Epstein syndrome				DESC (302215000)
+SNOMEDCT_US	234486007	Montreal platelet syndrome				DESC (302215000)
+SNOMEDCT_US	234487003	Mediterranean thrombocytopenia				DESC (302215000)
+SNOMEDCT_US	240305000	Neonatal alloimmune thrombocytopenia				DESC (302215000)
+SNOMEDCT_US	240486003	Parvoviral aplastic crisis				DESC (302215000)
+SNOMEDCT_US	267524009	Constitutional aplastic anemia with malformation				DESC (302215000)
+SNOMEDCT_US	267527002	Aplastic anemia due to drugs				DESC (302215000)
+SNOMEDCT_US	267534000	Primary thrombocytopenia				DESC (302215000)
+SNOMEDCT_US	267535004	Congenital thrombocytopenic purpura				DESC (302215000)
+SNOMEDCT_US	273986001	Perinatal thrombocytopenia				DESC (302215000)
+SNOMEDCT_US	276575001	Autoimmune neonatal thrombocytopenia				DESC (302215000)
+SNOMEDCT_US	2897005	Immune thrombocytopenia				DESC (302215000)
+SNOMEDCT_US	28975000	Constitutional aplastic anemia				DESC (302215000)
+SNOMEDCT_US	30182008	Thrombocytopenia due to extracorporeal circulation				DESC (302215000)
+SNOMEDCT_US	302873008	Thrombocytopenic purpura				DESC (302215000)
+SNOMEDCT_US	30575002	Fanconi's anemia				DESC (302215000)
+SNOMEDCT_US	306058006	Aplastic anemia				DESC (302215000)
+SNOMEDCT_US	307342006	Thrombocytopenia due to massive blood transfusion				DESC (302215000)
+SNOMEDCT_US	323079008	Thrombocytopenia due to sequestration				DESC (302215000)
+SNOMEDCT_US	328301000119102	Pancytopenia due to antineoplastic chemotherapy				DESC (302215000)
+SNOMEDCT_US	328371000119107	Pancytopenia caused by antithyroid drug				DESC (302215000)
+SNOMEDCT_US	328381000119105	Pancytopenia caused by anticonvulsant				DESC (302215000)
+SNOMEDCT_US	33183004	Post infectious thrombocytopenic purpura				DESC (302215000)
+SNOMEDCT_US	34395002	Thrombocytopenia due to hypothermia				DESC (302215000)
+SNOMEDCT_US	359531004	Amegakaryocytic thrombocytopenia with congenital malformation				DESC (302215000)
+SNOMEDCT_US	359536009	Megakaryocytic aplasia				DESC (302215000)
+SNOMEDCT_US	36070007	Wiskott-Aldrich syndrome				DESC (302215000)
+SNOMEDCT_US	371074009	Radiation thrombocytopenia				DESC (302215000)
+SNOMEDCT_US	371106008	Idiopathic maternal thrombocytopenia				DESC (302215000)
+SNOMEDCT_US	373420004	Upshaw-Schulman syndrome				DESC (302215000)
+SNOMEDCT_US	37492005	Sex-linked thrombocytopenia				DESC (302215000)
+SNOMEDCT_US	38970002	Doan-Wright syndrome				DESC (302215000)
+SNOMEDCT_US	402653004	Thrombocytopenic purpura due to defective platelet production				DESC (302215000)
+SNOMEDCT_US	402654005	Thrombocytopenic purpura due to platelet consumption				DESC (302215000)
+SNOMEDCT_US	403837005	Wiskott-Aldrich autosomal dominant variant syndrome				DESC (302215000)
+SNOMEDCT_US	413565006	Aplastic anemia associated with metabolic alteration				DESC (302215000)
+SNOMEDCT_US	413566007	Aplastic anemia associated with pancreatitis				DESC (302215000)
+SNOMEDCT_US	413567003	Aplastic anemia associated with pregnancy				DESC (302215000)
+SNOMEDCT_US	416902009	Uremic thrombocytopenia				DESC (302215000)
+SNOMEDCT_US	417626001	Thrombocytopenic purpura associated with metabolic disorder				DESC (302215000)
+SNOMEDCT_US	421102007	Aplastic anemia with AIDS (acquired immunodeficiency syndrome)				DESC (302215000)
+SNOMEDCT_US	421766003	Thrombocytopenia with AIDS (acquired immunodeficiency syndrome)				DESC (302215000)
+SNOMEDCT_US	438476003	Autoimmune thrombotic thrombocytopenic purpura				DESC (302215000)
+SNOMEDCT_US	438492008	Hereditary thrombocytopenic disorder				DESC (302215000)
+SNOMEDCT_US	43858000	Secondary aplastic anemia				DESC (302215000)
+SNOMEDCT_US	439007008	Acquired thrombotic thrombocytopenic purpura				DESC (302215000)
+SNOMEDCT_US	441134009	Congenital dysmegakaryopoietic thrombocytopenia, Paris Trousseau type				DESC (302215000)
+SNOMEDCT_US	441322009	Drug induced thrombotic thrombocytopenic purpura				DESC (302215000)
+SNOMEDCT_US	46760003	Estren-Dameshek anemia				DESC (302215000)
+SNOMEDCT_US	48788004	Cyclic thrombocytopenia				DESC (302215000)
+SNOMEDCT_US	49886003	Thrombocytopenia due to blood loss				DESC (302215000)
+SNOMEDCT_US	50220002	Cellular immunologic aplastic anemia				DESC (302215000)
+SNOMEDCT_US	51624005	Dilutional thrombocytopenia				DESC (302215000)
+SNOMEDCT_US	54569005	Bernard Soulier syndrome				DESC (302215000)
+SNOMEDCT_US	55907008	Acquired aplastic anemia				DESC (302215000)
+SNOMEDCT_US	5876000	Acquired pancytopenia				DESC (302215000)
+SNOMEDCT_US	60628003	Mediterranean macrothrombocytopenia				DESC (302215000)
+SNOMEDCT_US	61744005	Neonatal thrombocytopenia due to idiopathic maternal thrombocytopenia				DESC (302215000)
+SNOMEDCT_US	63444004	Thrombocytopenia due to hypersplenism				DESC (302215000)
+SNOMEDCT_US	699208000	Thrombocytopenia due to alcohol				DESC (302215000)
+SNOMEDCT_US	711407000	Thrombocytopathy, asplenia and miosis				DESC (302215000)
+SNOMEDCT_US	712922002	MYH9 related disease				DESC (302215000)
+SNOMEDCT_US	713388002	GATA binding protein 1 related thrombocytopenia with dyserythropoiesis				DESC (302215000)
+SNOMEDCT_US	713508003	Aplastic anemia co-occurrent with human immunodeficiency virus infection				DESC (302215000)
+SNOMEDCT_US	716336002	Congenital amegakaryocytic thrombocytopenia				DESC (302215000)
+SNOMEDCT_US	717769007	MYH9 macrothrombocytopenia syndrome				DESC (302215000)
+SNOMEDCT_US	719019000	WT limb blood syndrome				DESC (302215000)
+SNOMEDCT_US	719021005	DK phocomelia syndrome				DESC (302215000)
+SNOMEDCT_US	720521008	Autosomal dominant macrothrombocytopenia				DESC (302215000)
+SNOMEDCT_US	721304007	Refractory thrombocytopenia				DESC (302215000)
+SNOMEDCT_US	721882001	Radioulnar synostosis with amegakaryocytic thrombocytopenia syndrome				DESC (302215000)
+SNOMEDCT_US	722401001	Severe fever with thrombocytopenia syndrome virus				DESC (302215000)
+SNOMEDCT_US	722475006	X-linked congenital dyserythropoietic anemia with thrombocytopenia				DESC (302215000)
+SNOMEDCT_US	723512008	Revesz syndrome				DESC (302215000)
+SNOMEDCT_US	724637001	Isolated thrombocytopenia				DESC (302215000)
+SNOMEDCT_US	73162004	Posttransfusion purpura				DESC (302215000)
+SNOMEDCT_US	733096007	Thyrocerebrorenal syndrome				DESC (302215000)
+SNOMEDCT_US	73397007	Heparin-induced thrombocytopenia				DESC (302215000)
+SNOMEDCT_US	736024007	Pancytopenia caused by medication				DESC (302215000)
+SNOMEDCT_US	737221003	Congenital thrombocytopenia				DESC (302215000)
+SNOMEDCT_US	74576004	Acquired thrombocytopenia				DESC (302215000)
+SNOMEDCT_US	75331009	Evans syndrome				DESC (302215000)
+SNOMEDCT_US	768556005	Ataxia pancytopenia syndrome				DESC (302215000)
+SNOMEDCT_US	77084001	Immunologic aplastic anemia				DESC (302215000)
+SNOMEDCT_US	771075004	Macrothrombocytopenia with mitral valve insufficiency				DESC (302215000)
+SNOMEDCT_US	774071007	Pancytopenia with developmental delay syndrome				DESC (302215000)
+SNOMEDCT_US	78129009	Thrombotic thrombocytopenic purpura				DESC (302215000)
+SNOMEDCT_US	783142006	Pancytopenia due to IKZF1 mutations				DESC (302215000)
+SNOMEDCT_US	783194008	Bleeding diathesis due to thromboxane synthesis deficiency				DESC (302215000)
+SNOMEDCT_US	783251006	Hereditary thrombocytopenia with normal platelets				DESC (302215000)
+SNOMEDCT_US	783255002	Hereditary isolated aplastic anemia				DESC (302215000)
+SNOMEDCT_US	78345002	Thrombocytopenia due to diminished platelet production				DESC (302215000)
+SNOMEDCT_US	789660001	Atypical hemolytic uremic syndrome				DESC (302215000)
+SNOMEDCT_US	82190001	Thrombocytopenia due to defective platelet production				DESC (302215000)
+SNOMEDCT_US	82835005	Neonatal thrombocytopenia				DESC (302215000)
+SNOMEDCT_US	85589009	Radial aplasia-thrombocytopenia syndrome				DESC (302215000)
+SNOMEDCT_US	866152006	Thrombocytopenia due to COVID-19				DESC (302215000)
+SNOMEDCT_US	86635005	Kasabach-Merritt syndrome				DESC (302215000)
+SNOMEDCT_US	87902006	Thrombocytopenia due to non-immune destruction				DESC (302215000)
+SNOMEDCT_US	89962000	Neonatal thrombocytopenia due to exchange transfusion				DESC (302215000)
+SNOMEDCT_US	95605009	HELLP syndrome				DESC (302215000)
+SNOMEDCT_US	97571000119109	Thrombocytopenia co-occurrent and due to alcoholism				DESC (302215000)
+SNOMEDCT_US	415116008	Thrombocytopenia	C0040034	Thrombocytopenia		BROADER (C0398650)
+SNOMEDCT_US	111407006	Hemolytic uremic syndrome				DESC (415116008)
+SNOMEDCT_US	36568005	Hemolytic uremic syndrome of childhood				DESC (415116008)
+SNOMEDCT_US	373421000	Diarrhea-associated hemolytic uremic syndrome				DESC (415116008)
+SNOMEDCT_US	373422007	Diarrhea-negative hemolytic uremic syndrome				DESC (415116008)
+SNOMEDCT_US	441458001	Platelet count below reference range at birth				DESC (415116008)
+SNOMEDCT_US	444976001	Congenital hemolytic uremic syndrome				DESC (415116008)
+SNOMEDCT_US	721119004	Pseudothrombocytopenia				DESC (415116008)
+SNOMEDCT_US	722721004	Familial hemolytic uremic syndrome				DESC (415116008)
+SNOMEDCT_US	78209002	Hemolytic uremic syndrome, adult type				DESC (415116008)
+SNOMEDCT_US	70786006	Thrombocytopenia	C0040034	Thrombocytopenia		BROADER (C0398650)
+SNOMEDCT_US	-		C0242584	Autoimmune thrombocytopenia	narrow	
+SNOMEDCT_US	154822006	Thrombocytopenic purpura	C0857305	Thrombocytopenic purpura	narrow	BROADER (C0398650)
+SNOMEDCT_US	267564008	Thrombocytopenic purpura	C0857305	Thrombocytopenic purpura	narrow	BROADER (C0398650)
+SNOMEDCT_US	302873008	Thrombocytopenic purpura	C0857305	Thrombocytopenic purpura	narrow	BROADER (C0398650)
+SNOMEDCT_US	33183004	Post infectious thrombocytopenic purpura			narrow	DESC (302873008)
+SNOMEDCT_US	373420004	Upshaw-Schulman syndrome			narrow	DESC (302873008)
+SNOMEDCT_US	402653004	Thrombocytopenic purpura due to defective platelet production			narrow	DESC (302873008)
+SNOMEDCT_US	402654005	Thrombocytopenic purpura due to platelet consumption			narrow	DESC (302873008)
+SNOMEDCT_US	417626001	Thrombocytopenic purpura associated with metabolic disorder			narrow	DESC (302873008)
+SNOMEDCT_US	438476003	Autoimmune thrombotic thrombocytopenic purpura			narrow	DESC (302873008)
+SNOMEDCT_US	439007008	Acquired thrombotic thrombocytopenic purpura			narrow	DESC (302873008)
+SNOMEDCT_US	441322009	Drug induced thrombotic thrombocytopenic purpura			narrow	DESC (302873008)
+SNOMEDCT_US	73162004	Posttransfusion purpura			narrow	DESC (302873008)
+SNOMEDCT_US	78129009	Thrombotic thrombocytopenic purpura			narrow	DESC (302873008)
+SNOMEDCT_US	191318001	[X]Essential thrombocytopenia NOS	C0677060	essential thrombocytopenia		NARROWER (C0398650)
+SNOMEDCT_US	191320003	Essential thrombocytopenia NOS	C0677060	essential thrombocytopenia		NARROWER (C0398650)
+SNOMEDCT_US	234481002	Essential thrombocytopenia NOS	C0677060	essential thrombocytopenia		NARROWER (C0398650)
+SNOMEDCT_US	-		C0272126	Evans syndrome	narrow	
+SNOMEDCT_US	-		C2584778	Thrombotic thrombocytopenic purpura, acquired	narrow	
+SNOMEDCT_US	-		C0376362	Purpura Hemorrhagica	narrow	
+SNOMEDCT_US	-		C0272292	acute idiopathic thrombocytopenic purpura	narrow	
+SNOMEDCT_US	-		C0272293	Chronic idiopathic thrombocytopenic purpura	narrow	
+SNOMEDCT_US	13292000	NAIT	C3853779	Neonatal Alloimmune Thrombocytopenia	narrow	NARROWER (C0398650)
+SNOMEDCT_US	206513005	Neonatal thrombocytopenia due to platelet alloimmunisation	C3853779	Neonatal Alloimmune Thrombocytopenia	narrow	NARROWER (C0398650)
+SNOMEDCT_US	230245009	NATP	C3853779	Neonatal Alloimmune Thrombocytopenia	narrow	NARROWER (C0398650)
+SNOMEDCT_US	234491008	INT - Isoimmune neonatal thrombocytopenia	C3853779	Neonatal Alloimmune Thrombocytopenia	narrow	NARROWER (C0398650)
+SNOMEDCT_US	234492001	Alloimmune neonatal thrombocytopenia	C3853779	Neonatal Alloimmune Thrombocytopenia	narrow	NARROWER (C0398650)
+SNOMEDCT_US	240305000	Neonatal alloimmune thrombocytopenia	C3853779	Neonatal Alloimmune Thrombocytopenia	narrow	NARROWER (C0398650)
+SNOMEDCT_US	276574002	INT - Isoimmune neonatal thrombocytopenia	C3853779	Neonatal Alloimmune Thrombocytopenia	narrow	NARROWER (C0398650)
+SNOMEDCT_US	-		C0857305	Thrombocytopenic purpura	narrow	
+SNOMEDCT_US	402654005	Thrombocytopenic purpura due to platelet consumption	C1304406	Thrombocytopenic purpura due to platelet consumption	possible	CASEDEF
+SNOMEDCT_US	-		C1534876	Thrombocytopenic purp.	narrow	
+SNOMEDCT_US	-		C1571920	(Purpura/hemorrhagic condition) or (purpura) or (thrombocytopenic purpura)	narrow	
+SNOMEDCT_US	-		C2584777	Autoimmune thrombotic thrombocytopenic purpura	narrow	
+SNOMEDCT_US	-		C2584778	Thrombotic thrombocytopenic purpura, acquired	narrow	
+ICPC	-		C0242584	Autoimmune thrombocytopenia	narrow	
+ICPC	-		C0272292	Acute idiopathic thrombocytopenic purpura	narrow	
+ICPC	-		C0398650	Immune thrombocytopenic purpura	narrow	
+ICPC	-		C0398650	Immune thrombocytopenic purpura	narrow	
+ICPC	-		C0040034	Thrombocytopenia		
+ICPC	-		C0242584	Autoimmune thrombocytopenia	narrow	
+ICPC	-		C0857305	Thrombocytopenic purpura	narrow	
+ICPC	-		C0677060	essential thrombocytopenia		
+ICPC	-		C0272126	Evans syndrome	narrow	
+ICPC	-		C2584778	Thrombotic thrombocytopenic purpura, acquired	narrow	
+ICPC	-		C0376362	Purpura Hemorrhagica	narrow	
+ICPC	-		C0272292	acute idiopathic thrombocytopenic purpura	narrow	
+ICPC	-		C0272293	Chronic idiopathic thrombocytopenic purpura	narrow	
+ICPC	-		C3853779	Neonatal Alloimmune Thrombocytopenia	narrow	
+ICPC	-		C0857305	Thrombocytopenic purpura	narrow	
+ICPC	-		C1304406	Thrombocytopenic purpura due to platelet consumption	possible	
+ICPC	-		C1534876	Thrombocytopenic purp.	narrow	
+ICPC	-		C1571920	(Purpura/hemorrhagic condition) or (purpura) or (thrombocytopenic purpura)	narrow	
+ICPC	-		C2584777	Autoimmune thrombotic thrombocytopenic purpura	narrow	
+ICPC	-		C2584778	Thrombotic thrombocytopenic purpura, acquired	narrow	

@@ -1,0 +1,453 @@
+Coding system	Code	Code name	Concept	Concept name	Tags	Origin
+ICD10	-		C5428641	partial acute transverse myelitis	Narrow	
+ICD10	-		C0270627	Myelitis, Acute Transverse	Narrow	
+ICD10	-		C0026976	Myelitis, Transverse	Narrow	
+ICD10	-		C0270627	Myelitis, Acute Transverse	Narrow	
+ICD10	G36.0	Neuromyelitis optica [Devic]	C0027873	Neuromyelitis Optica	Possible	NARROWER (C0026976)
+ICD10	G37.3	Acute transverse myelitis in demyelinating disease of central nervous system	C0494470	Acute transverse myelitis in demyelinating disease of central nervous system	Narrow	BROADER (C0026976)
+ICD10	-		C0270627	Myelitis, Acute Transverse	Narrow	
+ICD10	-		C0026976	Myelitis, Transverse	Narrow	
+ICD10	-		C0027873	Neuromyelitis Optica	Possible	
+ICD10	-		C1395170	optic; neuritis, with demyelination	Possible	
+ICD10	-		C0221059	Subacute myelo-optic neuropathy	Possible	
+ICD10	-		C0270627	Myelitis, Acute Transverse	Narrow	
+ICD10	-		C0338431	Varicella transverse myelitis	Narrow	
+ICD10	-		C1719404	Idiopathic transverse myelitis	Narrow	
+ICD10	-		C0393487	Acute viral transverse myelitis	Narrow	
+ICD10	-		C0751343	Myelitis, Postinfectious	Possible	
+ICD10	-		C0751345	Myelitis, Subacute Transverse	Narrow	
+ICD10	-		C0751346	Demyelinative Myelitis	Possible	
+ICD10	-		C0746706	Myelitis, Necrotizing	Possible	
+ICD10	-		C0751344	Myelitis, Postvaccinal	Possible	
+ICD10	-		C0751342	Myelitis, Paraneoplastic	Possible	
+ICD10	-		C0026975	Myelitis	Possible	
+ICD10	-		C0338431	Varicella transverse myelitis	Narrow	
+ICD10	-		C0393487	Acute viral transverse myelitis	Narrow	
+ICD10	-		C0338431	Varicella transverse myelitis	Narrow	
+ICD10	-		C1719404	Idiopathic transverse myelitis	Narrow	
+ICD10	-		C0494470	Acute transverse myelitis in demyelinating disease of central nervous system	Narrow	
+ICD10	-		C1404453	transverse; myelopathy	Narrow	
+ICD10	-		C0026976	Myelitis, Transverse	Narrow	
+ICD10	-		C0393668	Acute non-infective transverse myelitis	Narrow	
+ICD10	-		C1719403	acute transverse myelitis in conditions classified elsewhere	Narrow	
+ICD10	-		C5428642	complete acute transverse myelitis	Narrow	
+ICD10	-		C5428641	partial acute transverse myelitis	Narrow	
+ICD10	-		C2215094	acute bacterial transverse myelitis	Narrow	
+ICD10CM	-		C5428641	partial acute transverse myelitis	Narrow	
+ICD10CM	G37.3	Acute transverse myelitis NOS	C0270627	Myelitis, Acute Transverse	Narrow	BROADER (C5428641)
+ICD10CM	-		C0026976	Myelitis, Transverse	Narrow	
+ICD10CM	-		C0270627	Myelitis, Acute Transverse	Narrow	
+ICD10CM	G36.0	Neuromyelitis optica [Devic]	C0027873	Neuromyelitis Optica	Possible	NARROWER (C0026976)
+ICD10CM	-		C0494470	Acute transverse myelitis in demyelinating disease of central nervous system	Narrow	
+ICD10CM	-		C0270627	Myelitis, Acute Transverse	Narrow	
+ICD10CM	-		C0026976	Myelitis, Transverse	Narrow	
+ICD10CM	-		C0027873	Neuromyelitis Optica	Possible	
+ICD10CM	-		C1395170	optic; neuritis, with demyelination	Possible	
+ICD10CM	-		C0221059	Subacute myelo-optic neuropathy	Possible	
+ICD10CM	-		C0270627	Myelitis, Acute Transverse	Narrow	
+ICD10CM	-		C0338431	Varicella transverse myelitis	Narrow	
+ICD10CM	-		C1719404	Idiopathic transverse myelitis	Narrow	
+ICD10CM	-		C0393487	Acute viral transverse myelitis	Narrow	
+ICD10CM	-		C0751343	Myelitis, Postinfectious	Possible	
+ICD10CM	-		C0751345	Myelitis, Subacute Transverse	Narrow	
+ICD10CM	-		C0751346	Demyelinative Myelitis	Possible	
+ICD10CM	-		C0746706	Myelitis, Necrotizing	Possible	
+ICD10CM	-		C0751344	Myelitis, Postvaccinal	Possible	
+ICD10CM	-		C0751342	Myelitis, Paraneoplastic	Possible	
+ICD10CM	-		C0026975	Myelitis	Possible	
+ICD10CM	-		C0338431	Varicella transverse myelitis	Narrow	
+ICD10CM	-		C0393487	Acute viral transverse myelitis	Narrow	
+ICD10CM	-		C0338431	Varicella transverse myelitis	Narrow	
+ICD10CM	-		C1719404	Idiopathic transverse myelitis	Narrow	
+ICD10CM	-		C0494470	Acute transverse myelitis in demyelinating disease of central nervous system	Narrow	
+ICD10CM	-		C1404453	transverse; myelopathy	Narrow	
+ICD10CM	-		C0026976	Myelitis, Transverse	Narrow	
+ICD10CM	-		C0393668	Acute non-infective transverse myelitis	Narrow	
+ICD10CM	-		C1719403	acute transverse myelitis in conditions classified elsewhere	Narrow	
+ICD10CM	-		C5428642	complete acute transverse myelitis	Narrow	
+ICD10CM	-		C5428641	partial acute transverse myelitis	Narrow	
+ICD10CM	-		C2215094	acute bacterial transverse myelitis	Narrow	
+ICD9CM	-		C5428641	partial acute transverse myelitis	Narrow	
+ICD9CM	341.2	Acute (transverse) myelitis	C0270627	Myelitis, Acute Transverse	Narrow	BROADER (C5428641)
+ICD9CM	341.20	Acute (transverse) myelitis NOS			Narrow	DESC (341.2)
+ICD9CM	341.21	Acute (transverse) myelitis in conditions classified elsewhere			Narrow	DESC (341.2)
+ICD9CM	341.22	Idiopathic transverse myelitis			Narrow	DESC (341.2)
+ICD9CM	-		C0026976	Myelitis, Transverse	Narrow	
+ICD9CM	-		C0270627	Myelitis, Acute Transverse	Narrow	
+ICD9CM	341.0	Neuromyelitis optica	C0027873	Neuromyelitis Optica	Possible	NARROWER (C0026976)
+ICD9CM	-		C0494470	Acute transverse myelitis in demyelinating disease of central nervous system	Narrow	
+ICD9CM	-		C0270627	Myelitis, Acute Transverse	Narrow	
+ICD9CM	-		C0026976	Myelitis, Transverse	Narrow	
+ICD9CM	-		C0027873	Neuromyelitis Optica	Possible	
+ICD9CM	-		C1395170	optic; neuritis, with demyelination	Possible	
+ICD9CM	-		C0221059	Subacute myelo-optic neuropathy	Possible	
+ICD9CM	-		C0270627	Myelitis, Acute Transverse	Narrow	
+ICD9CM	-		C0338431	Varicella transverse myelitis	Narrow	
+ICD9CM	-		C1719404	Idiopathic transverse myelitis	Narrow	
+ICD9CM	-		C0393487	Acute viral transverse myelitis	Narrow	
+ICD9CM	323.63	Postinfectious myelitis	C0751343	Myelitis, Postinfectious	Possible	NARROWER (C0026976)
+ICD9CM	-		C0751345	Myelitis, Subacute Transverse	Narrow	
+ICD9CM	-		C0751346	Demyelinative Myelitis	Possible	
+ICD9CM	-		C0746706	Myelitis, Necrotizing	Possible	
+ICD9CM	-		C0751344	Myelitis, Postvaccinal	Possible	
+ICD9CM	-		C0751342	Myelitis, Paraneoplastic	Possible	
+ICD9CM	-		C0026975	Myelitis	Possible	
+ICD9CM	-		C0338431	Varicella transverse myelitis	Narrow	
+ICD9CM	-		C0393487	Acute viral transverse myelitis	Narrow	
+ICD9CM	-		C0338431	Varicella transverse myelitis	Narrow	
+ICD9CM	-		C1719404	Idiopathic transverse myelitis	Narrow	
+ICD9CM	-		C0494470	Acute transverse myelitis in demyelinating disease of central nervous system	Narrow	
+ICD9CM	-		C1404453	transverse; myelopathy	Narrow	
+ICD9CM	-		C0026976	Myelitis, Transverse	Narrow	
+ICD9CM	-		C0393668	Acute non-infective transverse myelitis	Narrow	
+ICD9CM	-		C1719403	acute transverse myelitis in conditions classified elsewhere	Narrow	
+ICD9CM	-		C5428642	complete acute transverse myelitis	Narrow	
+ICD9CM	-		C5428641	partial acute transverse myelitis	Narrow	
+ICD9CM	-		C2215094	acute bacterial transverse myelitis	Narrow	
+ICPC	-		C5428641	partial acute transverse myelitis	Narrow	
+ICPC	-		C0270627	Myelitis, Acute Transverse	Narrow	
+ICPC	-		C0026976	Myelitis, Transverse	Narrow	
+ICPC	-		C0270627	Myelitis, Acute Transverse	Narrow	
+ICPC	-		C0027873	Neuromyelitis Optica	Possible	
+ICPC	-		C0494470	Acute transverse myelitis in demyelinating disease of central nervous system	Narrow	
+ICPC	-		C0270627	Myelitis, Acute Transverse	Narrow	
+ICPC	-		C0026976	Myelitis, Transverse	Narrow	
+ICPC	-		C0027873	Neuromyelitis Optica	Possible	
+ICPC	-		C1395170	optic; neuritis, with demyelination	Possible	
+ICPC	-		C0221059	Subacute myelo-optic neuropathy	Possible	
+ICPC	-		C0270627	Myelitis, Acute Transverse	Narrow	
+ICPC	-		C0338431	Varicella transverse myelitis	Narrow	
+ICPC	-		C1719404	Idiopathic transverse myelitis	Narrow	
+ICPC	-		C0393487	Acute viral transverse myelitis	Narrow	
+ICPC	-		C0751343	Myelitis, Postinfectious	Possible	
+ICPC	-		C0751345	Myelitis, Subacute Transverse	Narrow	
+ICPC	-		C0751346	Demyelinative Myelitis	Possible	
+ICPC	-		C0746706	Myelitis, Necrotizing	Possible	
+ICPC	-		C0751344	Myelitis, Postvaccinal	Possible	
+ICPC	-		C0751342	Myelitis, Paraneoplastic	Possible	
+ICPC	-		C0026975	Myelitis	Possible	
+ICPC	-		C0338431	Varicella transverse myelitis	Narrow	
+ICPC	-		C0393487	Acute viral transverse myelitis	Narrow	
+ICPC	-		C0338431	Varicella transverse myelitis	Narrow	
+ICPC	-		C1719404	Idiopathic transverse myelitis	Narrow	
+ICPC	-		C0494470	Acute transverse myelitis in demyelinating disease of central nervous system	Narrow	
+ICPC	-		C1404453	transverse; myelopathy	Narrow	
+ICPC	-		C0026976	Myelitis, Transverse	Narrow	
+ICPC	-		C0393668	Acute non-infective transverse myelitis	Narrow	
+ICPC	-		C1719403	acute transverse myelitis in conditions classified elsewhere	Narrow	
+ICPC	-		C5428642	complete acute transverse myelitis	Narrow	
+ICPC	-		C5428641	partial acute transverse myelitis	Narrow	
+ICPC	-		C2215094	acute bacterial transverse myelitis	Narrow	
+ICPC2P	-		C5428641	partial acute transverse myelitis	Narrow	
+ICPC2P	-		C0270627	Myelitis, Acute Transverse	Narrow	
+ICPC2P	-		C0026976	Myelitis, Transverse	Narrow	
+ICPC2P	-		C0270627	Myelitis, Acute Transverse	Narrow	
+ICPC2P	-		C0027873	Neuromyelitis Optica	Possible	
+ICPC2P	-		C0494470	Acute transverse myelitis in demyelinating disease of central nervous system	Narrow	
+ICPC2P	-		C0270627	Myelitis, Acute Transverse	Narrow	
+ICPC2P	-		C0026976	Myelitis, Transverse	Narrow	
+ICPC2P	-		C0027873	Neuromyelitis Optica	Possible	
+ICPC2P	-		C1395170	optic; neuritis, with demyelination	Possible	
+ICPC2P	-		C0221059	Subacute myelo-optic neuropathy	Possible	
+ICPC2P	-		C0270627	Myelitis, Acute Transverse	Narrow	
+ICPC2P	-		C0338431	Varicella transverse myelitis	Narrow	
+ICPC2P	-		C1719404	Idiopathic transverse myelitis	Narrow	
+ICPC2P	-		C0393487	Acute viral transverse myelitis	Narrow	
+ICPC2P	-		C0751343	Myelitis, Postinfectious	Possible	
+ICPC2P	-		C0751345	Myelitis, Subacute Transverse	Narrow	
+ICPC2P	-		C0751346	Demyelinative Myelitis	Possible	
+ICPC2P	-		C0746706	Myelitis, Necrotizing	Possible	
+ICPC2P	-		C0751344	Myelitis, Postvaccinal	Possible	
+ICPC2P	-		C0751342	Myelitis, Paraneoplastic	Possible	
+ICPC2P	N99012	Myelitis	C0026975	Myelitis	Possible	BROADER (C0270627)
+ICPC2P	-		C0338431	Varicella transverse myelitis	Narrow	
+ICPC2P	-		C0393487	Acute viral transverse myelitis	Narrow	
+ICPC2P	-		C0338431	Varicella transverse myelitis	Narrow	
+ICPC2P	-		C1719404	Idiopathic transverse myelitis	Narrow	
+ICPC2P	-		C0494470	Acute transverse myelitis in demyelinating disease of central nervous system	Narrow	
+ICPC2P	-		C1404453	transverse; myelopathy	Narrow	
+ICPC2P	-		C0026976	Myelitis, Transverse	Narrow	
+ICPC2P	-		C0393668	Acute non-infective transverse myelitis	Narrow	
+ICPC2P	-		C1719403	acute transverse myelitis in conditions classified elsewhere	Narrow	
+ICPC2P	-		C5428642	complete acute transverse myelitis	Narrow	
+ICPC2P	-		C5428641	partial acute transverse myelitis	Narrow	
+ICPC2P	-		C2215094	acute bacterial transverse myelitis	Narrow	
+SCTSPA	-		C5428641	partial acute transverse myelitis	Narrow	
+SCTSPA	47000000	mielitis transversa aguda	C0270627	Myelitis, Acute Transverse	Narrow	BROADER (C5428641)
+SCTSPA	230378004	Acute non-infective transverse myelitis			Narrow	DESC (47000000)
+SCTSPA	16631009	síndrome de mielopatía transversa	C0026976	Myelitis, Transverse	Narrow	CASEDEF
+SCTSPA	230197009	Acute viral transverse myelitis			Narrow	DESC (16631009)
+SCTSPA	230198004	Varicella transverse myelitis			Narrow	DESC (16631009)
+SCTSPA	425756000	Idiopathic transverse myelitis			Narrow	DESC (16631009)
+SCTSPA	-		C0270627	Myelitis, Acute Transverse	Narrow	
+SCTSPA	25044007	neuromielitis óptica	C0027873	Neuromyelitis Optica	Possible	NARROWER (C0026976)
+SCTSPA	-		C0494470	Acute transverse myelitis in demyelinating disease of central nervous system	Narrow	
+SCTSPA	-		C0270627	Myelitis, Acute Transverse	Narrow	
+SCTSPA	-		C0026976	Myelitis, Transverse	Narrow	
+SCTSPA	-		C0027873	Neuromyelitis Optica	Possible	
+SCTSPA	-		C1395170	optic; neuritis, with demyelination	Possible	
+SCTSPA	-		C0221059	Subacute myelo-optic neuropathy	Possible	
+SCTSPA	-		C0270627	Myelitis, Acute Transverse	Narrow	
+SCTSPA	-		C0338431	Varicella transverse myelitis	Narrow	
+SCTSPA	-		C1719404	Idiopathic transverse myelitis	Narrow	
+SCTSPA	-		C0393487	Acute viral transverse myelitis	Narrow	
+SCTSPA	-		C0751343	Myelitis, Postinfectious	Possible	
+SCTSPA	-		C0751345	Myelitis, Subacute Transverse	Narrow	
+SCTSPA	-		C0751346	Demyelinative Myelitis	Possible	
+SCTSPA	-		C0746706	Myelitis, Necrotizing	Possible	
+SCTSPA	-		C0751344	Myelitis, Postvaccinal	Possible	
+SCTSPA	-		C0751342	Myelitis, Paraneoplastic	Possible	
+SCTSPA	41370002	mielitis	C0026975	Myelitis	Possible	BROADER (C0270627)
+SCTSPA	1086061000119109	Diphtheria radiculomyelitis			Possible	DESC (41370002)
+SCTSPA	1163537001	Cysticercosis myelitis			Possible	DESC (41370002)
+SCTSPA	1163546007	Mycobacterial encephalomyelitis			Possible	DESC (41370002)
+SCTSPA	1177043007	Schistosoma encephalomyelitis			Possible	DESC (41370002)
+SCTSPA	128191000	Encephalomyelitis due to rubella			Possible	DESC (41370002)
+SCTSPA	15316002	Simian B encephalomyelitis			Possible	DESC (41370002)
+SCTSPA	16631009	Transverse myelopathy syndrome			Possible	DESC (41370002)
+SCTSPA	182961000119101	Acute disseminated encephalomyelitis following infectious disease			Possible	DESC (41370002)
+SCTSPA	192927008	Multiple sclerosis of the spinal cord			Possible	DESC (41370002)
+SCTSPA	230197009	Acute viral transverse myelitis			Possible	DESC (41370002)
+SCTSPA	230198004	Varicella transverse myelitis			Possible	DESC (41370002)
+SCTSPA	230199007	Post-infectious encephalomyelitis			Possible	DESC (41370002)
+SCTSPA	230216007	Intraspinal pyogenic abscess			Possible	DESC (41370002)
+SCTSPA	230378004	Acute non-infective transverse myelitis			Possible	DESC (41370002)
+SCTSPA	27040004	Experimental allergic encephalomyelitis			Possible	DESC (41370002)
+SCTSPA	28721000119108	Postvaricella myelitis			Possible	DESC (41370002)
+SCTSPA	29197009	Meningoencephalomyelitis			Possible	DESC (41370002)
+SCTSPA	292921000119109	Intraspinal granuloma			Possible	DESC (41370002)
+SCTSPA	292931000119107	Intraspinal subdural granuloma			Possible	DESC (41370002)
+SCTSPA	292941000119103	Intraspinal epidural granuloma			Possible	DESC (41370002)
+SCTSPA	302811004	Progressive congenital rubella encephalomyelitis			Possible	DESC (41370002)
+SCTSPA	31367003	Postvaccinal encephalomyelitis			Possible	DESC (41370002)
+SCTSPA	38115001	Tuberculosis of spinal meninges			Possible	DESC (41370002)
+SCTSPA	397961002	Encephalomyelitis caused by lymphocytic choriomeningitis virus			Possible	DESC (41370002)
+SCTSPA	416903004	Tuberculoma of spinal cord			Possible	DESC (41370002)
+SCTSPA	421315006	Myelitis with AIDS (acquired immunodeficiency syndrome)			Possible	DESC (41370002)
+SCTSPA	422089004	Encephalomyelitis with AIDS (acquired immunodeficiency syndrome)			Possible	DESC (41370002)
+SCTSPA	424761009	Paraneoplastic encephalomyelitis			Possible	DESC (41370002)
+SCTSPA	425756000	Idiopathic transverse myelitis			Possible	DESC (41370002)
+SCTSPA	426055002	Spinal arachnoiditis			Possible	DESC (41370002)
+SCTSPA	426266003	Post-infective myelitis			Possible	DESC (41370002)
+SCTSPA	426599002	Myelitis due to herpes simplex			Possible	DESC (41370002)
+SCTSPA	429436007	Post-immunization myelitis			Possible	DESC (41370002)
+SCTSPA	431520004	Inflammation of spinal cord due to toxin			Possible	DESC (41370002)
+SCTSPA	443153007	Toxic encephalomyelitis			Possible	DESC (41370002)
+SCTSPA	444957003	Bacterial meningomyelitis			Possible	DESC (41370002)
+SCTSPA	447012002	Tuberculosis of spinal cord			Possible	DESC (41370002)
+SCTSPA	47000000	Acute transverse myelitis			Possible	DESC (41370002)
+SCTSPA	473429002	Tuberculoma of spinal cord confirmed			Possible	DESC (41370002)
+SCTSPA	50776006	Allergic encephalomyelitis			Possible	DESC (41370002)
+SCTSPA	55234004	Pyogranulomatous meningoencephalomyelitis			Possible	DESC (41370002)
+SCTSPA	58766009	Granulomatous meningoencephalomyelitis			Possible	DESC (41370002)
+SCTSPA	61407009	Protozoal myelitis			Possible	DESC (41370002)
+SCTSPA	62950007	Encephalomyelitis			Possible	DESC (41370002)
+SCTSPA	68577004	Acute necrotizing myelitis			Possible	DESC (41370002)
+SCTSPA	70576008	Enteroviral encephalomyelitis			Possible	DESC (41370002)
+SCTSPA	713341001	Myelitis co-occurrent with human immunodeficiency virus infection			Possible	DESC (41370002)
+SCTSPA	714279000	Human T-cell lymphotropic virus 1-associated myelopathy			Possible	DESC (41370002)
+SCTSPA	721244002	Infection causing myelitis			Possible	DESC (41370002)
+SCTSPA	721245001	Myelitis caused by bacterium			Possible	DESC (41370002)
+SCTSPA	721246000	Myelitis caused by fungus			Possible	DESC (41370002)
+SCTSPA	721247009	Parasitic infection causing myelitis			Possible	DESC (41370002)
+SCTSPA	721248004	Myelitis caused by virus			Possible	DESC (41370002)
+SCTSPA	721249007	Infection causing encephalomyelitis			Possible	DESC (41370002)
+SCTSPA	72986009	Acute hemorrhagic leukoencephalitis			Possible	DESC (41370002)
+SCTSPA	735560004	Infection causing granuloma of spinal cord			Possible	DESC (41370002)
+SCTSPA	74772000	Meningomyelitis			Possible	DESC (41370002)
+SCTSPA	763869003	Radiation myelitis			Possible	DESC (41370002)
+SCTSPA	773688007	Chronic lymphocytic inflammation with pontine perivascular enhancement responsive to steroids			Possible	DESC (41370002)
+SCTSPA	838315004	Encephalomyelitis caused by Burkholderia			Possible	DESC (41370002)
+SCTSPA	83942000	Acute disseminated encephalomyelitis			Possible	DESC (41370002)
+SCTSPA	8528005	Acute ascending myelitis			Possible	DESC (41370002)
+SCTSPA	860805006	Encephalomyelitis caused by Neisseria meningitidis			Possible	DESC (41370002)
+SCTSPA	860841006	Encephalomyelitis caused by bacterium			Possible	DESC (41370002)
+SCTSPA	860842004	Encephalomyelitis caused by Coxiella burnetii			Possible	DESC (41370002)
+SCTSPA	860849008	Granuloma of spinal cord caused by fungus			Possible	DESC (41370002)
+SCTSPA	866045007	Myelitis caused by Actinomyces			Possible	DESC (41370002)
+SCTSPA	866055006	Myelitis caused by Enterovirus			Possible	DESC (41370002)
+SCTSPA	866056007	Myelitis caused by Epstein-Barr virus			Possible	DESC (41370002)
+SCTSPA	866057003	Myelitis caused by Dengue virus			Possible	DESC (41370002)
+SCTSPA	866058008	Myelitis caused by Human echovirus			Possible	DESC (41370002)
+SCTSPA	866059000	Myelitis caused by Human coxsackievirus A			Possible	DESC (41370002)
+SCTSPA	866060005	Myelitis caused by Cytomegalovirus			Possible	DESC (41370002)
+SCTSPA	866061009	Myelitis caused by Coccidioides			Possible	DESC (41370002)
+SCTSPA	866062002	Myelitis caused by Coenurus cerebralis			Possible	DESC (41370002)
+SCTSPA	866063007	Myelitis caused by Mycoplasma pneumoniae			Possible	DESC (41370002)
+SCTSPA	866064001	Myelitis caused by Aspergillus			Possible	DESC (41370002)
+SCTSPA	866065000	Myelitis caused by Schistosoma mansoni			Possible	DESC (41370002)
+SCTSPA	866066004	Myelitis caused by Borrelia burgdorferi			Possible	DESC (41370002)
+SCTSPA	866067008	Myelitis caused by Schistosoma japonicum			Possible	DESC (41370002)
+SCTSPA	866090003	Meningomyelitis caused by Treponema pallidum			Possible	DESC (41370002)
+SCTSPA	866121005	Myelitis caused by Schistosoma			Possible	DESC (41370002)
+SCTSPA	866123008	Myelitis caused by Schistosoma haematobium			Possible	DESC (41370002)
+SCTSPA	866124002	Myelitis caused by human poliovirus			Possible	DESC (41370002)
+SCTSPA	866125001	Myelitis caused by Retroviridae			Possible	DESC (41370002)
+SCTSPA	866126000	Myelitis caused by Influenza A virus			Possible	DESC (41370002)
+SCTSPA	866127009	Myelitis caused by Plasmodium			Possible	DESC (41370002)
+SCTSPA	866128004	Myelitis caused by Roseolovirus			Possible	DESC (41370002)
+SCTSPA	866129007	Myelitis caused by human T-lymphotropic virus type 1			Possible	DESC (41370002)
+SCTSPA	866130002	Myelitis caused by Herpes simplex type 2			Possible	DESC (41370002)
+SCTSPA	866131003	Myelitis caused by Human herpes virus			Possible	DESC (41370002)
+SCTSPA	866132005	Myelitis caused by Herpes simplex type 1			Possible	DESC (41370002)
+SCTSPA	866251007	Myelitis caused by Human coxsackievirus B			Possible	DESC (41370002)
+SCTSPA	870293004	Myelitis caused by Treponema pallidum			Possible	DESC (41370002)
+SCTSPA	870294005	Myelitis caused by Toxoplasma gondii			Possible	DESC (41370002)
+SCTSPA	870340002	Granuloma of spinal cord caused by Mycobacterium			Possible	DESC (41370002)
+SCTSPA	870341003	Granuloma of spinal cord caused by parasite			Possible	DESC (41370002)
+SCTSPA	870343000	Granuloma of spinal cord caused by bacterium			Possible	DESC (41370002)
+SCTSPA	897031002	Acute flaccid myelitis			Possible	DESC (41370002)
+SCTSPA	98541000119101	Herpes zoster myelitis			Possible	DESC (41370002)
+SCTSPA	-		C0338431	Varicella transverse myelitis	Narrow	
+SCTSPA	-		C0393487	Acute viral transverse myelitis	Narrow	
+SCTSPA	-		C0338431	Varicella transverse myelitis	Narrow	
+SCTSPA	-		C1719404	Idiopathic transverse myelitis	Narrow	
+SCTSPA	-		C0494470	Acute transverse myelitis in demyelinating disease of central nervous system	Narrow	
+SCTSPA	-		C1404453	transverse; myelopathy	Narrow	
+SCTSPA	-		C0026976	Myelitis, Transverse	Narrow	
+SCTSPA	-		C0393668	Acute non-infective transverse myelitis	Narrow	
+SCTSPA	-		C1719403	acute transverse myelitis in conditions classified elsewhere	Narrow	
+SCTSPA	-		C5428642	complete acute transverse myelitis	Narrow	
+SCTSPA	-		C5428641	partial acute transverse myelitis	Narrow	
+SCTSPA	-		C2215094	acute bacterial transverse myelitis	Narrow	
+SNOMEDCT_US	-		C5428641	partial acute transverse myelitis	Narrow	
+SNOMEDCT_US	47000000	Acute transverse myelitis	C0270627	Myelitis, Acute Transverse	Narrow	BROADER (C5428641)
+SNOMEDCT_US	230378004	Acute non-infective transverse myelitis			Narrow	DESC (47000000)
+SNOMEDCT_US	16631009	Transverse myelopathy syndrome	C0026976	Myelitis, Transverse	Narrow	CASEDEF
+SNOMEDCT_US	230197009	Acute viral transverse myelitis			Narrow	DESC (16631009)
+SNOMEDCT_US	230198004	Varicella transverse myelitis			Narrow	DESC (16631009)
+SNOMEDCT_US	425756000	Idiopathic transverse myelitis			Narrow	DESC (16631009)
+SNOMEDCT_US	192682002	Transverse myelitis	C0026976	Myelitis, Transverse	Narrow	CASEDEF
+SNOMEDCT_US	-		C0270627	Myelitis, Acute Transverse	Narrow	
+SNOMEDCT_US	25044007	Neuromyelitis optica	C0027873	Neuromyelitis Optica	Possible	NARROWER (C0026976)
+SNOMEDCT_US	-		C0494470	Acute transverse myelitis in demyelinating disease of central nervous system	Narrow	
+SNOMEDCT_US	-		C0270627	Myelitis, Acute Transverse	Narrow	
+SNOMEDCT_US	-		C0026976	Myelitis, Transverse	Narrow	
+SNOMEDCT_US	-		C0027873	Neuromyelitis Optica	Possible	
+SNOMEDCT_US	-		C1395170	optic; neuritis, with demyelination	Possible	
+SNOMEDCT_US	-		C0221059	Subacute myelo-optic neuropathy	Possible	
+SNOMEDCT_US	-		C0270627	Myelitis, Acute Transverse	Narrow	
+SNOMEDCT_US	192732000	Varicella transverse myelitis	C0338431	Varicella transverse myelitis	Narrow	NARROWER (C0026976)
+SNOMEDCT_US	-		C1719404	Idiopathic transverse myelitis	Narrow	
+SNOMEDCT_US	-		C0393487	Acute viral transverse myelitis	Narrow	
+SNOMEDCT_US	-		C0751343	Myelitis, Postinfectious	Possible	
+SNOMEDCT_US	-		C0751345	Myelitis, Subacute Transverse	Narrow	
+SNOMEDCT_US	-		C0751346	Demyelinative Myelitis	Possible	
+SNOMEDCT_US	-		C0746706	Myelitis, Necrotizing	Possible	
+SNOMEDCT_US	-		C0751344	Myelitis, Postvaccinal	Possible	
+SNOMEDCT_US	-		C0751342	Myelitis, Paraneoplastic	Possible	
+SNOMEDCT_US	192682002	Myelitis	C0026975	Myelitis	Possible	BROADER (C0270627)
+SNOMEDCT_US	267682000	Myelitis	C0026975	Myelitis	Possible	BROADER (C0270627)
+SNOMEDCT_US	41370002	Myelitis	C0026975	Myelitis	Possible	BROADER (C0270627)
+SNOMEDCT_US	1086061000119109	Diphtheria radiculomyelitis			Possible	DESC (41370002)
+SNOMEDCT_US	1163537001	Cysticercosis myelitis			Possible	DESC (41370002)
+SNOMEDCT_US	1163546007	Mycobacterial encephalomyelitis			Possible	DESC (41370002)
+SNOMEDCT_US	1177043007	Schistosoma encephalomyelitis			Possible	DESC (41370002)
+SNOMEDCT_US	128191000	Encephalomyelitis due to rubella			Possible	DESC (41370002)
+SNOMEDCT_US	15316002	Simian B encephalomyelitis			Possible	DESC (41370002)
+SNOMEDCT_US	16631009	Transverse myelopathy syndrome			Possible	DESC (41370002)
+SNOMEDCT_US	182961000119101	Acute disseminated encephalomyelitis following infectious disease			Possible	DESC (41370002)
+SNOMEDCT_US	192927008	Multiple sclerosis of the spinal cord			Possible	DESC (41370002)
+SNOMEDCT_US	230197009	Acute viral transverse myelitis			Possible	DESC (41370002)
+SNOMEDCT_US	230198004	Varicella transverse myelitis			Possible	DESC (41370002)
+SNOMEDCT_US	230199007	Post-infectious encephalomyelitis			Possible	DESC (41370002)
+SNOMEDCT_US	230216007	Intraspinal pyogenic abscess			Possible	DESC (41370002)
+SNOMEDCT_US	230378004	Acute non-infective transverse myelitis			Possible	DESC (41370002)
+SNOMEDCT_US	27040004	Experimental allergic encephalomyelitis			Possible	DESC (41370002)
+SNOMEDCT_US	28721000119108	Postvaricella myelitis			Possible	DESC (41370002)
+SNOMEDCT_US	29197009	Meningoencephalomyelitis			Possible	DESC (41370002)
+SNOMEDCT_US	292921000119109	Intraspinal granuloma			Possible	DESC (41370002)
+SNOMEDCT_US	292931000119107	Intraspinal subdural granuloma			Possible	DESC (41370002)
+SNOMEDCT_US	292941000119103	Intraspinal epidural granuloma			Possible	DESC (41370002)
+SNOMEDCT_US	302811004	Progressive congenital rubella encephalomyelitis			Possible	DESC (41370002)
+SNOMEDCT_US	31367003	Postvaccinal encephalomyelitis			Possible	DESC (41370002)
+SNOMEDCT_US	38115001	Tuberculosis of spinal meninges			Possible	DESC (41370002)
+SNOMEDCT_US	397961002	Encephalomyelitis caused by lymphocytic choriomeningitis virus			Possible	DESC (41370002)
+SNOMEDCT_US	416903004	Tuberculoma of spinal cord			Possible	DESC (41370002)
+SNOMEDCT_US	421315006	Myelitis with AIDS (acquired immunodeficiency syndrome)			Possible	DESC (41370002)
+SNOMEDCT_US	422089004	Encephalomyelitis with AIDS (acquired immunodeficiency syndrome)			Possible	DESC (41370002)
+SNOMEDCT_US	424761009	Paraneoplastic encephalomyelitis			Possible	DESC (41370002)
+SNOMEDCT_US	425756000	Idiopathic transverse myelitis			Possible	DESC (41370002)
+SNOMEDCT_US	426055002	Spinal arachnoiditis			Possible	DESC (41370002)
+SNOMEDCT_US	426266003	Post-infective myelitis			Possible	DESC (41370002)
+SNOMEDCT_US	426599002	Myelitis due to herpes simplex			Possible	DESC (41370002)
+SNOMEDCT_US	429436007	Post-immunization myelitis			Possible	DESC (41370002)
+SNOMEDCT_US	431520004	Inflammation of spinal cord due to toxin			Possible	DESC (41370002)
+SNOMEDCT_US	443153007	Toxic encephalomyelitis			Possible	DESC (41370002)
+SNOMEDCT_US	444957003	Bacterial meningomyelitis			Possible	DESC (41370002)
+SNOMEDCT_US	447012002	Tuberculosis of spinal cord			Possible	DESC (41370002)
+SNOMEDCT_US	47000000	Acute transverse myelitis			Possible	DESC (41370002)
+SNOMEDCT_US	473429002	Tuberculoma of spinal cord confirmed			Possible	DESC (41370002)
+SNOMEDCT_US	50776006	Allergic encephalomyelitis			Possible	DESC (41370002)
+SNOMEDCT_US	55234004	Pyogranulomatous meningoencephalomyelitis			Possible	DESC (41370002)
+SNOMEDCT_US	58766009	Granulomatous meningoencephalomyelitis			Possible	DESC (41370002)
+SNOMEDCT_US	61407009	Protozoal myelitis			Possible	DESC (41370002)
+SNOMEDCT_US	62950007	Encephalomyelitis			Possible	DESC (41370002)
+SNOMEDCT_US	68577004	Acute necrotizing myelitis			Possible	DESC (41370002)
+SNOMEDCT_US	70576008	Enteroviral encephalomyelitis			Possible	DESC (41370002)
+SNOMEDCT_US	713341001	Myelitis co-occurrent with human immunodeficiency virus infection			Possible	DESC (41370002)
+SNOMEDCT_US	714279000	Human T-cell lymphotropic virus 1-associated myelopathy			Possible	DESC (41370002)
+SNOMEDCT_US	721244002	Infection causing myelitis			Possible	DESC (41370002)
+SNOMEDCT_US	721245001	Myelitis caused by bacterium			Possible	DESC (41370002)
+SNOMEDCT_US	721246000	Myelitis caused by fungus			Possible	DESC (41370002)
+SNOMEDCT_US	721247009	Parasitic infection causing myelitis			Possible	DESC (41370002)
+SNOMEDCT_US	721248004	Myelitis caused by virus			Possible	DESC (41370002)
+SNOMEDCT_US	721249007	Infection causing encephalomyelitis			Possible	DESC (41370002)
+SNOMEDCT_US	72986009	Acute hemorrhagic leukoencephalitis			Possible	DESC (41370002)
+SNOMEDCT_US	735560004	Infection causing granuloma of spinal cord			Possible	DESC (41370002)
+SNOMEDCT_US	74772000	Meningomyelitis			Possible	DESC (41370002)
+SNOMEDCT_US	763869003	Radiation myelitis			Possible	DESC (41370002)
+SNOMEDCT_US	773688007	Chronic lymphocytic inflammation with pontine perivascular enhancement responsive to steroids			Possible	DESC (41370002)
+SNOMEDCT_US	838315004	Encephalomyelitis caused by Burkholderia			Possible	DESC (41370002)
+SNOMEDCT_US	83942000	Acute disseminated encephalomyelitis			Possible	DESC (41370002)
+SNOMEDCT_US	8528005	Acute ascending myelitis			Possible	DESC (41370002)
+SNOMEDCT_US	860805006	Encephalomyelitis caused by Neisseria meningitidis			Possible	DESC (41370002)
+SNOMEDCT_US	860841006	Encephalomyelitis caused by bacterium			Possible	DESC (41370002)
+SNOMEDCT_US	860842004	Encephalomyelitis caused by Coxiella burnetii			Possible	DESC (41370002)
+SNOMEDCT_US	860849008	Granuloma of spinal cord caused by fungus			Possible	DESC (41370002)
+SNOMEDCT_US	866045007	Myelitis caused by Actinomyces			Possible	DESC (41370002)
+SNOMEDCT_US	866055006	Myelitis caused by Enterovirus			Possible	DESC (41370002)
+SNOMEDCT_US	866056007	Myelitis caused by Epstein-Barr virus			Possible	DESC (41370002)
+SNOMEDCT_US	866057003	Myelitis caused by Dengue virus			Possible	DESC (41370002)
+SNOMEDCT_US	866058008	Myelitis caused by Human echovirus			Possible	DESC (41370002)
+SNOMEDCT_US	866059000	Myelitis caused by Human coxsackievirus A			Possible	DESC (41370002)
+SNOMEDCT_US	866060005	Myelitis caused by Cytomegalovirus			Possible	DESC (41370002)
+SNOMEDCT_US	866061009	Myelitis caused by Coccidioides			Possible	DESC (41370002)
+SNOMEDCT_US	866062002	Myelitis caused by Coenurus cerebralis			Possible	DESC (41370002)
+SNOMEDCT_US	866063007	Myelitis caused by Mycoplasma pneumoniae			Possible	DESC (41370002)
+SNOMEDCT_US	866064001	Myelitis caused by Aspergillus			Possible	DESC (41370002)
+SNOMEDCT_US	866065000	Myelitis caused by Schistosoma mansoni			Possible	DESC (41370002)
+SNOMEDCT_US	866066004	Myelitis caused by Borrelia burgdorferi			Possible	DESC (41370002)
+SNOMEDCT_US	866067008	Myelitis caused by Schistosoma japonicum			Possible	DESC (41370002)
+SNOMEDCT_US	866090003	Meningomyelitis caused by Treponema pallidum			Possible	DESC (41370002)
+SNOMEDCT_US	866121005	Myelitis caused by Schistosoma			Possible	DESC (41370002)
+SNOMEDCT_US	866123008	Myelitis caused by Schistosoma haematobium			Possible	DESC (41370002)
+SNOMEDCT_US	866124002	Myelitis caused by human poliovirus			Possible	DESC (41370002)
+SNOMEDCT_US	866125001	Myelitis caused by Retroviridae			Possible	DESC (41370002)
+SNOMEDCT_US	866126000	Myelitis caused by Influenza A virus			Possible	DESC (41370002)
+SNOMEDCT_US	866127009	Myelitis caused by Plasmodium			Possible	DESC (41370002)
+SNOMEDCT_US	866128004	Myelitis caused by Roseolovirus			Possible	DESC (41370002)
+SNOMEDCT_US	866129007	Myelitis caused by human T-lymphotropic virus type 1			Possible	DESC (41370002)
+SNOMEDCT_US	866130002	Myelitis caused by Herpes simplex type 2			Possible	DESC (41370002)
+SNOMEDCT_US	866131003	Myelitis caused by Human herpes virus			Possible	DESC (41370002)
+SNOMEDCT_US	866132005	Myelitis caused by Herpes simplex type 1			Possible	DESC (41370002)
+SNOMEDCT_US	866251007	Myelitis caused by Human coxsackievirus B			Possible	DESC (41370002)
+SNOMEDCT_US	870293004	Myelitis caused by Treponema pallidum			Possible	DESC (41370002)
+SNOMEDCT_US	870294005	Myelitis caused by Toxoplasma gondii			Possible	DESC (41370002)
+SNOMEDCT_US	870340002	Granuloma of spinal cord caused by Mycobacterium			Possible	DESC (41370002)
+SNOMEDCT_US	870341003	Granuloma of spinal cord caused by parasite			Possible	DESC (41370002)
+SNOMEDCT_US	870343000	Granuloma of spinal cord caused by bacterium			Possible	DESC (41370002)
+SNOMEDCT_US	897031002	Acute flaccid myelitis			Possible	DESC (41370002)
+SNOMEDCT_US	98541000119101	Herpes zoster myelitis			Possible	DESC (41370002)
+SNOMEDCT_US	-		C0338431	Varicella transverse myelitis	Narrow	
+SNOMEDCT_US	-		C0393487	Acute viral transverse myelitis	Narrow	
+SNOMEDCT_US	-		C0338431	Varicella transverse myelitis	Narrow	
+SNOMEDCT_US	-		C1719404	Idiopathic transverse myelitis	Narrow	
+SNOMEDCT_US	-		C0494470	Acute transverse myelitis in demyelinating disease of central nervous system	Narrow	
+SNOMEDCT_US	-		C1404453	transverse; myelopathy	Narrow	
+SNOMEDCT_US	-		C0026976	Myelitis, Transverse	Narrow	
+SNOMEDCT_US	-		C0393668	Acute non-infective transverse myelitis	Narrow	
+SNOMEDCT_US	-		C1719403	acute transverse myelitis in conditions classified elsewhere	Narrow	
+SNOMEDCT_US	-		C5428642	complete acute transverse myelitis	Narrow	
+SNOMEDCT_US	-		C5428641	partial acute transverse myelitis	Narrow	
+SNOMEDCT_US	-		C2215094	acute bacterial transverse myelitis	Narrow	

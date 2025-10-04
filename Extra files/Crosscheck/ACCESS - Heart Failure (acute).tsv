@@ -1,0 +1,1232 @@
+Coding system	Code	Code name	Concept	Concept name	Tags	Origin
+ICD10/CM	-		C1719467	Hypertensive heart and chronic kidney disease, malignant, with heart failure and with chronic kidney disease stage V or end stage renal disease	Narrow	
+ICD10/CM	-		C1719465	Hypertensive heart and chronic kidney disease, malignant, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified	Narrow	
+ICD10/CM	-		C1135333	Unspecified hypertensive heart disease with heart failure	Narrow	
+ICD10/CM	-		C4509228	Heart failure with reduced ejection fraction and diastolic dysfunction	Narrow	
+ICD10/CM	-		C4509227	Combined systolic and diastolic left ventricular heart failure	Narrow	
+ICD10/CM	I09.81	Rheumatic heart failure	C0155582	Congestive rheumatic heart failure	Possible	ADD (Congestive rheumatic heart failure)
+ICD10/CM	I11.0	Hypertensive heart disease with heart failure	C1400066	hypertensive heart disease; with heart failure	Narrow	NARROWER (C0264650)
+ICD10/CM	I50.1	Left ventricular failure	C0023212	Left-Sided Heart Failure	Narrow	BROADER (C0034063)
+ICD10/CM	I50	Heart failure	C0018801	Heart failure	Narrow	BROADER (C0264652)
+ICD10/CM	I50.9	Heart failure, unspecified	C0018801	Heart failure	Narrow	BROADER (C0264652)
+ICD10/CM	-		C2732748	Acute systolic heart failure	Narrow	
+ICD10/CM	I50.23	Acute on chronic systolic (congestive) heart failure	C2733492	Acute on chronic systolic heart failure	Narrow	NARROWER (C1135191)
+ICD10/CM	-		C2732951	Acute diastolic heart failure	Narrow	
+ICD10/CM	I50.33	Acute on chronic diastolic (congestive) heart failure	C2732749	Acute on chronic diastolic heart failure	Narrow	NARROWER (C1135196)
+ICD10/CM	I31.4	Cardiac tamponade	C0007177	Cardiac Tamponade	Narrow	CASEDEF
+ICD10/CM	-		C0018801	Heart failure	Narrow	
+ICD10/CM	-		C0023212	Left-Sided Heart Failure	Narrow	
+ICD10/CM	-		C0013608	Edema, Cardiac	Possible	
+ICD10/CM	-		C0269926	Cardiac failure after obstetrical surgery AND/OR other procedure including delivery	Possible	
+ICD10/CM	-		C0023212	Left-Sided Heart Failure	Narrow	
+ICD10/CM	I09.81	Rheumatic heart failure	C0155582	Congestive rheumatic heart failure	Narrow	NARROWER (C0018801)
+ICD10/CM	I50.82	Biventricular heart failure	C0685095	Biventricular congestive heart failure	Narrow	NARROWER (C0018801)
+ICD10/CM	I50.810	Right ventricular failure NOS	C2939447	Right ventricular failure	Narrow	NARROWER (C0018801)
+ICD10/CM	I50.20	Unspecified systolic (congestive) heart failure	C1135191	Heart Failure, Systolic	Narrow	NARROWER (C0018801)
+ICD10/CM	I50.30	Unspecified diastolic (congestive) heart failure	C1135196	Heart Failure, Diastolic	Narrow	NARROWER (C0018801)
+ICD10/CM	R09.2	Cardiorespiratory failure	C1444565	Cardiorespiratory failure	Possible	NARROWER (C0018801)
+ICD10/CM	I50.1	Cardiac asthma	C1956414	Cardiac asthma	Possible	NARROWER (C0018801)
+ICD10/CM	P29.0	Neonatal cardiac failure	C0455993	Neonatal cardiac failure	Narrow	NARROWER (C0018801)
+ICD10/CM	-		C0553982	Impaired left ventricular function	Narrow	
+ICD10/CM	-		C0410933	Congenital cardiac failure	Narrow	
+ICD10/CM	-		C0340515	Myocardial dysfunction	Narrow	
+ICD10/CM	-		C1959583	Myocardial Failure	Narrow	
+ICD10/CM	-		C1306063	Acute left ventricular failure	Narrow	
+ICD10/CM	-		C0581377	Decompensated cardiac failure	Narrow	
+ICD10/CM	-		C0340510	Heart failure as a complication of care	Narrow	
+ICD10/CM	-		C0340511	Post cardiac operation functional disturbance	Possible	
+ICD10/CM	-		C0581376	Compensated cardiac failure	Narrow	
+ICD10/CM	-		C0264734	Atrial dilatation	Possible	
+ICD10/CM	I50.4	Combined systolic and diastolic (congestive) hrt fail	C2882272	Combined systolic (congestive) and diastolic (congestive) heart failure	Narrow	NARROWER (C0018801)
+ICD10/CM	-		C0264652	Hypertensive heart failure	Narrow	
+ICD10/CM	I50.2	Systolic (congestive) heart failure	C2039715	Systolic (congestive) heart failure	Narrow	NARROWER (C0018801)
+ICD10/CM	I50.3	Diastolic (congestive) heart failure	C2183328	Diastolic (congestive) heart failure	Narrow	NARROWER (C0018801)
+ICD10/CM	-		C1444565	Cardiorespiratory failure	Possible	
+ICD10/CM	-		C1956414	Cardiac asthma	Possible	
+ICD10/CM	-		C2939447	Right ventricular failure	Narrow	
+ICD10/CM	-		C0455993	Neonatal cardiac failure	Narrow	
+ICD10/CM	-		C1135191	Heart Failure, Systolic	Narrow	
+ICD10/CM	-		C1135196	Heart Failure, Diastolic	Narrow	
+ICD10/CM	-		C1959583	Myocardial Failure	Narrow	
+ICD10/CM	-		C0553982	Impaired left ventricular function	Narrow	
+ICD10/CM	-		C0340515	Myocardial dysfunction	Narrow	
+ICD10/CM	I50.81	Right heart failure	C0235527	Heart Failure, Right-Sided	Narrow	NARROWER (C0018801)
+ICD10/CM	-		C1306063	Acute left ventricular failure	Narrow	
+ICD10/CM	-		C0581377	Decompensated cardiac failure	Narrow	
+ICD10/CM	-		C0340510	Heart failure as a complication of care	Narrow	
+ICD10/CM	-		C2882272	Combined systolic (congestive) and diastolic (congestive) heart failure	Narrow	
+ICD10/CM	-		C0269926	Cardiac failure after obstetrical surgery AND/OR other procedure including delivery	Narrow	
+ICD10/CM	-		C0264652	Hypertensive heart failure	Narrow	
+ICD10/CM	-		C0264650	Hypertensive heart disease with congestive heart failure	Narrow	
+ICD10/CM	I13.0	Hypertensive heart and renal disease with (congestive) heart failure	C0494575	Hypertensive heart and renal disease with (congestive) heart failure	Narrow	BROADER (C0264650)
+ICD10/CM	-		C2039715	Systolic (congestive) heart failure	Narrow	
+ICD10/CM	-		C2183328	Diastolic (congestive) heart failure	Narrow	
+ICD10/CM	-		C0274379	Cardiac insufficiency during AND/OR resulting from a procedure	Narrow	
+ICD10/CM	-		C0023212	Left-Sided Heart Failure	Narrow	
+ICD10/CM	-		C0685095	Biventricular congestive heart failure	Narrow	
+ICD10/CM	-		C0264719	Acute congestive heart failure	Narrow	
+ICD10/CM	-		C0581377	Decompensated cardiac failure	Narrow	
+ICD10/CM	J81	Pulmonary oedema	C0034063	Pulmonary Edema	Possible	CASEDEF
+ICD10/CM	J81.1	Pulmonary edema NOS	C0034063	Pulmonary Edema	Possible	CASEDEF
+ICD10/CM	J81.0	Acute pulmonary edema	C0155919	Acute pulmonary edema	Possible	NARROWER (C0034063)
+ICD10/CM	J80	Adult respiratory distress syndrome	C0035222	Respiratory Distress Syndrome, Adult	Possible	NARROWER (C0034063)
+ICD10/CM	-		C0242073	Pulmonary congestion	Possible	
+ICD10/CM	-		C0155910	Pulmonary congestion and hypostasis	Possible	
+ICD10/CM	-		C0085649	Peripheral edema	Possible	
+ICD10/CM	-		C0155919	Acute pulmonary edema	Possible	
+ICD10/CM	-		C0242073	Pulmonary congestion	Possible	
+ICD10/CM	I26.09	Acute cor pulmonale NOS	C0155672	Acute cor pulmonale	Possible	SUGGESTED (C0264714)
+ICD10/CM	-		C0340279	Ventricular hypertrophy	Possible	
+ICD10/CM	-		C0340515	Myocardial dysfunction	Narrow	
+ICD10/CM	-		C0428772	Left ventricular ejection fraction	Possible	
+ICD9CM	404.03	Hypertensive heart and chronic kidney disease, malignant, with heart failure and with chronic kidney disease stage V or end stage renal disease	C1719467	Hypertensive heart and chronic kidney disease, malignant, with heart failure and with chronic kidney disease stage V or end stage renal disease	Narrow	ADD (Hypertensive heart and chronic kidney disease, malignant, with heart failure and with chronic kidney disease stage V or end stage renal disease)
+ICD9CM	404.01	Hypertensive heart and chronic kidney disease, malignant, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified	C1719465	Hypertensive heart and chronic kidney disease, malignant, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified	Narrow	ADD (Hypertensive heart and chronic kidney disease, malignant, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified)
+ICD9CM	402.91	Unspecified hypertensive heart disease with heart failure	C1135333	Unspecified hypertensive heart disease with heart failure	Narrow	ADD (Unspecified hypertensive heart disease with heart failure)
+ICD9CM	-		C4509228	Heart failure with reduced ejection fraction and diastolic dysfunction	Narrow	
+ICD9CM	-		C4509227	Combined systolic and diastolic left ventricular heart failure	Narrow	
+ICD9CM	398.91	Rheumatic heart failure (congestive)	C0155582	Congestive rheumatic heart failure	Possible	ADD (Congestive rheumatic heart failure)
+ICD9CM	-		C1400066	hypertensive heart disease; with heart failure	Narrow	
+ICD9CM	428.1	Left heart failure	C0023212	Left-Sided Heart Failure	Narrow	BROADER (C0034063)
+ICD9CM	428	Heart failure	C0018801	Heart failure	Narrow	BROADER (C0264652)
+ICD9CM	428.0	Congestive heart failure, unspecified			Narrow	DESC (428)
+ICD9CM	428.2	Systolic heart failure			Narrow	DESC (428)
+ICD9CM	428.20	Systolic heart failure, unspecified			Narrow	DESC (428)
+ICD9CM	428.21	Acute systolic heart failure			Narrow	DESC (428)
+ICD9CM	428.22	Chronic systolic heart failure			Narrow	DESC (428)
+ICD9CM	428.23	Acute on chronic systolic heart failure			Narrow	DESC (428)
+ICD9CM	428.3	Diastolic heart failure			Narrow	DESC (428)
+ICD9CM	428.30	Diastolic heart failure, unspecified			Narrow	DESC (428)
+ICD9CM	428.31	Acute diastolic heart failure			Narrow	DESC (428)
+ICD9CM	428.32	Chronic diastolic heart failure			Narrow	DESC (428)
+ICD9CM	428.33	Acute on chronic diastolic heart failure			Narrow	DESC (428)
+ICD9CM	428.4	Combined systolic and diastolic heart failure			Narrow	DESC (428)
+ICD9CM	428.40	Combined systolic and diastolic heart failure, unspecified			Narrow	DESC (428)
+ICD9CM	428.41	Acute combined systolic and diastolic heart failure			Narrow	DESC (428)
+ICD9CM	428.42	Chronic combined systolic and diastolic heart failure			Narrow	DESC (428)
+ICD9CM	428.43	Acute on chronic combined systolic and diastolic heart failure			Narrow	DESC (428)
+ICD9CM	428.9	Heart failure, unspecified			Narrow	DESC (428)
+ICD9CM	-		C2732748	Acute systolic heart failure	Narrow	
+ICD9CM	-		C2733492	Acute on chronic systolic heart failure	Narrow	
+ICD9CM	-		C2732951	Acute diastolic heart failure	Narrow	
+ICD9CM	-		C2732749	Acute on chronic diastolic heart failure	Narrow	
+ICD9CM	423.3	Cardiac tamponade	C0007177	Cardiac Tamponade	Narrow	CASEDEF
+ICD9CM	-		C0018801	Heart failure	Narrow	
+ICD9CM	-		C0023212	Left-Sided Heart Failure	Narrow	
+ICD9CM	-		C0013608	Edema, Cardiac	Possible	
+ICD9CM	-		C0269926	Cardiac failure after obstetrical surgery AND/OR other procedure including delivery	Possible	
+ICD9CM	-		C0023212	Left-Sided Heart Failure	Narrow	
+ICD9CM	398.91	Rheumatic heart failure (congestive)	C0155582	Congestive rheumatic heart failure	Narrow	NARROWER (C0018801)
+ICD9CM	-		C0685095	Biventricular congestive heart failure	Narrow	
+ICD9CM	-		C2939447	Right ventricular failure	Narrow	
+ICD9CM	-		C1135191	Heart Failure, Systolic	Narrow	
+ICD9CM	-		C1135196	Heart Failure, Diastolic	Narrow	
+ICD9CM	-		C1444565	Cardiorespiratory failure	Possible	
+ICD9CM	-		C1956414	Cardiac asthma	Possible	
+ICD9CM	-		C0455993	Neonatal cardiac failure	Narrow	
+ICD9CM	-		C0553982	Impaired left ventricular function	Narrow	
+ICD9CM	-		C0410933	Congenital cardiac failure	Narrow	
+ICD9CM	-		C0340515	Myocardial dysfunction	Narrow	
+ICD9CM	-		C1959583	Myocardial Failure	Narrow	
+ICD9CM	-		C1306063	Acute left ventricular failure	Narrow	
+ICD9CM	-		C0581377	Decompensated cardiac failure	Narrow	
+ICD9CM	-		C0340510	Heart failure as a complication of care	Narrow	
+ICD9CM	-		C0340511	Post cardiac operation functional disturbance	Possible	
+ICD9CM	-		C0581376	Compensated cardiac failure	Narrow	
+ICD9CM	-		C0264734	Atrial dilatation	Possible	
+ICD9CM	-		C2882272	Combined systolic (congestive) and diastolic (congestive) heart failure	Narrow	
+ICD9CM	-		C0264652	Hypertensive heart failure	Narrow	
+ICD9CM	-		C2039715	Systolic (congestive) heart failure	Narrow	
+ICD9CM	-		C2183328	Diastolic (congestive) heart failure	Narrow	
+ICD9CM	-		C1444565	Cardiorespiratory failure	Possible	
+ICD9CM	-		C1956414	Cardiac asthma	Possible	
+ICD9CM	-		C2939447	Right ventricular failure	Narrow	
+ICD9CM	-		C0455993	Neonatal cardiac failure	Narrow	
+ICD9CM	-		C1135191	Heart Failure, Systolic	Narrow	
+ICD9CM	-		C1135196	Heart Failure, Diastolic	Narrow	
+ICD9CM	-		C1959583	Myocardial Failure	Narrow	
+ICD9CM	-		C0553982	Impaired left ventricular function	Narrow	
+ICD9CM	-		C0340515	Myocardial dysfunction	Narrow	
+ICD9CM	-		C0235527	Heart Failure, Right-Sided	Narrow	
+ICD9CM	-		C1306063	Acute left ventricular failure	Narrow	
+ICD9CM	-		C0581377	Decompensated cardiac failure	Narrow	
+ICD9CM	-		C0340510	Heart failure as a complication of care	Narrow	
+ICD9CM	-		C2882272	Combined systolic (congestive) and diastolic (congestive) heart failure	Narrow	
+ICD9CM	-		C0269926	Cardiac failure after obstetrical surgery AND/OR other procedure including delivery	Narrow	
+ICD9CM	-		C0264652	Hypertensive heart failure	Narrow	
+ICD9CM	-		C0264650	Hypertensive heart disease with congestive heart failure	Narrow	
+ICD9CM	-		C0494575	Hypertensive heart and renal disease with (congestive) heart failure	Narrow	
+ICD9CM	-		C2039715	Systolic (congestive) heart failure	Narrow	
+ICD9CM	-		C2183328	Diastolic (congestive) heart failure	Narrow	
+ICD9CM	-		C0274379	Cardiac insufficiency during AND/OR resulting from a procedure	Narrow	
+ICD9CM	-		C0023212	Left-Sided Heart Failure	Narrow	
+ICD9CM	-		C0685095	Biventricular congestive heart failure	Narrow	
+ICD9CM	-		C0264719	Acute congestive heart failure	Narrow	
+ICD9CM	-		C0581377	Decompensated cardiac failure	Narrow	
+ICD9CM	-		C0034063	Pulmonary Edema	Possible	
+ICD9CM	518.4	Acute edema of lung, unspecified	C0155919	Acute pulmonary edema	Possible	NARROWER (C0034063)
+ICD9CM	-		C0035222	Respiratory Distress Syndrome, Adult	Possible	
+ICD9CM	-		C0242073	Pulmonary congestion	Possible	
+ICD9CM	514	Pulmonary congestion and hypostasis	C0155910	Pulmonary congestion and hypostasis	Possible	SUGGESTED (C0034063)
+ICD9CM	-		C0085649	Peripheral edema	Possible	
+ICD9CM	-		C0155919	Acute pulmonary edema	Possible	
+ICD9CM	-		C0242073	Pulmonary congestion	Possible	
+ICD9CM	415.0	Acute cor pulmonale	C0155672	Acute cor pulmonale	Possible	SUGGESTED (C0264714)
+ICD9CM	-		C0340279	Ventricular hypertrophy	Possible	
+ICD9CM	-		C0340515	Myocardial dysfunction	Narrow	
+ICD9CM	-		C0428772	Left ventricular ejection fraction	Possible	
+ICPC	-		C1719467	Hypertensive heart and chronic kidney disease, malignant, with heart failure and with chronic kidney disease stage V or end stage renal disease	Narrow	
+ICPC	-		C1719465	Hypertensive heart and chronic kidney disease, malignant, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified	Narrow	
+ICPC	-		C1135333	Unspecified hypertensive heart disease with heart failure	Narrow	
+ICPC	-		C4509228	Heart failure with reduced ejection fraction and diastolic dysfunction	Narrow	
+ICPC	-		C4509227	Combined systolic and diastolic left ventricular heart failure	Narrow	
+ICPC	-		C0155582	Congestive rheumatic heart failure	Possible	
+ICPC	-		C1400066	hypertensive heart disease; with heart failure	Narrow	
+ICPC	-		C0023212	Left-Sided Heart Failure	Narrow	
+ICPC	K77	Heart failure	C0018801	Heart failure	Narrow	BROADER (C0264652)
+ICPC	-		C2732748	Acute systolic heart failure	Narrow	
+ICPC	-		C2733492	Acute on chronic systolic heart failure	Narrow	
+ICPC	-		C2732951	Acute diastolic heart failure	Narrow	
+ICPC	-		C2732749	Acute on chronic diastolic heart failure	Narrow	
+ICPC	-		C0007177	Cardiac Tamponade	Narrow	
+ICPC	-		C0018801	Heart failure	Narrow	
+ICPC	-		C0023212	Left-Sided Heart Failure	Narrow	
+ICPC	-		C0013608	Edema, Cardiac	Possible	
+ICPC	-		C0269926	Cardiac failure after obstetrical surgery AND/OR other procedure including delivery	Possible	
+ICPC	-		C0023212	Left-Sided Heart Failure	Narrow	
+ICPC	-		C0155582	Congestive rheumatic heart failure	Narrow	
+ICPC	-		C0685095	Biventricular congestive heart failure	Narrow	
+ICPC	-		C2939447	Right ventricular failure	Narrow	
+ICPC	-		C1135191	Heart Failure, Systolic	Narrow	
+ICPC	-		C1135196	Heart Failure, Diastolic	Narrow	
+ICPC	-		C1444565	Cardiorespiratory failure	Possible	
+ICPC	-		C1956414	Cardiac asthma	Possible	
+ICPC	-		C0455993	Neonatal cardiac failure	Narrow	
+ICPC	-		C0553982	Impaired left ventricular function	Narrow	
+ICPC	-		C0410933	Congenital cardiac failure	Narrow	
+ICPC	-		C0340515	Myocardial dysfunction	Narrow	
+ICPC	-		C1959583	Myocardial Failure	Narrow	
+ICPC	-		C1306063	Acute left ventricular failure	Narrow	
+ICPC	-		C0581377	Decompensated cardiac failure	Narrow	
+ICPC	-		C0340510	Heart failure as a complication of care	Narrow	
+ICPC	-		C0340511	Post cardiac operation functional disturbance	Possible	
+ICPC	-		C0581376	Compensated cardiac failure	Narrow	
+ICPC	-		C0264734	Atrial dilatation	Possible	
+ICPC	-		C2882272	Combined systolic (congestive) and diastolic (congestive) heart failure	Narrow	
+ICPC	-		C0264652	Hypertensive heart failure	Narrow	
+ICPC	-		C2039715	Systolic (congestive) heart failure	Narrow	
+ICPC	-		C2183328	Diastolic (congestive) heart failure	Narrow	
+ICPC	-		C1444565	Cardiorespiratory failure	Possible	
+ICPC	-		C1956414	Cardiac asthma	Possible	
+ICPC	-		C2939447	Right ventricular failure	Narrow	
+ICPC	-		C0455993	Neonatal cardiac failure	Narrow	
+ICPC	-		C1135191	Heart Failure, Systolic	Narrow	
+ICPC	-		C1135196	Heart Failure, Diastolic	Narrow	
+ICPC	-		C1959583	Myocardial Failure	Narrow	
+ICPC	-		C0553982	Impaired left ventricular function	Narrow	
+ICPC	-		C0340515	Myocardial dysfunction	Narrow	
+ICPC	-		C0235527	Heart Failure, Right-Sided	Narrow	
+ICPC	-		C1306063	Acute left ventricular failure	Narrow	
+ICPC	-		C0581377	Decompensated cardiac failure	Narrow	
+ICPC	-		C0340510	Heart failure as a complication of care	Narrow	
+ICPC	-		C2882272	Combined systolic (congestive) and diastolic (congestive) heart failure	Narrow	
+ICPC	-		C0269926	Cardiac failure after obstetrical surgery AND/OR other procedure including delivery	Narrow	
+ICPC	-		C0264652	Hypertensive heart failure	Narrow	
+ICPC	-		C0264650	Hypertensive heart disease with congestive heart failure	Narrow	
+ICPC	-		C0494575	Hypertensive heart and renal disease with (congestive) heart failure	Narrow	
+ICPC	-		C2039715	Systolic (congestive) heart failure	Narrow	
+ICPC	-		C2183328	Diastolic (congestive) heart failure	Narrow	
+ICPC	-		C0274379	Cardiac insufficiency during AND/OR resulting from a procedure	Narrow	
+ICPC	-		C0023212	Left-Sided Heart Failure	Narrow	
+ICPC	-		C0685095	Biventricular congestive heart failure	Narrow	
+ICPC	-		C0264719	Acute congestive heart failure	Narrow	
+ICPC	-		C0581377	Decompensated cardiac failure	Narrow	
+ICPC	-		C0034063	Pulmonary Edema	Possible	
+ICPC	-		C0155919	Acute pulmonary edema	Possible	
+ICPC	-		C0035222	Respiratory Distress Syndrome, Adult	Possible	
+ICPC	-		C0242073	Pulmonary congestion	Possible	
+ICPC	-		C0155910	Pulmonary congestion and hypostasis	Possible	
+ICPC	-		C0085649	Peripheral edema	Possible	
+ICPC	-		C0155919	Acute pulmonary edema	Possible	
+ICPC	-		C0242073	Pulmonary congestion	Possible	
+ICPC	-		C0155672	Acute cor pulmonale	Possible	
+ICPC	-		C0340279	Ventricular hypertrophy	Possible	
+ICPC	-		C0340515	Myocardial dysfunction	Narrow	
+ICPC	-		C0428772	Left ventricular ejection fraction	Possible	
+ICPC2P	-		C1719467	Hypertensive heart and chronic kidney disease, malignant, with heart failure and with chronic kidney disease stage V or end stage renal disease	Narrow	
+ICPC2P	-		C1719465	Hypertensive heart and chronic kidney disease, malignant, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified	Narrow	
+ICPC2P	-		C1135333	Unspecified hypertensive heart disease with heart failure	Narrow	
+ICPC2P	-		C4509228	Heart failure with reduced ejection fraction and diastolic dysfunction	Narrow	
+ICPC2P	-		C4509227	Combined systolic and diastolic left ventricular heart failure	Narrow	
+ICPC2P	-		C0155582	Congestive rheumatic heart failure	Possible	
+ICPC2P	-		C1400066	hypertensive heart disease; with heart failure	Narrow	
+ICPC2P	K77008	Failure;ventricular;left	C0023212	Left-Sided Heart Failure	Narrow	BROADER (C0034063)
+ICPC2P	K29019	Weakness;heart	C0018801	Heart failure	Narrow	BROADER (C0264652)
+ICPC2P	K77004	Failure;cardiac	C0018801	Heart failure	Narrow	BROADER (C0264652)
+ICPC2P	K77011	Failure;heart	C0018801	Heart failure	Narrow	BROADER (C0264652)
+ICPC2P	K77028	Insufficiency;cardiac	C0018801	Heart failure	Narrow	BROADER (C0264652)
+ICPC2P	-		C2732748	Acute systolic heart failure	Narrow	
+ICPC2P	-		C2733492	Acute on chronic systolic heart failure	Narrow	
+ICPC2P	-		C2732951	Acute diastolic heart failure	Narrow	
+ICPC2P	-		C2732749	Acute on chronic diastolic heart failure	Narrow	
+ICPC2P	-		C0007177	Cardiac Tamponade	Narrow	
+ICPC2P	-		C0018801	Heart failure	Narrow	
+ICPC2P	-		C0023212	Left-Sided Heart Failure	Narrow	
+ICPC2P	-		C0013608	Edema, Cardiac	Possible	
+ICPC2P	-		C0269926	Cardiac failure after obstetrical surgery AND/OR other procedure including delivery	Possible	
+ICPC2P	-		C0023212	Left-Sided Heart Failure	Narrow	
+ICPC2P	-		C0155582	Congestive rheumatic heart failure	Narrow	
+ICPC2P	K77025	Failure;biventricular	C0685095	Biventricular congestive heart failure	Narrow	NARROWER (C0018801)
+ICPC2P	K77014	Failure;ventricular;right	C2939447	Right ventricular failure	Narrow	NARROWER (C0018801)
+ICPC2P	-		C1135191	Heart Failure, Systolic	Narrow	
+ICPC2P	-		C1135196	Heart Failure, Diastolic	Narrow	
+ICPC2P	-		C1444565	Cardiorespiratory failure	Possible	
+ICPC2P	K77005	Cardiac asthma	C1956414	Cardiac asthma	Possible	NARROWER (C0018801)
+ICPC2P	-		C0455993	Neonatal cardiac failure	Narrow	
+ICPC2P	-		C0553982	Impaired left ventricular function	Narrow	
+ICPC2P	-		C0410933	Congenital cardiac failure	Narrow	
+ICPC2P	K29006	Dysfunction;heart	C0340515	Myocardial dysfunction	Narrow	NARROWER (C0018801)
+ICPC2P	K77007	Failure;myocardial	C1959583	Myocardial Failure	Narrow	NARROWER (C0018801)
+ICPC2P	-		C1306063	Acute left ventricular failure	Narrow	
+ICPC2P	-		C0581377	Decompensated cardiac failure	Narrow	
+ICPC2P	-		C0340510	Heart failure as a complication of care	Narrow	
+ICPC2P	-		C0340511	Post cardiac operation functional disturbance	Possible	
+ICPC2P	-		C0581376	Compensated cardiac failure	Narrow	
+ICPC2P	-		C0264734	Atrial dilatation	Possible	
+ICPC2P	-		C2882272	Combined systolic (congestive) and diastolic (congestive) heart failure	Narrow	
+ICPC2P	-		C0264652	Hypertensive heart failure	Narrow	
+ICPC2P	-		C2039715	Systolic (congestive) heart failure	Narrow	
+ICPC2P	-		C2183328	Diastolic (congestive) heart failure	Narrow	
+ICPC2P	-		C1444565	Cardiorespiratory failure	Possible	
+ICPC2P	-		C1956414	Cardiac asthma	Possible	
+ICPC2P	-		C2939447	Right ventricular failure	Narrow	
+ICPC2P	-		C0455993	Neonatal cardiac failure	Narrow	
+ICPC2P	-		C1135191	Heart Failure, Systolic	Narrow	
+ICPC2P	-		C1135196	Heart Failure, Diastolic	Narrow	
+ICPC2P	-		C1959583	Myocardial Failure	Narrow	
+ICPC2P	-		C0553982	Impaired left ventricular function	Narrow	
+ICPC2P	-		C0340515	Myocardial dysfunction	Narrow	
+ICPC2P	-		C0235527	Heart Failure, Right-Sided	Narrow	
+ICPC2P	-		C1306063	Acute left ventricular failure	Narrow	
+ICPC2P	-		C0581377	Decompensated cardiac failure	Narrow	
+ICPC2P	-		C0340510	Heart failure as a complication of care	Narrow	
+ICPC2P	-		C2882272	Combined systolic (congestive) and diastolic (congestive) heart failure	Narrow	
+ICPC2P	-		C0269926	Cardiac failure after obstetrical surgery AND/OR other procedure including delivery	Narrow	
+ICPC2P	-		C0264652	Hypertensive heart failure	Narrow	
+ICPC2P	-		C0264650	Hypertensive heart disease with congestive heart failure	Narrow	
+ICPC2P	-		C0494575	Hypertensive heart and renal disease with (congestive) heart failure	Narrow	
+ICPC2P	-		C2039715	Systolic (congestive) heart failure	Narrow	
+ICPC2P	-		C2183328	Diastolic (congestive) heart failure	Narrow	
+ICPC2P	-		C0274379	Cardiac insufficiency during AND/OR resulting from a procedure	Narrow	
+ICPC2P	-		C0023212	Left-Sided Heart Failure	Narrow	
+ICPC2P	-		C0685095	Biventricular congestive heart failure	Narrow	
+ICPC2P	-		C0264719	Acute congestive heart failure	Narrow	
+ICPC2P	-		C0581377	Decompensated cardiac failure	Narrow	
+ICPC2P	K77013	Oedema;pulmonary	C0034063	Pulmonary Edema	Possible	CASEDEF
+ICPC2P	K77001	Oedema;pulmonary;acute	C0155919	Acute pulmonary edema	Possible	NARROWER (C0034063)
+ICPC2P	-		C0035222	Respiratory Distress Syndrome, Adult	Possible	
+ICPC2P	R29001	Congestion;chest	C0242073	Pulmonary congestion	Possible	NARROWER (C0034063)
+ICPC2P	-		C0155910	Pulmonary congestion and hypostasis	Possible	
+ICPC2P	K07013	Oedema;peripheral	C0085649	Peripheral edema	Possible	CASEDEF
+ICPC2P	K29024	Edema;peripheral	C0085649	Peripheral edema	Possible	CASEDEF
+ICPC2P	-		C0155919	Acute pulmonary edema	Possible	
+ICPC2P	-		C0242073	Pulmonary congestion	Possible	
+ICPC2P	-		C0155672	Acute cor pulmonale	Possible	
+ICPC2P	-		C0340279	Ventricular hypertrophy	Possible	
+ICPC2P	-		C0340515	Myocardial dysfunction	Narrow	
+ICPC2P	-		C0428772	Left ventricular ejection fraction	Possible	
+RCD2	-		C1719467	Hypertensive heart and chronic kidney disease, malignant, with heart failure and with chronic kidney disease stage V or end stage renal disease	Narrow	
+RCD2	-		C1719465	Hypertensive heart and chronic kidney disease, malignant, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified	Narrow	
+RCD2	-		C1135333	Unspecified hypertensive heart disease with heart failure	Narrow	
+RCD2	-		C4509228	Heart failure with reduced ejection fraction and diastolic dysfunction	Narrow	
+RCD2	-		C4509227	Combined systolic and diastolic left ventricular heart failure	Narrow	
+RCD2	-		C0155582	Congestive rheumatic heart failure	Possible	
+RCD2	-		C1400066	hypertensive heart disease; with heart failure	Narrow	
+RCD2	G581.	Left ventricular failure	C0023212	Left-Sided Heart Failure	Narrow	BROADER (C0034063)
+RCD2	G58..	Heart failure	C0018801	Heart failure	Narrow	BROADER (C0264652)
+RCD2	G58z.	Heart failure NOS	C0018801	Heart failure	Narrow	BROADER (C0264652)
+RCD2	-		C2732748	Acute systolic heart failure	Narrow	
+RCD2	-		C2733492	Acute on chronic systolic heart failure	Narrow	
+RCD2	-		C2732951	Acute diastolic heart failure	Narrow	
+RCD2	-		C2732749	Acute on chronic diastolic heart failure	Narrow	
+RCD2	G53z.	Other pericardial disease NOS	C0007177	Cardiac Tamponade	Narrow	CASEDEF
+RCD2	-		C0018801	Heart failure	Narrow	
+RCD2	-		C0023212	Left-Sided Heart Failure	Narrow	
+RCD2	-		C0013608	Edema, Cardiac	Possible	
+RCD2	-		C0269926	Cardiac failure after obstetrical surgery AND/OR other procedure including delivery	Possible	
+RCD2	-		C0023212	Left-Sided Heart Failure	Narrow	
+RCD2	-		C0155582	Congestive rheumatic heart failure	Narrow	
+RCD2	G580.	Congestive heart failure	C0685095	Biventricular congestive heart failure	Narrow	NARROWER (C0018801)
+RCD2	G584.	Right ventricular failure	C2939447	Right ventricular failure	Narrow	NARROWER (C0018801)
+RCD2	-		C1135191	Heart Failure, Systolic	Narrow	
+RCD2	-		C1135196	Heart Failure, Diastolic	Narrow	
+RCD2	G575.	Cardiac arrest	C1444565	Cardiorespiratory failure	Possible	NARROWER (C0018801)
+RCD2	R2y10	[D]Cardiorespiratory failure	C1444565	Cardiorespiratory failure	Possible	NARROWER (C0018801)
+RCD2	-		C1956414	Cardiac asthma	Possible	
+RCD2	Q490.	Neonatal cardiac failure	C0455993	Neonatal cardiac failure	Narrow	NARROWER (C0018801)
+RCD2	33BA.	Impaired left ventricular func	C0553982	Impaired left ventricular function	Narrow	NARROWER (C0018801)
+RCD2	Q48y1	Congenital cardiac failure	C0410933	Congenital cardiac failure	Narrow	NARROWER (C0018801)
+RCD2	-		C0340515	Myocardial dysfunction	Narrow	
+RCD2	-		C1959583	Myocardial Failure	Narrow	
+RCD2	G5810	Acute left ventricular failure	C1306063	Acute left ventricular failure	Narrow	NARROWER (C0018801)
+RCD2	G5802	Decompensated cardiac failure	C0581377	Decompensated cardiac failure	Narrow	NARROWER (C0018801)
+RCD2	SP111	Cardiac insuffic.comp.of care	C0340510	Heart failure as a complication of care	Narrow	NARROWER (C0018801)
+RCD2	G5y4.	Post cardiac opn.function dist	C0340511	Post cardiac operation functional disturbance	Possible	NARROWER (C0018801)
+RCD2	G5803	Compensated cardiac failure	C0581376	Compensated cardiac failure	Narrow	NARROWER (C0018801)
+RCD2	G5y30	Atrial dilatation	C0264734	Atrial dilatation	Possible	NARROWER (C0018801)
+RCD2	-		C2882272	Combined systolic (congestive) and diastolic (congestive) heart failure	Narrow	
+RCD2	-		C0264652	Hypertensive heart failure	Narrow	
+RCD2	-		C2039715	Systolic (congestive) heart failure	Narrow	
+RCD2	-		C2183328	Diastolic (congestive) heart failure	Narrow	
+RCD2	-		C1444565	Cardiorespiratory failure	Possible	
+RCD2	-		C1956414	Cardiac asthma	Possible	
+RCD2	-		C2939447	Right ventricular failure	Narrow	
+RCD2	-		C0455993	Neonatal cardiac failure	Narrow	
+RCD2	-		C1135191	Heart Failure, Systolic	Narrow	
+RCD2	-		C1135196	Heart Failure, Diastolic	Narrow	
+RCD2	-		C1959583	Myocardial Failure	Narrow	
+RCD2	-		C0553982	Impaired left ventricular function	Narrow	
+RCD2	-		C0340515	Myocardial dysfunction	Narrow	
+RCD2	-		C0235527	Heart Failure, Right-Sided	Narrow	
+RCD2	-		C1306063	Acute left ventricular failure	Narrow	
+RCD2	-		C0581377	Decompensated cardiac failure	Narrow	
+RCD2	-		C0340510	Heart failure as a complication of care	Narrow	
+RCD2	-		C2882272	Combined systolic (congestive) and diastolic (congestive) heart failure	Narrow	
+RCD2	-		C0269926	Cardiac failure after obstetrical surgery AND/OR other procedure including delivery	Narrow	
+RCD2	-		C0264652	Hypertensive heart failure	Narrow	
+RCD2	G21z1	Hypertens.heart dis.NOS- + CCF	C0264650	Hypertensive heart disease with congestive heart failure	Narrow	SUGGESTED (C0264652)
+RCD2	G232.	Hypert ht&ren d+(congs)ht fail	C0494575	Hypertensive heart and renal disease with (congestive) heart failure	Narrow	BROADER (C0264650)
+RCD2	-		C2039715	Systolic (congestive) heart failure	Narrow	
+RCD2	-		C2183328	Diastolic (congestive) heart failure	Narrow	
+RCD2	-		C0274379	Cardiac insufficiency during AND/OR resulting from a procedure	Narrow	
+RCD2	-		C0023212	Left-Sided Heart Failure	Narrow	
+RCD2	-		C0685095	Biventricular congestive heart failure	Narrow	
+RCD2	G5800	Acute congestive heart failure	C0264719	Acute congestive heart failure	Narrow	NARROWER (C0018802)
+RCD2	-		C0581377	Decompensated cardiac failure	Narrow	
+RCD2	H541z	Pulmonary oedema NOS	C0034063	Pulmonary Edema	Possible	CASEDEF
+RCD2	H584.	Acute pulmonary oedema unspec.	C0155919	Acute pulmonary edema	Possible	NARROWER (C0034063)
+RCD2	H584z	Acute pulmonary oedema NOS	C0155919	Acute pulmonary edema	Possible	NARROWER (C0034063)
+RCD2	H5853	Adult respiratory distress syn	C0035222	Respiratory Distress Syndrome, Adult	Possible	NARROWER (C0034063)
+RCD2	H541.	Pulmonary congestion	C0242073	Pulmonary congestion	Possible	NARROWER (C0034063)
+RCD2	H54..	Pulmon.congestion/hypostasis	C0155910	Pulmonary congestion and hypostasis	Possible	SUGGESTED (C0034063)
+RCD2	H54z.	Pulmon.congest./hypostasis NOS	C0155910	Pulmonary congestion and hypostasis	Possible	SUGGESTED (C0034063)
+RCD2	R0234	[D]Peripheral oedema	C0085649	Peripheral edema	Possible	CASEDEF
+RCD2	-		C0155919	Acute pulmonary edema	Possible	
+RCD2	-		C0242073	Pulmonary congestion	Possible	
+RCD2	G400.	Acute cor pulmonale	C0155672	Acute cor pulmonale	Possible	SUGGESTED (C0264714)
+RCD2	G5y34	Ventricular hypertrophy	C0340279	Ventricular hypertrophy	Possible	CASEDEF
+RCD2	-		C0340515	Myocardial dysfunction	Narrow	
+RCD2	33BB.	Left ventric ejectn fraction	C0428772	Left ventricular ejection fraction	Possible	CASEDEF
+SCTSPA	-		C1719467	Hypertensive heart and chronic kidney disease, malignant, with heart failure and with chronic kidney disease stage V or end stage renal disease	Narrow	
+SCTSPA	-		C1719465	Hypertensive heart and chronic kidney disease, malignant, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified	Narrow	
+SCTSPA	-		C1135333	Unspecified hypertensive heart disease with heart failure	Narrow	
+SCTSPA	-		C4509228	Heart failure with reduced ejection fraction and diastolic dysfunction	Narrow	
+SCTSPA	-		C4509227	Combined systolic and diastolic left ventricular heart failure	Narrow	
+SCTSPA	82523003	insuficiencia cardíaca congestiva reumática	C0155582	Congestive rheumatic heart failure	Possible	ADD (Congestive rheumatic heart failure)
+SCTSPA	43736008	Rheumatic left ventricular failure			Possible	DESC (82523003)
+SCTSPA	-		C1400066	hypertensive heart disease; with heart failure	Narrow	
+SCTSPA	85232009	insuficiencia ventricular izquierda	C0023212	Left-Sided Heart Failure	Narrow	BROADER (C0034063)
+SCTSPA	111283005	Chronic left-sided heart failure			Narrow	DESC (85232009)
+SCTSPA	1204200007	Left ventricular failure with normal ejection fraction due to valvular heart disease			Narrow	DESC (85232009)
+SCTSPA	1204203009	Left ventricular failure with normal ejection fraction due to coronary artery disease			Narrow	DESC (85232009)
+SCTSPA	1204204003	Left ventricular failure with normal ejection fraction due to myocarditis			Narrow	DESC (85232009)
+SCTSPA	1204206001	Left ventricular failure with normal ejection fraction due to cardiomyopathy			Narrow	DESC (85232009)
+SCTSPA	1204462004	Left ventricular failure with sepsis			Narrow	DESC (85232009)
+SCTSPA	195114002	Acute left ventricular failure			Narrow	DESC (85232009)
+SCTSPA	364006	Acute left-sided heart failure			Narrow	DESC (85232009)
+SCTSPA	43736008	Rheumatic left ventricular failure			Narrow	DESC (85232009)
+SCTSPA	5375005	Chronic left-sided congestive heart failure			Narrow	DESC (85232009)
+SCTSPA	71892000	Cardiac asthma			Narrow	DESC (85232009)
+SCTSPA	74960003	Acute left-sided congestive heart failure			Narrow	DESC (85232009)
+SCTSPA	92506005	Biventricular congestive heart failure			Narrow	DESC (85232009)
+SCTSPA	155377000	Heart failure NOS	C0018801	Heart failure	Narrow	BROADER (C0264652)
+SCTSPA	266248006	insuficiencia cardíaca, SAI	C0018801	Heart failure	Narrow	BROADER (C0264652)
+SCTSPA	84114007	insuficiencia cardíaca	C0018801	Heart failure	Narrow	BROADER (C0264652)
+SCTSPA	10091002	High output heart failure			Narrow	DESC (84114007)
+SCTSPA	1010444007	Legal abortion complicated by cardiac failure			Narrow	DESC (84114007)
+SCTSPA	1010447000	Illegal abortion complicated by cardiac failure			Narrow	DESC (84114007)
+SCTSPA	101281000119107	Congestive heart failure due to cardiomyopathy			Narrow	DESC (84114007)
+SCTSPA	10335000	Chronic right-sided heart failure			Narrow	DESC (84114007)
+SCTSPA	10633002	Acute congestive heart failure			Narrow	DESC (84114007)
+SCTSPA	1204460007	Myocardial dysfunction with sepsis			Narrow	DESC (84114007)
+SCTSPA	1204468000	Right ventricular failure with sepsis			Narrow	DESC (84114007)
+SCTSPA	120851000119104	Systolic heart failure stage D			Narrow	DESC (84114007)
+SCTSPA	120861000119102	Systolic heart failure stage C			Narrow	DESC (84114007)
+SCTSPA	120881000119106	Diastolic heart failure stage D			Narrow	DESC (84114007)
+SCTSPA	1208843003	Right ventricular failure due to valvular heart disease			Narrow	DESC (84114007)
+SCTSPA	1208846006	Right ventricular failure due to pulmonary disease			Narrow	DESC (84114007)
+SCTSPA	1208848007	Right ventricular failure due to pulmonary vascular disease			Narrow	DESC (84114007)
+SCTSPA	1208850004	Right ventricular failure due to right ventricular infarction			Narrow	DESC (84114007)
+SCTSPA	120891000119109	Diastolic heart failure stage C			Narrow	DESC (84114007)
+SCTSPA	13839000	Bernheim's syndrome			Narrow	DESC (84114007)
+SCTSPA	153931000119109	Acute combined systolic and diastolic heart failure			Narrow	DESC (84114007)
+SCTSPA	153941000119100	Chronic combined systolic and diastolic heart failure			Narrow	DESC (84114007)
+SCTSPA	153951000119103	Acute on chronic combined systolic and diastolic heart failure			Narrow	DESC (84114007)
+SCTSPA	15629541000119106	Congestive heart failure stage C due to ischemic cardiomyopathy			Narrow	DESC (84114007)
+SCTSPA	15629591000119103	Congestive heart failure stage B due to ischemic cardiomyopathy			Narrow	DESC (84114007)
+SCTSPA	15629741000119102	Systolic heart failure stage C due to ischemic cardiomyopathy			Narrow	DESC (84114007)
+SCTSPA	15781000119107	Hypertensive heart AND chronic kidney disease with congestive heart failure			Narrow	DESC (84114007)
+SCTSPA	15964661000119102	Acute cor pulmonale due to septic pulmonary embolism			Narrow	DESC (84114007)
+SCTSPA	15964701000119109	Saddle embolus of pulmonary artery with acute cor pulmonale			Narrow	DESC (84114007)
+SCTSPA	16253001	Dilated peripartum cardiomyopathy			Narrow	DESC (84114007)
+SCTSPA	16838951000119100	Acute on chronic right-sided congestive heart failure			Narrow	DESC (84114007)
+SCTSPA	194767001	Benign hypertensive heart disease with congestive cardiac failure			Narrow	DESC (84114007)
+SCTSPA	194779001	Hypertensive heart and renal disease with (congestive) heart failure			Narrow	DESC (84114007)
+SCTSPA	194781004	Hypertensive heart and renal disease with both (congestive) heart failure and renal failure			Narrow	DESC (84114007)
+SCTSPA	195111005	Decompensated cardiac failure			Narrow	DESC (84114007)
+SCTSPA	195112003	Compensated cardiac failure			Narrow	DESC (84114007)
+SCTSPA	206586007	Congenital cardiac failure			Narrow	DESC (84114007)
+SCTSPA	23341000119109	Congestive heart failure with right heart failure			Narrow	DESC (84114007)
+SCTSPA	233924009	Heart failure as a complication of care			Narrow	DESC (84114007)
+SCTSPA	24841007	Cardiorespiratory failure during AND/OR resulting from a procedure			Narrow	DESC (84114007)
+SCTSPA	25544003	Low output heart failure			Narrow	DESC (84114007)
+SCTSPA	276514007	Neonatal cardiac failure			Narrow	DESC (84114007)
+SCTSPA	314206003	Refractory heart failure			Narrow	DESC (84114007)
+SCTSPA	33644002	Postvalvulotomy syndrome			Narrow	DESC (84114007)
+SCTSPA	359617009	Acute right-sided heart failure			Narrow	DESC (84114007)
+SCTSPA	367363000	Right ventricular failure			Narrow	DESC (84114007)
+SCTSPA	410431009	Cardiorespiratory failure			Narrow	DESC (84114007)
+SCTSPA	417996009	Systolic heart failure			Narrow	DESC (84114007)
+SCTSPA	418304008	Diastolic heart failure			Narrow	DESC (84114007)
+SCTSPA	42343007	Congestive heart failure			Narrow	DESC (84114007)
+SCTSPA	424404003	Decompensated chronic heart failure			Narrow	DESC (84114007)
+SCTSPA	426263006	Congestive heart failure due to left ventricular systolic dysfunction			Narrow	DESC (84114007)
+SCTSPA	426611007	Congestive heart failure due to valvular disease			Narrow	DESC (84114007)
+SCTSPA	44088000	Low cardiac output syndrome			Narrow	DESC (84114007)
+SCTSPA	441481004	Chronic systolic heart failure			Narrow	DESC (84114007)
+SCTSPA	441530006	Chronic diastolic heart failure			Narrow	DESC (84114007)
+SCTSPA	44313006	Right heart failure secondary to left heart failure			Narrow	DESC (84114007)
+SCTSPA	443253003	Acute on chronic systolic heart failure			Narrow	DESC (84114007)
+SCTSPA	443254009	Acute systolic heart failure			Narrow	DESC (84114007)
+SCTSPA	443343001	Acute diastolic heart failure			Narrow	DESC (84114007)
+SCTSPA	443344007	Acute on chronic diastolic heart failure			Narrow	DESC (84114007)
+SCTSPA	445236007	Cardiorenal syndrome			Narrow	DESC (84114007)
+SCTSPA	446221000	Heart failure with normal ejection fraction			Narrow	DESC (84114007)
+SCTSPA	45650007	Kyphoscoliotic heart disease			Narrow	DESC (84114007)
+SCTSPA	46113002	Hypertensive heart failure			Narrow	DESC (84114007)
+SCTSPA	462172006	Fetal heart failure			Narrow	DESC (84114007)
+SCTSPA	462174007	Fetal heart failure with myocardial hypertrophy			Narrow	DESC (84114007)
+SCTSPA	462175008	Fetal heart failure with redistribution of cardiac output			Narrow	DESC (84114007)
+SCTSPA	471880001	Heart failure due to end stage congenital heart disease			Narrow	DESC (84114007)
+SCTSPA	48447003	Chronic heart failure			Narrow	DESC (84114007)
+SCTSPA	49584005	Acute cor pulmonale			Narrow	DESC (84114007)
+SCTSPA	5053004	Cardiac insufficiency due to prosthesis			Narrow	DESC (84114007)
+SCTSPA	5148006	Hypertensive heart disease with congestive heart failure			Narrow	DESC (84114007)
+SCTSPA	55565007	Cardiac failure after obstetrical surgery AND/OR other procedure including delivery			Narrow	DESC (84114007)
+SCTSPA	56675007	Acute heart failure			Narrow	DESC (84114007)
+SCTSPA	60856006	Cardiac insufficiency following cardiac surgery			Narrow	DESC (84114007)
+SCTSPA	609507007	Induced termination of pregnancy complicated by cardiac failure			Narrow	DESC (84114007)
+SCTSPA	62377009	Postpartum cardiomyopathy			Narrow	DESC (84114007)
+SCTSPA	66989003	Chronic right-sided congestive heart failure			Narrow	DESC (84114007)
+SCTSPA	67431000119105	Congestive heart failure stage D			Narrow	DESC (84114007)
+SCTSPA	67441000119101	Congestive heart failure stage C			Narrow	DESC (84114007)
+SCTSPA	698296002	Acute exacerbation of chronic congestive heart failure			Narrow	DESC (84114007)
+SCTSPA	698594003	Symptomatic congestive heart failure			Narrow	DESC (84114007)
+SCTSPA	703272007	Heart failure with reduced ejection fraction			Narrow	DESC (84114007)
+SCTSPA	703273002	Heart failure with reduced ejection fraction due to coronary artery disease			Narrow	DESC (84114007)
+SCTSPA	703274008	Heart failure with reduced ejection fraction due to myocarditis			Narrow	DESC (84114007)
+SCTSPA	703275009	Heart failure with reduced ejection fraction due to cardiomyopathy			Narrow	DESC (84114007)
+SCTSPA	703276005	Heart failure with reduced ejection fraction due to heart valve disease			Narrow	DESC (84114007)
+SCTSPA	704242009	Fetal heart failure due to extracardiac disease			Narrow	DESC (84114007)
+SCTSPA	717840005	Congestive heart failure stage B			Narrow	DESC (84114007)
+SCTSPA	722095005	Acute kidney injury due to circulatory failure			Narrow	DESC (84114007)
+SCTSPA	722919003	Neonatal cardiac failure due to decreased left ventricular output			Narrow	DESC (84114007)
+SCTSPA	724550005	Neonatal cardiac failure due to pulmonary overperfusion			Narrow	DESC (84114007)
+SCTSPA	72481000119103	Congestive heart failure as early postoperative complication			Narrow	DESC (84114007)
+SCTSPA	78862003	Ayerza's syndrome			Narrow	DESC (84114007)
+SCTSPA	788950000	Heart failure with mid range ejection fraction			Narrow	DESC (84114007)
+SCTSPA	79955004	Chronic cor pulmonale			Narrow	DESC (84114007)
+SCTSPA	80479009	Acute right-sided congestive heart failure			Narrow	DESC (84114007)
+SCTSPA	82523003	Congestive rheumatic heart failure			Narrow	DESC (84114007)
+SCTSPA	83105008	Malignant hypertensive heart disease with congestive heart failure			Narrow	DESC (84114007)
+SCTSPA	83291003	Cor pulmonale			Narrow	DESC (84114007)
+SCTSPA	871617000	Low output heart failure due to and following Fontan operation			Narrow	DESC (84114007)
+SCTSPA	88805009	Chronic congestive heart failure			Narrow	DESC (84114007)
+SCTSPA	89819002	Cardiac insufficiency during AND/OR resulting from a procedure			Narrow	DESC (84114007)
+SCTSPA	898208007	Heart failure due to thyrotoxicosis			Narrow	DESC (84114007)
+SCTSPA	96311000119109	Exacerbation of congestive heart failure			Narrow	DESC (84114007)
+SCTSPA	-		C2732748	Acute systolic heart failure	Narrow	
+SCTSPA	-		C2733492	Acute on chronic systolic heart failure	Narrow	
+SCTSPA	-		C2732951	Acute diastolic heart failure	Narrow	
+SCTSPA	-		C2732749	Acute on chronic diastolic heart failure	Narrow	
+SCTSPA	35304003	taponamiento cardíaco	C0007177	Cardiac Tamponade	Narrow	CASEDEF
+SCTSPA	-		C0018801	Heart failure	Narrow	
+SCTSPA	-		C0023212	Left-Sided Heart Failure	Narrow	
+SCTSPA	89555002	edema cardíaco	C0013608	Edema, Cardiac	Possible	NARROWER (C0018801)
+SCTSPA	55565007	insuficiencia cardíaca luego de cirugía obstétrica Y/U otro procedimiento incluido el parto	C0269926	Cardiac failure after obstetrical surgery AND/OR other procedure including delivery	Possible	NARROWER (C0018801)
+SCTSPA	-		C0023212	Left-Sided Heart Failure	Narrow	
+SCTSPA	-		C0155582	Congestive rheumatic heart failure	Narrow	
+SCTSPA	-		C0685095	Biventricular congestive heart failure	Narrow	
+SCTSPA	-		C2939447	Right ventricular failure	Narrow	
+SCTSPA	-		C1135191	Heart Failure, Systolic	Narrow	
+SCTSPA	-		C1135196	Heart Failure, Diastolic	Narrow	
+SCTSPA	207553000	[D]insuficiencia cardiorrespiratoria	C1444565	Cardiorespiratory failure	Possible	NARROWER (C0018801)
+SCTSPA	410431009	insuficiencia cardiorrespiratoria	C1444565	Cardiorespiratory failure	Possible	NARROWER (C0018801)
+SCTSPA	24841007	Cardiorespiratory failure during AND/OR resulting from a procedure			Possible	DESC (410431009)
+SCTSPA	71892000	asma cardíaca	C1956414	Cardiac asthma	Possible	NARROWER (C0018801)
+SCTSPA	-		C0455993	Neonatal cardiac failure	Narrow	
+SCTSPA	-		C0553982	Impaired left ventricular function	Narrow	
+SCTSPA	-		C0410933	Congenital cardiac failure	Narrow	
+SCTSPA	233928007	disfunción miocárdica	C0340515	Myocardial dysfunction	Narrow	NARROWER (C0018801)
+SCTSPA	134401001	Left ventricular systolic dysfunction			Narrow	DESC (233928007)
+SCTSPA	194849004	Generalized ischemic myocardial dysfunction			Narrow	DESC (233928007)
+SCTSPA	213215000	Cardiorespiratory failure as a complication of care			Narrow	DESC (233928007)
+SCTSPA	269299003	Cardiac insufficiency as a complication of care			Narrow	DESC (233928007)
+SCTSPA	281091000	Ischemic myocardial dysfunction			Narrow	DESC (233928007)
+SCTSPA	281092007	Stunned myocardium			Narrow	DESC (233928007)
+SCTSPA	281093002	Hibernating myocardium			Narrow	DESC (233928007)
+SCTSPA	395704004	Left ventricular diastolic dysfunction			Narrow	DESC (233928007)
+SCTSPA	416158002	Right ventricular systolic dysfunction			Narrow	DESC (233928007)
+SCTSPA	416610007	Right ventricular diastolic dysfunction			Narrow	DESC (233928007)
+SCTSPA	426856002	Ischemic congestive cardiomyopathy			Narrow	DESC (233928007)
+SCTSPA	429589006	Left ventricular cardiac dysfunction			Narrow	DESC (233928007)
+SCTSPA	430396006	Chronic systolic dysfunction of left ventricle			Narrow	DESC (233928007)
+SCTSPA	471890009	Dilated cardiomyopathy with genetic marker			Narrow	DESC (233928007)
+SCTSPA	472100003	Ischemic dilated cardiomyopathy due to coronary artery disease			Narrow	DESC (233928007)
+SCTSPA	472773007	Fetal ventricular dysfunction			Narrow	DESC (233928007)
+SCTSPA	472774001	Fetal right ventricular dysfunction			Narrow	DESC (233928007)
+SCTSPA	472775000	Fetal left ventricular dysfunction			Narrow	DESC (233928007)
+SCTSPA	472776004	Fetal biventricular dysfunction			Narrow	DESC (233928007)
+SCTSPA	472784000	Right ventricular dysfunction due to disorder of left ventricle			Narrow	DESC (233928007)
+SCTSPA	473365008	Dysfunction of right cardiac ventricle			Narrow	DESC (233928007)
+SCTSPA	52029003	Primary familial dilated cardiomyopathy			Narrow	DESC (233928007)
+SCTSPA	698592004	Asymptomatic left ventricular systolic dysfunction			Narrow	DESC (233928007)
+SCTSPA	-		C1959583	Myocardial Failure	Narrow	
+SCTSPA	-		C1306063	Acute left ventricular failure	Narrow	
+SCTSPA	-		C0581377	Decompensated cardiac failure	Narrow	
+SCTSPA	-		C0340510	Heart failure as a complication of care	Narrow	
+SCTSPA	195130005	trastorno funcional postcirugía cardíaca	C0340511	Post cardiac operation functional disturbance	Possible	NARROWER (C0018801)
+SCTSPA	78643003	Postcardiotomy syndrome			Possible	DESC (195130005)
+SCTSPA	-		C0581376	Compensated cardiac failure	Narrow	
+SCTSPA	82608003	dilatación de aurícula cardíaca	C0264734	Atrial dilatation	Possible	NARROWER (C0018801)
+SCTSPA	253347007	Right atrial appendage aneurysm			Possible	DESC (82608003)
+SCTSPA	253350005	Right atrial dilatation			Possible	DESC (82608003)
+SCTSPA	253351009	Giant right atrium			Possible	DESC (82608003)
+SCTSPA	253358003	Left atrial appendage aneurysm			Possible	DESC (82608003)
+SCTSPA	253361002	Left atrial dilatation			Possible	DESC (82608003)
+SCTSPA	253362009	Giant left atrium			Possible	DESC (82608003)
+SCTSPA	253364005	Foramen ovale valvar aneurysm			Possible	DESC (82608003)
+SCTSPA	36665001	Atrial aneurysm			Possible	DESC (82608003)
+SCTSPA	459180002	Aneurysm of patch of atrioventricular septal defect			Possible	DESC (82608003)
+SCTSPA	472772002	Fetal right atrial dilatation			Possible	DESC (82608003)
+SCTSPA	716773002	Familial idiopathic dilatation of right atrium			Possible	DESC (82608003)
+SCTSPA	770432008	Ectasia of left atrial appendage			Possible	DESC (82608003)
+SCTSPA	770433003	Ectasia of right atrial appendage			Possible	DESC (82608003)
+SCTSPA	93051009	Congenital dilatation of atrium			Possible	DESC (82608003)
+SCTSPA	95440004	Atrial septal aneurysm			Possible	DESC (82608003)
+SCTSPA	-		C2882272	Combined systolic (congestive) and diastolic (congestive) heart failure	Narrow	
+SCTSPA	-		C0264652	Hypertensive heart failure	Narrow	
+SCTSPA	-		C2039715	Systolic (congestive) heart failure	Narrow	
+SCTSPA	-		C2183328	Diastolic (congestive) heart failure	Narrow	
+SCTSPA	-		C1444565	Cardiorespiratory failure	Possible	
+SCTSPA	-		C1956414	Cardiac asthma	Possible	
+SCTSPA	-		C2939447	Right ventricular failure	Narrow	
+SCTSPA	-		C0455993	Neonatal cardiac failure	Narrow	
+SCTSPA	-		C1135191	Heart Failure, Systolic	Narrow	
+SCTSPA	-		C1135196	Heart Failure, Diastolic	Narrow	
+SCTSPA	-		C1959583	Myocardial Failure	Narrow	
+SCTSPA	-		C0553982	Impaired left ventricular function	Narrow	
+SCTSPA	-		C0340515	Myocardial dysfunction	Narrow	
+SCTSPA	128404006	insuficiencia cardíaca derecha	C0235527	Heart Failure, Right-Sided	Narrow	NARROWER (C0018801)
+SCTSPA	-		C1306063	Acute left ventricular failure	Narrow	
+SCTSPA	-		C0581377	Decompensated cardiac failure	Narrow	
+SCTSPA	-		C0340510	Heart failure as a complication of care	Narrow	
+SCTSPA	-		C2882272	Combined systolic (congestive) and diastolic (congestive) heart failure	Narrow	
+SCTSPA	-		C0269926	Cardiac failure after obstetrical surgery AND/OR other procedure including delivery	Narrow	
+SCTSPA	-		C0264652	Hypertensive heart failure	Narrow	
+SCTSPA	194771003	enfermedad cardíaca hipertensiva, SAI con insuficiencia cardíaca congestiva	C0264650	Hypertensive heart disease with congestive heart failure	Narrow	SUGGESTED (C0264652)
+SCTSPA	-		C0494575	Hypertensive heart and renal disease with (congestive) heart failure	Narrow	
+SCTSPA	-		C2039715	Systolic (congestive) heart failure	Narrow	
+SCTSPA	-		C2183328	Diastolic (congestive) heart failure	Narrow	
+SCTSPA	-		C0274379	Cardiac insufficiency during AND/OR resulting from a procedure	Narrow	
+SCTSPA	-		C0023212	Left-Sided Heart Failure	Narrow	
+SCTSPA	-		C0685095	Biventricular congestive heart failure	Narrow	
+SCTSPA	-		C0264719	Acute congestive heart failure	Narrow	
+SCTSPA	-		C0581377	Decompensated cardiac failure	Narrow	
+SCTSPA	19242006	edema pulmonar	C0034063	Pulmonary Edema	Possible	CASEDEF
+SCTSPA	10674871000119105	Pulmonary edema caused by chemical fumes			Possible	DESC (19242006)
+SCTSPA	11468004	Postoperative pulmonary edema			Possible	DESC (19242006)
+SCTSPA	120639003	Hantavirus pulmonary syndrome			Possible	DESC (19242006)
+SCTSPA	196151000	Pulmonary insufficiency following shock			Possible	DESC (19242006)
+SCTSPA	196152007	Pulmonary insufficiency following surgery			Possible	DESC (19242006)
+SCTSPA	196153002	Pulmonary insufficiency following trauma			Possible	DESC (19242006)
+SCTSPA	233705000	Neurogenic pulmonary edema			Possible	DESC (19242006)
+SCTSPA	233706004	Drug-induced acute pulmonary edema			Possible	DESC (19242006)
+SCTSPA	233707008	High altitude pulmonary edema			Possible	DESC (19242006)
+SCTSPA	233708003	Post-upper airway obstruction pulmonary edema			Possible	DESC (19242006)
+SCTSPA	233709006	Toxic pulmonary edema			Possible	DESC (19242006)
+SCTSPA	233710001	Chemical-induced pulmonary edema			Possible	DESC (19242006)
+SCTSPA	233711002	Oxygen-induced pulmonary edema			Possible	DESC (19242006)
+SCTSPA	233712009	Fluid overload pulmonary edema			Possible	DESC (19242006)
+SCTSPA	240629003	Malarial shock lung			Possible	DESC (19242006)
+SCTSPA	276637009	Hemorrhagic pulmonary edema			Possible	DESC (19242006)
+SCTSPA	360371003	Acute cardiac pulmonary edema			Possible	DESC (19242006)
+SCTSPA	405276000	Negative pressure pulmonary edema			Possible	DESC (19242006)
+SCTSPA	40541001	Acute pulmonary edema			Possible	DESC (19242006)
+SCTSPA	46847001	Chronic pulmonary edema			Possible	DESC (19242006)
+SCTSPA	674814021000119106	Acute respiratory distress syndrome due to COVID-19			Possible	DESC (19242006)
+SCTSPA	67782005	Acute respiratory distress syndrome			Possible	DESC (19242006)
+SCTSPA	698638005	Pregnancy induced hypertension with pulmonary edema			Possible	DESC (19242006)
+SCTSPA	698640000	Hypertension in the puerperium with pulmonary edema			Possible	DESC (19242006)
+SCTSPA	700458001	Pulmonary edema due to hypoproteinemia			Possible	DESC (19242006)
+SCTSPA	840521002	Acute pulmonary edema caused by fume			Possible	DESC (19242006)
+SCTSPA	840522009	Acute pulmonary edema caused by vapor			Possible	DESC (19242006)
+SCTSPA	89687005	Postimmersion-submersion syndrome			Possible	DESC (19242006)
+SCTSPA	95437004	Non-cardiogenic pulmonary edema			Possible	DESC (19242006)
+SCTSPA	196119001	edema pulmonar, SAI	C0034063	Pulmonary Edema	Possible	CASEDEF
+SCTSPA	123262009	edema agudo de pulmón - RETIRADO -	C0155919	Acute pulmonary edema	Possible	NARROWER (C0034063)
+SCTSPA	196148007	edema pulmonar agudo no especificado	C0155919	Acute pulmonary edema	Possible	NARROWER (C0034063)
+SCTSPA	196149004	edema pulmonar agudo, SAI	C0155919	Acute pulmonary edema	Possible	NARROWER (C0034063)
+SCTSPA	-		C0035222	Respiratory Distress Syndrome, Adult	Possible	
+SCTSPA	67599009	congestión pulmonar	C0242073	Pulmonary congestion	Possible	NARROWER (C0034063)
+SCTSPA	63841001	Chronic pulmonary congestion			Possible	DESC (67599009)
+SCTSPA	196115007	congestión e hipostasis pulmonar	C0155910	Pulmonary congestion and hypostasis	Possible	SUGGESTED (C0034063)
+SCTSPA	196120007	hipostasis y congestión pulmonar, SAI	C0155910	Pulmonary congestion and hypostasis	Possible	SUGGESTED (C0034063)
+SCTSPA	206893004	[D]edema periférico	C0085649	Peripheral edema	Possible	CASEDEF
+SCTSPA	271809000	edema periférico	C0085649	Peripheral edema	Possible	CASEDEF
+SCTSPA	424372002	edema de extremidad	C0085649	Peripheral edema	Possible	CASEDEF
+SCTSPA	102558002	Edema of the upper extremity			Possible	DESC (424372002)
+SCTSPA	102560000	Edema of forearm			Possible	DESC (424372002)
+SCTSPA	102562008	Edema of elbow			Possible	DESC (424372002)
+SCTSPA	102563003	Edema of wrist			Possible	DESC (424372002)
+SCTSPA	102564009	Edema of hand			Possible	DESC (424372002)
+SCTSPA	102565005	Edema of finger			Possible	DESC (424372002)
+SCTSPA	102566006	Edema of thumb			Possible	DESC (424372002)
+SCTSPA	102572006	Edema of lower extremity			Possible	DESC (424372002)
+SCTSPA	102573001	Edema of thigh			Possible	DESC (424372002)
+SCTSPA	102575008	Edema of knee			Possible	DESC (424372002)
+SCTSPA	102576009	Edema of foot			Possible	DESC (424372002)
+SCTSPA	10650831000119101	Venous stasis ulcer with edema of left lower leg			Possible	DESC (424372002)
+SCTSPA	10652791000119106	Venous stasis ulcer with edema of right lower leg			Possible	DESC (424372002)
+SCTSPA	1172685001	Macrothrombocytopenia, lymphedema, developmental delay, facial dysmorphism, camptodactyly syndrome			Possible	DESC (424372002)
+SCTSPA	1186725001	Warts, immunodeficiency, lymphedema, anogenital dysplasia syndrome			Possible	DESC (424372002)
+SCTSPA	11995691000119109	Edema of amputation stump of left lower limb			Possible	DESC (424372002)
+SCTSPA	11995791000119103	Edema of amputation stump of right lower limb			Possible	DESC (424372002)
+SCTSPA	1204421005	Lymphedema, posterior choanal atresia syndrome			Possible	DESC (424372002)
+SCTSPA	1217009002	Primary lymphedema			Possible	DESC (424372002)
+SCTSPA	1217248006	Primary lymphedema with systemic and visceral involvement			Possible	DESC (424372002)
+SCTSPA	1217249003	Primary lymphedema with systemic involvement			Possible	DESC (424372002)
+SCTSPA	1217250003	Primary lymphedema with visceral involvement			Possible	DESC (424372002)
+SCTSPA	1217251004	Syndromic primary lymphedema			Possible	DESC (424372002)
+SCTSPA	12275171000119105	Postmastectomy lymphedema syndrome of right upper limb			Possible	DESC (424372002)
+SCTSPA	12275221000119100	Postmastectomy lymphedema syndrome of left upper limb			Possible	DESC (424372002)
+SCTSPA	15637871000119106	Lymphedema of right lower limb			Possible	DESC (424372002)
+SCTSPA	15637921000119102	Lymphedema of left lower limb			Possible	DESC (424372002)
+SCTSPA	15637971000119101	Lymphedema of bilateral lower limbs			Possible	DESC (424372002)
+SCTSPA	15638021000119100	Lymphedema of right upper limb			Possible	DESC (424372002)
+SCTSPA	15638071000119104	Lymphedema of left upper limb			Possible	DESC (424372002)
+SCTSPA	15929861000119106	Venous stasis edema of bilateral lower limbs			Possible	DESC (424372002)
+SCTSPA	15929941000119103	Venous stasis edema of right lower limb			Possible	DESC (424372002)
+SCTSPA	15930061000119106	Venous stasis edema of left lower limb			Possible	DESC (424372002)
+SCTSPA	205385004	Constriction ring of lower limb with lymphedema			Possible	DESC (424372002)
+SCTSPA	234146006	Hennekam syndrome			Possible	DESC (424372002)
+SCTSPA	251490001	Lymphedematous hyperkeratosis			Possible	DESC (424372002)
+SCTSPA	254199006	Hereditary lymphedema			Possible	DESC (424372002)
+SCTSPA	26237000	Ankle edema			Possible	DESC (424372002)
+SCTSPA	268264007	Constriction ring of upper limb with lymphedema			Possible	DESC (424372002)
+SCTSPA	28724005	Cholestasis-edema syndrome, Norwegian type			Possible	DESC (424372002)
+SCTSPA	300981003	Gravitational edema of leg			Possible	DESC (424372002)
+SCTSPA	33129002	Postmastectomy lymphedema syndrome			Possible	DESC (424372002)
+SCTSPA	399889006	Hereditary lymphedema type I			Possible	DESC (424372002)
+SCTSPA	400040008	Hereditary lymphedema type II			Possible	DESC (424372002)
+SCTSPA	400158000	Primary lymphedema tardum			Possible	DESC (424372002)
+SCTSPA	400211001	Hereditary lymphedema and yellow nails			Possible	DESC (424372002)
+SCTSPA	402465005	Circumscribed nodular and tuberous pretibial myxedema			Possible	DESC (424372002)
+SCTSPA	402466006	Diffuse pretibial myxedema			Possible	DESC (424372002)
+SCTSPA	402467002	Elephantiasic pretibial myxedema			Possible	DESC (424372002)
+SCTSPA	402670007	Lymphedema of limbs due to immobility, chronic dependency and/or venous insufficiency			Possible	DESC (424372002)
+SCTSPA	403385000	Lymphedema of lower extremity			Possible	DESC (424372002)
+SCTSPA	439500002	Lymphedema of limb			Possible	DESC (424372002)
+SCTSPA	442511009	Progressive encephalopathy with edema, hypsarrhythmia and optic atrophy syndrome			Possible	DESC (424372002)
+SCTSPA	443110007	Edema of upper arm			Possible	DESC (424372002)
+SCTSPA	443111006	Edema of calf			Possible	DESC (424372002)
+SCTSPA	443339000	Edema of palm of hand			Possible	DESC (424372002)
+SCTSPA	443514008	Edema of shoulder			Possible	DESC (424372002)
+SCTSPA	443710002	Edema of dorsum of hand			Possible	DESC (424372002)
+SCTSPA	444956007	Edema of all toes			Possible	DESC (424372002)
+SCTSPA	445011005	Edema of sole of foot			Possible	DESC (424372002)
+SCTSPA	445124008	Edema of dorsum of foot			Possible	DESC (424372002)
+SCTSPA	445126005	Edema of entire limb			Possible	DESC (424372002)
+SCTSPA	445256008	Edema of buttock			Possible	DESC (424372002)
+SCTSPA	445471005	Edema of extremity with extension to trunk			Possible	DESC (424372002)
+SCTSPA	449620005	Lymphedema of upper limb			Possible	DESC (424372002)
+SCTSPA	449621009	Lymphedema of upper arm			Possible	DESC (424372002)
+SCTSPA	449707004	Edema of lower leg			Possible	DESC (424372002)
+SCTSPA	479003	Graves' disease with pretibial myxedema AND with thyrotoxic crisis			Possible	DESC (424372002)
+SCTSPA	60268006	Toxic diffuse goiter with pretibial myxedema			Possible	DESC (424372002)
+SCTSPA	609376003	Acquired lymphedema of lower extremity			Possible	DESC (424372002)
+SCTSPA	698975002	Edema of extremity of sudden onset			Possible	DESC (424372002)
+SCTSPA	700057001	Emberger syndrome			Possible	DESC (424372002)
+SCTSPA	706913006	Varicose veins of lower limb co-occurrent with edema			Possible	DESC (424372002)
+SCTSPA	720986005	Anhidrotic ectodermal dysplasia, immunodeficiency, osteopetrosis, lymphedema syndrome			Possible	DESC (424372002)
+SCTSPA	721083007	Lymphedema hypoparathyroidism syndrome			Possible	DESC (424372002)
+SCTSPA	721978002	Lymphedema, atrial septal defect, facial changes syndrome			Possible	DESC (424372002)
+SCTSPA	721979005	Lymphedema and cerebral arteriovenous anomaly syndrome			Possible	DESC (424372002)
+SCTSPA	723363009	Hypotrichosis, lymphedema, telangiectasia, renal defect syndrome			Possible	DESC (424372002)
+SCTSPA	733037000	German syndrome			Possible	DESC (424372002)
+SCTSPA	770678005	Progressive encephalopathy with edema, hypsarrhythmia, and optic atrophy-like syndrome			Possible	DESC (424372002)
+SCTSPA	77123007	Lymphedema praecox			Possible	DESC (424372002)
+SCTSPA	78146007	Pretibial myxedema			Possible	DESC (424372002)
+SCTSPA	816179007	Edema of left lower leg			Possible	DESC (424372002)
+SCTSPA	816180005	Edema of right lower leg			Possible	DESC (424372002)
+SCTSPA	816181009	Bilateral lower limb edema			Possible	DESC (424372002)
+SCTSPA	816182002	Edema of left lower limb			Possible	DESC (424372002)
+SCTSPA	816183007	Edema of right lower limb			Possible	DESC (424372002)
+SCTSPA	816184001	Edema of left upper limb			Possible	DESC (424372002)
+SCTSPA	816185000	Edema of right upper limb			Possible	DESC (424372002)
+SCTSPA	816186004	Bilateral upper limb edema			Possible	DESC (424372002)
+SCTSPA	816190002	Bilateral lower leg edema			Possible	DESC (424372002)
+SCTSPA	816194006	Edema of left upper arm			Possible	DESC (424372002)
+SCTSPA	816195007	Edema of right upper arm			Possible	DESC (424372002)
+SCTSPA	816196008	Bilateral upper arm edema			Possible	DESC (424372002)
+SCTSPA	829986000	Bilateral feet edema			Possible	DESC (424372002)
+SCTSPA	83011000119100	Venous stasis ulcer co-occurrent with edema of lower leg			Possible	DESC (424372002)
+SCTSPA	8634009	Distichiasis-lymphedema syndrome			Possible	DESC (424372002)
+SCTSPA	890183008	Lymphedema due to podoconiosis			Possible	DESC (424372002)
+SCTSPA	82014009	edema periférico	C0085649	Peripheral edema	Possible	CASEDEF
+SCTSPA	-		C0155919	Acute pulmonary edema	Possible	
+SCTSPA	-		C0242073	Pulmonary congestion	Possible	
+SCTSPA	49584005	cor pulmonale agudo	C0155672	Acute cor pulmonale	Possible	SUGGESTED (C0264714)
+SCTSPA	15964661000119102	Acute cor pulmonale due to septic pulmonary embolism			Possible	DESC (49584005)
+SCTSPA	15964701000119109	Saddle embolus of pulmonary artery with acute cor pulmonale			Possible	DESC (49584005)
+SCTSPA	266249003	hipertrofia ventricular	C0340279	Ventricular hypertrophy	Possible	CASEDEF
+SCTSPA	204306007	Pentalogy of Fallot			Possible	DESC (266249003)
+SCTSPA	204351007	Fallot's trilogy			Possible	DESC (266249003)
+SCTSPA	253512000	Tetralogy of Fallot with pulmonary stenosis			Possible	DESC (266249003)
+SCTSPA	253513005	Tetralogy of Fallot with pulmonary atresia			Possible	DESC (266249003)
+SCTSPA	253514004	Dextraposition of aorta in Fallot's tetralogy			Possible	DESC (266249003)
+SCTSPA	253515003	Ventricular septal defect in Fallot's tetralogy			Possible	DESC (266249003)
+SCTSPA	399228007	Tetralogy of Fallot with absent pulmonary valve			Possible	DESC (266249003)
+SCTSPA	428163005	Hypertensive left ventricular hypertrophy			Possible	DESC (266249003)
+SCTSPA	55827005	Left ventricular hypertrophy			Possible	DESC (266249003)
+SCTSPA	723336008	Fallot complex with intellectual disability and growth delay syndrome			Possible	DESC (266249003)
+SCTSPA	762433009	Tetralogy of Fallot with pulmonary atresia and systemic-to-pulmonary collateral artery			Possible	DESC (266249003)
+SCTSPA	766976003	Pulmonary valve agenesis, tetralogy of Fallot, absence of ductus arteriosus syndrome			Possible	DESC (266249003)
+SCTSPA	840303004	Mild left ventricular hypertrophy			Possible	DESC (266249003)
+SCTSPA	840304005	Moderate left ventricular hypertrophy			Possible	DESC (266249003)
+SCTSPA	840305006	Severe left ventricular hypertrophy			Possible	DESC (266249003)
+SCTSPA	86299006	Tetralogy of Fallot			Possible	DESC (266249003)
+SCTSPA	89792004	Right ventricular hypertrophy			Possible	DESC (266249003)
+SCTSPA	93078006	Congenital hypertrophy of cardiac ventricle			Possible	DESC (266249003)
+SCTSPA	-		C0340515	Myocardial dysfunction	Narrow	
+SCTSPA	250908004	fracción de eyección del ventrículo izquierdo	C0428772	Left ventricular ejection fraction	Possible	CASEDEF
+SNOMEDCT_US	-		C1719467	Hypertensive heart and chronic kidney disease, malignant, with heart failure and with chronic kidney disease stage V or end stage renal disease	Narrow	
+SNOMEDCT_US	-		C1719465	Hypertensive heart and chronic kidney disease, malignant, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified	Narrow	
+SNOMEDCT_US	-		C1135333	Unspecified hypertensive heart disease with heart failure	Narrow	
+SNOMEDCT_US	-		C4509228	Heart failure with reduced ejection fraction and diastolic dysfunction	Narrow	
+SNOMEDCT_US	-		C4509227	Combined systolic and diastolic left ventricular heart failure	Narrow	
+SNOMEDCT_US	82523003	Congestive rheumatic heart failure	C0155582	Congestive rheumatic heart failure	Possible	ADD (Congestive rheumatic heart failure)
+SNOMEDCT_US	43736008	Rheumatic left ventricular failure			Possible	DESC (82523003)
+SNOMEDCT_US	-		C1400066	hypertensive heart disease; with heart failure	Narrow	
+SNOMEDCT_US	155376009	Left ventricular failure	C0023212	Left-Sided Heart Failure	Narrow	BROADER (C0034063)
+SNOMEDCT_US	195113008	Left ventricular failure	C0023212	Left-Sided Heart Failure	Narrow	BROADER (C0034063)
+SNOMEDCT_US	85232009	Left heart failure	C0023212	Left-Sided Heart Failure	Narrow	BROADER (C0034063)
+SNOMEDCT_US	111283005	Chronic left-sided heart failure			Narrow	DESC (85232009)
+SNOMEDCT_US	1204200007	Left ventricular failure with normal ejection fraction due to valvular heart disease			Narrow	DESC (85232009)
+SNOMEDCT_US	1204203009	Left ventricular failure with normal ejection fraction due to coronary artery disease			Narrow	DESC (85232009)
+SNOMEDCT_US	1204204003	Left ventricular failure with normal ejection fraction due to myocarditis			Narrow	DESC (85232009)
+SNOMEDCT_US	1204206001	Left ventricular failure with normal ejection fraction due to cardiomyopathy			Narrow	DESC (85232009)
+SNOMEDCT_US	1204462004	Left ventricular failure with sepsis			Narrow	DESC (85232009)
+SNOMEDCT_US	195114002	Acute left ventricular failure			Narrow	DESC (85232009)
+SNOMEDCT_US	364006	Acute left-sided heart failure			Narrow	DESC (85232009)
+SNOMEDCT_US	43736008	Rheumatic left ventricular failure			Narrow	DESC (85232009)
+SNOMEDCT_US	5375005	Chronic left-sided congestive heart failure			Narrow	DESC (85232009)
+SNOMEDCT_US	71892000	Cardiac asthma			Narrow	DESC (85232009)
+SNOMEDCT_US	74960003	Acute left-sided congestive heart failure			Narrow	DESC (85232009)
+SNOMEDCT_US	92506005	Biventricular congestive heart failure			Narrow	DESC (85232009)
+SNOMEDCT_US	155374007	Heart failure	C0018801	Heart failure	Narrow	BROADER (C0264652)
+SNOMEDCT_US	155375008	Insufficiency - cardiac	C0018801	Heart failure	Narrow	BROADER (C0264652)
+SNOMEDCT_US	155377000	Heart failure NOS	C0018801	Heart failure	Narrow	BROADER (C0264652)
+SNOMEDCT_US	195117009	Cardiac failure NOS	C0018801	Heart failure	Narrow	BROADER (C0264652)
+SNOMEDCT_US	266248006	Heart failure NOS	C0018801	Heart failure	Narrow	BROADER (C0264652)
+SNOMEDCT_US	266308000	Insufficiency - cardiac	C0018801	Heart failure	Narrow	BROADER (C0264652)
+SNOMEDCT_US	84114007	Heart failure	C0018801	Heart failure	Narrow	BROADER (C0264652)
+SNOMEDCT_US	10091002	High output heart failure			Narrow	DESC (84114007)
+SNOMEDCT_US	1010444007	Legal abortion complicated by cardiac failure			Narrow	DESC (84114007)
+SNOMEDCT_US	1010447000	Illegal abortion complicated by cardiac failure			Narrow	DESC (84114007)
+SNOMEDCT_US	101281000119107	Congestive heart failure due to cardiomyopathy			Narrow	DESC (84114007)
+SNOMEDCT_US	10335000	Chronic right-sided heart failure			Narrow	DESC (84114007)
+SNOMEDCT_US	10633002	Acute congestive heart failure			Narrow	DESC (84114007)
+SNOMEDCT_US	1204460007	Myocardial dysfunction with sepsis			Narrow	DESC (84114007)
+SNOMEDCT_US	1204468000	Right ventricular failure with sepsis			Narrow	DESC (84114007)
+SNOMEDCT_US	120851000119104	Systolic heart failure stage D			Narrow	DESC (84114007)
+SNOMEDCT_US	120861000119102	Systolic heart failure stage C			Narrow	DESC (84114007)
+SNOMEDCT_US	120881000119106	Diastolic heart failure stage D			Narrow	DESC (84114007)
+SNOMEDCT_US	1208843003	Right ventricular failure due to valvular heart disease			Narrow	DESC (84114007)
+SNOMEDCT_US	1208846006	Right ventricular failure due to pulmonary disease			Narrow	DESC (84114007)
+SNOMEDCT_US	1208848007	Right ventricular failure due to pulmonary vascular disease			Narrow	DESC (84114007)
+SNOMEDCT_US	1208850004	Right ventricular failure due to right ventricular infarction			Narrow	DESC (84114007)
+SNOMEDCT_US	120891000119109	Diastolic heart failure stage C			Narrow	DESC (84114007)
+SNOMEDCT_US	13839000	Bernheim's syndrome			Narrow	DESC (84114007)
+SNOMEDCT_US	153931000119109	Acute combined systolic and diastolic heart failure			Narrow	DESC (84114007)
+SNOMEDCT_US	153941000119100	Chronic combined systolic and diastolic heart failure			Narrow	DESC (84114007)
+SNOMEDCT_US	153951000119103	Acute on chronic combined systolic and diastolic heart failure			Narrow	DESC (84114007)
+SNOMEDCT_US	15629541000119106	Congestive heart failure stage C due to ischemic cardiomyopathy			Narrow	DESC (84114007)
+SNOMEDCT_US	15629591000119103	Congestive heart failure stage B due to ischemic cardiomyopathy			Narrow	DESC (84114007)
+SNOMEDCT_US	15629741000119102	Systolic heart failure stage C due to ischemic cardiomyopathy			Narrow	DESC (84114007)
+SNOMEDCT_US	15781000119107	Hypertensive heart AND chronic kidney disease with congestive heart failure			Narrow	DESC (84114007)
+SNOMEDCT_US	15964661000119102	Acute cor pulmonale due to septic pulmonary embolism			Narrow	DESC (84114007)
+SNOMEDCT_US	15964701000119109	Saddle embolus of pulmonary artery with acute cor pulmonale			Narrow	DESC (84114007)
+SNOMEDCT_US	16253001	Dilated peripartum cardiomyopathy			Narrow	DESC (84114007)
+SNOMEDCT_US	16838951000119100	Acute on chronic right-sided congestive heart failure			Narrow	DESC (84114007)
+SNOMEDCT_US	194767001	Benign hypertensive heart disease with congestive cardiac failure			Narrow	DESC (84114007)
+SNOMEDCT_US	194779001	Hypertensive heart and renal disease with (congestive) heart failure			Narrow	DESC (84114007)
+SNOMEDCT_US	194781004	Hypertensive heart and renal disease with both (congestive) heart failure and renal failure			Narrow	DESC (84114007)
+SNOMEDCT_US	195111005	Decompensated cardiac failure			Narrow	DESC (84114007)
+SNOMEDCT_US	195112003	Compensated cardiac failure			Narrow	DESC (84114007)
+SNOMEDCT_US	206586007	Congenital cardiac failure			Narrow	DESC (84114007)
+SNOMEDCT_US	23341000119109	Congestive heart failure with right heart failure			Narrow	DESC (84114007)
+SNOMEDCT_US	233924009	Heart failure as a complication of care			Narrow	DESC (84114007)
+SNOMEDCT_US	24841007	Cardiorespiratory failure during AND/OR resulting from a procedure			Narrow	DESC (84114007)
+SNOMEDCT_US	25544003	Low output heart failure			Narrow	DESC (84114007)
+SNOMEDCT_US	276514007	Neonatal cardiac failure			Narrow	DESC (84114007)
+SNOMEDCT_US	314206003	Refractory heart failure			Narrow	DESC (84114007)
+SNOMEDCT_US	33644002	Postvalvulotomy syndrome			Narrow	DESC (84114007)
+SNOMEDCT_US	359617009	Acute right-sided heart failure			Narrow	DESC (84114007)
+SNOMEDCT_US	367363000	Right ventricular failure			Narrow	DESC (84114007)
+SNOMEDCT_US	410431009	Cardiorespiratory failure			Narrow	DESC (84114007)
+SNOMEDCT_US	417996009	Systolic heart failure			Narrow	DESC (84114007)
+SNOMEDCT_US	418304008	Diastolic heart failure			Narrow	DESC (84114007)
+SNOMEDCT_US	42343007	Congestive heart failure			Narrow	DESC (84114007)
+SNOMEDCT_US	424404003	Decompensated chronic heart failure			Narrow	DESC (84114007)
+SNOMEDCT_US	426263006	Congestive heart failure due to left ventricular systolic dysfunction			Narrow	DESC (84114007)
+SNOMEDCT_US	426611007	Congestive heart failure due to valvular disease			Narrow	DESC (84114007)
+SNOMEDCT_US	44088000	Low cardiac output syndrome			Narrow	DESC (84114007)
+SNOMEDCT_US	441481004	Chronic systolic heart failure			Narrow	DESC (84114007)
+SNOMEDCT_US	441530006	Chronic diastolic heart failure			Narrow	DESC (84114007)
+SNOMEDCT_US	44313006	Right heart failure secondary to left heart failure			Narrow	DESC (84114007)
+SNOMEDCT_US	443253003	Acute on chronic systolic heart failure			Narrow	DESC (84114007)
+SNOMEDCT_US	443254009	Acute systolic heart failure			Narrow	DESC (84114007)
+SNOMEDCT_US	443343001	Acute diastolic heart failure			Narrow	DESC (84114007)
+SNOMEDCT_US	443344007	Acute on chronic diastolic heart failure			Narrow	DESC (84114007)
+SNOMEDCT_US	445236007	Cardiorenal syndrome			Narrow	DESC (84114007)
+SNOMEDCT_US	446221000	Heart failure with normal ejection fraction			Narrow	DESC (84114007)
+SNOMEDCT_US	45650007	Kyphoscoliotic heart disease			Narrow	DESC (84114007)
+SNOMEDCT_US	46113002	Hypertensive heart failure			Narrow	DESC (84114007)
+SNOMEDCT_US	462172006	Fetal heart failure			Narrow	DESC (84114007)
+SNOMEDCT_US	462174007	Fetal heart failure with myocardial hypertrophy			Narrow	DESC (84114007)
+SNOMEDCT_US	462175008	Fetal heart failure with redistribution of cardiac output			Narrow	DESC (84114007)
+SNOMEDCT_US	471880001	Heart failure due to end stage congenital heart disease			Narrow	DESC (84114007)
+SNOMEDCT_US	48447003	Chronic heart failure			Narrow	DESC (84114007)
+SNOMEDCT_US	49584005	Acute cor pulmonale			Narrow	DESC (84114007)
+SNOMEDCT_US	5053004	Cardiac insufficiency due to prosthesis			Narrow	DESC (84114007)
+SNOMEDCT_US	5148006	Hypertensive heart disease with congestive heart failure			Narrow	DESC (84114007)
+SNOMEDCT_US	55565007	Cardiac failure after obstetrical surgery AND/OR other procedure including delivery			Narrow	DESC (84114007)
+SNOMEDCT_US	56675007	Acute heart failure			Narrow	DESC (84114007)
+SNOMEDCT_US	60856006	Cardiac insufficiency following cardiac surgery			Narrow	DESC (84114007)
+SNOMEDCT_US	609507007	Induced termination of pregnancy complicated by cardiac failure			Narrow	DESC (84114007)
+SNOMEDCT_US	62377009	Postpartum cardiomyopathy			Narrow	DESC (84114007)
+SNOMEDCT_US	66989003	Chronic right-sided congestive heart failure			Narrow	DESC (84114007)
+SNOMEDCT_US	67431000119105	Congestive heart failure stage D			Narrow	DESC (84114007)
+SNOMEDCT_US	67441000119101	Congestive heart failure stage C			Narrow	DESC (84114007)
+SNOMEDCT_US	698296002	Acute exacerbation of chronic congestive heart failure			Narrow	DESC (84114007)
+SNOMEDCT_US	698594003	Symptomatic congestive heart failure			Narrow	DESC (84114007)
+SNOMEDCT_US	703272007	Heart failure with reduced ejection fraction			Narrow	DESC (84114007)
+SNOMEDCT_US	703273002	Heart failure with reduced ejection fraction due to coronary artery disease			Narrow	DESC (84114007)
+SNOMEDCT_US	703274008	Heart failure with reduced ejection fraction due to myocarditis			Narrow	DESC (84114007)
+SNOMEDCT_US	703275009	Heart failure with reduced ejection fraction due to cardiomyopathy			Narrow	DESC (84114007)
+SNOMEDCT_US	703276005	Heart failure with reduced ejection fraction due to heart valve disease			Narrow	DESC (84114007)
+SNOMEDCT_US	704242009	Fetal heart failure due to extracardiac disease			Narrow	DESC (84114007)
+SNOMEDCT_US	717840005	Congestive heart failure stage B			Narrow	DESC (84114007)
+SNOMEDCT_US	722095005	Acute kidney injury due to circulatory failure			Narrow	DESC (84114007)
+SNOMEDCT_US	722919003	Neonatal cardiac failure due to decreased left ventricular output			Narrow	DESC (84114007)
+SNOMEDCT_US	724550005	Neonatal cardiac failure due to pulmonary overperfusion			Narrow	DESC (84114007)
+SNOMEDCT_US	72481000119103	Congestive heart failure as early postoperative complication			Narrow	DESC (84114007)
+SNOMEDCT_US	78862003	Ayerza's syndrome			Narrow	DESC (84114007)
+SNOMEDCT_US	788950000	Heart failure with mid range ejection fraction			Narrow	DESC (84114007)
+SNOMEDCT_US	79955004	Chronic cor pulmonale			Narrow	DESC (84114007)
+SNOMEDCT_US	80479009	Acute right-sided congestive heart failure			Narrow	DESC (84114007)
+SNOMEDCT_US	82523003	Congestive rheumatic heart failure			Narrow	DESC (84114007)
+SNOMEDCT_US	83105008	Malignant hypertensive heart disease with congestive heart failure			Narrow	DESC (84114007)
+SNOMEDCT_US	83291003	Cor pulmonale			Narrow	DESC (84114007)
+SNOMEDCT_US	871617000	Low output heart failure due to and following Fontan operation			Narrow	DESC (84114007)
+SNOMEDCT_US	88805009	Chronic congestive heart failure			Narrow	DESC (84114007)
+SNOMEDCT_US	89819002	Cardiac insufficiency during AND/OR resulting from a procedure			Narrow	DESC (84114007)
+SNOMEDCT_US	898208007	Heart failure due to thyrotoxicosis			Narrow	DESC (84114007)
+SNOMEDCT_US	96311000119109	Exacerbation of congestive heart failure			Narrow	DESC (84114007)
+SNOMEDCT_US	-		C2732748	Acute systolic heart failure	Narrow	
+SNOMEDCT_US	-		C2733492	Acute on chronic systolic heart failure	Narrow	
+SNOMEDCT_US	-		C2732951	Acute diastolic heart failure	Narrow	
+SNOMEDCT_US	-		C2732749	Acute on chronic diastolic heart failure	Narrow	
+SNOMEDCT_US	155341007	Cardiac tamponade	C0007177	Cardiac Tamponade	Narrow	CASEDEF
+SNOMEDCT_US	194975004	Cardiac tamponade	C0007177	Cardiac Tamponade	Narrow	CASEDEF
+SNOMEDCT_US	266295005	Cardiac tamponade	C0007177	Cardiac Tamponade	Narrow	CASEDEF
+SNOMEDCT_US	35304003	Cardiac tamponade	C0007177	Cardiac Tamponade	Narrow	CASEDEF
+SNOMEDCT_US	-		C0018801	Heart failure	Narrow	
+SNOMEDCT_US	-		C0023212	Left-Sided Heart Failure	Narrow	
+SNOMEDCT_US	89555002	Cardiac edema	C0013608	Edema, Cardiac	Possible	NARROWER (C0018801)
+SNOMEDCT_US	55565007	Cardiac failure after obstetrical surgery AND/OR other procedure including delivery	C0269926	Cardiac failure after obstetrical surgery AND/OR other procedure including delivery	Possible	NARROWER (C0018801)
+SNOMEDCT_US	-		C0023212	Left-Sided Heart Failure	Narrow	
+SNOMEDCT_US	-		C0155582	Congestive rheumatic heart failure	Narrow	
+SNOMEDCT_US	195108009	Biventricular failure	C0685095	Biventricular congestive heart failure	Narrow	NARROWER (C0018801)
+SNOMEDCT_US	233925005	RHF - Right heart failure	C2939447	Right ventricular failure	Narrow	NARROWER (C0018801)
+SNOMEDCT_US	-		C1135191	Heart Failure, Systolic	Narrow	
+SNOMEDCT_US	-		C1135196	Heart Failure, Diastolic	Narrow	
+SNOMEDCT_US	158732004	[D]Cardiorespiratory failure	C1444565	Cardiorespiratory failure	Possible	NARROWER (C0018801)
+SNOMEDCT_US	207553000	[D]Cardiorespiratory failure	C1444565	Cardiorespiratory failure	Possible	NARROWER (C0018801)
+SNOMEDCT_US	30298009	Cardiorespiratory failure	C1444565	Cardiorespiratory failure	Possible	NARROWER (C0018801)
+SNOMEDCT_US	397912004	Cardiorespiratory failure	C1444565	Cardiorespiratory failure	Possible	NARROWER (C0018801)
+SNOMEDCT_US	410431009	Cardiorespiratory failure	C1444565	Cardiorespiratory failure	Possible	NARROWER (C0018801)
+SNOMEDCT_US	24841007	Cardiorespiratory failure during AND/OR resulting from a procedure			Possible	DESC (410431009)
+SNOMEDCT_US	195113008	Asthma - cardiac	C1956414	Cardiac asthma	Possible	NARROWER (C0018801)
+SNOMEDCT_US	71892000	Cardiac asthma	C1956414	Cardiac asthma	Possible	NARROWER (C0018801)
+SNOMEDCT_US	206594000	Neonatal cardiac failure	C0455993	Neonatal cardiac failure	Narrow	NARROWER (C0018801)
+SNOMEDCT_US	-		C0553982	Impaired left ventricular function	Narrow	
+SNOMEDCT_US	-		C0410933	Congenital cardiac failure	Narrow	
+SNOMEDCT_US	233928007	Myocardial dysfunction	C0340515	Myocardial dysfunction	Narrow	NARROWER (C0018801)
+SNOMEDCT_US	134401001	Left ventricular systolic dysfunction			Narrow	DESC (233928007)
+SNOMEDCT_US	194849004	Generalized ischemic myocardial dysfunction			Narrow	DESC (233928007)
+SNOMEDCT_US	213215000	Cardiorespiratory failure as a complication of care			Narrow	DESC (233928007)
+SNOMEDCT_US	269299003	Cardiac insufficiency as a complication of care			Narrow	DESC (233928007)
+SNOMEDCT_US	281091000	Ischemic myocardial dysfunction			Narrow	DESC (233928007)
+SNOMEDCT_US	281092007	Stunned myocardium			Narrow	DESC (233928007)
+SNOMEDCT_US	281093002	Hibernating myocardium			Narrow	DESC (233928007)
+SNOMEDCT_US	395704004	Left ventricular diastolic dysfunction			Narrow	DESC (233928007)
+SNOMEDCT_US	416158002	Right ventricular systolic dysfunction			Narrow	DESC (233928007)
+SNOMEDCT_US	416610007	Right ventricular diastolic dysfunction			Narrow	DESC (233928007)
+SNOMEDCT_US	426856002	Ischemic congestive cardiomyopathy			Narrow	DESC (233928007)
+SNOMEDCT_US	429589006	Left ventricular cardiac dysfunction			Narrow	DESC (233928007)
+SNOMEDCT_US	430396006	Chronic systolic dysfunction of left ventricle			Narrow	DESC (233928007)
+SNOMEDCT_US	471890009	Dilated cardiomyopathy with genetic marker			Narrow	DESC (233928007)
+SNOMEDCT_US	472100003	Ischemic dilated cardiomyopathy due to coronary artery disease			Narrow	DESC (233928007)
+SNOMEDCT_US	472773007	Fetal ventricular dysfunction			Narrow	DESC (233928007)
+SNOMEDCT_US	472774001	Fetal right ventricular dysfunction			Narrow	DESC (233928007)
+SNOMEDCT_US	472775000	Fetal left ventricular dysfunction			Narrow	DESC (233928007)
+SNOMEDCT_US	472776004	Fetal biventricular dysfunction			Narrow	DESC (233928007)
+SNOMEDCT_US	472784000	Right ventricular dysfunction due to disorder of left ventricle			Narrow	DESC (233928007)
+SNOMEDCT_US	473365008	Dysfunction of right cardiac ventricle			Narrow	DESC (233928007)
+SNOMEDCT_US	52029003	Primary familial dilated cardiomyopathy			Narrow	DESC (233928007)
+SNOMEDCT_US	698592004	Asymptomatic left ventricular systolic dysfunction			Narrow	DESC (233928007)
+SNOMEDCT_US	-		C1959583	Myocardial Failure	Narrow	
+SNOMEDCT_US	-		C1306063	Acute left ventricular failure	Narrow	
+SNOMEDCT_US	-		C0581377	Decompensated cardiac failure	Narrow	
+SNOMEDCT_US	213214001	Cardiac insufficiency as a complication of care	C0340510	Heart failure as a complication of care	Narrow	NARROWER (C0018801)
+SNOMEDCT_US	195130005	Post cardiac operation functional disturbance	C0340511	Post cardiac operation functional disturbance	Possible	NARROWER (C0018801)
+SNOMEDCT_US	78643003	Postcardiotomy syndrome			Possible	DESC (195130005)
+SNOMEDCT_US	-		C0581376	Compensated cardiac failure	Narrow	
+SNOMEDCT_US	195123004	Atrial dilatation	C0264734	Atrial dilatation	Possible	NARROWER (C0018801)
+SNOMEDCT_US	82608003	Atrial dilatation	C0264734	Atrial dilatation	Possible	NARROWER (C0018801)
+SNOMEDCT_US	253347007	Right atrial appendage aneurysm			Possible	DESC (82608003)
+SNOMEDCT_US	253350005	Right atrial dilatation			Possible	DESC (82608003)
+SNOMEDCT_US	253351009	Giant right atrium			Possible	DESC (82608003)
+SNOMEDCT_US	253358003	Left atrial appendage aneurysm			Possible	DESC (82608003)
+SNOMEDCT_US	253361002	Left atrial dilatation			Possible	DESC (82608003)
+SNOMEDCT_US	253362009	Giant left atrium			Possible	DESC (82608003)
+SNOMEDCT_US	253364005	Foramen ovale valvar aneurysm			Possible	DESC (82608003)
+SNOMEDCT_US	36665001	Atrial aneurysm			Possible	DESC (82608003)
+SNOMEDCT_US	459180002	Aneurysm of patch of atrioventricular septal defect			Possible	DESC (82608003)
+SNOMEDCT_US	472772002	Fetal right atrial dilatation			Possible	DESC (82608003)
+SNOMEDCT_US	716773002	Familial idiopathic dilatation of right atrium			Possible	DESC (82608003)
+SNOMEDCT_US	770432008	Ectasia of left atrial appendage			Possible	DESC (82608003)
+SNOMEDCT_US	770433003	Ectasia of right atrial appendage			Possible	DESC (82608003)
+SNOMEDCT_US	93051009	Congenital dilatation of atrium			Possible	DESC (82608003)
+SNOMEDCT_US	95440004	Atrial septal aneurysm			Possible	DESC (82608003)
+SNOMEDCT_US	-		C2882272	Combined systolic (congestive) and diastolic (congestive) heart failure	Narrow	
+SNOMEDCT_US	-		C0264652	Hypertensive heart failure	Narrow	
+SNOMEDCT_US	-		C2039715	Systolic (congestive) heart failure	Narrow	
+SNOMEDCT_US	-		C2183328	Diastolic (congestive) heart failure	Narrow	
+SNOMEDCT_US	-		C1444565	Cardiorespiratory failure	Possible	
+SNOMEDCT_US	-		C1956414	Cardiac asthma	Possible	
+SNOMEDCT_US	-		C2939447	Right ventricular failure	Narrow	
+SNOMEDCT_US	-		C0455993	Neonatal cardiac failure	Narrow	
+SNOMEDCT_US	-		C1135191	Heart Failure, Systolic	Narrow	
+SNOMEDCT_US	-		C1135196	Heart Failure, Diastolic	Narrow	
+SNOMEDCT_US	-		C1959583	Myocardial Failure	Narrow	
+SNOMEDCT_US	-		C0553982	Impaired left ventricular function	Narrow	
+SNOMEDCT_US	-		C0340515	Myocardial dysfunction	Narrow	
+SNOMEDCT_US	128404006	Right heart failure	C0235527	Heart Failure, Right-Sided	Narrow	NARROWER (C0018801)
+SNOMEDCT_US	-		C1306063	Acute left ventricular failure	Narrow	
+SNOMEDCT_US	-		C0581377	Decompensated cardiac failure	Narrow	
+SNOMEDCT_US	-		C0340510	Heart failure as a complication of care	Narrow	
+SNOMEDCT_US	-		C2882272	Combined systolic (congestive) and diastolic (congestive) heart failure	Narrow	
+SNOMEDCT_US	-		C0269926	Cardiac failure after obstetrical surgery AND/OR other procedure including delivery	Narrow	
+SNOMEDCT_US	-		C0264652	Hypertensive heart failure	Narrow	
+SNOMEDCT_US	194771003	Hypertensive heart disease NOS with congestive cardiac failure	C0264650	Hypertensive heart disease with congestive heart failure	Narrow	SUGGESTED (C0264652)
+SNOMEDCT_US	-		C0494575	Hypertensive heart and renal disease with (congestive) heart failure	Narrow	
+SNOMEDCT_US	-		C2039715	Systolic (congestive) heart failure	Narrow	
+SNOMEDCT_US	-		C2183328	Diastolic (congestive) heart failure	Narrow	
+SNOMEDCT_US	-		C0274379	Cardiac insufficiency during AND/OR resulting from a procedure	Narrow	
+SNOMEDCT_US	-		C0023212	Left-Sided Heart Failure	Narrow	
+SNOMEDCT_US	-		C0685095	Biventricular congestive heart failure	Narrow	
+SNOMEDCT_US	195109001	Acute congestive heart failure	C0264719	Acute congestive heart failure	Narrow	NARROWER (C0018802)
+SNOMEDCT_US	-		C0581377	Decompensated cardiac failure	Narrow	
+SNOMEDCT_US	19242006	Pulmonary edema	C0034063	Pulmonary Edema	Possible	CASEDEF
+SNOMEDCT_US	10674871000119105	Pulmonary edema caused by chemical fumes			Possible	DESC (19242006)
+SNOMEDCT_US	11468004	Postoperative pulmonary edema			Possible	DESC (19242006)
+SNOMEDCT_US	120639003	Hantavirus pulmonary syndrome			Possible	DESC (19242006)
+SNOMEDCT_US	196151000	Pulmonary insufficiency following shock			Possible	DESC (19242006)
+SNOMEDCT_US	196152007	Pulmonary insufficiency following surgery			Possible	DESC (19242006)
+SNOMEDCT_US	196153002	Pulmonary insufficiency following trauma			Possible	DESC (19242006)
+SNOMEDCT_US	233705000	Neurogenic pulmonary edema			Possible	DESC (19242006)
+SNOMEDCT_US	233706004	Drug-induced acute pulmonary edema			Possible	DESC (19242006)
+SNOMEDCT_US	233707008	High altitude pulmonary edema			Possible	DESC (19242006)
+SNOMEDCT_US	233708003	Post-upper airway obstruction pulmonary edema			Possible	DESC (19242006)
+SNOMEDCT_US	233709006	Toxic pulmonary edema			Possible	DESC (19242006)
+SNOMEDCT_US	233710001	Chemical-induced pulmonary edema			Possible	DESC (19242006)
+SNOMEDCT_US	233711002	Oxygen-induced pulmonary edema			Possible	DESC (19242006)
+SNOMEDCT_US	233712009	Fluid overload pulmonary edema			Possible	DESC (19242006)
+SNOMEDCT_US	240629003	Malarial shock lung			Possible	DESC (19242006)
+SNOMEDCT_US	276637009	Hemorrhagic pulmonary edema			Possible	DESC (19242006)
+SNOMEDCT_US	360371003	Acute cardiac pulmonary edema			Possible	DESC (19242006)
+SNOMEDCT_US	405276000	Negative pressure pulmonary edema			Possible	DESC (19242006)
+SNOMEDCT_US	40541001	Acute pulmonary edema			Possible	DESC (19242006)
+SNOMEDCT_US	46847001	Chronic pulmonary edema			Possible	DESC (19242006)
+SNOMEDCT_US	674814021000119106	Acute respiratory distress syndrome due to COVID-19			Possible	DESC (19242006)
+SNOMEDCT_US	67782005	Acute respiratory distress syndrome			Possible	DESC (19242006)
+SNOMEDCT_US	698638005	Pregnancy induced hypertension with pulmonary edema			Possible	DESC (19242006)
+SNOMEDCT_US	698640000	Hypertension in the puerperium with pulmonary edema			Possible	DESC (19242006)
+SNOMEDCT_US	700458001	Pulmonary edema due to hypoproteinemia			Possible	DESC (19242006)
+SNOMEDCT_US	840521002	Acute pulmonary edema caused by fume			Possible	DESC (19242006)
+SNOMEDCT_US	840522009	Acute pulmonary edema caused by vapor			Possible	DESC (19242006)
+SNOMEDCT_US	89687005	Postimmersion-submersion syndrome			Possible	DESC (19242006)
+SNOMEDCT_US	95437004	Non-cardiogenic pulmonary edema			Possible	DESC (19242006)
+SNOMEDCT_US	196119001	Pulmonary edema NOS	C0034063	Pulmonary Edema	Possible	CASEDEF
+SNOMEDCT_US	266408001	Edema - pulmonary NOS	C0034063	Pulmonary Edema	Possible	CASEDEF
+SNOMEDCT_US	123262009	Acute edema of lung, NOS	C0155919	Acute pulmonary edema	Possible	NARROWER (C0034063)
+SNOMEDCT_US	196148007	Acute edema of lung, unspecified	C0155919	Acute pulmonary edema	Possible	NARROWER (C0034063)
+SNOMEDCT_US	196149004	Acute pulmonary edema NOS	C0155919	Acute pulmonary edema	Possible	NARROWER (C0034063)
+SNOMEDCT_US	155627006	Adult respiratory distress syndrome	C0035222	Respiratory Distress Syndrome, Adult	Possible	NARROWER (C0034063)
+SNOMEDCT_US	196150004	Adult respiratory distress syndrome	C0035222	Respiratory Distress Syndrome, Adult	Possible	NARROWER (C0034063)
+SNOMEDCT_US	196154008	Adult respiratory distress syndrome	C0035222	Respiratory Distress Syndrome, Adult	Possible	NARROWER (C0034063)
+SNOMEDCT_US	206281003	Respiratory distress syndrome	C0035222	Respiratory Distress Syndrome, Adult	Possible	NARROWER (C0034063)
+SNOMEDCT_US	266411000	Adult respiratory distress syndrome	C0035222	Respiratory Distress Syndrome, Adult	Possible	NARROWER (C0034063)
+SNOMEDCT_US	196118009	Pulmonary congestion	C0242073	Pulmonary congestion	Possible	NARROWER (C0034063)
+SNOMEDCT_US	67599009	Pulmonary congestion	C0242073	Pulmonary congestion	Possible	NARROWER (C0034063)
+SNOMEDCT_US	63841001	Chronic pulmonary congestion			Possible	DESC (67599009)
+SNOMEDCT_US	196115007	Pulmonary congestion and hypostasis	C0155910	Pulmonary congestion and hypostasis	Possible	SUGGESTED (C0034063)
+SNOMEDCT_US	196120007	Pulmonary congestion and hypostasis NOS	C0155910	Pulmonary congestion and hypostasis	Possible	SUGGESTED (C0034063)
+SNOMEDCT_US	158246003	[D]Peripheral edema	C0085649	Peripheral edema	Possible	CASEDEF
+SNOMEDCT_US	206893004	[D]Peripheral edema	C0085649	Peripheral edema	Possible	CASEDEF
+SNOMEDCT_US	271809000	Peripheral edema	C0085649	Peripheral edema	Possible	CASEDEF
+SNOMEDCT_US	424372002	Edema of extremity	C0085649	Peripheral edema	Possible	CASEDEF
+SNOMEDCT_US	102558002	Edema of the upper extremity			Possible	DESC (424372002)
+SNOMEDCT_US	102560000	Edema of forearm			Possible	DESC (424372002)
+SNOMEDCT_US	102562008	Edema of elbow			Possible	DESC (424372002)
+SNOMEDCT_US	102563003	Edema of wrist			Possible	DESC (424372002)
+SNOMEDCT_US	102564009	Edema of hand			Possible	DESC (424372002)
+SNOMEDCT_US	102565005	Edema of finger			Possible	DESC (424372002)
+SNOMEDCT_US	102566006	Edema of thumb			Possible	DESC (424372002)
+SNOMEDCT_US	102572006	Edema of lower extremity			Possible	DESC (424372002)
+SNOMEDCT_US	102573001	Edema of thigh			Possible	DESC (424372002)
+SNOMEDCT_US	102575008	Edema of knee			Possible	DESC (424372002)
+SNOMEDCT_US	102576009	Edema of foot			Possible	DESC (424372002)
+SNOMEDCT_US	10650831000119101	Venous stasis ulcer with edema of left lower leg			Possible	DESC (424372002)
+SNOMEDCT_US	10652791000119106	Venous stasis ulcer with edema of right lower leg			Possible	DESC (424372002)
+SNOMEDCT_US	1172685001	Macrothrombocytopenia, lymphedema, developmental delay, facial dysmorphism, camptodactyly syndrome			Possible	DESC (424372002)
+SNOMEDCT_US	1186725001	Warts, immunodeficiency, lymphedema, anogenital dysplasia syndrome			Possible	DESC (424372002)
+SNOMEDCT_US	11995691000119109	Edema of amputation stump of left lower limb			Possible	DESC (424372002)
+SNOMEDCT_US	11995791000119103	Edema of amputation stump of right lower limb			Possible	DESC (424372002)
+SNOMEDCT_US	1204421005	Lymphedema, posterior choanal atresia syndrome			Possible	DESC (424372002)
+SNOMEDCT_US	1217009002	Primary lymphedema			Possible	DESC (424372002)
+SNOMEDCT_US	1217248006	Primary lymphedema with systemic and visceral involvement			Possible	DESC (424372002)
+SNOMEDCT_US	1217249003	Primary lymphedema with systemic involvement			Possible	DESC (424372002)
+SNOMEDCT_US	1217250003	Primary lymphedema with visceral involvement			Possible	DESC (424372002)
+SNOMEDCT_US	1217251004	Syndromic primary lymphedema			Possible	DESC (424372002)
+SNOMEDCT_US	12275171000119105	Postmastectomy lymphedema syndrome of right upper limb			Possible	DESC (424372002)
+SNOMEDCT_US	12275221000119100	Postmastectomy lymphedema syndrome of left upper limb			Possible	DESC (424372002)
+SNOMEDCT_US	15637871000119106	Lymphedema of right lower limb			Possible	DESC (424372002)
+SNOMEDCT_US	15637921000119102	Lymphedema of left lower limb			Possible	DESC (424372002)
+SNOMEDCT_US	15637971000119101	Lymphedema of bilateral lower limbs			Possible	DESC (424372002)
+SNOMEDCT_US	15638021000119100	Lymphedema of right upper limb			Possible	DESC (424372002)
+SNOMEDCT_US	15638071000119104	Lymphedema of left upper limb			Possible	DESC (424372002)
+SNOMEDCT_US	15929861000119106	Venous stasis edema of bilateral lower limbs			Possible	DESC (424372002)
+SNOMEDCT_US	15929941000119103	Venous stasis edema of right lower limb			Possible	DESC (424372002)
+SNOMEDCT_US	15930061000119106	Venous stasis edema of left lower limb			Possible	DESC (424372002)
+SNOMEDCT_US	205385004	Constriction ring of lower limb with lymphedema			Possible	DESC (424372002)
+SNOMEDCT_US	234146006	Hennekam syndrome			Possible	DESC (424372002)
+SNOMEDCT_US	251490001	Lymphedematous hyperkeratosis			Possible	DESC (424372002)
+SNOMEDCT_US	254199006	Hereditary lymphedema			Possible	DESC (424372002)
+SNOMEDCT_US	26237000	Ankle edema			Possible	DESC (424372002)
+SNOMEDCT_US	268264007	Constriction ring of upper limb with lymphedema			Possible	DESC (424372002)
+SNOMEDCT_US	28724005	Cholestasis-edema syndrome, Norwegian type			Possible	DESC (424372002)
+SNOMEDCT_US	300981003	Gravitational edema of leg			Possible	DESC (424372002)
+SNOMEDCT_US	33129002	Postmastectomy lymphedema syndrome			Possible	DESC (424372002)
+SNOMEDCT_US	399889006	Hereditary lymphedema type I			Possible	DESC (424372002)
+SNOMEDCT_US	400040008	Hereditary lymphedema type II			Possible	DESC (424372002)
+SNOMEDCT_US	400158000	Primary lymphedema tardum			Possible	DESC (424372002)
+SNOMEDCT_US	400211001	Hereditary lymphedema and yellow nails			Possible	DESC (424372002)
+SNOMEDCT_US	402465005	Circumscribed nodular and tuberous pretibial myxedema			Possible	DESC (424372002)
+SNOMEDCT_US	402466006	Diffuse pretibial myxedema			Possible	DESC (424372002)
+SNOMEDCT_US	402467002	Elephantiasic pretibial myxedema			Possible	DESC (424372002)
+SNOMEDCT_US	402670007	Lymphedema of limbs due to immobility, chronic dependency and/or venous insufficiency			Possible	DESC (424372002)
+SNOMEDCT_US	403385000	Lymphedema of lower extremity			Possible	DESC (424372002)
+SNOMEDCT_US	439500002	Lymphedema of limb			Possible	DESC (424372002)
+SNOMEDCT_US	442511009	Progressive encephalopathy with edema, hypsarrhythmia and optic atrophy syndrome			Possible	DESC (424372002)
+SNOMEDCT_US	443110007	Edema of upper arm			Possible	DESC (424372002)
+SNOMEDCT_US	443111006	Edema of calf			Possible	DESC (424372002)
+SNOMEDCT_US	443339000	Edema of palm of hand			Possible	DESC (424372002)
+SNOMEDCT_US	443514008	Edema of shoulder			Possible	DESC (424372002)
+SNOMEDCT_US	443710002	Edema of dorsum of hand			Possible	DESC (424372002)
+SNOMEDCT_US	444956007	Edema of all toes			Possible	DESC (424372002)
+SNOMEDCT_US	445011005	Edema of sole of foot			Possible	DESC (424372002)
+SNOMEDCT_US	445124008	Edema of dorsum of foot			Possible	DESC (424372002)
+SNOMEDCT_US	445126005	Edema of entire limb			Possible	DESC (424372002)
+SNOMEDCT_US	445256008	Edema of buttock			Possible	DESC (424372002)
+SNOMEDCT_US	445471005	Edema of extremity with extension to trunk			Possible	DESC (424372002)
+SNOMEDCT_US	449620005	Lymphedema of upper limb			Possible	DESC (424372002)
+SNOMEDCT_US	449621009	Lymphedema of upper arm			Possible	DESC (424372002)
+SNOMEDCT_US	449707004	Edema of lower leg			Possible	DESC (424372002)
+SNOMEDCT_US	479003	Graves' disease with pretibial myxedema AND with thyrotoxic crisis			Possible	DESC (424372002)
+SNOMEDCT_US	60268006	Toxic diffuse goiter with pretibial myxedema			Possible	DESC (424372002)
+SNOMEDCT_US	609376003	Acquired lymphedema of lower extremity			Possible	DESC (424372002)
+SNOMEDCT_US	698975002	Edema of extremity of sudden onset			Possible	DESC (424372002)
+SNOMEDCT_US	700057001	Emberger syndrome			Possible	DESC (424372002)
+SNOMEDCT_US	706913006	Varicose veins of lower limb co-occurrent with edema			Possible	DESC (424372002)
+SNOMEDCT_US	720986005	Anhidrotic ectodermal dysplasia, immunodeficiency, osteopetrosis, lymphedema syndrome			Possible	DESC (424372002)
+SNOMEDCT_US	721083007	Lymphedema hypoparathyroidism syndrome			Possible	DESC (424372002)
+SNOMEDCT_US	721978002	Lymphedema, atrial septal defect, facial changes syndrome			Possible	DESC (424372002)
+SNOMEDCT_US	721979005	Lymphedema and cerebral arteriovenous anomaly syndrome			Possible	DESC (424372002)
+SNOMEDCT_US	723363009	Hypotrichosis, lymphedema, telangiectasia, renal defect syndrome			Possible	DESC (424372002)
+SNOMEDCT_US	733037000	German syndrome			Possible	DESC (424372002)
+SNOMEDCT_US	770678005	Progressive encephalopathy with edema, hypsarrhythmia, and optic atrophy-like syndrome			Possible	DESC (424372002)
+SNOMEDCT_US	77123007	Lymphedema praecox			Possible	DESC (424372002)
+SNOMEDCT_US	78146007	Pretibial myxedema			Possible	DESC (424372002)
+SNOMEDCT_US	816179007	Edema of left lower leg			Possible	DESC (424372002)
+SNOMEDCT_US	816180005	Edema of right lower leg			Possible	DESC (424372002)
+SNOMEDCT_US	816181009	Bilateral lower limb edema			Possible	DESC (424372002)
+SNOMEDCT_US	816182002	Edema of left lower limb			Possible	DESC (424372002)
+SNOMEDCT_US	816183007	Edema of right lower limb			Possible	DESC (424372002)
+SNOMEDCT_US	816184001	Edema of left upper limb			Possible	DESC (424372002)
+SNOMEDCT_US	816185000	Edema of right upper limb			Possible	DESC (424372002)
+SNOMEDCT_US	816186004	Bilateral upper limb edema			Possible	DESC (424372002)
+SNOMEDCT_US	816190002	Bilateral lower leg edema			Possible	DESC (424372002)
+SNOMEDCT_US	816194006	Edema of left upper arm			Possible	DESC (424372002)
+SNOMEDCT_US	816195007	Edema of right upper arm			Possible	DESC (424372002)
+SNOMEDCT_US	816196008	Bilateral upper arm edema			Possible	DESC (424372002)
+SNOMEDCT_US	829986000	Bilateral feet edema			Possible	DESC (424372002)
+SNOMEDCT_US	83011000119100	Venous stasis ulcer co-occurrent with edema of lower leg			Possible	DESC (424372002)
+SNOMEDCT_US	8634009	Distichiasis-lymphedema syndrome			Possible	DESC (424372002)
+SNOMEDCT_US	890183008	Lymphedema due to podoconiosis			Possible	DESC (424372002)
+SNOMEDCT_US	82014009	Peripheral edema	C0085649	Peripheral edema	Possible	CASEDEF
+SNOMEDCT_US	-		C0155919	Acute pulmonary edema	Possible	
+SNOMEDCT_US	-		C0242073	Pulmonary congestion	Possible	
+SNOMEDCT_US	155325006	Acute cor pulmonale	C0155672	Acute cor pulmonale	Possible	SUGGESTED (C0264714)
+SNOMEDCT_US	194881008	Acute cor pulmonale	C0155672	Acute cor pulmonale	Possible	SUGGESTED (C0264714)
+SNOMEDCT_US	49584005	Acute cor pulmonale	C0155672	Acute cor pulmonale	Possible	SUGGESTED (C0264714)
+SNOMEDCT_US	15964661000119102	Acute cor pulmonale due to septic pulmonary embolism			Possible	DESC (49584005)
+SNOMEDCT_US	15964701000119109	Saddle embolus of pulmonary artery with acute cor pulmonale			Possible	DESC (49584005)
+SNOMEDCT_US	155383002	Ventricular hypertrophy	C0340279	Ventricular hypertrophy	Possible	CASEDEF
+SNOMEDCT_US	195127003	Ventricular hypertrophy	C0340279	Ventricular hypertrophy	Possible	CASEDEF
+SNOMEDCT_US	266249003	Ventricular hypertrophy	C0340279	Ventricular hypertrophy	Possible	CASEDEF
+SNOMEDCT_US	204306007	Pentalogy of Fallot			Possible	DESC (266249003)
+SNOMEDCT_US	204351007	Fallot's trilogy			Possible	DESC (266249003)
+SNOMEDCT_US	253512000	Tetralogy of Fallot with pulmonary stenosis			Possible	DESC (266249003)
+SNOMEDCT_US	253513005	Tetralogy of Fallot with pulmonary atresia			Possible	DESC (266249003)
+SNOMEDCT_US	253514004	Dextraposition of aorta in Fallot's tetralogy			Possible	DESC (266249003)
+SNOMEDCT_US	253515003	Ventricular septal defect in Fallot's tetralogy			Possible	DESC (266249003)
+SNOMEDCT_US	399228007	Tetralogy of Fallot with absent pulmonary valve			Possible	DESC (266249003)
+SNOMEDCT_US	428163005	Hypertensive left ventricular hypertrophy			Possible	DESC (266249003)
+SNOMEDCT_US	55827005	Left ventricular hypertrophy			Possible	DESC (266249003)
+SNOMEDCT_US	723336008	Fallot complex with intellectual disability and growth delay syndrome			Possible	DESC (266249003)
+SNOMEDCT_US	762433009	Tetralogy of Fallot with pulmonary atresia and systemic-to-pulmonary collateral artery			Possible	DESC (266249003)
+SNOMEDCT_US	766976003	Pulmonary valve agenesis, tetralogy of Fallot, absence of ductus arteriosus syndrome			Possible	DESC (266249003)
+SNOMEDCT_US	840303004	Mild left ventricular hypertrophy			Possible	DESC (266249003)
+SNOMEDCT_US	840304005	Moderate left ventricular hypertrophy			Possible	DESC (266249003)
+SNOMEDCT_US	840305006	Severe left ventricular hypertrophy			Possible	DESC (266249003)
+SNOMEDCT_US	86299006	Tetralogy of Fallot			Possible	DESC (266249003)
+SNOMEDCT_US	89792004	Right ventricular hypertrophy			Possible	DESC (266249003)
+SNOMEDCT_US	93078006	Congenital hypertrophy of cardiac ventricle			Possible	DESC (266249003)
+SNOMEDCT_US	266310003	Ventricular hypertrophy	C0340279	Ventricular hypertrophy	Possible	CASEDEF
+SNOMEDCT_US	-		C0340515	Myocardial dysfunction	Narrow	
+SNOMEDCT_US	250908004	Left ventricular ejection fraction	C0428772	Left ventricular ejection fraction	Possible	CASEDEF
+SNOMEDCT_US	389385008	Left ventricular ejection fraction	C0428772	Left ventricular ejection fraction	Possible	CASEDEF
+SNOMEDCT_US	390116000	Left ventricular ejection fraction	C0428772	Left ventricular ejection fraction	Possible	CASEDEF
