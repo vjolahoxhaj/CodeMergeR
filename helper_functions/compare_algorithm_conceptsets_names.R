@@ -7,7 +7,7 @@ compare_algorithm_conceptsets_names <- function(alg_dir, cond_dir) {
   # Get all algorithm folders
   alg_folders <- list.dirs(alg_dir, recursive = FALSE, full.names = TRUE)
   if (length(alg_folders) == 0) {
-    return(data.table(Category = "Error", Name = "None", Comment = "No folders in Algorithms directory."))
+    return(data.table(Category = "Error", Name = "None", Comment = "No folders are found in Algorithms clinical concepts folders to check."))
   }
   
   #use to filter the alg folders later
@@ -183,7 +183,7 @@ compare_algorithm_conceptsets_names <- function(alg_dir, cond_dir) {
   # Get all conceptsets folder names
   cond_folders <- list.dirs(cond_dir, recursive = FALSE, full.names = TRUE)
   if (length(cond_folders) == 0) {
-    return(data.table(Category = "Error", Name = "None", Comment = "No folders in Conceptsets directory."))
+    return(data.table(Category = "Error", Name = "None", Comment = "No folders are found in clinical concepts folders to check."))
   }
   
   # Extract subset names (first 3 elements of folder names)
@@ -205,11 +205,11 @@ compare_algorithm_conceptsets_names <- function(alg_dir, cond_dir) {
     fwrite(miss,paste0(projectFolder, "/Errors/missing_codesheet.csv"))
   
   # Create comparison results
-  comparison_results <-data.table(Category = "Missing in Conceptsets", Name = missing_in_conceptsets, Comment = "Present in Algorithms but not in Conceptsets")
+  comparison_results <-data.table(Category = "Missing in Conceptsets", Name = missing_in_conceptsets, Comment = "The following folders are present in Algorithms but missing from Concepts: [folder names]. Create the necessary Concepts folder for each Algorithm or tag them to the ‘Covariates with no codes’ column.")
   comparison_results<-comparison_results[!is.na(Name)]
 }
   if (nrow(comparison_results) == 0) {
-    comparison_results <- data.table(Category = "Match", Name = "All Matched", Comment = "All names are present in both Algorithms and Conceptsets")
+    comparison_results <- data.table(Category = "Match", Name = "All Matched", Comment = "All folder names are consistently present in both Algorithms and Concepts.")
   }
   
   return(comparison_results)

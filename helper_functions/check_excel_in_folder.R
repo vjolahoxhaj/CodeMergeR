@@ -5,11 +5,11 @@ check_excel_in_folder <- function(folder_path) {
   
   # Check if there is exactly one .xlsx file
   if (length(xlsx_files) == 1) {
-    return(data.table(Folder=basename(folder_path), Result="Valid", Comment= "1 Excel file found"))
+    return(data.table(Folder=basename(folder_path), Result="Valid", Comment= "All concepts’ folders contain exactly one Excel file"))
   } else if (length(xlsx_files) == 0) {
-    return(data.table(Folder=basename(folder_path), Result="Invalid", Comment= "No Excel file found"))
+    return(data.table(Folder=basename(folder_path), Result="Invalid", Comment= "The following folders contain zero Excel files. Create the clinical concept Excel file."))
   } else {
-    return(data.table(Folder=basename(folder_path), Result="Invalid", Comment= "Multiple Excel files found"))
+    return(data.table(Folder=basename(folder_path), Result="Invalid", Comment= "The following folders contain multiple Excel files. Keep only one Excel file in case of multiple files."))
   }
 }
 

@@ -11,7 +11,7 @@ check_folder_file_match <- function(folder_path) {
   
   # If there are no Excel files, return Invalid
   if (length(xlsx_files) == 0) {
-    return(data.table(Folder = folder_name, Result = "Invalid", Comment = "No Excel file found"))
+    return(data.table(Folder = folder_name, Result = "Invalid", Comment = "No Excel file is found in the Concept folder."))
   }
   
   # Check if the file name matches the folder subset
@@ -22,9 +22,9 @@ check_folder_file_match <- function(folder_path) {
   
   # Determine result and comment
   if (any(file_matches)) {
-    return(data.table(Folder = folder_name, Result = "Valid", Comment = "Name does match"))
+    return(data.table(Folder = folder_name, Result = "Valid", Comment = "All folders and their Excel files are correctly named and match."))
   } else {
-    return(data.table(Folder = folder_name, Result = "Invalid", Comment = "Name doesn't match"))
+    return(data.table(Folder = folder_name, Result = "Invalid", Comment = "The following folders have mismatched names between the folder and the Excel file. Match the name of the Concept folder and Excel file located inside the folder."))
   }
 }
 
