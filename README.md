@@ -28,7 +28,7 @@ clean, validated codelists.
 
 ## 🚀 How to Use
 
-1️⃣ **Upload** the **Codelist Folder (.zip)** and **Mother Excel File
+1️⃣ **Upload** the **Concepts Folder (.zip)** and **Mother Excel File
 (.xlsx)**.\
 2️⃣ Click **Run Validation** ✅ to check **file structure and data
 integrity**.\
@@ -66,7 +66,7 @@ Run the application using the following command:
 
 ## 📂 Directory structure
 
-📁 Conditions/ → Contains study condition files.     
+📁 Concepts/ → Contains study clinical concepts files.     
 📁 Algorithms/ → Contains algorithm files.     
 📁 Errors/ → Stores logs and missing files
 report.      
@@ -79,3 +79,21 @@ app.
     
 💡 For more details, check the documentation or the helper functions
 inside the 📂 helper_functions/ directory.
+
+
+## Expected error files
+
+This are files that will be produced by the app if errors are identified:
+- conceptsets_name_check: the name of the concepts folder doesn't contain 3 underscores      
+- algorithms_name_check: the name of the algorithms folder doesn't contain 3 underscores     
+- no_code_covariates_conceptsets: the folders has been tagged in the 'Covariates with no codes' column but has been already mapped      
+- no_files_excel_conceptsets: there are zero or multiple excel files in the concept folder      
+- no_files_excel_algorithms: there are zero or multiple excel files in the algorithms folder     
+- incorrect_codes: codes containing scientific notations (E+)      
+- range_codes: codes containing dashes (-)      
+- missing_values_report: a report of rows with missing codes, coding_system or tags 
+- error_rounding_list: a code with a length of 15 or more character ending in '000'      
+- possible_error_rounding_list: a code with a length of 15 or more character ending in '00'      
+
+
+
