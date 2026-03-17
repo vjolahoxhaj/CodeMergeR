@@ -22,14 +22,14 @@ check_file_sheet_match <- function(folder_path) {
     )
     
     if (is.null(sheet_names)) {
-      return(data.table(Folder = folder_name, Result = "Invalid", Comment = "Error reading the Concepts Excel file."))
+      return(data.table(Folder = folder_name, Result = "Invalid", Comment = "Error reading Excel file"))
     }
     
     # Check if the file name matches any sheet name
     if (file_name %in% sheet_names) {
-      return(data.table(Folder = folder_name, Result = "Valid", Comment = "Excel file contains a worksheet name that matches the file name."))
+      return(data.table(Folder = folder_name, Result = "Valid", Comment = "File name matches a sheet name"))
     } else {
-      return(data.table(Folder = folder_name, Result = "Invalid", Comment = "The following folders have mismatched names between the Excel file and the worksheet inside. Match the name of Excel file and at least one worksheet of inside this Excel file."))
+      return(data.table(Folder = folder_name, Result = "Invalid", Comment = "File name does not match any sheet name"))
     }
   })
   
