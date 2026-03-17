@@ -145,7 +145,7 @@ ui <- navbarPage(
            fluidRow(
              column(6, 
                     h4(id = "name_check", tagList(icon("check-circle"), "Conceptsets Folder Name Check:"), style = "color: green;"),
-                    verbatimTextOutput("conceptsets_name_check")
+                    verbatimTextOutput("conceptsetss_name_check")
              ),
              column(6, 
                     h4(tagList(icon("check-circle"), "Algorithms Folder Name Check:"), style = "color: green;"),
@@ -2289,10 +2289,10 @@ server <- function(input, output, session) {
   
   
   #Output all files that do not comply with 3 underscores rule
-  output$conceptsets_name_check <- renderPrint({
+  output$conceptsetss_name_check <- renderPrint({
     folders <- folder_names()
     if (is.null(folders)) {
-      return("No folders are found in clinical concepts folders to check.")
+      return("No folders in Conceptsets to check.")
     }
     
     invalid_folders <- folders[sapply(folders, function(name) {
@@ -2307,7 +2307,7 @@ server <- function(input, output, session) {
       return(invalid_folders)
       
     } else {
-      return("All folders’ names in clinical concepts are correctly formatted.")
+      return("All Conceptsets folders are named correctly.")
     }
     rm(folders)
     
@@ -2318,7 +2318,7 @@ server <- function(input, output, session) {
   output$algorithms_name_check <- renderPrint({
     folders <- algorithms_folders()
     if (is.null(folders)) {
-      return("No folders are found in Algorithms clinical concepts folders to check.")
+      return("No folders in Algorithms to check.")
     }
     
     invalid_folders <- folders[sapply(folders, function(name) {
@@ -2332,7 +2332,7 @@ server <- function(input, output, session) {
       
       return(invalid_folders)
     } else {
-      return("All folders’ names in clinical concepts are correctly formatted.")
+      return("All Algorithms files are named correctly.")
     }
     rm(folders)
     
@@ -2342,12 +2342,23 @@ server <- function(input, output, session) {
   cov_no_codes_cond <- eventReactive(input$xlsx_file1,{
     req(input$xlsx_file1)
     
+<<<<<<< HEAD
     excel_data <- get_mother_excel_data()
     if (is.null(excel_data)) return(data.table(Folder = "None", Result = "Invalid", Comment = "Error reading the codelist library metadata file (MotherExcel). Please check the file format or permissions."))
+=======
+    # Read the Excel file
+    excel_data <- tryCatch({
+      read_excel(input$xlsx_file1$datapath, col_types = "text", sheet = "CDM_EVENTS")
+    }, error = function(e) {
+      return(NULL)
+    })
+    
+    if (is.null(excel_data)) return(data.table(Folder = "None", Result = "Invalid", Comment = "Error reading Excel file."))
+>>>>>>> parent of 6a73946 (Comments update)
     
     excel_data <- copy(excel_data)
     if (!all(c("Event_abbreviation / Variable Name", "Covariates with no codes") %in% colnames(excel_data))) {
-      return(data.table(Folder = "None", Result = "Invalid", Comment = "Required columns [‘Event_abbreviation / Variable Name’, ‘Covariates with no codes’] not found in the codelist library metadata file (MotherExcel)."))
+      return(data.table(Folder = "None", Result = "Invalid", Comment = "Required columns not found in the Mother Excel file."))
     }
     
     # Rename and filter
@@ -2361,7 +2372,7 @@ server <- function(input, output, session) {
     # Check Conceptsets Folder
     if (!dir.exists(cond_dir)) return(data.table(Folder = "None", Result = "Invalid", Comment = "No Conceptsets folder found."))
     conceptsets_folders <- list.dirs(cond_dir, recursive = FALSE)
-    if (length(conceptsets_folders) == 0) return(data.table(Folder = "None", Result = "Invalid", Comment = "No folders are found in clinical concepts folders to check."))
+    if (length(conceptsets_folders) == 0) return(data.table(Folder = "None", Result = "Invalid", Comment = "No folders in Conceptsets directory."))
     
     # Extract relevant folder details
     folder_details <- lapply(conceptsets_folders, function(folder) {
@@ -2381,14 +2392,14 @@ server <- function(input, output, session) {
     
     if (nrow(folder_data) > 0) {
       result<-data.table(Folder = folder_data$variable_name, Result = "Invalid",
-                         Comment = "This folder is marked as ‘Concept with no codes’ but contains an Excel file, which is not expected. This folder will be removed.")
-      fwrite(result, paste0(report_dir, "/no_code_covariates_conceptsets.csv"), row.names = F)
+                         Comment = "Folder has been specified as 'Covariates with no codes' but contains an Excel file.")
+      fwrite(result, paste0(report_dir, "/no_code_covariates_conceptsetss.csv"), row.names = F)
       
       return(result)
     } else {
       result<-data.table(Folder = "None", Result = "Valid",
-                         Comment = "All ‘Concepts with no codes’ folders are correctly specified and contain no Excel files.")
-      fwrite(result, paste0(report_dir, "/no_code_covariates_conceptsets.csv"), row.names = F)
+                         Comment = "'Covariates with no codes' folders are correctly specified.")
+      fwrite(result, paste0(report_dir, "/no_code_covariates_conceptsetss.csv"), row.names = F)
       
       return(result)
     }
@@ -2403,12 +2414,23 @@ server <- function(input, output, session) {
   cov_no_codes_alg <- eventReactive(input$xlsx_file1,{
     req(input$xlsx_file1)
     
+<<<<<<< HEAD
     excel_data <- get_mother_excel_data()
     if (is.null(excel_data)) return(data.table(Folder = "None", Result = "Invalid", Comment = "Error reading the codelist library metadata file (MotherExcel)."))
+=======
+    # Read the Excel file
+    excel_data <- tryCatch({
+      read_excel(input$xlsx_file1$datapath, col_types = "text", sheet = "CDM_EVENTS")
+    }, error = function(e) {
+      return(NULL)
+    })
+    
+    if (is.null(excel_data)) return(data.table(Folder = "None", Result = "Invalid", Comment = "Error reading Excel file."))
+>>>>>>> parent of 6a73946 (Comments update)
     
     excel_data <- copy(excel_data)
     if (!all(c("Event_abbreviation / Variable Name", "Covariates with no codes") %in% colnames(excel_data))) {
-      return(data.table(Folder = "None", Result = "Invalid", Comment = "Required columns [‘Event_abbreviation / Variable Name’, ‘Covariates with no codes’] not found in the codelist library metadata file (MotherExcel).."))
+      return(data.table(Folder = "None", Result = "Invalid", Comment = "Required columns not found in the Mother Excel file."))
     }
     
     # Rename and filter
@@ -2422,7 +2444,7 @@ server <- function(input, output, session) {
     # Check Algorithms Folder
     if (!dir.exists(alg_dir)) return(data.table(Folder = "None", Result = "Invalid", Comment = "No Algorithms folder found."))
     alg_folders <- list.dirs(alg_dir, recursive = FALSE)
-    if (length(alg_folders) == 0) return(data.table(Folder = "None", Result = "Invalid", Comment = "No folders are found in Algorithms clinical concepts folders to check."))
+    if (length(alg_folders) == 0) return(data.table(Folder = "None", Result = "Invalid", Comment = "No folders in Algorithms directory."))
     
     # Extract relevant folder details
     folder_details <- lapply(alg_folders, function(folder) {
@@ -2442,14 +2464,14 @@ server <- function(input, output, session) {
     
     if (nrow(folder_data) > 0) {
       result<-data.table(Folder = folder_data$variable_name, Result = "Invalid",
-                         Comment = "This folder is marked as ‘Concept with no codes’ but contains an Excel file, which is not expected. This folder will be removed.")
-      fwrite(result, paste0(report_dir, "/no_code_covariates_conceptsets.csv"), row.names = F)
+                         Comment = "Folder has been specified as 'Covariates with no codes' but contains an Excel file.")
+      fwrite(result, paste0(report_dir, "/no_code_covariates_conceptsetss.csv"), row.names = F)
       
       return(result)
     } else {
       result<-data.table(Folder = "None", Result = "Valid",
-                         Comment = "All ‘Concepts with no codes’ folders are correctly specified and contain no Excel files.")
-      fwrite(result, paste0(report_dir, "/no_code_covariates_conceptsets.csv"), row.names = F)
+                         Comment = "'Covariates with no codes' folders are correctly specified.")
+      fwrite(result, paste0(report_dir, "/no_code_covariates_conceptsetss.csv"), row.names = F)
       
       return(result)
     }
@@ -2466,14 +2488,25 @@ server <- function(input, output, session) {
   cov_no_codes_delete_cond <- eventReactive(input$step3, {
     req(input$xlsx_file1)
     
+<<<<<<< HEAD
     excel_data <- get_mother_excel_data()
     if (is.null(excel_data)) return(data.table(Folder = "None", Result = "Invalid", Comment = "Error reading the codelist library metadata file (MotherExcel)."))
+=======
+    # Read the Excel file safely
+    excel_data <- tryCatch({
+      read_excel(input$xlsx_file1$datapath, col_types = "text", sheet = "CDM_EVENTS")
+    }, error = function(e) {
+      return(NULL)
+    })
+    
+    if (is.null(excel_data)) return(data.table(Folder = "None", Result = "Invalid", Comment = "Error reading Excel file."))
+>>>>>>> parent of 6a73946 (Comments update)
     
     excel_data <- copy(excel_data)
     
     # Ensure required columns exist
     if (!all(c("Event_abbreviation / Variable Name", "Covariates with no codes") %in% colnames(excel_data))) {
-      return(data.table(Folder = "None", Result = "Invalid", Comment = "Required columns [‘Event_abbreviation / Variable Name’, ‘Covariates with no codes’] not found in the codelist library metadata file (MotherExcel).."))
+      return(data.table(Folder = "None", Result = "Invalid", Comment = "Required columns not found in the Mother Excel file."))
     }
     
     # Rename and filter
@@ -2485,7 +2518,7 @@ server <- function(input, output, session) {
     # Check Conceptsets Folder
     if (!dir.exists(cond_dir)) return(data.table(Folder = "None", Result = "Invalid", Comment = "No Conceptsets folder found."))
     conceptsets_folders <- list.dirs(cond_dir, recursive = FALSE, full.names = TRUE)
-    if (length(conceptsets_folders) == 0) return(data.table(Folder = "None", Result = "Invalid", Comment = "No folders are found in clinical concepts folders to check."))
+    if (length(conceptsets_folders) == 0) return(data.table(Folder = "None", Result = "Invalid", Comment = "No folders in Conceptsets directory."))
     
     # Extract relevant folder details
     folder_details <- lapply(conceptsets_folders, function(folder) {
@@ -2530,14 +2563,25 @@ server <- function(input, output, session) {
   cov_no_codes_delete_alg <- eventReactive(input$step3, {
     req(input$xlsx_file1)
     
+<<<<<<< HEAD
     excel_data <- get_mother_excel_data()
     if (is.null(excel_data)) return(data.table(Folder = "None", Result = "Invalid", Comment = "Error reading the codelist library metadata file (MotherExcel)."))
+=======
+    # Read the Excel file safely
+    excel_data <- tryCatch({
+      read_excel(input$xlsx_file1$datapath, col_types = "text", sheet = "CDM_EVENTS")
+    }, error = function(e) {
+      return(NULL)
+    })
+    
+    if (is.null(excel_data)) return(data.table(Folder = "None", Result = "Invalid", Comment = "Error reading Excel file."))
+>>>>>>> parent of 6a73946 (Comments update)
     
     excel_data <- copy(excel_data)
     
     # Ensure required columns exist
     if (!all(c("Event_abbreviation / Variable Name", "Covariates with no codes") %in% colnames(excel_data))) {
-      return(data.table(Folder = "None", Result = "Invalid", Comment = "Required columns [‘Event_abbreviation / Variable Name’, ‘Covariates with no codes’] not found in the codelist library metadata file (MotherExcel).."))
+      return(data.table(Folder = "None", Result = "Invalid", Comment = "Required columns not found in the Mother Excel file."))
     }
     
     # Rename and filter
@@ -2549,7 +2593,7 @@ server <- function(input, output, session) {
     # Check Conceptsets Folder
     if (!dir.exists(alg_dir)) return(data.table(Folder = "None", Result = "Invalid", Comment = "No Algorithms folder found."))
     alg_folders <- list.dirs(alg_dir, recursive = FALSE, full.names = TRUE)
-    if (length(alg_folders) == 0) return(data.table(Folder = "None", Result = "Invalid", Comment = "No folders are found in Algorithms clinical concepts folders to check."))
+    if (length(alg_folders) == 0) return(data.table(Folder = "None", Result = "Invalid", Comment = "No folders in Algorithms directory."))
     
     # Extract relevant folder details
     folder_details <- lapply(alg_folders, function(folder) {
@@ -2593,9 +2637,9 @@ server <- function(input, output, session) {
   
   output$study_name_check <- renderText({
     if (study_name_exists()) {
-      return("The study name you entered is found as a column in the Mother Excel file.")
+      return("The study name is present as a column in the Mother Excel file.")
     } else {
-      return("The study name you entered is not found in the Mother Excel file. Please check for typos or column naming.")
+      return("The study name is NOT present as a column in the Mother Excel file.")
     }
   })
   
@@ -2607,18 +2651,18 @@ server <- function(input, output, session) {
     
     # Get all folder names in the Conceptsets directory
     conceptsets_folders <- list.dirs(cond_dir, recursive = FALSE)
-    if (length(conceptsets_folders) == 0) return(data.table(Folder = "None", Result = "Invalid", Comment = "No folders are found in clinical concepts folders to check."))
+    if (length(conceptsets_folders) == 0) return(data.table(Folder = "None", Result = "Invalid", Comment = "No folders in Conceptsets directory."))
     
     # Apply check_excel_in_folder to each folder
     results <- lapply(conceptsets_folders, check_excel_in_folder)
     results<-rbindlist(results)
     results<-results[Result == "Invalid"]
     if (nrow(results) > 0) {
-      fwrite(results, paste0(report_dir, "/no_files_excel_conceptsets.csv"), row.names = F)
+      fwrite(results, paste0(report_dir, "/no_files_excel_conceptsetss.csv"), row.names = F)
       
       return(results)
     } else {
-      return(data.table(Folder = "All", Result = "Valid", Comment = "All concepts’ folders contain exactly one Excel file."))
+      return(data.table(Folder = "All", Result = "Valid", Comment = "All folders contain only one Excel file."))
     }  })
   
   alg_excel_results <- eventReactive(input$step3, {
@@ -2626,7 +2670,7 @@ server <- function(input, output, session) {
     
     # Get all folder names in the Conceptsets directory
     alg_folders <- list.dirs(alg_dir, recursive = FALSE)
-    if (length(alg_folders) == 0) return(data.table(Folder = "None", Result = "Invalid", Comment = "No folders are found in Algorithms clinical concepts folders to check."))
+    if (length(alg_folders) == 0) return(data.table(Folder = "None", Result = "Invalid", Comment = "No folders in Algorithms directory."))
     
     # Apply check_excel_in_folder to each folder
     results <- lapply(alg_folders, check_excel_in_folder)
@@ -2636,7 +2680,7 @@ server <- function(input, output, session) {
       fwrite(results, paste0(report_dir, "/no_files_excel_algorithms.csv"), row.names = F)
     }
     if (nrow(results) == 0) {
-      results<-data.table(Folder = "All", Result = "Valid", Comment = "All concepts’ folders contain exactly one Excel file.")
+      results<-data.table(Folder = "All", Result = "Valid", Comment = "All folders contain only one Excel file.")
     }
     return(results)
   })
@@ -2678,7 +2722,7 @@ server <- function(input, output, session) {
     
     # Get all folder names in the Conceptsets directory
     conceptsets_folders <- list.dirs(cond_dir, recursive = FALSE)
-    if (length(conceptsets_folders) == 0) return(data.table(Folder = "None", Result = "Invalid", Comment = "No folders are found in clinical concepts folders to check."))
+    if (length(conceptsets_folders) == 0) return(data.table(Folder = "None", Result = "Invalid", Comment = "No folders in Conceptsets directory."))
     
     # Apply check_excel_in_folder to each folder
     results <- lapply(conceptsets_folders, check_folder_file_match)
@@ -2687,7 +2731,7 @@ server <- function(input, output, session) {
     if (nrow(results) > 0) {
       return(results)
     } else {
-      return(data.table(Folder = "All", Result = "Valid", Comment = "All folders and their Excel files are correctly named and match."))
+      return(data.table(Folder = "All", Result = "Valid", Comment = "All folders and Excel Files names match."))
     }  })
   
   alg_excel_name_results <- eventReactive(input$step3, {
@@ -2695,14 +2739,14 @@ server <- function(input, output, session) {
     
     # Get all folder names in the Conceptsets directory
     alg_folders <- list.dirs(alg_dir, recursive = FALSE)
-    if (length(alg_folders) == 0) return(data.table(Folder = "None", Result = "Invalid", Comment = "No folders are found in Algorithms clinical concepts folders to check."))
+    if (length(alg_folders) == 0) return(data.table(Folder = "None", Result = "Invalid", Comment = "No folders in Algorithms directory."))
     
     # Apply check_excel_in_folder to each folder
     results <- lapply(alg_folders, check_folder_file_match)
     results<-rbindlist(results)
     results<-results[Result == "Invalid"]
     if (nrow(results) == 0) {
-      results<-data.table(Folder = "All", Result = "Valid", Comment = "All folders and their Excel files are correctly named and match.")
+      results<-data.table(Folder = "All", Result = "Valid", Comment = "All folders and Excel Files names match.")
     }
     return(results)
   })
@@ -2745,7 +2789,7 @@ server <- function(input, output, session) {
     
     # Get all folder names in the Conceptsets directory
     conceptsets_folders <- list.dirs(cond_dir, recursive = FALSE)
-    if (length(conceptsets_folders) == 0) return(data.table(Folder = "None", Result = "Invalid", Comment = "No folders are found in clinical concepts folders to check."))
+    if (length(conceptsets_folders) == 0) return(data.table(Folder = "None", Result = "Invalid", Comment = "No folders in Conceptsets directory."))
     
     # Apply check_excel_in_folder to each folder
     results <- lapply(conceptsets_folders, check_file_sheet_match)
@@ -2754,7 +2798,7 @@ server <- function(input, output, session) {
     if (nrow(results) > 0) {
       return(results)
     } else {
-      return(data.table(Folder = "All", Result = "Valid", Comment = "All Excel files contain a worksheet name that matches the file name."))
+      return(data.table(Folder = "All", Result = "Valid", Comment = "There is at least one sheet with the correct name."))
     }  })
   
   alg_excel_sheet_results <- eventReactive(input$step3, {
@@ -2762,14 +2806,14 @@ server <- function(input, output, session) {
     
     # Get all folder names in the Conceptsets directory
     alg_folders <- list.dirs(alg_dir, recursive = FALSE)
-    if (length(alg_folders) == 0) return(data.table(Folder = "None", Result = "Invalid", Comment = "No folders are found in Algorithms clinical concepts folders to check."))
+    if (length(alg_folders) == 0) return(data.table(Folder = "None", Result = "Invalid", Comment = "No folders in Algorithms directory."))
     
     # Apply check_excel_in_folder to each folder
     results <- lapply(alg_folders, check_file_sheet_match)
     results<-rbindlist(results)
     results<-results[Result == "Invalid"]
     if (nrow(results) == 0) {
-      results<-data.table(Folder = "All", Result = "Valid", Comment = "All Excel files contain a worksheet name that matches the file name.")
+      results<-data.table(Folder = "All", Result = "Valid", Comment = "There is at least one sheet with the correct name.")
     }
     return(results)
   })
@@ -2812,7 +2856,7 @@ server <- function(input, output, session) {
     
     # Get all folder names in the Conceptsets directory
     conceptsets_folders <- list.dirs(cond_dir, recursive = FALSE)
-    if (length(conceptsets_folders) == 0) return(data.table(Folder = "None", Result = "Invalid", Comment = "No folders are found in clinical concepts folders to check."))
+    if (length(conceptsets_folders) == 0) return(data.table(Folder = "None", Result = "Invalid", Comment = "No folders in Conceptsets directory."))
     
     # Define mandatory columns
     cols <- c("Coding system", "Code", "Code name", "Concept", "Concept name", "Tags")
@@ -2827,7 +2871,7 @@ server <- function(input, output, session) {
     if (nrow(results) > 0) {
       return(results)
     } else {
-      return(data.table(Folder = "All", Result = "Valid", Comment = "All Excel files in concepts contain the required columns.."))
+      return(data.table(Folder = "All", Result = "Valid", Comment = "All checks passed successfully."))
     }
   })
   
@@ -2837,7 +2881,7 @@ server <- function(input, output, session) {
     
     # Get all folder names in the Algorithms directory
     alg_folders <- list.dirs(alg_dir, recursive = FALSE)
-    if (length(alg_folders) == 0) return(data.table(Folder = "None", Result = "Invalid", Comment = "No folders are found in Algorithms clinical concepts folders to check."))
+    if (length(alg_folders) == 0) return(data.table(Folder = "None", Result = "Invalid", Comment = "No folders in Algorithms directory."))
     
     # Define mandatory columns for algorithms
     cols <- c("Codesheet_name")
@@ -2850,7 +2894,7 @@ server <- function(input, output, session) {
     results <- results[Result == "Invalid"]
     
     if (nrow(results) == 0) {
-      return(data.table(Folder = "All", Result = "Valid", Comment = "All Excel files in concepts contain the required columns."))
+      return(data.table(Folder = "All", Result = "Valid", Comment = "All checks passed successfully."))
     }
     return(results)
   })
@@ -3102,7 +3146,7 @@ server <- function(input, output, session) {
     }
     cond_data_study<-cond_data[variable_name %in% study_data[,variable_name]]
     cond_data_study[,present:=NULL]
-    fwrite(cond_data_study[,"variable_name"], paste0(projectFolder,"/Errors/study_data_conceptsets.csv"))
+    fwrite(cond_data_study[,"variable_name"], paste0(projectFolder,"/Errors/study_data_conceptsetss.csv"))
     comb_study<-rbind(alg_codesheet_names_study, cond_data_study)
     comb_study<-unique(comb_study)
     fwrite(comb_study[,"variable_name"], paste0(projectFolder,"/Errors/study_data_only_cond.csv"))
@@ -3350,7 +3394,7 @@ server <- function(input, output, session) {
         process_excel_files(base_dir, selected_columns, rename_columns)
       }, error = function(e) {
         showNotification(paste("Processing Error:", e$message), type = "error")
-        process_status("Merge Failed! Check logs.")
+        process_status("Processing Failed! Check logs.")
         return(NULL)
       })
       
@@ -3367,7 +3411,7 @@ server <- function(input, output, session) {
       fwrite(result, output_file)
       
       incProgress(1, detail = "Saving Completed")
-      process_status("Merge Complete! Results saved in folder 'Untouched Codelist'.")
+      process_status("Processing Complete! Results saved in 'Untouched Codelist'.")
       process_completed(TRUE)
       shinyjs::enable("clean_files")
     })
@@ -3417,28 +3461,28 @@ server <- function(input, output, session) {
     cleaned_dir <- file.path(projectFolder, "Cleaned_Codelist")
     inc_file <- file.path(cleaned_dir, "incorrect_codes.csv")
     if (file.exists(inc_file)) fread(inc_file)
-    else data.table(variable_name="None", result="None – No codes with scientific notation were found.")
+    else data.table(variable_name="None", result="No incorrect codes found.")
   })
   
   range_data <- eventReactive(input$step6, {
     cleaned_dir <- file.path(projectFolder, "Cleaned_Codelist")
     range_file <- file.path(cleaned_dir, "range_codes.csv")
     if (file.exists(range_file)) fread(range_file)
-    else data.table(variable_name="None", result="None – No codes with dashes were found.")
+    else data.table(variable_name="None", result="No ranges found.")
   })
   
   rounding_d <- eventReactive(input$step6, {
     cleaned_dir <- file.path(projectFolder, "Cleaned_Codelist")
     rounding_fl <- file.path(cleaned_dir, "error_rounding_list.csv")
     if (file.exists(rounding_fl)) fread(rounding_fl)
-    else data.table(variable_name="None", result="None – No codes with rounding issues were found.")
+    else data.table(variable_name="None", result="No rounding issues found.")
   })
   
   rounding_d_p <- eventReactive(input$step6, {
     cleaned_dir <- file.path(projectFolder, "Cleaned_Codelist")
     rounding_fl_p <- file.path(cleaned_dir, "possible_error_rounding_list.csv")
     if (file.exists(rounding_fl_p)) fread(rounding_fl_p)
-    else data.table(variable_name="None", result="None – No codes with possible rounding issues were found.")
+    else data.table(variable_name="None", result="No possible rounding issues found.")
   })
   
   #### **Display Cleaning Reports in UI** ####
