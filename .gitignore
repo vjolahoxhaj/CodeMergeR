@@ -2,3 +2,16 @@
 .Rhistory
 .RData
 .Ruserdata
+2_Verification/column_renaming_mapping.csv
+2_Verification/column_roles_mapping.csv
+2_Verification/icd9pcs_relabelled_codes.csv
+2_Verification/rounding_drop_summary.csv
+2_Verification/tags_drop_mapping.csv
+2_Verification/tags_drop_summary.csv
+2_Verification/tags_relabelling_mapping.csv
+2_Verification/tags_relabelling_summary.csv
+2_Verification/verified_codelist.csv
+2_Verification/vocabulary_relabelling_mapping.csv
+2_Verification/vocabulary_relabelling_summary.csv
+2_Verification/vocabulary_replication_mapping.csv
+2_Verification/vocabulary_replication_summary.csv
